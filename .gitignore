@@ -1,0 +1,17 @@
+# Obsidian local configuration & Python environment
+.obsidian/
+.venv/
+.DS_Store
+
+# Temporary queues & scratch
+sources/unread/
+Clippings/
+Untitled.base
+Untitled.canvas
+2026-08-22.md
+
+# Quartz build artifacts & cache
+node_modules/
+public/
+.quartz-cache/
+scratch/
