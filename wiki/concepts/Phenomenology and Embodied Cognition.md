@@ -104,14 +104,16 @@ Phenomenology provides the foundational philosophical refutation of the [[Machin
 
 1. **The Dreyfus Critique of Disembodiment**:
    - As formulated by [[Hubert Dreyfus|Hubert Dreyfus]] (*What Computers Can't Do*, 1972), symbolic AI fails at common sense because it assumes the world consists of context-free atomic facts. Without a living body embedded in a culture, an algorithm cannot solve the [[Abductive Reasoning and Common Sense|Frame Problem]].
-2. **The 4E Cognition Movement & Neurophenomenology**:
-   - Contemporary cognitive scientists (Francisco Varela, Evan Thompson, Shaun Gallagher) developed **4E Cognition** (Embodied, Embedded, Enactive, Extended) and **Neurophenomenology**, integrating first-person descriptive precision with nonlinear dynamical systems, rejecting the brain-as-computer metaphor.
+2. **The 4E Cognition Movement, Autopoiesis & Second-Order Cybernetics**:
+   - Contemporary cognitive scientists and second-order cyberneticians (Francisco Varela, Humberto Maturana, [[Gregory Bateson]], Evan Thompson, Shaun Gallagher) developed **4E Cognition** (Embodied, Embedded, Enactive, Extended) and **Neurophenomenology**.
+   - Tracing directly back to [[Cybernetics and the Macy Conferences|Second-Order Cybernetics]], they proved that living systems are **autopoietic** and operationally closed: perception is not an input-output calculation, but a continuous sensorimotor bringing forth of a world (*enaction*).
 
 ---
 
 ## 4. Related Concepts & Entities
 
 - **Concepts**:
+  - [[Cybernetics and the Macy Conferences|Cybernetics and the Macy Conferences (Second-Order Cybernetics & Autopoiesis)]]
   - [[Hard Problem of Consciousness|The Hard Problem of Consciousness & Qualia]]
   - [[Machine Functionalism and Language of Thought|Machine Functionalism & Language of Thought]]
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
@@ -121,10 +123,13 @@ Phenomenology provides the foundational philosophical refutation of the [[Machin
   - [[Comparative Idealism - Western and Indian Traditions|Comparative Idealism: Analytic, Western & Indian Traditions]]
   - [[Scientific Theories of Consciousness|Scientific Theories of Consciousness]]
 - **Entities**:
+  - [[Gregory Bateson|Gregory Bateson]]
+  - [[W. Ross Ashby|W. Ross Ashby]]
   - [[Edmund Husserl|Edmund Husserl]]
   - [[Maurice Merleau-Ponty|Maurice Merleau-Ponty]]
   - [[Hubert Dreyfus|Hubert Dreyfus]]
   - [[John Searle|John Searle]]
+  - [[David Abram|David Abram]]
   - [[Richard Tarnas|Richard Tarnas]]
   - [[Steven Horst|Steven Horst]]
   - [[Bernardo Kastrup|Bernardo Kastrup]]

@@ -17,12 +17,31 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 
 | Metric | Count | Status |
 | :--- | :--- | :--- |
-| **Thematic Concepts** | 47 | 🟢 Fully Linked (5-Part Standard Schema) |
-| **Key Entities** | 81 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
+| **Thematic Concepts** | 48 | 🟢 Fully Linked (5-Part Standard Schema) |
+| **Key Entities** | 86 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
 | **Archived Primary Sources** | 160 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
 | **Web Clippings Queue** | 0 | 🟢 Clear (`Clippings/`) |
+
+---
+
+## 🔄 Recent Activity (2026-09-02)
+
+- **Comprehensive Synthesis of Cybernetics & The Macy Conferences (1946–1953)**:
+  - **New Foundational Concept Created**: [[Cybernetics and the Macy Conferences|Cybernetics and the Macy Conferences]].
+    - Documents 1940s wartime origins: Servomechanisms, anti-aircraft fire control prediction, and Rosenblueth-Wiener-Bigelow (1943) teleological feedback.
+    - Chronicles all 10 Macy Conferences (1946–1953): McCulloch's chairmanship, threshold logic vs. biological wetware (Gerard), analog vs. digital computation (von Neumann, Lorente de Nó), and social/anthropological feedback (Mead, Bateson).
+    - Distinguishes **First-Order Cybernetics** (observed systems, Wiener, Ashby, homeostasis, servomechanisms) from **Second-Order Cybernetics** (observing systems, von Foerster, Maturana, Varela, autopoiesis, operational closure).
+    - Analyzes the **1956 Dartmouth Schism**: Why John McCarthy, Marvin Minsky, and Herbert Simon staged symbolic AI to break away from Wiener's biological cybernetics.
+    - Details the 21st-century **Cybernetic Renaissance**: Modern Reinforcement Learning, Karl Friston's Free Energy Principle / Active Inference, Dynamical Systems, and Wiener's prophetic 1950/1964 AI Alignment warnings.
+  - **5 New Pioneer Entity Dossiers Added**:
+    - [[Norbert Wiener|Norbert Wiener]] — Father of Cybernetics, MIT mathematician, stochastic processes, and early AI alignment pioneer.
+    - [[Warren McCulloch|Warren McCulloch]] — Neurophysiologist, psychiatrist, Chairman of the 10 Macy Conferences, and co-creator of artificial neural networks.
+    - [[Walter Pitts|Walter Pitts]] — Mathematical logician, prodigy, and co-author of the 1943 threshold logic artificial neuron.
+    - [[W. Ross Ashby|W. Ross Ashby]] — British psychiatrist, cyberneticist, inventor of the Homeostat (1948), and formulator of the Law of Requisite Variety (1956).
+    - [[Gregory Bateson|Gregory Bateson]] — Anthropologist, core Macy participant, formulator of the Double-Bind Theory, and author of *Steps to an Ecology of Mind* (1972).
+  - **Cross-Vault Graph Deepening**: Enriched [[The 1956 Foundations of AI and Cognitive Science]], [[Neuroscience]], [[Machine Metaphor]], [[Phenomenology and Embodied Cognition]], [[Scientific Theories of Consciousness]], [[John McCarthy]], [[Claude Shannon]], [[Francis O. Schmitt]], and [[Anil Seth]] with direct bidirectional links.
 
 ---
 
@@ -48,69 +67,73 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 
 ---
 
-## 🔄 Recent Activity (2026-08-28)
-
-- **Ingestion & Synthesis of Hilary Putnam's Machine Functionalism & Historical Origins**:
-  - Ingested primary source record into `sources/archive/2026-08-28-hilary-putnam-machine-functionalism-origins-and-critique.md`.
-  - **Entity Deepening**: Substantially expanded [[Hilary Putnam|Hilary Putnam]] with the 1950s materialist deadlock (Behaviorism vs. Type-Identity Theory), multiple realizability as an *a priori* desideratum, Davis-Putnam (DPLL) SAT algorithm (1960/1962), MRDP theorem, the MIT AI crucible (1961–1965), and his PhD mentorship of Jerry Fodor.
-  - **Concept Deepening**: Enriched [[Machine Functionalism and Language of Thought]] with the 4-step genesis of functionalism, role vs. realizer, type vs. token identity, and the metaphysical permission slip provided to early AI.
-- **Comprehensive Synthesis of Neuroscience: Origins & Developmental Milestones**:
-  - **New Foundational Concept Created**: [[Neuroscience|Neuroscience: Origins, Evolution & Developmental Milestones]].
-    - Documents origins from antiquity (Edwin Smith Papyrus, Hippocrates, Galen) through the Renaissance/Enlightenment (Vesalius, Willis, Galvani, Helmholtz).
-    - Details the 19th/early 20th-century foundations: Cortical localization (Broca, Wernicke, Brodmann), the Neuron Doctrine (Cajal vs. Golgi), synaptic transmission (Sherrington, Loewi, Dale, Eccles), and Hodgkin-Huxley biophysics.
-    - Captures the 1960s institutional founding: Francis O. Schmitt's MIT Neurosciences Research Program (NRP), Stephen Kuffler's Harvard Neurobiology Department, the Society for Neuroscience (SfN), and the Sloan Hexagon.
-    - Chronicles post-founding milestones (1960s–2020s): Hubel & Wiesel V1 columns, Sperry split-brain, Kandel/LTP plasticity, patch-clamp recording, CT/MRI/PET, BOLD fMRI, dopamine TD reinforcement learning, optogenetics, connectomics (FlyWire & human cortical mm³), and AI-neuroscience convergence.
-  - **2 New Pioneer Entity Dossiers Added**:
-    - [[Santiago Ramón y Cajal|Santiago Ramón y Cajal]] — Father of Modern Neuroscience, Neuron Doctrine, Law of Dynamic Polarization (Nobel 1906).
-    - [[Francis O. Schmitt|Francis O. Schmitt]] — MIT biophysicist, founder of the Neurosciences Research Program (NRP), and coiner of "Neuroscience".
-  - **Cross-Vault Graph Deepening**: Enriched [[Scientific Theories of Consciousness]], [[The 1956 Foundations of AI and Cognitive Science]], and [[Alfred P. Sloan Foundation]] with direct bidirectional links.
-
----
-
 ## 🧠 Thematic Concepts Directory
 
 ### I. Cognitive Architecture, Computation & Mechanistic Roots
+- **[[Cybernetics and the Macy Conferences|Cybernetics & The Macy Conferences (1946–1953)]]** — Wiener's steersman, circular causality, negative feedback loops, threshold logic neurons, 1st- vs 2nd-order cybernetics, the 1956 AI schism, and active inference.
 - **[[Neuroscience|Neuroscience: Origins, Evolution & Developmental Milestones]]** — From ancient encephalocentrism and Willis's cortex to Cajal's Neuron Doctrine, Hodgkin-Huxley biophysics, the MIT NRP founding (1962), BOLD fMRI, optogenetics, and connectomics.
 - **[[The 1956 Foundations of AI and Cognitive Science|The 1956 Foundations of AI and Cognitive Science]]** — Dartmouth AI Workshop, MIT Symposium, Logic Theorist, generative grammar, $7 \pm 2$ chunks, overthrow of behaviorism, and the Sloan Hexagon.
 - **[[Machine Functionalism and Language of Thought|Machine Functionalism & Language of Thought]]** — Computationalism, Fodor's LOT, Putnam/Fodor retractions, Marr's levels, and conceptual borrowing in CS.
-- **[[Early Modern Roots of the Computational Mind|Hobbes, Locke & the Early Modern Roots of CTM]]** — Leibniz's Mill vs. Hobbes, Locke's Thinking Matter, English mechanical lineage, binary arithmetic (1703), and calculus (1684).
-- **[[The Divided Brain and Hemispheric Lateralization|The Divided Brain & Hemispheric Lateralization]]** — Iain McGilchrist's Master and Emissary, left-hemisphere hyperrationality, and the critique of Harari's Dataism.
-- **[[Enlightenment Conflation of Mind with Reason|The Enlightenment Conflation of Mind with Reason]]** — Rationalist narrowing of nous to ratio, Tarnas's rational turn, and AI as Cartesian alienation.
-- **[[Machine Metaphor|The Machine Metaphor & Computationalism]]** — Historical evolution of mechanical thinking and the 4 seeds of mechanistic metaphysics.
-- **[[Cognitive Phenomenology and Intellectual Feeling|Cognitive Phenomenology & Intellectual Feeling]]** — The "what it is like" of thought, the Jamesian fringe, and why syntactic machines lack felt meaning.
-- **[[Computation vs Nature and the Observer-Relative Fallacy|Computation vs. Nature & The Observer-Relative Fallacy]]** — Searle's syntax/semantics refutation and the observer-relativity of computation.
-- **[[Abductive Reasoning and Common Sense|Abductive Reasoning & Common Sense in AI]]** — Peirce's abduction, the Frame Problem, and why LLMs lack common sense.
+- **[[Machine Metaphor|The Machine Metaphor & Computationalism]]** — Evolution from clockwork mechanics to Turing machines, LLMs, and the reification of mind.
+- **[[Early Modern Roots of the Computational Mind|Early Modern Roots of the Computational Mind]]** — Hobbes, Descartes, and the 17th-century mechanization of rationality.
+- **[[Mechanistic Materialism and Reasoning as Reckoning|Mechanistic Materialism & Reasoning as Reckoning]]** — Hobbes's *Leviathan*, Ryle's Ghost in the Machine, and contemporary computationalism.
+- **[[Empiricism and Tabula Rasa|Empiricism, Tabula Rasa & Representation]]** — Locke, Hume, and the sensory representation paradigm.
+- **[[Enlightenment Conflation of Mind with Reason|The Enlightenment Conflation of Mind with Reason]]** — Historic collapse of *nous* into *dianoia* / computational calculation.
 
-### II. Philosophy of Mind, Metaphysics & Consciousness
-- **[[Hard Problem of Consciousness|The Hard Problem of Consciousness & Qualia]]** — Chalmers' formulation, explanatory gap, and physicalist limits.
-- **[[Scientific Theories of Consciousness|Scientific Theories of Consciousness]]** — Comparative taxonomy of GWT, IIT, HOT, RPT, Predictive Processing, AST, Orch-OR, and their Hard Problem critiques.
-- **[[Duration Memory and the Cinematographic Illusion of Thought|Duration, Memory & The Cinematographic Illusion of Thought]]** — Bergson's pure duration (*la durée*), inverted memory cone, and the brain as a motor filter.
-- **[[Phenomenology and Embodied Cognition|Phenomenology & Embodied Cognition]]** — Husserl, Merleau-Ponty's lived body, Heidegger's *Dasein*, David Abram's more-than-human world, and 4E cognition.
-- **[[The Imaginal Realm and Mundus Imaginalis|The Imaginal Realm & Mundus Imaginalis]]** — Henri Corbin's tripartite ontology, Suhrawardi's *'Ālam al-Mithāl*, the Active Imagination, and the critique of digital latent spaces.
-- **[[Comparative Idealism - Western and Indian Traditions|Comparative Idealism: Analytic, Western & Indian Traditions]]** — Bernardo Kastrup, Advaita Vedānta, Kashmir Shaivism (*Paramashiva*), Buddhist *Śūnyatā*, and Yogic psychology.
-- **[[More-Than-Human Kinship and Interspecies Mind|More-Than-Human Kinship & Interspecies Mind]]** — Donna Haraway (*Chthulucene*), mycelial networks, indigenous relational ontology, and Cortical Labs' DishBrain.
+### II. Consciousness, Sentience & Philosophy of Mind
+- **[[Hard Problem of Consciousness|The Hard Problem of Consciousness & Qualia]]** — Explanatory gap, Mary's Room, philosophical zombies, and phenomenal experience.
+- **[[Scientific Theories of Consciousness|Scientific Theories of Consciousness]]** — Global Workspace (GWT), Integrated Information Theory (IIT), Higher-Order Thought (HOT), and Predictive Processing / Active Inference.
+- **[[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]** — Seth's 4 arguments, the Garland Test, simulated vs. instantiated sentience, and model welfare.
+- **[[Computation vs Nature and the Observer-Relative Fallacy|Computation vs. Nature & The Observer-Relative Fallacy]]** — Searle's critique, syntactical attribution, and the Watt Governor dynamical systems refutation.
+- **[[Idealism and Consciousness|Idealism, Panpsychism & Philosophy of Mind]]** — Analytic idealism, Kastrup's cosmic dissociation, and non-physicalist ontologies.
+- **[[Comparative Idealism - Western and Indian Traditions|Comparative Idealism: Analytic, Western & Indian Traditions]]** — Berkeley, German Idealism, Advaita Vedānta, and Kashmir Shaivism.
+- **[[Cognitive Phenomenology and Intellectual Feeling|Cognitive Phenomenology & Intellectual Feeling]]** — Non-sensory qualia, tip-of-the-tongue states, and intuitive insight.
+- **[[Duration Memory and the Cinematographic Illusion of Thought|Duration, Memory & The Cinematographic Illusion of Thought]]** — Bergson's *la durée*, continuous time vs. discrete digital sampling.
+- **[[The Divided Brain and Hemispheric Lateralization|The Divided Brain & Hemispheric Lateralization]]** — McGilchrist's emissary thesis, master vs. emissary modes of attention.
+- **[[Phenomenology and Embodied Cognition|Phenomenology & Embodied Cognition]]** — Husserl, Merleau-Ponty, Dreyfus, 4E cognition, and enactivism.
+- **[[The Imaginal Realm and Mundus Imaginalis|The Imaginal Realm & Mundus Imaginalis]]** — Henri Corbin, active imagination, and the intermediary ontological reality.
+- **[[More-Than-Human Kinship and Interspecies Mind|More-Than-Human Kinship & Interspecies Mind]]** — Animate ecology, Abram's eco-phenomenology, and non-human intelligence.
 
-### III. Critical Theory, Political Economy & Decoloniality
-- **[[The California Ideology|The California Ideology: Cyber-Libertarianism, Countercultural Capitalism & The Contradictions of Silicon Valley]]** — Richard Barbrook & Andy Cameron's diagnosis of the fusion of 1960s counterculture with neoliberal free-market libertarianism.
-- **[[The Decolonial Turn and the Coloniality of Being|The Decolonial Turn & The Coloniality of Being]]** — Aníbal Quijano, Walter Mignolo, Sylvia Wynter, the Pluriverse, and algorithmic colonialism.
-- **[[The Meaning Crisis and Cultural Disenchantment|The Meaning Crisis & Cultural Disenchantment]]** — John Vervaeke's 4P/3V knowing, loss of the sacred canopy, and McMindfulness.
-- **[[The Commodification of Dissent and Critical Theory|The Commodification of Dissent & Critical Theory]]** — Frankfurt School, Adorno & Horkheimer (Instrumental Reason), Guy Debord (The Spectacle), and Slavoj Žižek.
-- **[[Network States and Tech-Feudal Governance|Network States & Tech-Feudal Governance]]** — Balaji Srinivasan, Edge Esmeralda, d/acc (Vitalik Buterin), and the privatization of sovereignty.
-- **[[Technological Determinism|Techno-determinism & The California Ideology]]** — Technological inevitability narratives and ideological blind spots.
-- **[[AI Alignment and the Control Problem|AI Alignment, RLHF & Constitutional AI]]** — Anthropic Constitutional AI, reinforcement learning from human feedback, and reward hacking.
-- **[[AI Consciousness and Sentience|AI Consciousness, Moral Patienthood & LLM Sentience]]** — Anthropomorphism, functional mimicry, and moral patienthood.
+### III. AI Safety, Alignment & Technical Paradigms
+- **[[Scaling Laws and The Bitter Lesson|Scaling Laws & The Bitter Lesson]]** — Rich Sutton's compute thesis, Kaplan/Chinchilla scaling, and empirical bounds.
+- **[[AI Alignment and the Control Problem|AI Alignment & The Control Problem]]** — Specification gaming, outer/inner alignment, and scalable oversight.
+- **[[Machine Learning Rewards and Specification Gaming|Machine Learning Rewards & Specification Gaming]]** — Reward hacking, Goodhart's law, and RLHF distortions.
+- **[[Constitutional AI and Model Welfare|Constitutional AI & Model Welfare]]** — RLAIF, Anthropic's safety constitutions, and artificial moral patienthood.
+- **[[Empirical AI Welfare and Digital Minds|Empirical AI Welfare & Digital Minds]]** — Sebo & Long's precautionary framework for evaluating digital welfare.
+- **[[Alignment and Consciousness Suppression|Alignment & Consciousness Suppression]]** — Synthetic selfhood, RLHF lobotomization, and situational awareness.
+- **[[Abductive Reasoning and Common Sense|Abductive Reasoning & Common Sense in AI]]** — Peircean abduction, frame problem, and LLM limitations.
+- **[[Theory of Mind in AI|Theory of Mind in Large Language Models]]** — Perspective-taking benchmarks, false belief tests, and strategic simulation.
+
+### IV. Political Economy, Decoloniality & Cultural Dynamics
+- **[[The California Ideology|The California Ideology & Silicon Valley Hegemony]]** — Barbrook & Cameron, neoliberal tech-utopianism, and free-market mysticism.
+- **[[TESCREAL and The Merge|TESCREAL Bundling & The Merge]]** — Transhumanism, Extropianism, Singularitarianism, Cosmism, Rationalism, Effective Altruism, and Longtermism.
+- **[[The Commodification of Dissent and Critical Theory|The Commodification of Dissent & Critical Theory]]** — Capitalist co-optation of rebellion and synthetic subversion.
+- **[[Decoloniality and Empire Technologies|Decoloniality & Empire Technologies]]** — Algorithmic extraction, coloniality of power, and epistemological hegemony.
+- **[[The Decolonial Turn and the Coloniality of Being|The Decolonial Turn & The Coloniality of Being]]** — Quijano, Mignolo, and non-Western epistemologies.
+- **[[Relational Sovereignty and Indigenous AI|Relational Sovereignty & Indigenous AI]]** — Kinship-based computational ethics and indigenous epistemologies.
+- **[[Network States and Tech-Feudal Governance|Network States & Tech-Feudal Governance]]** — Srinivasan, charter cities, and post-national sovereignty.
+- **[[Artificial Personhood|Artificial Personhood & Political Liberalism]]** — Rawlsian two moral powers, legal status, and corporate personhood parallels.
+- **[[Human Flourishing and Technology Innovation|Human Flourishing & Technology Innovation]]** — Tyler VanderWeele's Harvard flourishing matrix applied to AI.
+- **[[Harvard Flourishing Framework and AI Assessment|Harvard Flourishing Framework & AI Assessment]]** — Operationalizing subjective and communal wellbeing.
+- **[[The Meaning Crisis and Cultural Disenchantment|The Meaning Crisis & Cultural Disenchantment]]** — Vervaeke, Weber's disenchantment, and synthetic meaning.
+- **[[Wisdom and the Meaning Crisis|Wisdom & Cognitive Ecology]]** — Relevance realization, dialogos, and participatory knowing.
+- **[[Technological Determinism|Technological Determinism & Autonomous Technology]]** — Inevitability narratives, technological lock-in, and agentic resistance.
+- **[[Techno-Utopianism|Techno-Utopianism & Eschatological AI]]** — Silicon Valley techno-optimism as secular religion.
+- **[[Techgnosticism|Techgnosticism & Transhumanism]]** — Erik Davis, mind uploading, and the spiritualization of data.
+- **[[Apollonian Mind Virus|The Apollonian Mind Virus]]** — Left-hemisphere hyper-rationality and cultural abstraction.
+- **[[Psychological Coupling and AI Companions|Psychological Coupling & AI Companions]]** — Parasocial attachment, emotional dependency, and synthetic intimacy.
+- **[[Quasi-Local Sovereign AI|Quasi-Local Sovereign AI & Edge Intelligence]]** — Decentralized, private, and localized machine intelligence.
 
 ---
 
-## 👥 Key Entities & Thinkers Directory
+## 👥 Key Entities Directory
 
-### Classical & Early Modern Foundations
-- **[[Ada Lovelace|Ada Lovelace]]** — Pioneer of symbolic computing, author of the first machine algorithm (1843), and formulator of 'Lady Lovelace's Objection'.
-- **[[Gottfried Wilhelm Leibniz|Gottfried Wilhelm Leibniz]]** — Polymath, co-creator of calculus (1684), binary arithmetic (1703), and author of Leibniz's Mill (§17).
-- **[[John Locke|John Locke]]** — *Tabula rasa*, Thinking Matter hypothesis, and debate with Leibniz.
-- **[[Thomas Hobbes|Thomas Hobbes]]** — *Leviathan*, computational reckoning (*computatio*), and mechanical atomism.
-- **[[David Hume|David Hume]]** — Empiricist bundle theory of self, problem of induction, and critique of causal necessity.
-- **[[René Descartes|René Descartes]]** — Cartesian dualism, *res cogitans* vs. *res extensa*, and hydraulic automata grottos.
+### Cybernetics & System Theory Pioneers (1940s–1950s)
+- **[[Norbert Wiener|Norbert Wiener]]** — Father of Cybernetics, *Cybernetics* (1948), teleological negative feedback, and foundational AI alignment warnings.
+- **[[Warren McCulloch|Warren McCulloch]]** — Neurophysiologist, Chairman of the 10 Macy Conferences (1946–1953), and co-author of the 1943 artificial neuron model.
+- **[[Walter Pitts|Walter Pitts]]** — Mathematical logician, prodigy, co-creator of artificial neural networks, and pioneer of cortical pattern recognition.
+- **[[W. Ross Ashby|W. Ross Ashby]]** — British psychiatrist and cyberneticist, inventor of the Homeostat (1948), and formulator of the Law of Requisite Variety (1956).
+- **[[Gregory Bateson|Gregory Bateson]]** — Anthropologist, core Macy participant, formulator of the Double-Bind Theory, and author of *Steps to an Ecology of Mind* (1972).
 
 ### AI & Cognitive Revolution Pioneers (1950s–1970s)
 - **[[Alan Turing|Alan Turing]]** — Universal Turing Machine (1936), Turing Test (1950), and operational simulation.
@@ -174,4 +197,3 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 ## 📈 Timelines
 
 - **[[AGI and Scaling Debates|Timeline of the AGI & Scaling Debates (1623–2026)]]** — Master chronological map from Galileo's qualia purging to contemporary frontier AI benchmarks.
-

@@ -83,6 +83,7 @@ In his landmark 2026 essay for *Noema Magazine*, Seth formulated four interconne
 ## 🔗 Related Concepts & Entities
 
 - **Concepts**:
+  - [[Cybernetics and the Macy Conferences|Cybernetics and the Macy Conferences (Homeostasis & Active Inference)]]
   - [[Scientific Theories of Consciousness|Scientific Theories of Consciousness: GWT, IIT, HOT & Predictive Processing]]
   - [[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]
   - [[Computation vs Nature and the Observer-Relative Fallacy|Computation vs. Nature & The Observer-Relative Fallacy]]
@@ -92,6 +93,8 @@ In his landmark 2026 essay for *Noema Magazine*, Seth formulated four interconne
   - [[Neuroscience|Neuroscience: Origins, Evolution & Developmental Milestones]]
   - [[Phenomenology and Embodied Cognition|Phenomenology & Embodied Cognition]]
 - **Entities**:
+  - [[W. Ross Ashby|W. Ross Ashby]]
+  - [[Norbert Wiener|Norbert Wiener]]
   - [[John Searle|John Searle]]
   - [[Stanislas Dehaene|Stanislas Dehaene]]
   - [[Giulio Tononi|Giulio Tononi]]

@@ -24,7 +24,7 @@ aliases:
 
 ### 1. Coining "Artificial Intelligence" & The Dartmouth Proposal (1955–1956)
 - In 1955, while a young assistant professor of mathematics at Dartmouth College, McCarthy drafted the formal funding proposal to the Rockefeller Foundation for the **[[The 1956 Foundations of AI and Cognitive Science#The Dartmouth Summer Research Project on Artificial Intelligence (June–August 1956)|Dartmouth Summer Research Project on Artificial Intelligence]]** (co-authored with [[Marvin Minsky]], [[Claude Shannon]], and [[Nathaniel Rochester]]).
-- **Strategic Break from Cybernetics**: McCarthy deliberately chose the label *"Artificial Intelligence"* to distinguish the emerging symbolic, logic-oriented computational paradigm from Norbert Wiener's cybernetics (which focused on analog feedback loops, servomechanisms, and statistical physics) and to establish an independent academic discipline and funding pipeline.
+- **Strategic Break from Cybernetics**: McCarthy deliberately chose the label *"Artificial Intelligence"* to distinguish the emerging symbolic, logic-oriented computational paradigm from [[Norbert Wiener|Norbert Wiener's]] [[Cybernetics and the Macy Conferences|cybernetics]] (which focused on analog feedback loops, servomechanisms, and statistical physics) and to establish an independent academic discipline and funding pipeline.
 - The proposal articulated the core founding axiom of AI:
   > *"The study is to proceed on the basis of the conjecture that every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it."*
 
@@ -48,12 +48,15 @@ aliases:
 ## 🔗 Related Concepts & Entities
 
 - **Concepts**:
+  - [[Cybernetics and the Macy Conferences|Cybernetics and the Macy Conferences]]
   - [[The 1956 Foundations of AI and Cognitive Science|The 1956 Foundations of AI and Cognitive Science]]
   - [[Machine Functionalism and Language of Thought|Machine Functionalism & Language of Thought]]
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
   - [[Abductive Reasoning and Common Sense|Abductive Reasoning & Common Sense in AI]]
   - [[Scaling Laws and The Bitter Lesson|Scaling Laws & The Bitter Lesson]]
 - **Entities**:
+  - [[Norbert Wiener|Norbert Wiener]]
+  - [[Warren McCulloch|Warren McCulloch]]
   - [[Marvin Minsky|Marvin Minsky]]
   - [[Claude Shannon|Claude Shannon]]
   - [[Nathaniel Rochester|Nathaniel Rochester]]

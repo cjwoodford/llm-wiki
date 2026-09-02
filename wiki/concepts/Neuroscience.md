@@ -175,8 +175,8 @@ Prior to the 1960s, scientists investigating the nervous system worked in isolat
 ```
 
 ### A. The Cybernetic and Logic Foundations (1940s–1950s)
-- **The Neuron as a Logic Gate (1943)**: Warren McCulloch and Walter Pitts published their seminal paper *"A Logical Calculus of the Ideas Immanent in Nervous Activity"*, formalizing the first mathematical model of a neural network. By treating biological neurons as idealized binary on/off threshold devices executing formal Boolean logic ($AND, OR, NOT$), they established the working assumption that biological nervous systems perform syntactic operations.
-- **The Macy Conferences on Cybernetics (1946–1953)**: Chaired by Warren McCulloch and attended by Norbert Wiener, John von Neumann, [[Claude Shannon]], and Gregory Bateson, these conferences deliberately constructed a unified, mechanistic science of control, feedback, and communication across biological organisms and computing machines.
+- **The Neuron as a Logic Gate (1943)**: [[Warren McCulloch]] and [[Walter Pitts]] published their seminal paper *"A Logical Calculus of the Ideas Immanent in Nervous Activity"*, formalizing the first mathematical model of a neural network. By treating biological neurons as idealized binary on/off threshold devices executing formal Boolean logic ($AND, OR, NOT$), they established the working assumption that biological nervous systems perform syntactic operations.
+- **The Macy Conferences on Cybernetics (1946–1953)**: Chaired by [[Warren McCulloch]] and attended by [[Norbert Wiener]], John von Neumann, [[Claude Shannon]], and [[Gregory Bateson]], the historic [[Cybernetics and the Macy Conferences|Macy Conferences]] deliberately constructed a unified, mechanistic science of control, feedback, and communication across biological organisms and computing machines.
 
 ### B. Francis O. Schmitt & The Neurosciences Research Program (MIT, 1962)
 - In 1962, biophysicist **[[Francis O. Schmitt]]** at the Massachusetts Institute of Technology founded the **Neurosciences Research Program (NRP)** headquartered at the American Academy of Arts and Sciences in Brookline, Massachusetts.
@@ -326,6 +326,7 @@ The creation of modern neuroscience was a transatlantic dialogue characterized b
 ## 8. Related Concepts & Entities
 
 - **Core Vault Concepts**:
+  - [[Cybernetics and the Macy Conferences|Cybernetics and the Macy Conferences (1946–1953)]]
   - [[The 1956 Foundations of AI and Cognitive Science|The 1956 Foundations of AI and Cognitive Science (The Sloan Hexagon)]]
   - [[Scientific Theories of Consciousness|Scientific Theories of Consciousness: GWT, IIT, HOT & Predictive Processing]]
   - [[The Divided Brain and Hemispheric Lateralization|The Divided Brain & Hemispheric Lateralization]]
@@ -339,6 +340,10 @@ The creation of modern neuroscience was a transatlantic dialogue characterized b
 - **Key Entities & Pioneers**:
   - [[Santiago Ramón y Cajal|Santiago Ramón y Cajal]] — Father of Modern Neuroscience and formulator of the Neuron Doctrine.
   - [[Francis O. Schmitt|Francis O. Schmitt]] — Founder of the Neurosciences Research Program (NRP) and institutional catalyst.
+  - [[Warren McCulloch|Warren McCulloch]] — Neurophysiologist, cyberneticist, and Chair of the Macy Conferences.
+  - [[Walter Pitts|Walter Pitts]] — Mathematical logician, co-creator of the artificial neuron.
+  - [[Norbert Wiener|Norbert Wiener]] — Father of Cybernetics and control theory.
+  - [[W. Ross Ashby|W. Ross Ashby]] — Homeostat and active biological homeostasis.
   - [[Alfred P. Sloan Foundation|Alfred P. Sloan Foundation]] — Codified the Sloan Hexagon unifying Neuroscience with Cognitive Science.
   - [[Stanislas Dehaene|Stanislas Dehaene]] — Pioneer of Cognitive Neuroscience and Global Neuronal Workspace Theory.
   - [[Christof Koch|Christof Koch]] — Empirical search for Neural Correlates of Consciousness (NCC) and Integrated Information Theory.

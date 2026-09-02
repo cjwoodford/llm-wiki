@@ -30,7 +30,7 @@ aliases:
 2. **Coining the Word "Neuroscience"**:
    - Explicitly coined and institutionalized the term **"Neuroscience"** (originally used as the plural "Neurosciences" to emphasize cross-disciplinary convergence) to bridge the historical silos between neuroanatomy, neurophysiology, psychology, and biochemistry.
 3. **Recasting Wetware as Bio-Electrical Communications Networks**:
-   - Influenced by mid-century cybernetics and information theory, Schmitt shifted brain science away from viewing the central nervous system merely as an organ of metabolic homeostasis, recasting biological **"wetware"** as an organic, bio-electrical communications network optimized for information routing and signal processing.
+   - Influenced by mid-century [[Cybernetics and the Macy Conferences|cybernetics]] and information theory, Schmitt shifted brain science away from viewing the central nervous system merely as an organ of metabolic homeostasis, recasting biological **"wetware"** as an organic, bio-electrical communications network optimized for information routing and signal processing.
 4. **The Intensive Study Programs (ISPs) & Landmark Anthologies**:
    - Organized month-long residential summer conferences (ISPs) starting in 1966 in Boulder, Colorado.
    - Edited landmark volumes such as *The Neurosciences: A Study Program* (1967, 1970, 1974, 1979), which served as the foundational curricula and research roadmaps for the newly formed discipline.
@@ -42,12 +42,15 @@ aliases:
 ## 🔗 Related Concepts & Entities
 
 - **Concepts**:
+  - [[Cybernetics and the Macy Conferences|Cybernetics and the Macy Conferences]]
   - [[Neuroscience|Neuroscience: Origins, Evolution & Developmental Milestones]]
   - [[The 1956 Foundations of AI and Cognitive Science|The 1956 Foundations of AI and Cognitive Science (The Sloan Hexagon)]]
   - [[Scientific Theories of Consciousness|Scientific Theories of Consciousness: GWT, IIT, HOT & Predictive Processing]]
   - [[Machine Functionalism and Language of Thought|Machine Functionalism & Language of Thought]]
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
 - **Entities**:
+  - [[Norbert Wiener|Norbert Wiener]]
+  - [[Warren McCulloch|Warren McCulloch]]
   - [[Santiago Ramón y Cajal|Santiago Ramón y Cajal]]
   - [[Alfred P. Sloan Foundation|Alfred P. Sloan Foundation]]
   - [[Claude Shannon|Claude Shannon]]

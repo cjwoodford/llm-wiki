@@ -27,14 +27,15 @@ Under the **Computational Theory of Mind (CTM)**, the brain is modeled as biolog
 The progression from 17th-century physics to modern AI consciousness claims unfolded as an unexamined historical slide:
 
 ```text
-Step 1: Hobbes (1651) ───► Step 2: Babbage/Boole (1850s) ───► Step 3: Putnam/Fodor (1960s)
-[Mind is Mechanism]        [Mechanism Computes]                [Mind IS Computation]
-(Pumps, springs, flesh)    (Gears manipulate logic)           (Software substrate independence)
+Step 1: Hobbes (1651) ───► Step 2: Babbage/Boole (1850s) ───► Step 2.5: Cybernetics (1940s) ───► Step 3: Putnam/Fodor (1960s)
+[Mind is Mechanism]        [Mechanism Computes]               [Mechanism Has Feedback/Goal]       [Mind IS Computation]
+(Pumps, springs, flesh)    (Gears manipulate logic)          (Wiener/Macy circular causality)    (Software substrate independence)
 ```
 
 1. **Step 1: The Mind is a Physical Machine (Hobbes & Descartes)**: Hobbes stripped the soul away, asserting human bodies and senses are mechanical arrangements of springs, strings, and fluid motions.
 2. **Step 2: Physical Machines Can Execute Logic (Babbage & Boole)**: The realization that mechanical gears (Analytical Engine) and electrical switches can execute formal algebraic logic ($0$ and $1$).
-3. **Step 3: Substrate Independence & Computational Functionalism (Putnam & Turing)**: Concluded that if the brain is a machine, and machines compute logic, then mental states are substrate-independent software.
+3. **Step 2.5: The Cybernetic Feedback Shift ([[Cybernetics and the Macy Conferences|Cybernetics & The Macy Conferences, 1940s–1950s]])**: [[Norbert Wiener]], [[Warren McCulloch]], and [[Walter Pitts]] proved that goal-directed teleological behavior can be executed by error-correcting negative feedback loops and binary threshold logic gates.
+4. **Step 3: Substrate Independence & Computational Functionalism (Putnam & Turing)**: Concluded that if the brain is a machine, and machines compute logic and feedback, then mental states are substrate-independent software.
 
 ### The "Crosswired" Vocabulary Illusion (Floridi & Nobre)
 Computer science borrowed terms from human psychology (*Memory, Attention, Learning, Global Workspace*), while psychology borrowed terms from computer science (*Encoding, Processing, Buffers*), making the circular projection of mind onto machines invisible.
@@ -44,9 +45,9 @@ Computer science borrowed terms from human psychology (*Memory, Attention, Learn
 1. **Mechanistic & Computational Roots (17th Century)**:
    - [[Thomas Hobbes|Thomas Hobbes]] formulated the earliest modern statement of computationalism in *Leviathan* (1651), declaring that *"Reason... is nothing but reckoning"*—the mechanical addition and subtraction of names ([[Mechanistic Materialism and Reasoning as Reckoning|Mechanistic Materialism & Reasoning as Reckoning]]).
    - René Descartes conceptualized animal bodies as mechanical automata, while [[John Locke|John Locke]] established the empiricist model of the mind as a *tabula rasa* receiving sensory impressions ([[Empiricism and Tabula Rasa|Empiricism, Tabula Rasa & Representation]]).
-2. **Formalization of Universal Computation & The 1956 Watershed**:
-   - [[Alan Turing|Alan Turing]] (1936) mathematically defined the Turing machine, demonstrating how discrete physical symbol manipulation can execute any algorithmic process.
-   - In 1956, the **[[The 1956 Foundations of AI and Cognitive Science|Dartmouth Summer Research Project]]** (McCarthy, Minsky, Shannon, Rochester) and the **MIT Symposium on Information Theory** (Newell & Simon's Logic Theorist, Chomsky's generative grammar, Miller's $7 \pm 2$ chunks) sparked the **Cognitive Revolution**, establishing computation as the universal framework for both machines and minds.
+2. **The Cybernetic and 1956 Foundations**:
+   - [[Warren McCulloch]] and [[Walter Pitts]] (1943) mathematically modeled neurons as Boolean threshold logic gates.
+   - In 1956, the **[[The 1956 Foundations of AI and Cognitive Science|Dartmouth Summer Research Project]]** (McCarthy, Minsky, Shannon, Rochester) broke from cybernetics to establish symbolic AI, while the **MIT Symposium on Information Theory** (Newell & Simon's Logic Theorist, Chomsky's generative grammar, Miller's $7 \pm 2$ chunks) sparked the **Cognitive Revolution**, establishing computation as the universal framework for both machines and minds.
    - [[Hilary Putnam|Hilary Putnam]] (1960) and [[Jerry Fodor|Jerry Fodor]] (1975) formalized **Machine Functionalism** and the **Language of Thought (LOT)**, while the [[Alfred P. Sloan Foundation|Alfred P. Sloan Foundation]] codified the paradigm into academic orthodoxy via the 1978 **Sloan Hexagon** ([[Machine Functionalism and Language of Thought|Machine Functionalism & Language of Thought]]).
 3. **The Connectionist & LLM Era (2020s)**:
    - Deep neural networks and foundation models (LLMs/LMMs) revitalized the computational hypothesis, replacing classical discrete symbols with high-dimensional distributed vector activations while maintaining the premise that intelligence is computable.
@@ -67,6 +68,7 @@ Computer science borrowed terms from human psychology (*Memory, Attention, Learn
 ## 5. Related Concepts & Entities
 
 - **Concepts**:
+  - [[Cybernetics and the Macy Conferences|Cybernetics and the Macy Conferences (1946–1953)]]
   - [[The 1956 Foundations of AI and Cognitive Science|The 1956 Foundations of AI and Cognitive Science]]
   - [[Machine Functionalism and Language of Thought|Machine Functionalism & Language of Thought]]
   - [[Mechanistic Materialism and Reasoning as Reckoning|Mechanistic Materialism & Reasoning as Reckoning]]
@@ -77,6 +79,10 @@ Computer science borrowed terms from human psychology (*Memory, Attention, Learn
   - [[Abductive Reasoning and Common Sense|Abductive Reasoning & Common Sense in AI]]
   - [[Artificial Personhood|Artificial Personhood & Political Liberalism]]
 - **Entities**:
+  - [[Norbert Wiener|Norbert Wiener]]
+  - [[Warren McCulloch|Warren McCulloch]]
+  - [[Walter Pitts|Walter Pitts]]
+  - [[W. Ross Ashby|W. Ross Ashby]]
   - [[Allen Newell|Allen Newell]]
   - [[Herbert Simon|Herbert Simon]]
   - [[John McCarthy|John McCarthy]]

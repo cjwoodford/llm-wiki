@@ -33,11 +33,15 @@ aliases:
   - Formulated **Information Entropy** ($H = -\sum p_i \log_2 p_i$) as a statistical measure of uncertainty, surprise, and information content.
   - Proved the **Noisy-Channel Coding Theorem**, determining the absolute maximum rate (**channel capacity**, $C$) at which error-free data can be transmitted across a noisy physical medium.
 
-### 3. Co-Organizer of the 1956 Dartmouth Workshop
+### 3. The Macy Conferences & Theseus the Maze-Solving Mouse (1950–1953)
+- Participated actively in the **[[Cybernetics and the Macy Conferences|Macy Conferences on Cybernetics]]** (1950–1953) alongside [[Norbert Wiener]], [[Warren McCulloch]], and [[John von Neumann]].
+- In 1950, constructed **"Theseus"**, an electromechanical maze-solving mouse that used telephone relay circuits to learn maze pathways by trial-and-error exploration and retain them in memory—one of the earliest physical demonstrations of artificial machine learning.
+
+### 4. Co-Organizer of the 1956 Dartmouth Workshop
 - Co-organized the **[[The 1956 Foundations of AI and Cognitive Science#The Dartmouth Summer Research Project on Artificial Intelligence (June–August 1956)|1956 Dartmouth Summer Research Project on Artificial Intelligence]]** with [[John McCarthy]], [[Marvin Minsky]], and [[Nathaniel Rochester]].
 - Published early foundational work on computer chess (1950), proposing minimax search with evaluation functions ("Type A" brute-force vs. "Type B" heuristic search), directly inspiring [[Allen Newell|Newell]] and [[Herbert Simon|Simon]]'s Logic Theorist.
 
-### 4. Neural Coding & The Cognitive Revolution
+### 5. Neural Coding & The Cognitive Revolution
 - Shannon's quantitative vocabulary—*signal-to-noise ratio, bandwidth, channel capacity, bits, compression*—became the shared language bridging engineering with biology:
   - [[George Miller|George Miller]] used Shannon's channel capacity to measure human short-term memory ($7 \pm 2$ chunks) in 1956.
   - Horace Barlow used Shannon's theory to formulate the *Efficient Coding Hypothesis* in sensory neurobiology, framing retinal action potentials as discrete binary bits.
@@ -47,12 +51,17 @@ aliases:
 ## 🔗 Related Concepts & Entities
 
 - **Concepts**:
+  - [[Cybernetics and the Macy Conferences|Cybernetics and the Macy Conferences]]
   - [[The 1956 Foundations of AI and Cognitive Science|The 1956 Foundations of AI and Cognitive Science]]
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
   - [[Early Modern Roots of the Computational Mind|Early Modern Roots of the Computational Mind]]
   - [[Scientific Theories of Consciousness|Scientific Theories of Consciousness (IIT & Information)]]
   - [[Scaling Laws and The Bitter Lesson|Scaling Laws & The Bitter Lesson]]
 - **Entities**:
+  - [[Norbert Wiener|Norbert Wiener]]
+  - [[Warren McCulloch|Warren McCulloch]]
+  - [[Walter Pitts|Walter Pitts]]
+  - [[W. Ross Ashby|W. Ross Ashby]]
   - [[John McCarthy|John McCarthy]]
   - [[Marvin Minsky|Marvin Minsky]]
   - [[George Miller|George Miller]]

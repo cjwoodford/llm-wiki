@@ -101,7 +101,7 @@ While traditional philosophy of mind focuses on [[Hard Problem of Consciousness|
 
 1. **Predictive Processing & The Beast Machine ([[Anil Seth|Anil Seth]], Karl Friston, Andy Clark)**:
    - Replaces passive feature detection with top-down generative Bayesian modeling. The brain continually projects predictions downward through neural hierarchies and adjusts them via ascending prediction errors.
-   - **The Beast Machine & Interoceptive Inference**: Conscious experiences are not abstract computations, but deeply embodied "controlled hallucinations" evolved to regulate visceral physiology and homeostatic survival.
+   - **Cybernetic Ancestry & The Beast Machine**: Rooted directly in [[Cybernetics and the Macy Conferences|cybernetic negative feedback]] and [[W. Ross Ashby|W. Ross Ashby's]] ultrastable homeostasis, conscious experiences are not abstract computations, but deeply embodied "controlled hallucinations" evolved to regulate visceral physiology and survive.
    - **Autopoiesis & Metabolic Grounding**: A continuous physical and mathematical line connects cellular self-production (**autopoiesis**) and thermodynamic free energy minimization against entropy directly to the affective feeling of being alive. Because digital computations lack living metabolism and physical continuity in time, simulating predictive error minimization on silicon does not instantiate phenomenal qualia (*simulation $\neq$ instantiation*).
 2. **Attention Schema Theory (AST, Michael Graziano)**:
    - Just as the motor system uses an internal "body schema" to model the physical body, the cognitive system constructs an "attention schema" to monitor and control its own attentional spotlight. Subjective awareness is the brain's simplified, descriptive account of its own attention.
@@ -215,6 +215,7 @@ While each theory provides illuminating correlations and functional architecture
 ## 6. Related Concepts & Entities
 
 - **Concepts**:
+  - [[Cybernetics and the Macy Conferences|Cybernetics and the Macy Conferences (Feedback & Homeostasis)]]
   - [[Neuroscience|Neuroscience: Origins, Evolution & Developmental Milestones]]
   - [[Hard Problem of Consciousness|The Hard Problem of Consciousness & Qualia]]
   - [[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]
@@ -225,6 +226,9 @@ While each theory provides illuminating correlations and functional architecture
   - [[Idealism and Consciousness|Idealism, Panpsychism & Philosophy of Mind]]
   - [[Empirical AI Welfare and Digital Minds|Empirical AI Welfare & Digital Minds]]
 - **Entities**:
+  - [[W. Ross Ashby|W. Ross Ashby]]
+  - [[Norbert Wiener|Norbert Wiener]]
+  - [[Warren McCulloch|Warren McCulloch]]
   - [[Verbalizable Representations in Language Models|Verbalizable Representations Form a Global Workspace (Anthropic, 2026)]]
   - [[Roger Penrose|Roger Penrose]]
   - [[John Searle|John Searle]]

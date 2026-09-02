@@ -55,7 +55,7 @@ Together, these twin events ignited the **"Cognitive Revolution"** by establishi
 ### A. The Dartmouth Summer Research Project on Artificial Intelligence (June–August 1956)
 - **Location & Duration**: Dartmouth College, Hanover, New Hampshire; an eight-week workshop conceived in 1955 and executed over the summer of 1956.
 - **Founding Organizers**: [[John McCarthy|John McCarthy]] (Dartmouth), [[Marvin Minsky|Marvin Minsky]] (Harvard/MIT), [[Claude Shannon|Claude Shannon]] (Bell Labs), and [[Nathaniel Rochester|Nathaniel Rochester]] (IBM).
-- **Core Purpose & Christening**: Conceived to explore how machines could simulate aspects of human learning, reasoning, abstraction, and problem-solving. In the original 1955 funding proposal to the Rockefeller Foundation, [[John McCarthy|McCarthy]] deliberately coined the phrase **"Artificial Intelligence"** to differentiate the new symbolic computational paradigm from Norbert Wiener's cybernetics and secure independent institutional footing.
+- **Core Purpose & Christening**: Conceived to explore how machines could simulate aspects of human learning, reasoning, abstraction, and problem-solving. In the original 1955 funding proposal to the Rockefeller Foundation, [[John McCarthy|McCarthy]] deliberately coined the phrase **"Artificial Intelligence"** to differentiate the new symbolic computational paradigm from [[Norbert Wiener|Norbert Wiener's]] [[Cybernetics and the Macy Conferences|cybernetics]] and secure independent institutional footing.
 - **Historical Significance**: Served as the official birthplace and christening event of Artificial Intelligence as an autonomous academic discipline.
 
 ### B. The MIT Symposium on Information Theory (September 10–12, 1956)
@@ -195,6 +195,7 @@ The foundational assumptions established in 1956 continue to govern contemporary
 ## 7. Related Concepts & Entities
 
 - **Concepts**:
+  - [[Cybernetics and the Macy Conferences|Cybernetics and the Macy Conferences]]
   - [[Neuroscience|Neuroscience: Origins, Evolution & Developmental Milestones]]
   - [[Machine Functionalism and Language of Thought|Machine Functionalism & Language of Thought]]
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
@@ -205,6 +206,9 @@ The foundational assumptions established in 1956 continue to govern contemporary
   - [[Abductive Reasoning and Common Sense|Abductive Reasoning & Common Sense in AI]]
   - [[The Divided Brain and Hemispheric Lateralization|The Divided Brain & Hemispheric Lateralization]]
 - **Entities**:
+  - [[Norbert Wiener|Norbert Wiener]]
+  - [[Warren McCulloch|Warren McCulloch]]
+  - [[Walter Pitts|Walter Pitts]]
   - [[John McCarthy|John McCarthy]]
   - [[Marvin Minsky|Marvin Minsky]]
   - [[Claude Shannon|Claude Shannon]]
