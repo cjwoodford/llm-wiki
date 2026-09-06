@@ -26,6 +26,20 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 
 ---
 
+## 🔄 Recent Activity (2026-09-06)
+
+- **Ingestion & Synthesis of "The Birth of Computer and Cognitive Science"**:
+  - Ingested and updated primary source archive in `sources/archive/1956-09-11-the-1956-foundations-of-ai-and-cognitive-science.md`.
+  - Cleared incoming unread queue (`sources/unread/`).
+  - **Concept Deepening**: Expanded [[The 1956 Foundations of AI and Cognitive Science]] with the four foundational pillars of **computational functionalism**:
+    1. *The Physical Symbol System Hypothesis* (information over energy; bits divorced from semantic meaning).
+    2. *The Software/Hardware Split* (multiple realizability and the subordination of biological wetware).
+    3. *The Overthrow of Behaviorism* (materialist license for internal memory buffers and goal-tracking).
+    4. *The Mechanistic Elimination of Context and Phenomenology* (collapsing first-person $P$-consciousness into third-person functional $A$-data routing).
+  - Integrated key historical figures: Arthur Samuel (checkers machine learning), Ray Solomonoff (algorithmic probability), and Oliver Selfridge (Pandemonium architecture).
+
+---
+
 ## 🔄 Recent Activity (2026-09-02)
 
 - **Comprehensive Synthesis of Cybernetics & The Macy Conferences (1946–1953)**:

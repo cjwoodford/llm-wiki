@@ -138,44 +138,62 @@ The architects of 1956 were unique polymaths who refused to recognize an institu
 - **[[Claude Shannon|Claude Shannon]]**: Developed mathematical Information Theory (1948); his definitions of entropy, channel capacity, bandwidth, and bits provided the shared quantitative language unifying digital computer engineering, telecommunications, and neural rate coding.
 - **[[Allen Newell|Allen Newell]] & [[Herbert Simon|Herbert A. Simon]]**: Polymaths who won both the ACM Turing Award (1975) and the APA Distinguished Scientific Contribution Award. They formulated the **Physical Symbol System Hypothesis (PSSH)**—the thesis that a physical symbol system has the necessary and sufficient means for general intelligent action, equating human thought and computer execution as two instances of symbolic processing.
 - **[[Nathaniel Rochester|Nathaniel Rochester]]**: Dartmouth co-organizer and chief architect of the IBM 701 (IBM's first commercial scientific computer); designed the first symbolic assembler and conducted early digital simulations of Hebbian neural networks.
+- **Other Notable Dartmouth Attendees**:
+  - **Arthur Samuel**: Machine learning pioneer who built the self-learning checkers program (1956) demonstrating rote learning and generalization.
+  - **Ray Solomonoff**: Inventor of algorithmic probability and Kolmogorov-Solomonoff complexity, formalizing universal inductive inference.
+  - **Oliver Selfridge**: Pioneer of pattern recognition and the "Pandemonium" architecture (parallel feature demons), a bridge between cybernetics and AI.
 
 ---
 
-## 5. Core Takeaways & Lasting Influence
+## 5. Core Takeaways & The 4 Pillars of the New Paradigm
 
-### 1. The Overthrow of Behaviorism
-Before 1956, Anglo-American psychology was dominated by B.F. Skinner's radical behaviorism, which barred internal mental states (intentions, concepts, memories) as unobservable, unscientific constructs. 
-The 1956 convergence dismantled behaviorism by showing that internal, rule-governed mental processes could be:
-- **Rigorously measured** in human performance as discrete information channels ([[George Miller|Miller]]).
-- **Modeled formally** as mathematical syntactic generative systems ([[Noam Chomsky|Chomsky]]).
-- **Physically executed** on electronic digital computers ([[Allen Newell|Newell]] & [[Herbert Simon|Simon]]).
-
-### 2. The "Software / Hardware" Split (Functionalism & Multiple Realizability)
-The 1956 breakthrough established the foundational philosophical premise that cognitive operations are computational algorithms independent of their physical medium. This paved the way directly for:
-- **Machine State Functionalism**: Formulated by [[Hilary Putnam|Hilary Putnam]] (1960), arguing that mental states are functional states of a Turing machine.
-- **The Representational Theory of Mind & LOT**: Formulated by [[Jerry Fodor|Jerry Fodor]] (1975), proposing that cognition is syntactic computation over an internal Language of Thought (Mentalese).
-- **Multiple Realizability**: The premise that intelligence can be realized in biological wetware, silicon chips, or any physical symbol-manipulating substrate.
+The paradigm birthed across Dartmouth and MIT in 1956 was **computational functionalism**—the foundational doctrine that **cognition is computation**, and that intelligence in both humans and machines consists of the rule-governed manipulation of physical symbols.
 
 ```text
-┌────────────────────────────────────────────────────────────────────────┐
-│                   THE FUNCTIONALIST SPLIT FROM 1956                    │
-├────────────────────────────────────────────────────────────────────────┤
-│ Mind / Software:    Algorithms, Symbol Manipulation, Heuristics, Syntax│
-│ ────────────────────────────────────────────────────────────────────── │
-│ Body / Hardware:    Biological Brain (Wetware) OR Silicon Transistors  │
-└────────────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│               THE FOUR PILLARS OF THE 1956 COMPUTATIONAL PARADIGM                      │
+├─────────────────────────┬──────────────────────────────────────────────────────────────┤
+│ 1. Physical Symbol      │ • Reason is non-numerical heuristic token manipulation.      │
+│    Systems              │ • "Information over energy": bits divorced from meaning.     │
+├─────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ 2. Software/Hardware    │ • Multiple Realizability: Mind is substrate-independent.     │
+│    Split                │ • Subordination of biology: Brain is just an implementation. │
+├─────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ 3. Overthrow of         │ • Digital computers gave materialist license for internal    │
+│    Behaviorism          │   memory buffers, goals, representations, and mental states. │
+├─────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ 4. Elimination of       │ • Context, bodily intuition, and lived phenomenology purged; │
+│    Phenomenology        │   $P$-consciousness (experience) collapsed into $A$-function.│
+└─────────────────────────┴──────────────────────────────────────────────────────────────┘
 ```
 
-### 3. Institutional Formalization: CS Departments & The Sloan Hexagon
-The momentum from 1956 drove the creation of dedicated institutional structures:
-- **Standalone Computer Science Departments**: Led to the founding of the earliest computer science departments in the 1960s (Purdue in 1962, Stanford in 1965 under George Forsythe and Louis Fein).
-- **The Sloan Hexagon (1978)**: In the late 1970s, the [[Alfred P. Sloan Foundation|Alfred P. Sloan Foundation]] codified the 1956 convergence by investing $17.4 million into Cognitive Science, structuring the field around a 6-discipline matrix (**Psychology, Computer Science, Neuroscience, Linguistics, Philosophy, and Anthropology**) unified by the core doctrine: **cognition is information processing**.
+### 1. The Physical Symbol System Hypothesis (Information Over Energy)
+Before 1956, digital computers were conceived primarily as giant arithmetic calculators. Newell and Simon proved computing machines could manipulate abstract, non-numerical tokens according to formal heuristic search:
+- **Equivalence of Mind and Machine**: Human reasoning and computer execution were formally recast as two instances of the exact same phenomenon: **physical symbol manipulation**.
+- **Information Over Energy**: By synthesizing Shannon’s mathematical theory of communication with computer logic, mental processes were redefined in terms of bits, channel capacity, bandwidth, and noise, divorcing "information" from subjective semantic meaning or conscious feeling.
 
-### 4. The Mind-Computer Feedback Loop & Conceptual Borrowing
-The 1956 paradigm shift established an enduring circular feedback loop:
-- Computer scientists modeled machine architectures on human mental faculties (*memory buffers, attention, search trees, learning rules, neural networks*).
-- Cognitive scientists modeled the biological brain on computing hardware (*encoding, storage, clock cycles, central processors, prediction error codecs*).
-- Over decades, this generated **[[Machine Functionalism and Language of Thought#5. Conceptual Borrowing in Computer Science & The Amnesia of Metaphor|Conceptual Borrowing and Metaphorical Amnesia]]**: science forgot that these terms were initially anthropomorphic metaphors, concluding that human minds are literally biological digital computers.
+### 2. The "Software / Hardware" Split (Subordination of Biology)
+The 1956 breakthrough established the foundational philosophical premise that cognitive operations are computational algorithms independent of their physical medium:
+- **Machine State Functionalism & Multiple Realizability**: Formulated by [[Hilary Putnam|Hilary Putnam]] (1960) and [[Jerry Fodor|Jerry Fodor]] (1975; Language of Thought), asserting that cognition can be realized in biological wetware, silicon chips, or any physical symbol-manipulating substrate.
+- **Subordination of Biology**: The living brain was relegated to an implementation substrate. Neurophysiology, organic embodiment, and metabolic continuity were treated as secondary engineering details rather than defining features of mind.
+
+### 3. The Overthrow of Behaviorism (Materialist License for Internal States)
+Before 1956, Anglo-American psychology was dominated by B.F. Skinner's radical behaviorism, which barred internal mental states (intentions, concepts, memories) as unobservable, unscientific constructs. 
+- **Materialist License**: The digital computer gave cognitive psychologists an empirical, non-mystical justification to study the internal mind. Because a physical machine could possess internal memory buffers, execute stored programs, and track goals without violating physical laws, human brains were recognized as doing the same.
+- **The Triad of Internal Representation**:
+  - [[George Miller|Miller]] proved short-term memory is a constrained storage buffer ($7 \pm 2$ chunks).
+  - [[Noam Chomsky|Chomsky]] proved syntax requires innate, internal generative rules that cannot be explained by stimulus-response conditioning.
+  - [[Allen Newell|Newell]] and [[Herbert Simon|Simon]] proved heuristic search could generate logical reasoning.
+
+### 4. The Mechanistic Elimination of Context & Phenomenology
+To render human thought computationally tractable, the new paradigm executed a radical operational substitution:
+- **Exclusion of the Non-Formal**: As Howard Gardner and [[Hubert Dreyfus|Hubert Dreyfus]] observed, the cognitive revolution deliberately sidelined emotion, bodily intuition, cultural context, and phenomenological subjectivity in favor of discrete, programmable architectures.
+- **Conflating Function with Experience**: Qualitative, first-person conscious experience ($P$-consciousness) was effectively collapsed into third-person functional data-routing, access, and storage ($A$-consciousness).
+
+### 5. Institutional Formalization & The Mind-Computer Feedback Loop
+- **Standalone Computer Science Departments**: Led to the founding of the earliest computer science departments in the 1960s (Purdue in 1962, Stanford in 1965 under George Forsythe and Louis Fein).
+- **The Sloan Hexagon (1978)**: The [[Alfred P. Sloan Foundation|Alfred P. Sloan Foundation]] codified the 1956 convergence by investing $17.4 million into Cognitive Science, structuring the field around a 6-discipline matrix (**Psychology, Computer Science, Neuroscience, Linguistics, Philosophy, and Anthropology**) unified by the doctrine: **cognition is information processing**.
+- **Conceptual Borrowing & Metaphorical Amnesia**: Over decades of circular borrowing (*memory buffers, attention mechanisms, central processors, prediction error codecs*), science forgot that these terms were initially anthropomorphic metaphors, concluding that human minds are literally biological digital computers ([[Machine Functionalism and Language of Thought#5. Conceptual Borrowing in Computer Science & The Amnesia of Metaphor|Conceptual Borrowing in Computer Science]]).
 
 ---
 
