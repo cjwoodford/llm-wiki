@@ -20,7 +20,7 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 | **Thematic Concepts** | 48 | 🟢 Fully Linked (5-Part Standard Schema) |
 | **Key Entities** | 86 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
-| **Archived Primary Sources** | 160 | 🟢 Full YAML Provenance (`sources/archive/`) |
+| **Archived Primary Sources** | 161 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
 | **Web Clippings Queue** | 0 | 🟢 Clear (`Clippings/`) |
 
@@ -28,6 +28,12 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 
 ## 🔄 Recent Activity (2026-09-06)
 
+- **Institutional Backstory of the 1956 MIT Symposium on Information Theory**:
+  - Ingested primary source record into `sources/archive/1956-09-10-mit-symposium-on-information-theory-origins-and-legacy.md`.
+  - **Concept Deepening**: Enriched [[The 1956 Foundations of AI and Cognitive Science]] with the institutional origins of the September 10–12, 1956 symposium:
+    - Originally organized by the **IRE Professional Group on Information Theory (PGIT)** to codify Shannon's 1948 theory into applied telecommunications, channel capacity, data compression, noise filtering, and cryptography.
+    - Documented MIT's post-war communications epicenter at the **Research Laboratory of Electronics (RLE)** under the Joint Services Electronics Program, championing figures like Claude Shannon, Jerome Wiesner, and Peter Elias (*IRE Transactions on Information Theory*).
+    - Detailed how the catalytic convergence of Newell & Simon (RAND/CMU), Chomsky (MIT), and Miller (Harvard) on September 11, 1956, united isolated fields under the shared language of physical symbol manipulation and information processing.
 - **Ingestion & Synthesis of "The Birth of Computer and Cognitive Science"**:
   - Ingested and updated primary source archive in `sources/archive/1956-09-11-the-1956-foundations-of-ai-and-cognitive-science.md`.
   - Cleared incoming unread queue (`sources/unread/`).

@@ -59,8 +59,14 @@ Together, these twin events ignited the **"Cognitive Revolution"** by establishi
 - **Historical Significance**: Served as the official birthplace and christening event of Artificial Intelligence as an autonomous academic discipline.
 
 ### B. The MIT Symposium on Information Theory (September 10–12, 1956)
-- **Location & Scope**: Massachusetts Institute of Technology, Cambridge, Massachusetts; sponsored by the IRE (Institute of Radio Engineers) Professional Group on Information Theory.
-- **Interdisciplinary Cross-Pollination**: Gathered mathematicians, computer engineers, neurophysiologists, linguists, and experimental psychologists in the same lecture hall.
+- **Location & Host**: Massachusetts Institute of Technology, Cambridge, Massachusetts; organized by the **IRE Professional Group on Information Theory (PGIT)**. *(The Institute of Radio Engineers merged with the AIEE in 1963 to form the modern **IEEE**, which is why the symposium and its proceedings are cataloged under the IEEE name today)*.
+- **Original Purpose (Codifying a New Mathematical Discipline)**:
+  - Conceived eight years after [[Claude Shannon|Claude Shannon]] published *"A Mathematical Theory of Communication"* (1948) to assess the state of Information Theory.
+  - **Engineering Focus**: The primary objective was solving practical and theoretical challenges in telecommunications: calculating channel capacity, designing error-correcting codes, optimizing data compression, filtering radar noise, and securing military cryptography.
+  - **The "Universal Information" Ambition**: Organizers sought to test whether Shannon's mathematical definition of information (measuring bits and entropy regardless of semantic meaning) could serve as a universal quantitative framework. They deliberately set aside sessions to explore whether biological nervous systems, human speech, and cognitive communication could also be modeled as transmission channels.
+- **Why IRE Organized It and MIT Hosted It**:
+  - **The MIT RLE Epicenter**: MIT was the post-war epicenter of American communications research. Its **Research Laboratory of Electronics (RLE)**—the direct academic heir to the wartime MIT Radiation Laboratory—was backed by the military's Joint Services Electronics Program (Army, Navy, Air Force).
+  - **Institutional Champions**: Key figures including [[Claude Shannon]] (MIT faculty appointment), **Jerome Wiesner** (Director of RLE, future MIT President), and **Peter Elias** (PGIT Chairman and MIT EE professor) coordinated the summit, publishing all papers immediately in the September 1956 issue of *IRE Transactions on Information Theory*.
 - **The "Birthday of Cognitive Science"**: Cognitive psychologist [[George Miller|George A. Miller]] famously designated **September 11, 1956**, as the exact birthdate of Cognitive Science due to three groundbreaking papers delivered consecutively on that single day, each applying formal information-processing models to dismantle behaviorism.
 
 ---
@@ -247,7 +253,8 @@ The foundational assumptions established in 1956 continue to govern contemporary
 
 ## 8. Source Log & Citations
 
-- **1956-09-11**: [[1956-09-11-the-1956-foundations-of-ai-and-cognitive-science.md|The 1956 Foundations of AI and Cognitive Science]] (Primary Source Archive) — Comprehensive summary of the Dartmouth Workshop, MIT Symposium, breakthrough papers, and institutional legacy.
+- **1956-09-10**: [[1956-09-10-mit-symposium-on-information-theory-origins-and-legacy.md|The 1956 MIT Symposium on Information Theory: Origins, Institutional Backdrop, and the Catalysis of Cognitive Science]] (Primary Source Archive).
+- **1956-09-11**: [[1956-09-11-the-1956-foundations-of-ai-and-cognitive-science.md|The 1956 Foundations of AI and Cognitive Science: Dartmouth, MIT, and the Birth of a New Paradigm]] (Primary Source Archive).
 - **1956**: Allen Newell & Herbert A. Simon, *"The Logic Theory Machine: A Complex Information Processing System"* (*IRE Transactions on Information Theory* 2(3): 61–79).
 - **1956**: Noam Chomsky, *"Three Models for the Description of Language"* (*IRE Transactions on Information Theory* 2(3): 113–124).
 - **1956**: George A. Miller, *"The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information"* (*Psychological Review* 63(2): 81–97).

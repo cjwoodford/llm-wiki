@@ -45,6 +45,7 @@ aliases:
 ## 🔗 Related Concepts & Entities
 
 - **Concepts**:
+  - [[Cybernetics and the Macy Conferences|Cybernetics and the Macy Conferences (TOTE Feedback Units)]]
   - [[The 1956 Foundations of AI and Cognitive Science|The 1956 Foundations of AI and Cognitive Science]]
   - [[Machine Functionalism and Language of Thought|Machine Functionalism & Language of Thought]]
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
