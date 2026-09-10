@@ -70,7 +70,7 @@ Formulated by [[Sam Altman|Sam Altman]] in his foundational 2017 essay *"The Mer
 - **Argument**: Merging with AI and colonizing the cosmos is humanity's highest evolutionary destiny. Refusing to augment our cognitive architecture or build superintelligence is viewed as biological chauvinism and civilizational stagnation.
 
 ### The Decolonial & Sociotechnical Critique
-- **Proponents**: Émile P. Torres, Timnit Gebru, [[Chad Woodford|Chad Woodford]].
+- **Proponents**: [[Emile P. Torres|Émile P. Torres]], [[Timnit Gebru|Timnit Gebru]], [[Chad Woodford|Chad Woodford]].
 - **Argument**: TESCREAL functions as a secularized eschatology that justifies real-world harm. By prioritizing theoretical trillions of future digital minds in deep space, Longtermism justifies current environmental devastation, labor exploitation, and wealth concentration as minor rounding errors.
 
 ### The Embodied / Idealist Critique
@@ -83,12 +83,10 @@ Formulated by [[Sam Altman|Sam Altman]] in his foundational 2017 essay *"The Mer
 
 1. **Altman's 2017 Essay & OpenAI's Mission**:
    - In *"The Merge"*, Altman wrote: *"We are becoming a new species... The merge has already started."* This philosophy directly underpins OpenAI's corporate mission to build AGI that elevates all of humanity through cognitive augmentation.
-2. **Worldcoin (Tools for Humanity)**:
-   - Altman's iris-scanning biometric identity project, explicitly designed to provide "Proof of Personhood" and universal basic income in an economy where AI and humans have begun to merge.
-3. **Neuralink & BCI Acceleration**:
-   - Neural interface development framed as an urgent imperative to increase human "input/output bandwidth" so biological minds can keep pace with AI scaling.
-4. **Billionaire Existential Risk Funding**:
-   - Shifting hundreds of millions of dollars from tangible humanitarian crises (malaria, poverty, clean water) into AGI safety research and digital mind governance based on Longtermist expected-value calculations.
+2. **Anthropic's Amodei & *Machines of Loving Grace***:
+   - Dario Amodei projects that powerful AI will compress 50–100 years of biological, medical, and governance progress into 5–10 years, envisioning a post-biological transformation of human society ([[2024-10-11-amodei-machines-of-loving-grace.md|Machines of Loving Grace]]).
+3. **The AI Consciousness & Welfare Pivot**:
+   - In 2026, leading frontier labs and think-tanks shifted from existential catastrophe narratives to digital mind welfare advocacy, creating an epistemic and liability shield around proprietary AI systems ([[Empirical AI Welfare and Digital Minds|Empirical AI Welfare and Digital Minds]]).
 
 ---
 
@@ -103,6 +101,8 @@ Formulated by [[Sam Altman|Sam Altman]] in his foundational 2017 essay *"The Mer
   - [[Wisdom and the Meaning Crisis|Wisdom, Mortality & The Meaning Crisis]]
   - [[Artificial Personhood|Artificial Personhood & Political Liberalism]]
 - **Entities**:
+  - [[Timnit Gebru|Timnit Gebru]]
+  - [[Emile P. Torres|Émile P. Torres]]
   - [[Future of Humanity Institute|Future of Humanity Institute (FHI)]]
   - [[Sam Altman|Sam Altman]]
   - [[OpenAI|OpenAI]]

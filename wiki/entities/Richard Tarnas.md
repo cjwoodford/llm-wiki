@@ -29,6 +29,7 @@ aliases:
 ### 2. The "Great Severing" & Disenchantment of the Cosmos
 - Details the tragic cost of this autonomy: the **epistemological exile** of the modern self.
 - The Scientific Revolution (Galileo, Descartes, Newton) drained physical nature of all interiority, purpose (*telos*), and soul (*anima mundi*), leaving the human mind (*res cogitans*) as a lonely, insular spectator in a cold, clockwork machine (*res extensa*).
+- Parallels [[Charles Taylor|Charles Taylor]]'s diagnosis of the shift from the pre-modern "porous self" to the modern "buffered self" trapped inside the immanent frame.
 
 ### 3. The Promethean Archetype & The Kantian Impasse
 - Characterizes the Enlightenment's apotheosis of calculation as the zenith of a **Promethean/masculine archetypal impulse**—valuing linear dissection and the domination of nature while suppressing somatic intuition and holistic synthesis.
@@ -36,22 +37,35 @@ aliases:
 
 ### 4. AI as the Decadent Climax of Cartesian Alienation
 - Tarnas's framework explains modern AI consciousness hype: having spent four centuries stripping nature and the body of consciousness, the modern rationalist ego now stares into the algorithmic mirror of a Large Language Model and mistakes its own hollow syntactic projection for an emergent soul ([[Machine Metaphor|The Machine Metaphor]]).
-- Anticipates a dialectical counter-thrust: just as Enlightenment mechanism sparked **Romanticism** (Goethe, Blake, Schelling), the hyper-rationalist overreach of Silicon Valley is preparing the ground for a necessary cultural and spiritual revolt.
+- Anticipates a dialectical counter-thrust: just as Enlightenment mechanism sparked **Romanticism** (Goethe, Blake, Schelling), the hyper-rationalist overreach of Silicon Valley is preparing the ground for a necessary cultural and spiritual revolt ([[The Meaning Crisis and Cultural Disenchantment|The Meaning Crisis & Cultural Disenchantment]]).
 
 ---
 
 ## 🔗 Related Concepts & Entities
 
 - **Concepts**:
+  - [[The Meaning Crisis and Cultural Disenchantment|The Meaning Crisis & Cultural Disenchantment]]
   - [[Enlightenment Conflation of Mind with Reason|The Enlightenment Conflation of Mind with Reason]]
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
   - [[Early Modern Roots of the Computational Mind|Hobbes, Locke & the Early Modern Roots of CTM]]
   - [[Hard Problem of Consciousness|The Hard Problem of Consciousness & Qualia]]
   - [[Idealism and Consciousness|Idealism, Panpsychism & Philosophy of Mind]]
   - [[Comparative Idealism - Western and Indian Traditions|Comparative Idealism: Analytic, Western & Indian Traditions]]
+  - [[The Divided Brain and Hemispheric Lateralization|The Divided Brain & Hemispheric Lateralization]]
 - **Entities**:
+  - [[Charles Taylor|Charles Taylor]]
+  - [[John Vervaeke|John Vervaeke]]
+  - [[Iain McGilchrist|Iain McGilchrist]]
   - [[Bernardo Kastrup|Bernardo Kastrup]]
   - [[John Searle|John Searle]]
   - [[Gottfried Wilhelm Leibniz|Gottfried Wilhelm Leibniz]]
   - [[David Hume|David Hume]]
   - [[Chad Woodford|Chad Woodford]]
+
+---
+
+## 📚 Key Bibliography
+
+- **1991**: Richard Tarnas, *The Passion of the Western Mind: Understanding the Ideas That Have Shaped Our World View*, Harmony Books / Ballantine.
+- **2006**: Richard Tarnas, *Cosmos and Psyche: Intimations of a New World View*, Viking Adult.
+

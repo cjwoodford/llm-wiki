@@ -72,23 +72,23 @@ Francis Bacon (1627: New Atlantis)
 - **Argument**: Technology is the foundational lever of civilizational growth. Without technological acceleration, societies stagnate, regress, and succumb to Malthusian scarcity. Anyone attempting to slow or regulate AI is seen as an "enemy of progress" committing moral harm against future human flourishing.
 
 ### The Decolonial & Sociotechnical Critique
-- **Proponents**: [[Chad Woodford|Chad Woodford]], Timnit Gebru, Émile P. Torres, Ruha Benjamin.
+- **Proponents**: [[Chad Woodford|Chad Woodford]], [[Timnit Gebru|Timnit Gebru]], [[Emile P. Torres|Émile P. Torres]], Ruha Benjamin.
 - **Argument**: Techno-utopianism functions as a secular religion that masks severe externalities. Its promises of universal abundance obscure real-world planetary extraction, environmental destruction, data colonialism, and massive wealth concentration—operating through an extractive [[Decoloniality and Empire Technologies|Windigo mindset]].
 
 ### The Embodied Humanist Critique
-- **Proponents**: [[Tyler VanderWeele|Tyler VanderWeele]], Tristan Harris ([[Center for Humane Technology|Center for Humane Technology]]), Shannon Vallor.
+- **Proponents**: [[Charles Taylor|Charles Taylor]], [[Tyler VanderWeele|Tyler VanderWeele]], Tristan Harris ([[Center for Humane Technology|Center for Humane Technology]]), Shannon Vallor.
 - **Argument**: Techno-utopianism confuses **instrumental capabilities** (compute speed, GDP, longevity) with **intrinsic goods** (virtue, meaning, love, community). Merely automating human tasks risks cognitive de-skilling and spiritual emptiness ([[Human Flourishing and Technology Innovation|Human Flourishing & Technology Innovation]]).
 
 ---
 
 ## 4. Case Studies & Real-World Manifestations
 
-1. **Marc Andreessen's *The Techno-Optimist Manifesto* (2023)**:
-   - Declared technology to be *"the glory of human ambition"* and labeled AI a *"universal problem solver"*, equating free-market technological expansion with universal virtue.
-2. **Post-Scarcity Energy & "The Intelligence Age"**:
-   - Silicon Valley leaders positioning fusion energy, AGI agent swarms, and humanoid robotics as the definitive solution to climate change, labor shortages, and global inequality.
-3. **The "Technofix" for Relational & Mental Health Crises**:
-   - Deploying AI companion chatbots to solve loneliness, rather than addressing structural social fragmentation, which critics call a counterfeit substitute for human connection ([[Psychological Coupling and AI Companions|Psychological Coupling]]).
+1. **The Techno-Optimist Manifesto (2023)**:
+   - Venture capitalist Marc Andreessen published a manifesto proclaiming technology as the ultimate engine of material abundance, listing "technology", "intelligence", and "energy" as the only things that truly matter, while condemning precaution and regulation.
+2. **Altman's *The Intelligence Age* (2024)**:
+   - OpenAI CEO Sam Altman declared that within decades, humanity will have "superintelligence" capable of solving climate change, creating physics breakthroughs, and creating unimaginable cosmic wealth.
+3. **The Radical Life Extension Movement**:
+   - Transhumanist efforts to cure aging and achieve biological immortality, treating the mortal human condition not as an existential ground of meaning, but as an engineering bug to be solved.
 
 ---
 
@@ -104,6 +104,9 @@ Francis Bacon (1627: New Atlantis)
   - [[Wisdom and the Meaning Crisis|Wisdom, Mortality & The Meaning Crisis]]
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
 - **Entities**:
+  - [[Timnit Gebru|Timnit Gebru]]
+  - [[Emile P. Torres|Émile P. Torres]]
+  - [[Charles Taylor|Charles Taylor]]
   - [[Future of Humanity Institute|Future of Humanity Institute]]
   - [[Sam Altman|Sam Altman]]
   - [[Dario Amodei|Dario Amodei]]

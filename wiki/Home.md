@@ -18,7 +18,7 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 | Metric | Count | Status |
 | :--- | :--- | :--- |
 | **Thematic Concepts** | 48 | 🟢 Fully Linked (5-Part Standard Schema) |
-| **Key Entities** | 87 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
+| **Key Entities** | 89 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
 | **Archived Primary Sources** | 163 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
@@ -28,6 +28,10 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 
 ## 🔄 Recent Activity (2026-09-09)
 
+- **Creation & Deepening of Key Thinker Dossiers**:
+  - **New Thinker Entity**: [[Timnit Gebru|Timnit Gebru]] (Algorithmic bias auditing, *Gender Shades*, *Stochastic Parrots*, the [[TESCREAL and The Merge|TESCREAL]] critical framework, and the Distributed AI Research Institute [DAIR]).
+  - **New Thinker Entity**: [[Charles Taylor|Charles Taylor]] (*Sources of the Self*, *A Secular Age*, the Porous vs. Buffered Self, the Immanent Frame, the Malaise of Modernity, and the H-H-H expressivist critique of computational tokenization).
+  - **Entity Deepening**: [[Richard Tarnas|Richard Tarnas]] enriched with the comparative analysis of Taylor's Buffered Self, Vervaeke's [[The Meaning Crisis and Cultural Disenchantment|Meaning Crisis]], and complete bibliography.
 - **Ingestion & Synthesis of Chad Woodford's *AI Consciousness Refinery* Series (Parts 1 & 2)**:
   - Ingested primary source records into `sources/archive/2026-07-28-welcome-to-the-ai-consciousness-refinery.md` (*Welcome to the AI Consciousness Refinery*) and `sources/archive/2026-09-08-woodford-what-is-it-like-to-be-an-abacus.md` (*What Is It Like To Be an Abacus? / Dude, Is This Abacus Conscious?*).
   - **Concept Deepening**:
@@ -189,6 +193,7 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 - **[[Henri Bergson|Henri Bergson]]** — Nobel laureate, pure duration (*la durée*), *Matter and Memory*, *élan vital*, and the cinematographic illusion.
 - **[[Edmund Husserl|Edmund Husserl]]** — Founder of Phenomenology, *Epoché*, noetic-noematic correlation, and the *Lebenswelt*.
 - **[[Maurice Merleau-Ponty|Maurice Merleau-Ponty]]** — Lived body (*corps propre*), motor intentionality, and *maximum grip*.
+- **[[Charles Taylor|Charles Taylor]]** — Canadian philosopher, *Sources of the Self*, *A Secular Age*, the Buffered Self, the Immanent Frame, and expressivist language theory.
 - **[[Henri Corbin|Henri Corbin]]** — Pioneer of the *Mundus Imaginalis* (*'Ālam al-Mithāl*), Active Imagination, and Islamic illuminationist theosophy.
 - **[[David Abram|David Abram]]** — Cultural ecologist, eco-phenomenology, author of *The Spell of the Sensuous*, and coiner of "the more-than-human world."
 - **[[Hubert Dreyfus|Hubert Dreyfus]]** — UC Berkeley phenomenologist, foremost critic of CTM, and author of *What Computers Can't Do*.
@@ -211,6 +216,8 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 - **[[Steven Pinker|Steven Pinker]]** — Harvard cognitive psychologist, evolutionary psychology, and computationalism defender.
 
 ### Critical Theory, Decoloniality & Political Economy
+- **[[Timnit Gebru|Timnit Gebru]]** — Computer scientist, founder of DAIR, co-author of *Gender Shades* and *Stochastic Parrots*, co-originator of the TESCREAL critique.
+- **[[Emile P. Torres|Émile P. Torres]]** — Philosopher, historian of existential risk, author of *Human Extinction*, co-originator of the TESCREAL framework.
 - **[[Richard Barbrook|Richard Barbrook]]** — British media theorist, author of *The Californian Ideology* (1995).
 - **[[Theodor Adorno|Theodor Adorno]]** & **[[Max Horkheimer|Max Horkheimer]]** — Frankfurt School, *Dialectic of Enlightenment*, Instrumental Reason.
 - **[[Guy Debord|Guy Debord]]** — Situationist International, *The Society of the Spectacle*.

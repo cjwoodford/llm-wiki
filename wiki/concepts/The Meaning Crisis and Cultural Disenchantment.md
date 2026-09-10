@@ -25,7 +25,7 @@ aliases:
 
 **The Meaning Crisis** is a multidimensional cultural, cognitive, and existential catastrophe facing modern civilization.
 
-Formulated comprehensively by cognitive scientist and philosopher **[[John Vervaeke|John Vervaeke]]** (*Awakening from the Meaning Crisis*, 2019) and cultural historians (Max Weber, [[Richard Tarnas|Richard Tarnas]], Charles Taylor), the Meaning Crisis designates:
+Formulated comprehensively by cognitive scientist and philosopher **[[John Vervaeke|John Vervaeke]]** (*Awakening from the Meaning Crisis*, 2019) and cultural historians (Max Weber, [[Richard Tarnas|Richard Tarnas]], [[Charles Taylor|Charles Taylor]]), the Meaning Crisis designates:
 1. **The Collapse of the Sacred Canopy**:
    - The progressive loss of an overarching, shared metaphysical framework (*nomos*) that connects human individuals to cosmos, community, and purpose.
 2. **The Reduction of Knowing to Propositional Calculation (The 4P/3V Model)**:
@@ -101,6 +101,7 @@ Formulated comprehensively by cognitive scientist and philosopher **[[John Verva
   - [[Comparative Idealism - Western and Indian Traditions|Comparative Idealism: Analytic, Western & Indian Traditions]]
 - **Entities**:
   - [[John Vervaeke|John Vervaeke]]
+  - [[Charles Taylor|Charles Taylor]]
   - [[Iain McGilchrist|Iain McGilchrist]]
   - [[Richard Tarnas|Richard Tarnas]]
   - [[David Abram|David Abram]]

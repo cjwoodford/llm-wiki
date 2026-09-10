@@ -30,7 +30,7 @@ The film explores the profound existential dread and utopian promise surrounding
 1. **The "Apocaloptimist" Stance**:
    - The documentary coins and defends the posture of the **Apocaloptimist**: an individual who fully acknowledges the catastrophic, potentially apocalyptic risks of unconstrained artificial intelligence (extinction, authoritarian control, democratic collapse, cultural atrophy) while simultaneously refusing fatalism and actively working toward a positive, human-centered future of flourishing and abundance.
 2. **The Battle for the Future of Mind**:
-   - Features wide-ranging, intimate interviews across the spectrum of the AI landscape, including frontier lab leaders ([[Sam Altman|Sam Altman]] of [[OpenAI|OpenAI]], [[Dario Amodei|Dario Amodei]] of [[Anthropic|Anthropic]], Demis Hassabis of [[Google DeepMind|Google DeepMind]]), ethical and safety critics (Tristan Harris of the [[Center for Humane Technology|Center for Humane Technology]], Yuval Noah Harari, Timnit Gebru, Eliezer Yudkowsky), and independent philosophers.
+   - Features wide-ranging, intimate interviews across the spectrum of the AI landscape, including frontier lab leaders ([[Sam Altman|Sam Altman]] of [[OpenAI|OpenAI]], [[Dario Amodei|Dario Amodei]] of [[Anthropic|Anthropic]], Demis Hassabis of [[Google DeepMind|Google DeepMind]]), ethical and safety critics (Tristan Harris of the [[Center for Humane Technology|Center for Humane Technology]], Yuval Noah Harari, [[Timnit Gebru|Timnit Gebru]], Eliezer Yudkowsky), and independent philosophers.
 3. **Public Agency & Democratic Action**:
    - Rather than treating AI development as an inevitable technical fate decided by a handful of Silicon Valley corporations, the film serves as a populist call to action, urging citizens to assert democratic governance, demand ethical guardrails, and actively shape the technology.
 
@@ -73,6 +73,7 @@ The film explores the profound existential dread and utopian promise surrounding
   - [[Decoloniality and Empire Technologies|Empire Technologies & The Windigo Mind]]
   - [[Constitutional AI and Model Welfare|Constitutional AI & Model Welfare]]
 - **Entities**:
+  - [[Timnit Gebru|Timnit Gebru]]
   - [[Sam Altman|Sam Altman]]
   - [[Dario Amodei|Dario Amodei]]
   - [[Google DeepMind|Google DeepMind]]
