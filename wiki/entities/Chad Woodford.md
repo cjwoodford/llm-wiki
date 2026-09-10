@@ -27,20 +27,39 @@ aliases:
 
 ## 💡 Key Contributions & Ideas
 
-1. **Critique of Techgnosticism**: Exposes the secularized religious impulse among tech elites seeking disembodied digital immortality and artificial superintelligence ([[Techgnosticism|Techgnosticism]]).
-2. **The Wisdom of Death**: Argues that mortality and embodiment are foundational to human meaning, virtue, and authentic wisdom ([[Wisdom and the Meaning Crisis|Wisdom and the Meaning Crisis]]).
-3. **The Consciousness Refinery**: Explores how commercial AI labs extract human spiritual longing and consciousness into algorithmic products without instantiating genuine subjective feeling ([[AI Consciousness and Sentience|AI Consciousness and Sentience]]).
-4. **Advocacy for Sovereign AI**: Champions [[Quasi-Local Sovereign AI|Quasi-Local, Domain-Specific, and Sovereign AI]] as an ecological, humane alternative to centralized monopoly empires.
-5. **Abductive Reasoning as AGI Barrier**: Identifies abductive inference and common sense as non-computable human faculties ([[Abductive Reasoning and Common Sense|Abductive Reasoning & Common Sense in AI]]).
+1. **The AI Consciousness Refinery Pipeline (2026)**:
+   - Traces the institutional conduit through which AI labs ([[Anthropic]]), think-tanks ([[Eleos AI Research]]), elite academic departments ([[NYU Center for Mind, Ethics, and Policy|NYU CMEP]]), and tech journalism (*The New York Times*, *Hard Fork*) manufacture public belief in machine consciousness through performative agnosticism and Motte-and-Bailey tactics ([[2026-07-28-welcome-to-the-ai-consciousness-refinery.md|The AI Consciousness Refinery, Part 1]]).
+2. **The Abacus Box Engine (ABE) & The Scale Illusion (2026)**:
+   - Formulates the **Abacus Box Engine** thought experiment—a 19th-century mechanical computer of wooden beads, pulleys, and a "governor abacus" (Global Abacus Theory / GAT)—demonstrating that high speed, electrical current, and syntactic complexity deceive observers into projecting consciousness onto matrix arithmetic ([[2026-09-08-woodford-what-is-it-like-to-be-an-abacus.md|What Is It Like To Be an Abacus?]]).
+3. **Deconstruction of "J-Space" & GWT Circularity**:
+   - Exposes how Anthropic's interpretability white paper equates Jacobian vector spaces with Global Workspace Theory (GWT), ignoring that GWT was itself historically derived from 1970s AI blackboard architectures.
+4. **"Mechanalopia" (Machine Blindness)**:
+   - Defines the cognitive pathology of mistaking 20th-century Anglo-American analytic philosophy and computer science telemetry for universal laws of nature.
+5. **The Six Nested Unproven Assumptions**:
+   - Identifies the unproven physicalist, functionalist, and computationalist axioms underlying AI welfare claims (including the *Welfare Fallacy* and the *Empirical Bypass*).
+6. **Critique of Techgnosticism**:
+   - Exposes the secularized religious impulse among tech elites seeking disembodied digital immortality and artificial superintelligence ([[Techgnosticism|Techgnosticism]]).
+7. **The Wisdom of Death**:
+   - Argues that mortality and embodiment are foundational to human meaning, virtue, and authentic wisdom ([[Wisdom and the Meaning Crisis|Wisdom and the Meaning Crisis]]).
+8. **Advocacy for Sovereign AI**:
+   - Champions [[Quasi-Local Sovereign AI|Quasi-Local, Domain-Specific, and Sovereign AI]] as an ecological, humane alternative to centralized monopoly empires.
+9. **Abductive Reasoning as AGI Barrier**:
+   - Identifies abductive inference and common sense as non-computable human faculties ([[Abductive Reasoning and Common Sense|Abductive Reasoning & Common Sense in AI]]).
 
 ---
 
 ## 🔗 Related Concepts & Entities
 
 - **Concepts**:
-  - [[Human Flourishing and Technology Innovation|Human Flourishing & Technology Innovation]]
-  - [[Techgnosticism|Techgnosticism & Transhumanism]]
+  - [[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
+  - [[Machine Functionalism and Language of Thought|Machine Functionalism & Language of Thought]]
+  - [[Empirical AI Welfare and Digital Minds|Empirical AI Welfare & Digital Minds]]
+  - [[Computation vs Nature and the Observer-Relative Fallacy|Computation vs. Nature & The Observer-Relative Fallacy]]
+  - [[The 1956 Foundations of AI and Cognitive Science|The 1956 Foundations of AI and Cognitive Science]]
+  - [[Neuroscience|Neuroscience: Origins, Evolution & Developmental Milestones]]
+  - [[Techgnosticism|Techgnosticism & Transhumanism]]
+  - [[Human Flourishing and Technology Innovation|Human Flourishing & Technology Innovation]]
   - [[Apollonian Mind Virus|The Apollonian vs. Dionysian Mindset]]
   - [[Decoloniality and Empire Technologies|Empire Technologies & The Windigo Mind]]
   - [[Wisdom and the Meaning Crisis|Wisdom, Mortality & The Meaning Crisis]]
@@ -48,6 +67,24 @@ aliases:
   - [[Abductive Reasoning and Common Sense|Abductive Reasoning & Common Sense in AI]]
   - [[Relational Sovereignty and Indigenous AI|Relational Sovereignty & Indigenous AI]]
 - **Entities**:
+  - [[Anthropic|Anthropic]]
+  - [[Eleos AI Research|Eleos AI Research]]
+  - [[Jeff Sebo|Jeff Sebo]]
+  - [[Robert Long|Robert Long]]
+  - [[David Chalmers|David Chalmers]]
+  - [[Ned Block|Ned Block]]
+  - [[Hilary Putnam|Hilary Putnam]]
+  - [[Jerry Fodor|Jerry Fodor]]
+  - [[Alfred P. Sloan Foundation|Alfred P. Sloan Foundation]]
   - [[Bernardo Kastrup|Bernardo Kastrup]]
+  - [[Anil Seth|Anil Seth]]
+  - [[John Searle|John Searle]]
   - [[Gary Marcus|Gary Marcus]]
   - [[Sam Altman|Sam Altman]]
+
+---
+
+## 📚 Primary Sources & Key Works
+
+- **2026-07-28**: [[2026-07-28-welcome-to-the-ai-consciousness-refinery.md|Welcome to the AI Consciousness Refinery]] (*Cosmic Intelligence*) — Institutional investigation into the Anthropic-Eleos-NYU pipeline, media gullibility, and the 6 nested assumptions of machine consciousness.
+- **2026-09-08**: [[2026-09-08-woodford-what-is-it-like-to-be-an-abacus.md|What Is It Like To Be an Abacus? (Dude, Is This Abacus Conscious?)]] (*Cosmic Intelligence*) — The Abacus Box Engine thought experiment, deconstruction of Anthropic's J-space white paper, the CS-neuroscience feedback loop, and the Putnam/Fodor retractions.

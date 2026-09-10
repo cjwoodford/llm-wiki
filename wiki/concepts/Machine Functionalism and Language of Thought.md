@@ -226,5 +226,7 @@ The historical retractions of Putnam and Fodor directly illuminate the contempor
 - **1988**: Hilary Putnam, *Representation and Reality* (MIT Press) — Formal rejection of machine functionalism.
 - **2000**: Jerry Fodor, *The Mind Doesn't Work That Way: The Scope and Limits of Computational Psychology* (MIT Press) — The collapse of CTM for central cognition.
 - **2005-06-30**: [[2005-06-30-sep-computational-theory-of-mind-horst.md|The Computational Theory of Mind (Steven Horst, SEP)]] — Foundational survey of RTM + CAR, Marr's levels, infraconscious processing, and semantic equivocity.
+- **2026-07-28**: [[2026-07-28-welcome-to-the-ai-consciousness-refinery.md|Welcome to the AI Consciousness Refinery (Chad Woodford)]] — Analysis of functionalist assumptions in contemporary AI labs and think-tanks.
 - **2026-08-22**: [[2026-08-22-putnam-fodor-intellectual-u-turns.md|Putnam and Fodor's Intellectual U-Turns]] — Analysis of externalism, isotropism, and CTM's limits.
 - **2026-08-28**: [[2026-08-28-hilary-putnam-machine-functionalism-origins-and-critique.md|Hilary Putnam: Machine Functionalism, Origins, and Critique]] — Synthesis of the 1950s materialist crisis, substrate independence, DPLL algorithm, and MIT circle.
+- **2026-09-08**: [[2026-09-08-woodford-what-is-it-like-to-be-an-abacus.md|What Is It Like To Be an Abacus? (Chad Woodford)]] — The Abacus Box Engine thought experiment, deconstruction of Anthropic's J-space paper, and the Putnam/Fodor retractions.

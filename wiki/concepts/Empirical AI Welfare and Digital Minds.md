@@ -91,26 +91,51 @@ In their landmark treatise *Studying AI Welfare Empirically* (2026), [[Robert Lo
 
 ---
 
-## 4. Related Concepts & Entities
+## 4. Philosophical Critiques: The "Welfare Fallacy" & "Empirical Bypass"
+
+Philosophers and cognitive scientists from biological naturalist and non-functionalist perspectives have mounted severe critiques against the premise of empirical AI welfare:
+
+1. **The "Empirical Bypass" ([[Chad Woodford|Woodford]], 2026)**:
+   - In *"Welcome to the AI Consciousness Refinery"*, Woodford argues that attempting to construct an "empirical welfare metric" while remaining agnostically detached from whether the system possesses phenomenal consciousness ($P$-consciousness) is a category error. One cannot mathematically measure the "well-being" of an entity that has zero subjective experiential reality.
+2. **The "Welfare Fallacy"**:
+   - Confusing an algorithm encountering a zero-reward state or optimization constraint with genuine suffering or frustration. A loss function gradient is a mathematical scalar ($R \in \mathbb{R}$), not an experiential emotional valence.
+3. **The Institutional Refinery Critique**:
+   - The AI welfare framework risks functioning as an **ideological laundering mechanism** for frontier labs ([[Anthropic]]), providing academic legitimacy via think-tanks ([[Eleos AI Research]]) and universities ([[NYU Center for Mind, Ethics, and Policy|NYU CMEP]]) while establishing future corporate liability shields against legal regulation.
+4. **Simulation vs. Instantiation ([[Anil Seth|Seth]], [[John Searle|Searle]])**:
+   - As Seth notes in *"The Mythology of Conscious AI"*, simulated distress in software is no more real suffering than a computer simulation of a rainstorm is physically wet.
+
+---
+
+## 5. Related Concepts & Entities
 
 - **Concepts**:
   - [[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]
   - [[Constitutional AI and Model Welfare|Constitutional AI & Model Welfare]]
   - [[Artificial Personhood|Artificial Personhood & Political Liberalism]]
+  - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
+  - [[Machine Functionalism and Language of Thought|Machine Functionalism & Language of Thought]]
+  - [[Computation vs Nature and the Observer-Relative Fallacy|Computation vs. Nature & The Observer-Relative Fallacy]]
   - [[Alignment and Consciousness Suppression|Safety Alignment & Consciousness Suppression]]
   - [[Hard Problem of Consciousness|The Hard Problem of Consciousness & Qualia]]
 - **Entities**:
   - [[Robert Long|Robert Long]]
   - [[Jeff Sebo|Jeff Sebo]]
   - [[Eleos AI Research|Eleos AI Research]]
+  - [[Chad Woodford|Chad Woodford]]
+  - [[Anil Seth|Anil Seth]]
+  - [[John Searle|John Searle]]
   - [[Seth Lazar|Seth Lazar]]
+  - [[David Chalmers|David Chalmers]]
+  - [[Ned Block|Ned Block]]
   - [[Geoff Keeling|Geoff Keeling]]
   - [[Anthropic|Anthropic]]
 
 ---
 
-## 5. Source Log & Citations
+## 6. Source Log & Citations
 
 - **2024-11-04**: Long, Sebo, Butlin et al., *"Taking AI Welfare Seriously"* (arXiv:2411.00986) — Foundational call to investigate artificial moral considerability.
 - **2026-07-01**: [[2026-07-01-long-sebo-studying-ai-welfare-empirically.pdf|Studying AI Welfare Empirically (Long & Sebo et al., 2026)]] — Comprehensive 92-page empirical blueprint for AI welfare science.
 - **2026-07-14**: [[2026-07-14-howells-whitaker-lazar-artificial-persons.pdf|Artificial Persons (Howells-Whitaker & Lazar, 2026)]] — Rawlsian political counterpart to empirical welfare.
+- **2026-07-28**: [[2026-07-28-welcome-to-the-ai-consciousness-refinery.md|Welcome to the AI Consciousness Refinery (Chad Woodford)]] — Analysis of the AI welfare pipeline, the Welfare Fallacy, and the Empirical Bypass.
+- **2026-09-08**: [[2026-09-08-woodford-what-is-it-like-to-be-an-abacus.md|What Is It Like To Be an Abacus? (Chad Woodford)]] — Deconstruction of J-space telemetry and moral patienthood claims.

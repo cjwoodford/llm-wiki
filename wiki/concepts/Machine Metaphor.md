@@ -62,6 +62,9 @@ Computer science borrowed terms from human psychology (*Memory, Attention, Learn
   - LLMs excel at deductive and inductive pattern matching from corpora but struggle with abductive reasoning (inference to the best explanation) and the classical "Frame Problem" of dynamic context updating ([[Abductive Reasoning and Common Sense|Abductive Reasoning & Common Sense in AI]]).
 - **Living Systems vs. Artifacts**:
   - Biological organisms exhibit autopoiesis, metabolic interdependence, and teleology. Machines are externally assembled, non-autopoietic artifacts ([[Idealism and Consciousness|Idealism, Panpsychism & Philosophy of Mind]]).
+- **The Abacus Box Engine & Mechanalopia ([[Chad Woodford|Woodford]], 2026)**:
+  - In *"What Is It Like To Be an Abacus?"*, Woodford demonstrates that if one scales a 19th-century mechanical computer of sliding wooden beads, pulleys, and wooden abacus frames (ABE) into a giant warehouse, walking inside immediately reveals the absence of interiority.
+  - Executing matrix arithmetic on electronic silicon at gigahertz speeds does not transform arithmetic into subjective experience; speed, electrical current, and linguistic syntax produce **Mechanalopia** (machine blindness)—the cognitive error of mistaking software telemetry for consciousness.
 
 ---
 
@@ -76,6 +79,7 @@ Computer science borrowed terms from human psychology (*Memory, Attention, Learn
   - [[Techgnosticism|Techgnosticism & Transhumanism]]
   - [[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]
   - [[Hard Problem of Consciousness|The Hard Problem of Consciousness & Qualia]]
+  - [[Computation vs Nature and the Observer-Relative Fallacy|Computation vs. Nature & The Observer-Relative Fallacy]]
   - [[Abductive Reasoning and Common Sense|Abductive Reasoning & Common Sense in AI]]
   - [[Artificial Personhood|Artificial Personhood & Political Liberalism]]
 - **Entities**:
@@ -101,6 +105,8 @@ Computer science borrowed terms from human psychology (*Memory, Attention, Learn
   - [[Gary Marcus|Gary Marcus]]
   - [[Yann LeCun|Yann LeCun]]
   - [[Bernardo Kastrup|Bernardo Kastrup]]
+  - [[Anil Seth|Anil Seth]]
+  - [[John Searle|John Searle]]
 
 ---
 
@@ -113,3 +119,5 @@ Computer science borrowed terms from human psychology (*Memory, Attention, Learn
 - **2025-05-14**: [[2025-05-14-your-ficus-is-more-conscious-than.md|Your Ficus Is More Conscious Than ChatGPT]] — Contrasts living autopoiesis with computational simulation.
 - **2026-01-13**: [[2026-01-13-the-better-ai-gets-the-further-we.md|The Better AI Gets, the Further We Seem from AGI]] — Explores the breakdown of the computational scaling hypothesis.
 - **2026-02-19**: [[2026-02-19-how-artificial-intelligence-is-eating.md|How Artificial Intelligence Is Eating Our Worldview]] — Diagnoses how the machine metaphor colonizes human self-understanding.
+- **2026-07-28**: [[2026-07-28-welcome-to-the-ai-consciousness-refinery.md|Welcome to the AI Consciousness Refinery (Chad Woodford)]] — Analysis of the 6 nested assumptions of CTM and the AI-lab-to-media pipeline.
+- **2026-09-08**: [[2026-09-08-woodford-what-is-it-like-to-be-an-abacus.md|What Is It Like To Be an Abacus? (Chad Woodford)]] — The Abacus Box Engine thought experiment, GWT circular borrowing, and Mechanalopia.

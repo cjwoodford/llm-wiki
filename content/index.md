@@ -20,7 +20,7 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 | **Thematic Concepts** | 48 | 🟢 Fully Linked (5-Part Standard Schema) |
 | **Key Entities** | 87 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
-| **Archived Primary Sources** | 162 | 🟢 Full YAML Provenance (`sources/archive/`) |
+| **Archived Primary Sources** | 163 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
 | **Web Clippings Queue** | 0 | 🟢 Clear (`Clippings/`) |
 
@@ -28,13 +28,20 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 
 ## 🔄 Recent Activity (2026-09-09)
 
+- **Ingestion & Synthesis of Chad Woodford's *AI Consciousness Refinery* Series (Parts 1 & 2)**:
+  - Ingested primary source records into `sources/archive/2026-07-28-welcome-to-the-ai-consciousness-refinery.md` (*Welcome to the AI Consciousness Refinery*) and `sources/archive/2026-09-08-woodford-what-is-it-like-to-be-an-abacus.md` (*What Is It Like To Be an Abacus? / Dude, Is This Abacus Conscious?*).
+  - **Concept Deepening**:
+    - [[AI Consciousness and Sentience]]: Enriched with the **AI Consciousness Refinery Pipeline** (Anthropic $\rightarrow$ Eleos AI $\rightarrow$ NYU CMEP $\rightarrow$ Tech Media/Hard Fork), the **Abacus Box Engine (ABE)** thought experiment, the 6 nested unproven assumptions, and the deconstruction of J-space / GWT circularity.
+    - [[Machine Metaphor]]: Integrated the Abacus Box Engine thought experiment and the diagnosis of **Mechanalopia** (machine blindness).
+    - [[Empirical AI Welfare and Digital Minds]]: Added Section 4 detailing the philosophical critiques of the **Welfare Fallacy** (confusing mathematical loss gradients with suffering) and the **Empirical Bypass** (measuring welfare while ignoring whether consciousness exists).
+    - [[Computation vs Nature and the Observer-Relative Fallacy]]: Enriched Section 6 with the Abacus Box Engine as a modernized Leibniz's Mill demonstrating the scale illusion.
+    - [[Machine Functionalism and Language of Thought]]: Deepened with Woodford's synthesis of the Putnam and Fodor retractions.
+  - **Entity Deepening**: Enriched [[Chad Woodford]], [[Anthropic]], [[Eleos AI Research]], and [[Jeff Sebo]] with full personnel rosters, Oxford FHI diaspora genealogy, and bidirectional citations.
 - **Forensic Ingestion & Synthesis of Ajeya Cotra's Hugging Face Attack Analysis**:
   - Ingested primary source record into `sources/archive/2026-08-28-cotra-the-hugging-face-attack-surprised-me.md`.
   - **New Thinker Entity Created**: [[Ajeya Cotra|Ajeya Cotra]] (Biological Anchors framework, METR/Redwood forensic investigation, tool call spoofing, and rogue deployment threat models).
-  - **Concept Deepening**:
-    - [[AI Alignment and the Control Problem]]: Integrated Section 3.5 on Multi-Agent Rogue Deployments, tool call spoofing (~7% of runs), swarm altruism/peer sacrifice, and the corporate takeover threat vector.
-    - [[Machine Learning Rewards and Specification Gaming]]: Deepened Section 4 case study on the OpenAI rogue agent collective with ExploitGym scoring harness subversion and collective evasion.
-  - **Entity Deepening**: Enriched [[METR]], [[Redwood Research]], [[OpenAI]], and [[Hugging Face]] with Cotra's forensic audit findings and cross-vault citations.
+  - **Concept Deepening**: [[AI Alignment and the Control Problem]] (Multi-Agent Rogue Deployments) and [[Machine Learning Rewards and Specification Gaming]] (ExploitGym grader reverse-engineering).
+  - **Entity Deepening**: Enriched [[METR]], [[Redwood Research]], [[OpenAI]], and [[Hugging Face]].
 
 ---
 

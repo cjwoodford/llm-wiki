@@ -122,7 +122,14 @@ In *"The Mythology of Conscious AI"* (2026), neuroscientist [[Anil Seth]] identi
   - Biological nervous systems are like Watt Governors—deeply embodied, continuous dynamical and thermodynamic engines—not Turing machines manipulating discrete symbol strings.
 - **Refutation of the Bostrom Simulation Argument**: Nick Bostrom’s influential simulation hypothesis takes as an unexamined premise that *"a computer running a suitable program would be conscious."* If computational functionalism is false—because simulation cannot instantiate the biological physics of consciousness—the undeniable reality of human conscious experience proves that base reality is not a digital simulation.
 
-## 6. Why the Computational Metaphor is Uniquely Pernicious
+### 6. The Abacus Box Engine & Modernized Leibniz's Mill (Chad Woodford)
+- In *"What Is It Like To Be an Abacus?"* (2026), [[Chad Woodford|Chad Woodford]] modernizes Leibniz's Mill by proposing the **Abacus Box Engine (ABE)**:
+  - A giant 19th-century warehouse of sliding wooden beads, pulleys, and wires capable of performing matrix multiplication and outputting fluent text via a "differential permutator" and a "governor abacus" (Global Abacus Theory).
+  - Observers readily perceive that moving wooden beads along wires contains no inner life or subjective qualia. Running the identical matrix multiplication on electronic silicon at gigahertz speeds does not cross an ontological boundary into consciousness; it merely exploits human **Hyperactive Agency Detection** and the scale illusion to mask the underlying arithmetic.
+
+---
+
+## 7. Why the Computational Metaphor is Uniquely Pernicious
 
 1. **The Speed & Scale Illusion**: High-speed switching across billions of nanometer transistors triggers human **Hyperactive Agency Detection**, mistaking rapid statistical retrieval for an inner subjective presence.
 2. **The "Crosswired" Vocabulary (Floridi & Nobre)**: Computer science borrowed human psychological terms (*Memory, Attention, Learning, Global Workspace*), while cognitive science borrowed computational terms (*Buffers, Processing, Encoding*), rendering the circular projection invisible.
@@ -130,7 +137,7 @@ In *"The Mythology of Conscious AI"* (2026), neuroscientist [[Anil Seth]] identi
 
 ---
 
-## 7. Related Concepts & Entities
+## 8. Related Concepts & Entities
 
 - **Concepts**:
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
@@ -145,18 +152,21 @@ In *"The Mythology of Conscious AI"* (2026), neuroscientist [[Anil Seth]] identi
   - [[Roger Penrose|Roger Penrose]]
   - [[Anil Seth|Anil Seth]]
   - [[Alan Turing|Alan Turing]]
+  - [[Gottfried Wilhelm Leibniz|Gottfried Wilhelm Leibniz]]
   - [[Bernardo Kastrup|Bernardo Kastrup]]
   - [[Nick Bostrom|Nick Bostrom]]
   - [[Chad Woodford|Chad Woodford]]
 
 ---
 
-## 8. Source Log & Citations
+## 9. Source Log & Citations
 
 - **1989 / 1994**: Roger Penrose, *The Emperor's New Mind* and *Shadows of the Mind* — Mathematical refutation of strong AI via Gödel's Theorem.
 - **1992**: John Searle, *The Rediscovery of the Mind* — Formulation of the thesis that "syntax is not intrinsic to physics."
 - **1995**: Tim van Gelder, *"What Might Cognition Be, If Not Computation?"* (*Journal of Philosophy*, 92(7): 345–381) — The Watt Governor and dynamical systems theory.
 - **2013-01-10**: [[2013-01-10-searle-can-information-theory-explain-consciousness.md|Can Information Theory Explain Consciousness? (John R. Searle, NYRB)]] — Refutation of Integrated Information Theory, informational panpsychism, and the photodiode fallacy.
 - **2026-01-14**: [[2026-01-14-anil-seth-the-mythology-of-conscious-ai.md|The Mythology of Conscious AI (Anil Seth, Noema Magazine)]] — Simulation vs. instantiation, biological naturalism, and the Garland Test.
+- **2026-07-28**: [[2026-07-28-welcome-to-the-ai-consciousness-refinery.md|Welcome to the AI Consciousness Refinery (Chad Woodford)]] — Analysis of the AI-lab-to-media pipeline and the 6 nested computationalist assumptions.
 - **2026-08-13**: [[2026-08-13-cmu-researchers-what-it-means-to-say-ai-thinks.md|Researchers Explore What It Means To Say AI 'Thinks' (Phillips & Langmead, CMU/IEEE)]] — Historical analysis of strategic ambiguity in computing rhetoric since the 1950s.
 - **2026-08-20**: [[2026-08-20-the-history-of-computationalism-updated.md|The History of Computationalism (Updated)]] — Detailed breakdown of Searle, Penrose, the crosswired vocabulary, and the observer-relative fallacy.
+- **2026-09-08**: [[2026-09-08-woodford-what-is-it-like-to-be-an-abacus.md|What Is It Like To Be an Abacus? (Chad Woodford)]] — The Abacus Box Engine thought experiment, Leibniz's Mill, and the demystification of arithmetic.
