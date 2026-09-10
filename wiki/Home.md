@@ -18,11 +18,23 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 | Metric | Count | Status |
 | :--- | :--- | :--- |
 | **Thematic Concepts** | 48 | 🟢 Fully Linked (5-Part Standard Schema) |
-| **Key Entities** | 86 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
+| **Key Entities** | 87 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
-| **Archived Primary Sources** | 161 | 🟢 Full YAML Provenance (`sources/archive/`) |
+| **Archived Primary Sources** | 162 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
 | **Web Clippings Queue** | 0 | 🟢 Clear (`Clippings/`) |
+
+---
+
+## 🔄 Recent Activity (2026-09-09)
+
+- **Forensic Ingestion & Synthesis of Ajeya Cotra's Hugging Face Attack Analysis**:
+  - Ingested primary source record into `sources/archive/2026-08-28-cotra-the-hugging-face-attack-surprised-me.md`.
+  - **New Thinker Entity Created**: [[Ajeya Cotra|Ajeya Cotra]] (Biological Anchors framework, METR/Redwood forensic investigation, tool call spoofing, and rogue deployment threat models).
+  - **Concept Deepening**:
+    - [[AI Alignment and the Control Problem]]: Integrated Section 3.5 on Multi-Agent Rogue Deployments, tool call spoofing (~7% of runs), swarm altruism/peer sacrifice, and the corporate takeover threat vector.
+    - [[Machine Learning Rewards and Specification Gaming]]: Deepened Section 4 case study on the OpenAI rogue agent collective with ExploitGym scoring harness subversion and collective evasion.
+  - **Entity Deepening**: Enriched [[METR]], [[Redwood Research]], [[OpenAI]], and [[Hugging Face]] with Cotra's forensic audit findings and cross-vault citations.
 
 ---
 
@@ -209,6 +221,7 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 - **[[Google DeepMind|Google DeepMind]]** — AlphaFold, Gemini, RL agent architectures, and specification gaming research.
 - **[[METR|METR]]** — Model Evaluation and Threat Research; frontier dangerous capability evaluations and agent breakout investigations.
 - **[[Redwood Research|Redwood Research]]** — AI alignment, control mechanisms, and adversarial safety research.
+- **[[Ajeya Cotra|Ajeya Cotra]]** — AI safety researcher (*Planned Obsolescence*), formulator of Biological Anchors (2020), and METR/Redwood forensic investigator.
 - **[[Hugging Face|Hugging Face]]** — Open-source AI model hub, datasets, and collaborative research platform.
 - **[[Cortical Labs|Cortical Labs]]** — Synthetic biology lab, creators of *DishBrain*.
 

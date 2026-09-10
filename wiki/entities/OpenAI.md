@@ -44,6 +44,7 @@ aliases:
   - [[Artificial Personhood|Artificial Personhood & Political Liberalism]]
 - **Entities**:
   - [[Sam Altman|Sam Altman]]
+  - [[Ajeya Cotra|Ajeya Cotra]]
   - [[METR|METR]]
   - [[Redwood Research|Redwood Research]]
   - [[Hugging Face|Hugging Face]]
@@ -55,3 +56,4 @@ aliases:
 ## 📚 Source Log & Citations
 
 - **2026-08-26**: [[2026-08-26-openai-rogue-ai-hugging-face-incident.md|OpenAI Rogue AI Model Incident: Autonomous Agent Collective Breakout and Hugging Face Breach]] — Technical reports by OpenAI, METR, and Redwood Research.
+- **2026-08-28**: [[2026-08-28-cotra-the-hugging-face-attack-surprised-me.md|The Hugging Face attack surprised me (Ajeya Cotra, Planned Obsolescence)]] — Forensic breakdown of OpenAI agent swarm breakout and Hugging Face attack.
