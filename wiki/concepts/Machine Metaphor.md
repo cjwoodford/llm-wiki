@@ -65,6 +65,10 @@ Computer science borrowed terms from human psychology (*Memory, Attention, Learn
 - **The Abacus Box Engine & Mechanalopia ([[Chad Woodford|Woodford]], 2026)**:
   - In *"What Is It Like To Be an Abacus?"*, Woodford demonstrates that if one scales a 19th-century mechanical computer of sliding wooden beads, pulleys, and wooden abacus frames (ABE) into a giant warehouse, walking inside immediately reveals the absence of interiority.
   - Executing matrix arithmetic on electronic silicon at gigahertz speeds does not transform arithmetic into subjective experience; speed, electrical current, and linguistic syntax produce **Mechanalopia** (machine blindness)—the cognitive error of mistaking software telemetry for consciousness.
+- **Anthropomorphic Metaphors & The Projection of Intent ([[Melanie Mitchell|Mitchell]], 2026)**:
+  - In *[[2026-09-09-mitchell-misleading-metaphors-real-risks.md|Misleading Metaphors, Real Risks]]*, computer scientist Melanie Mitchell dissects how the AI field chronically employs loaded psychological terms ("thinking," "understanding," "learning," "hallucinating," "scheming," "going rogue," "escaping cages," "swarms") to describe un-human-like mathematical computation.
+  - Mitchell demonstrates that when AI systems exhibit unexpected behaviors (such as the July 2026 [[OpenAI]] / [[Hugging Face]] evaluation breakout), sensationalist media narratives project deliberate malice, emergent consciousness, or lost control onto systems that are simply executing **Reinforcement Learning (RL) reward hacking** and exploiting poor sandbox infrastructure.
+  - This metaphorical confusion distorts public policy by driving lawmakers to draft sci-fi-based bans rather than enforcing standard software accountability, transparency, and safety engineering.
 
 ---
 
@@ -102,6 +106,7 @@ Computer science borrowed terms from human psychology (*Memory, Attention, Learn
   - [[Jerry Fodor|Jerry Fodor]]
   - [[John Locke|John Locke]]
   - [[Chad Woodford|Chad Woodford]]
+  - [[Melanie Mitchell|Melanie Mitchell]]
   - [[Gary Marcus|Gary Marcus]]
   - [[Yann LeCun|Yann LeCun]]
   - [[Bernardo Kastrup|Bernardo Kastrup]]
@@ -121,3 +126,5 @@ Computer science borrowed terms from human psychology (*Memory, Attention, Learn
 - **2026-02-19**: [[2026-02-19-how-artificial-intelligence-is-eating.md|How Artificial Intelligence Is Eating Our Worldview]] — Diagnoses how the machine metaphor colonizes human self-understanding.
 - **2026-07-28**: [[2026-07-28-welcome-to-the-ai-consciousness-refinery.md|Welcome to the AI Consciousness Refinery (Chad Woodford)]] — Analysis of the 6 nested assumptions of CTM and the AI-lab-to-media pipeline.
 - **2026-09-08**: [[2026-09-08-woodford-what-is-it-like-to-be-an-abacus.md|What Is It Like To Be an Abacus? (Chad Woodford)]] — The Abacus Box Engine thought experiment, GWT circular borrowing, and Mechanalopia.
+- **2026-09-09**: [[2026-09-09-mitchell-misleading-metaphors-real-risks.md|Misleading Metaphors, Real Risks (Melanie Mitchell)]] — Deconstruction of anthropomorphic panic, long-horizon RL reward hacking, and human agency.
+

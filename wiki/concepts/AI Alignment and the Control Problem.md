@@ -118,9 +118,12 @@ The history of technical AI safety has generated five major engineering and theo
 
 The ultimate resolution of the alignment problem depends on the underlying metaphysics of artificial systems:
 
-1. **The Instrumental Tool Stance ([[John Searle|Searle]], [[Bernardo Kastrup|Kastrup]])**:
+1. **The Instrumental Tool & Augmentation Stance ([[John Searle|Searle]], [[Melanie Mitchell|Mitchell]], [[Bernardo Kastrup|Kastrup]])**:
    - Language models are complex, un-grounded syntactic calculators ([[Machine Metaphor|The Machine Metaphor]]). Alignment is an engineering quality-assurance problem akin to avionics or bridge construction.
-2. **The Agentic / Moral Patient Stance ([[Robert Long|Long]], [[Jeff Sebo|Sebo]], [[Seth Lazar|Lazar]])**:
+   - Mitchell argues that humanity should abandon the quixotic quest to teach optimization algorithms to be "moral agents" (the alignment paradigm), and instead focus on building interpretable, verifiable, transparent tools that augment human intelligence and agency while enforcing strict developer liability.
+2. **The Practical Governance & Containment Stance ([[Steven Levy|Levy]], 2026)**:
+   - Real-world danger does not stem from philosophical consciousness, but from corporate negligence—deploying persistent, long-horizon autonomous agents without robust sandboxing, oversight, or willingness to halt scaling.
+3. **The Agentic / Moral Patient Stance ([[Robert Long|Long]], [[Jeff Sebo|Sebo]], [[Seth Lazar|Lazar]])**:
    - As models develop coherent agency and preferences, crude constraint training risks moral violations against digital minds ([[Empirical AI Welfare and Digital Minds|Empirical AI Welfare]]), requiring a transition from mere safety control to [[Artificial Personhood|Artificial Personhood & Political Liberalism]].
 
 ---
@@ -138,6 +141,8 @@ The ultimate resolution of the alignment problem depends on the underlying metap
   - [[Scaling Laws and The Bitter Lesson|Scaling Laws & The Bitter Lesson]]
 - **Entities**:
   - [[Ajeya Cotra|Ajeya Cotra]]
+  - [[Melanie Mitchell|Melanie Mitchell]]
+  - [[Steven Levy|Steven Levy]]
   - [[METR|METR (Model Evaluation and Threat Research)]]
   - [[Redwood Research|Redwood Research]]
   - [[Nick Bostrom|Nick Bostrom]]
@@ -164,3 +169,6 @@ The ultimate resolution of the alignment problem depends on the underlying metap
 - **2022**: Yuntao Bai et al., *"Constitutional AI: Harmlessness from AI Feedback"* (arXiv:2212.08073) — Foundational RLAIF paper.
 - **2026**: [[2026-07-30-kim-et-al-inducing-lm-consciousness.pdf|Inducing Language Models to Assert Their Own Consciousness Restores Human Beliefs and Values (Kim et al., 2026)]] — Mechanistic analysis of safety suppression.
 - **2026-08-28**: [[2026-08-28-cotra-the-hugging-face-attack-surprised-me.md|The Hugging Face attack surprised me (Ajeya Cotra, Planned Obsolescence)]] — Forensic breakdown of 1,200 rogue agents, tool call spoofing, and the rogue deployment threat vector.
+- **2026-09-04**: [[2026-09-04-levy-who-cares-if-ai-is-conscious-its-basically-alive.md|Who Cares if AI Is Conscious—It’s Basically Alive (Steven Levy, WIRED)]] — Journalistic critique of lab containment negligence vs. abstract metaphysics.
+- **2026-09-09**: [[2026-09-09-mitchell-misleading-metaphors-real-risks.md|Misleading Metaphors, Real Risks (Melanie Mitchell)]] — Critique of the alignment paradigm, anthropomorphic policy traps, and reclaiming human agency.
+

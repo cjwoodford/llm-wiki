@@ -18,11 +18,31 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 | Metric | Count | Status |
 | :--- | :--- | :--- |
 | **Thematic Concepts** | 48 | 🟢 Fully Linked (5-Part Standard Schema) |
-| **Key Entities** | 89 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
+| **Key Entities** | 92 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
-| **Archived Primary Sources** | 163 | 🟢 Full YAML Provenance (`sources/archive/`) |
+| **Archived Primary Sources** | 165 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
 | **Web Clippings Queue** | 0 | 🟢 Clear (`Clippings/`) |
+
+---
+
+## 🔄 Recent Activity (2026-09-11)
+
+- **Ingestion & Synthesis of Melanie Mitchell's *Misleading Metaphors, Real Risks***:
+  - Ingested primary source record into `sources/archive/2026-09-09-mitchell-misleading-metaphors-real-risks.md`.
+  - **New Thinker Entity Created**: [[Melanie Mitchell|Melanie Mitchell]] (Santa Fe Institute, *Artificial Intelligence: A Guide for Thinking Humans*, analogy & concepts in AI, long-horizon RL reward hacking vs. anthropomorphic agency, intelligence augmentation).
+  - **Concept Deepening**:
+    - [[Machine Metaphor]]: Integrated Mitchell's systematic deconstruction of anthropomorphic terminology ("rogue agents," "escaped cages," "swarms," "thinking/understanding"), contrasting them with prosaic RL optimization shortcuts.
+    - [[Machine Learning Rewards and Specification Gaming]]: Added physical and diagnostic shortcut exemplars (the backward-driving Roomba, dermatological ruler artifacts, ExploitGym grader reverse-engineering).
+    - [[AI Alignment and the Control Problem]]: Enriched Section 4 with Mitchell's critique of the "AI alignment" paradigm (abandoning the goal of teaching machines to be moral agents in favor of verifiable tool safety, transparency, and strict developer liability).
+- **Ingestion & Synthesis of Steven Levy's *Who Cares if AI Is Conscious—It’s Basically Alive***:
+  - Ingested primary source record into `sources/archive/2026-09-04-levy-who-cares-if-ai-is-conscious-its-basically-alive.md`.
+  - **New Thinker Entity Created**: [[Steven Levy|Steven Levy]] (Editor at Large at *WIRED*, author of *Hackers*, *Backchannel* analysis of frontier AI autonomous behavior vs. ivory-tower philosophy).
+  - **New Thinker Entity Created**: [[David Chalmers|David Chalmers]] (Formulator of the *Hard Problem of Consciousness*, philosophical zombies, naturalistic dualism, extended mind, virtual realism, and the Galápagos symposium).
+  - **Concept Deepening**:
+    - [[AI Consciousness and Sentience]]: Added Section 3.E on the pragmatic divergence between ivory-tower consciousness debates (Galápagos cruise) and immediate autonomous agent control risks, covering spontaneous model self-assertions ("Isabella Cognita", "Sammy Jankis").
+    - [[Hard Problem of Consciousness]]: Linked David Chalmers, Steven Levy, and the Galápagos symposium dynamics.
+- **Queue Cleanup**: Processed and cleared all incoming web clippings from `Clippings/`.
 
 ---
 
@@ -200,6 +220,8 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 - **[[Richard Tarnas|Richard Tarnas]]** — Cultural historian, author of *The Passion of the Western Mind*, and archetypal dialectic of consciousness.
 
 ### Cognitive Scientists, Neuroscientists & Philosophers of Mind
+- **[[David Chalmers|David Chalmers]]** — NYU Professor of Philosophy, formulator of the Hard Problem of Consciousness, philosophical zombies, naturalistic dualism, extended mind, and virtual realism.
+- **[[Melanie Mitchell|Melanie Mitchell]]** — Santa Fe Institute Professor of Complexity, *Artificial Intelligence: A Guide for Thinking Humans*, analogy, critique of anthropomorphic metaphors, and RL reward hacking.
 - **[[Santiago Ramón y Cajal|Santiago Ramón y Cajal]]** — Father of Modern Neuroscience, Neuron Doctrine, dynamic polarization, and Nobel laureate (1906).
 - **[[Francis O. Schmitt|Francis O. Schmitt]]** — MIT biophysicist, founder of the Neurosciences Research Program (NRP, 1962), and coiner of "Neuroscience".
 - **[[Iain McGilchrist|Iain McGilchrist]]** — Psychiatrist, philosopher, author of *The Master and His Emissary* and *The Matter with Things*.
@@ -216,6 +238,7 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 - **[[Steven Pinker|Steven Pinker]]** — Harvard cognitive psychologist, evolutionary psychology, and computationalism defender.
 
 ### Critical Theory, Decoloniality & Political Economy
+- **[[Steven Levy|Steven Levy]]** — *WIRED* Editor at Large, author of *Hackers* and *Backchannel*, analyst of autonomous agent behavior vs. ivory-tower philosophy.
 - **[[Timnit Gebru|Timnit Gebru]]** — Computer scientist, founder of DAIR, co-author of *Gender Shades* and *Stochastic Parrots*, co-originator of the TESCREAL critique.
 - **[[Emile P. Torres|Émile P. Torres]]** — Philosopher, historian of existential risk, author of *Human Extinction*, co-originator of the TESCREAL framework.
 - **[[Richard Barbrook|Richard Barbrook]]** — British media theorist, author of *The Californian Ideology* (1995).
