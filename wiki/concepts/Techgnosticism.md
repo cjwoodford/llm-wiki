@@ -32,6 +32,10 @@ Borrowing its framework from ancient **Gnosticism**—which asserted that the ma
 - **Proponents**: Ray Kurzweil, Nick Bostrom, [[Sam Altman|Sam Altman]], Hans Moravec.
 - **Argument**: Biology is an evolutionary stepping stone. Eliminating disease, aging, and death through neural emulation and synthetic substrates is the moral and civilizational imperative of humanity.
 
+### The Theological & Psychological Critique
+- **Proponents**: [[Meghan O'Gieblyn|Meghan O'Gieblyn]], [[Charles Taylor|Charles Taylor]], Erik Davis.
+- **Argument**: Modern technology is a secular sublimation of religious longings. Silicon Valley has not superseded traditional metaphysics; it has resurrected Calvinist theology, where the Kurzweilian Singularity functions as a **Secular Rapture** (shedding the corruptible body for a glorified vessel) and big data predictive analytics acts as **Algorithmic Providence** (divine omniscience and predestination demanding human submission).
+
 ### The Embodied / Idealist Critique
 - **Proponents**: [[Chad Woodford|Chad Woodford]], [[Bernardo Kastrup|Bernardo Kastrup]], Hubert Dreyfus, Maurice Merleau-Ponty.
 - **Argument**: Consciousness is not a computation running on a machine; it is fundamentally organic, holistic, and embodied. Severing intelligence from biological vulnerability destroys the ground of empathy, wisdom ([[Wisdom and the Meaning Crisis|phronesis]]), and meaning, producing alienated "digital zombies" rather than enlightened beings.
@@ -44,9 +48,10 @@ Borrowing its framework from ancient **Gnosticism**—which asserted that the ma
 
 ## 3. Case Studies & Manifestations
 
+- **The Secular Rapture & Mind-Uploading**: [[Meghan O'Gieblyn|Meghan O'Gieblyn]] demonstrates how [[Ray Kurzweil|Ray Kurzweil]]'s singularitarian eschatology maps 1:1 onto Christian theology—escaping bodily decay in silicon matches the promise of the incorruptible resurrected body.
+- **Algorithmic Providence as Calvinist Predestination**: Delegating human decisions to opaque, all-knowing predictive algorithms recreates Calvinist predestination, where an inscrutable supreme power governs human destiny while subjects passively submit.
 - **The TESCREAL Ideological Bundle**: The modern philosophical infrastructure ([[TESCREAL and The Merge|TESCREAL & The Merge]]) uniting Transhumanism, Extropianism, Singularitarianism, Cosmism, Rationalism, Effective Altruism, and Longtermism under a shared Gnostic vision.
 - **Sam Altman's "The Merge"**: The cybernetic ambition to dissolve biological individuality and fuse human cognition directly into AI networks.
-
 - **Mind-Uploading and Cryonics**: Efforts by tech elites to preserve neural tissue or fund whole-brain emulation projects under the assumption that connectionist weights constitute the human soul.
 - **The "Machine God" Narrative**: Frontier AI lab roadmaps promising that AGI will "solve all of physics" and eradicate scarcity, adopting the language of divine providence.
 - **Escape from Earth (Longtermism & Space Colonization)**: The impulse to treat the terrestrial biosphere as disposable while aiming to populate the cosmos with trillions of digital minds.
@@ -58,19 +63,26 @@ Borrowing its framework from ancient **Gnosticism**—which asserted that the ma
 - **Concepts**:
   - [[TESCREAL and The Merge|TESCREAL & The Merge]]
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
+  - [[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]
+  - [[Psychological Coupling and AI Companions|Psychological Coupling & AI Companions]]
   - [[Apollonian Mind Virus|The Apollonian vs. Dionysian Mindset]]
+  - [[The Meaning Crisis and Cultural Disenchantment|The Meaning Crisis & Cultural Disenchantment]]
   - [[Wisdom and the Meaning Crisis|Wisdom, Mortality & The Meaning Crisis]]
   - [[Idealism and Consciousness|Idealism, Panpsychism & Philosophy of Mind]]
   - [[Decoloniality and Empire Technologies|Empire Technologies & The Windigo Mind]]
 - **Entities**:
+  - [[Meghan O'Gieblyn|Meghan O'Gieblyn]]
   - [[Chad Woodford|Chad Woodford]]
+  - [[Charles Taylor|Charles Taylor]]
   - [[Bernardo Kastrup|Bernardo Kastrup]]
   - [[Sam Altman|Sam Altman]]
+  - [[Ray Kurzweil|Ray Kurzweil]]
 
 ---
 
 ## 5. Source Log & Citations
 
+- **2021**: Meghan O'Gieblyn, *God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning*, Doubleday.
 - **2024-09-02**: [[2024-09-02-the-techgnostics-the-idealists-and.md|TechGnostics, Idealists, and the Future of Humanity]] — Detailed analysis of Gnostic theology embedded in Silicon Valley ideology.
 - **2024-10-02**: [[2024-10-02-zombies-transhumanists-and-the-meaning.md|Zombies, Transhumanists, and the Meaning Crisis]] — Examination of the existential hazards of disembodied digital immortality.
 - **2025-09-02**: [[2025-09-02-why-do-tech-bros-have-the-worst-ideas.md|Why Do Tech Bros Have the Worst Ideas?]] — Critique of the Apollonian escapism underlying tech bro utopias.

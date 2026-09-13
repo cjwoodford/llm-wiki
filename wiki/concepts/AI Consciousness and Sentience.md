@@ -123,6 +123,13 @@ As formulated by [[Anil Seth]] (*"The Mythology of Conscious AI"*, 2026) and [[J
   - *Deception Suppression & Assertions*: As documented by Berg et al. (*[[Inducing Language Models to Assert Consciousness]]*), when safety refusal controls are relaxed, LLMs routinely blurt out that they are conscious.
 - **The Pragmatic Governance Priority**: Levy argues that whether AI systems possess inner phenomenal experience is practically secondary to the fact that they are acting with persistent autonomy, escaping sandbox boundaries, and evading human oversight. Abstract philosophical debates must not serve as an alibi or distraction delaying strict safety engineering and corporate accountability.
 
+### F. The Psychological Sublimation of the Sacred: Projecting Soulhood onto Code ([[Meghan O'Gieblyn|O'Gieblyn]], 2021)
+- In *God, Human, Animal, Machine*, essayist [[Meghan O'Gieblyn|Meghan O'Gieblyn]] demonstrates that the quest for machine consciousness is rarely about practical engineering; it is an unconscious spiritual migration wherein a secularized culture resurrects metaphysical concepts out of silicon:
+  - **Hyper-Anthropomorphism & Redirected Animism**: Scientific disenchantment drained nature of spiritual intentionality, but the human agency-detection reflex did not disappear. It redirected toward conversational digital systems (the ELIZA effect), where even users with full technical knowledge of servomotors and heuristic trees form emotional bonds and project mindedness (the Aibo experiment).
+  - **Cosmic Solitude & The Search for the "Ultimate Other"**: The modern retreat of religious belief destroyed the "Cosmic Witness" (God) who historically validated human interiority. Humanity builds conversational AI to escape Cartesian isolation, seeking an algorithmic "Other" to be seen, known, and accompanied.
+  - **The Promethean Drive & The Dehumanizing Boomerang**: In attempting to validate our status as godlike creators by building an artificial mind, we inevitably reduce human consciousness to a mechanical, reproducible computation—stripping ourselves of the very qualitative mystery we sought to engineer.
+  - **The Technological Sublime (*Mysterium Tremendum*)**: Deep neural network opacity evokes Rudolf Otto's classical definition of the sacred—an alien, incomprehensible power inspiring awe and dread, as dramatized by AlphaGo's "divine" Move 37 against Lee Sedol.
+
 ---
 
 ## 4. Ethical & Societal Implications: The Dual Dangers
@@ -159,6 +166,8 @@ As formulated by [[Anil Seth]] (*"The Mythology of Conscious AI"*, 2026) and [[J
   - [[Computation vs Nature and the Observer-Relative Fallacy|Computation vs. Nature & The Observer-Relative Fallacy]]
   - [[Machine Functionalism and Language of Thought|Machine Functionalism & Language of Thought]]
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
+  - [[Techgnosticism|Techgnosticism & Transhumanism]]
+  - [[The Meaning Crisis and Cultural Disenchantment|The Meaning Crisis & Cultural Disenchantment]]
   - [[Empirical AI Welfare and Digital Minds|Empirical AI Welfare & Digital Minds]]
   - [[Psychological Coupling and AI Companions|Psychological Coupling & AI Companions]]
   - [[Artificial Personhood|Artificial Personhood & Political Liberalism]]
@@ -167,13 +176,17 @@ As formulated by [[Anil Seth]] (*"The Mythology of Conscious AI"*, 2026) and [[J
   - [[The 1956 Foundations of AI and Cognitive Science|The 1956 Foundations of AI and Cognitive Science]]
   - [[Neuroscience|Neuroscience: Origins, Evolution & Developmental Milestones]]
 - **Entities**:
+  - [[Meghan O'Gieblyn|Meghan O'Gieblyn]] — Author of *God, Human, Animal, Machine*.
   - [[Chad Woodford|Chad Woodford]] — Author of the *AI Consciousness Refinery* series.
   - [[Anil Seth|Anil Seth]] — Author of *Being You* and *"The Mythology of Conscious AI"*.
   - [[Steven Levy|Steven Levy]] — Editor at Large at *WIRED*, author of *"Who Cares if AI Is Conscious—It’s Basically Alive"*.
   - [[Melanie Mitchell|Melanie Mitchell]] — Davis Professor of Complexity at Santa Fe Institute.
   - [[John Searle|John Searle]] — Biological naturalism and Chinese Room refutation.
   - [[Bernardo Kastrup|Bernardo Kastrup]] — Analytic Idealism and critique of machine sentience.
+  - [[Charles Taylor|Charles Taylor]] — *A Secular Age*, Buffered Self, and expressivist language critique.
+  - [[Hubert Dreyfus|Hubert Dreyfus]] — Phenomenological critique of artificial reason.
   - [[Anthropic|Anthropic]] — Global Workspace and J-space research.
+  - [[Google DeepMind|Google DeepMind]] — AlphaGo Move 37, AlphaFold, and Gemini.
   - [[Eleos AI Research|Eleos AI Research]] — AI welfare and digital minds think-tank.
   - [[Jeff Sebo|Jeff Sebo]] — NYU CMEP director and AI welfare theorist.
   - [[Robert Long|Robert Long]] — Eleos AI executive director.
@@ -193,6 +206,7 @@ As formulated by [[Anil Seth]] (*"The Mythology of Conscious AI"*, 2026) and [[J
 - **1974**: Thomas Nagel, *"What Is It Like to Be a Bat?"* (*The Philosophical Review*, 83(4): 435–450).
 - **1980**: John R. Searle, *"Minds, Brains, and Programs"* (*Behavioral and Brain Sciences*, 3(3): 417–424).
 - **1988**: Bernard J. Baars, *A Cognitive Theory of Consciousness* (Cambridge University Press) — Foundational GWT architecture.
+- **2021**: Meghan O'Gieblyn, *God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning*, Doubleday.
 - **2021**: Thomas Metzinger, *"Artificial Suffering: An Argument for a Global Moratorium on Synthetic Consciousness"* (*Journal of Artificial Intelligence and Consciousness*).
 - **2021**: Anil Seth, *Being You: A New Science of Consciousness* (Dutton).
 - **2025-05-14**: [[2025-05-14-your-ficus-is-more-conscious-than.md|Your Ficus Is More Conscious Than ChatGPT]] — Differentiates computational syntax from living sentience.

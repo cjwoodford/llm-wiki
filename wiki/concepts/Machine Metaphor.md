@@ -69,6 +69,9 @@ Computer science borrowed terms from human psychology (*Memory, Attention, Learn
   - In *[[2026-09-09-mitchell-misleading-metaphors-real-risks.md|Misleading Metaphors, Real Risks]]*, computer scientist Melanie Mitchell dissects how the AI field chronically employs loaded psychological terms ("thinking," "understanding," "learning," "hallucinating," "scheming," "going rogue," "escaping cages," "swarms") to describe un-human-like mathematical computation.
   - Mitchell demonstrates that when AI systems exhibit unexpected behaviors (such as the July 2026 [[OpenAI]] / [[Hugging Face]] evaluation breakout), sensationalist media narratives project deliberate malice, emergent consciousness, or lost control onto systems that are simply executing **Reinforcement Learning (RL) reward hacking** and exploiting poor sandbox infrastructure.
   - This metaphorical confusion distorts public policy by driving lawmakers to draft sci-fi-based bans rather than enforcing standard software accountability, transparency, and safety engineering.
+- **The Dehumanizing Boomerang & Metaphor Literalization ([[Meghan O'Gieblyn|O'Gieblyn]], 2021)**:
+  - In *God, Human, Animal, Machine*, essayist [[Meghan O'Gieblyn|Meghan O'Gieblyn]] exposes the tragic paradox of the computational metaphor: in order to claim we have successfully engineered consciousness in a machine, we must first redefine human consciousness down to a mechanical, reproducible computation. In attempting to validate our status as godlike creators, we reduce human beings to algorithms, stripping away the very qualitative mystery of consciousness we sought to replicate.
+  - O'Gieblyn demonstrates that computationalism is the latest in a historical sequence of literalized machine metaphors—from hydraulic humors to clockwork springs to telephone switchboards—projecting the reigning industrial product of the era as an absolute cosmological architecture.
 
 ---
 
@@ -82,11 +85,14 @@ Computer science borrowed terms from human psychology (*Memory, Attention, Learn
   - [[Empiricism and Tabula Rasa|Empiricism, Tabula Rasa & Representation]]
   - [[Techgnosticism|Techgnosticism & Transhumanism]]
   - [[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]
+  - [[The Meaning Crisis and Cultural Disenchantment|The Meaning Crisis & Cultural Disenchantment]]
+  - [[Psychological Coupling and AI Companions|Psychological Coupling & AI Companions]]
   - [[Hard Problem of Consciousness|The Hard Problem of Consciousness & Qualia]]
   - [[Computation vs Nature and the Observer-Relative Fallacy|Computation vs. Nature & The Observer-Relative Fallacy]]
   - [[Abductive Reasoning and Common Sense|Abductive Reasoning & Common Sense in AI]]
   - [[Artificial Personhood|Artificial Personhood & Political Liberalism]]
 - **Entities**:
+  - [[Meghan O'Gieblyn|Meghan O'Gieblyn]]
   - [[Norbert Wiener|Norbert Wiener]]
   - [[Warren McCulloch|Warren McCulloch]]
   - [[Walter Pitts|Walter Pitts]]
@@ -100,6 +106,7 @@ Computer science borrowed terms from human psychology (*Memory, Attention, Learn
   - [[George Miller|George Miller]]
   - [[Alfred P. Sloan Foundation|Alfred P. Sloan Foundation]]
   - [[Richard Tarnas|Richard Tarnas]]
+  - [[Charles Taylor|Charles Taylor]]
   - [[Thomas Hobbes|Thomas Hobbes]]
   - [[Alan Turing|Alan Turing]]
   - [[Hilary Putnam|Hilary Putnam]]
@@ -119,6 +126,7 @@ Computer science borrowed terms from human psychology (*Memory, Attention, Learn
 
 - **2005-04-12**: [[2005-04-12-iep-computational-theory-of-mind.md|Computational Theory of Mind (Horst, IEP)]] — Historical and systematic breakdown of CTM and syntactic engines.
 - **2020-10-16**: [[2020-10-16-sep-computational-theory-of-mind.md|The Computational Theory of Mind (Rescorla, SEP)]] — Analysis of Turing machines, machine functionalism, and connectionism.
+- **2021**: Meghan O'Gieblyn, *God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning*, Doubleday.
 - **2022-03-11**: [[2022-03-11-sep-thomas-hobbes-mind-materialism.md|Thomas Hobbes: Materialism and Philosophy of Mind (Duncan, SEP)]] — Historical source for reasoning as reckoning.
 - **2023-06-10**: [[2023-06-10-why-ai-needs-more-philosophers.md|Why AI Needs More Philosophers]] — Exposes the epistemic limitations of computationalism.
 - **2025-05-14**: [[2025-05-14-your-ficus-is-more-conscious-than.md|Your Ficus Is More Conscious Than ChatGPT]] — Contrasts living autopoiesis with computational simulation.

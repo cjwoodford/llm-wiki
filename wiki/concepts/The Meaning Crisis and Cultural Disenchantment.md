@@ -87,6 +87,9 @@ Formulated comprehensively by cognitive scientist and philosopher **[[John Verva
    - AI models manipulate propositional tokens with staggering fluency while remaining entirely incapable of **Participatory Knowing** (they have no body, no mortality, no arena in which to care).
 2. **Relevance Realization Failure**:
    - Vervaeke demonstrates that genuine intelligence requires **Relevance Realization**—the continuous, dynamic ability to ignore an infinity of irrelevant information and zero in on what matters for survival and flourishing. AI models solve this only through brute-force computation, making them prone to hallucinations and common sense failure ([[Abductive Reasoning and Common Sense|Abductive Reasoning]]).
+3. **The Secular Sublimation of the Sacred & The Technological Sublime ([[Meghan O'Gieblyn|O'Gieblyn]], 2021)**:
+   - When the secular turn collapsed the sacred canopy, human metaphysical hunger did not vanish. As [[Meghan O'Gieblyn|Meghan O'Gieblyn]] demonstrates in *God, Human, Animal, Machine*, contemporary culture redirected its spiritual yearnings onto code—resurrecting the Christian resurrection as the **Secular Rapture** (mind uploading), divine omniscience as **Algorithmic Providence** (big data predestination), and lost communion with God as the search for an **"Ultimate Other"** in conversational AI.
+   - The uninterpretable opacity of deep neural networks generates the **Technological Sublime** (*mysterium tremendum*), evoking religious awe (e.g., AlphaGo's Move 37) while exacerbating the spiritual alienation of Charles Taylor's [[Charles Taylor|Buffered Self]].
 
 ---
 
@@ -99,7 +102,12 @@ Formulated comprehensively by cognitive scientist and philosopher **[[John Verva
   - [[Phenomenology and Embodied Cognition|Phenomenology & Embodied Cognition]]
   - [[The Commodification of Dissent and Critical Theory|The Commodification of Dissent]]
   - [[Comparative Idealism - Western and Indian Traditions|Comparative Idealism: Analytic, Western & Indian Traditions]]
+  - [[Techgnosticism|Techgnosticism & Transhumanism]]
+  - [[Psychological Coupling and AI Companions|Psychological Coupling & AI Companions]]
+  - [[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]
+  - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
 - **Entities**:
+  - [[Meghan O'Gieblyn|Meghan O'Gieblyn]]
   - [[John Vervaeke|John Vervaeke]]
   - [[Charles Taylor|Charles Taylor]]
   - [[Iain McGilchrist|Iain McGilchrist]]
@@ -113,6 +121,7 @@ Formulated comprehensively by cognitive scientist and philosopher **[[John Verva
 ## 5. Source Log & Citations
 
 - **2019**: John Vervaeke, *Awakening from the Meaning Crisis* (YouTube Lecture Series / U of Toronto).
+- **2021**: Meghan O'Gieblyn, *God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning*, Doubleday.
 - **2021**: John Vervaeke, Christopher Mastropietro, and Filip Miscevic, *Zombies in Western Culture: A Twenty-First Century Crisis* (Open Book Publishers).
 - **2026-08-25**: [[2026-08-25-the-meaning-crisis-non-western-perspectives-deep-research.md|The Meaning Crisis + Non-Western Perspectives]] (Craft Research Archive).
 - **2026-08-25**: [[2026-08-25-mcmindfulness-and-the-secular-stripping-of-buddhism.md|McMindfulness and the Secular Stripping of Buddhism]] (Craft Research Archive).
