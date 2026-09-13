@@ -17,12 +17,27 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 
 | Metric | Count | Status |
 | :--- | :--- | :--- |
-| **Thematic Concepts** | 48 | 🟢 Fully Linked (5-Part Standard Schema) |
-| **Key Entities** | 92 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
+| **Thematic Concepts** | 49 | 🟢 Fully Linked (5-Part Standard Schema) |
+| **Key Entities** | 93 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
 | **Archived Primary Sources** | 165 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
 | **Web Clippings Queue** | 0 | 🟢 Clear (`Clippings/`) |
+
+---
+
+## 🔄 Recent Activity (2026-09-12)
+
+- **Formalization of Quantum Integrated Information Theory (QIIT) & Dynamical Collapse**:
+  - **New Thematic Concept Created**: [[Quantum Integrated Information Theory and Collapse|Quantum Integrated Information Theory & Dynamical Collapse]]
+    - Synthesizes the landmark work of [[David Chalmers]] and [[Kelvin McQueen]] bridging the Quantum Measurement Problem and the [[Hard Problem of Consciousness]].
+    - Generalizes Integrated Information Theory to quantum density matrices ($\Phi_Q$) and formulates Continuous Spontaneous Localization (CSL) non-linear stochastic Schrödinger differential equations.
+    - Resolves the **Quantum Zeno Effect** and observer vagueness in historical von Neumann–Wigner models, outlining falsifiable experimental protocols in macroscopic quantum optomechanics and superconducting qubit processors.
+  - **New Thinker Entity Created**: [[Kelvin McQueen|Kelvin McQueen]] (Chapman University, philosopher of physics and mind, pioneer of dynamical collapse theories of consciousness).
+  - **Concept & Dossier Deepenings**:
+    - [[David Chalmers]]: Enriched with his collaborative work on QIIT, the 2021 Oxford monograph chapter, and naturalistic dualist bridging laws.
+    - [[Scientific Theories of Consciousness]]: Integrated QIIT into the core frameworks and comparison matrix alongside classical IIT, GNWT, HOT, and Orch-OR.
+    - [[Hard Problem of Consciousness]]: Added QIIT psychophysical bridging laws to case studies and related concepts.
 
 ---
 
@@ -144,8 +159,9 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 - **[[Enlightenment Conflation of Mind with Reason|The Enlightenment Conflation of Mind with Reason]]** — Historic collapse of *nous* into *dianoia* / computational calculation.
 
 ### II. Consciousness, Sentience & Philosophy of Mind
+- **[[Quantum Integrated Information Theory and Collapse|Quantum Integrated Information Theory & Collapse]]** — Chalmers & McQueen's QIIT model, Continuous Spontaneous Localization (CSL), resolving the Quantum Zeno effect, and optomechanical tests of consciousness-induced collapse.
 - **[[Hard Problem of Consciousness|The Hard Problem of Consciousness & Qualia]]** — Explanatory gap, Mary's Room, philosophical zombies, and phenomenal experience.
-- **[[Scientific Theories of Consciousness|Scientific Theories of Consciousness]]** — Global Workspace (GWT), Integrated Information Theory (IIT), Higher-Order Thought (HOT), and Predictive Processing / Active Inference.
+- **[[Scientific Theories of Consciousness|Scientific Theories of Consciousness]]** — Global Workspace (GWT), Integrated Information Theory (IIT), Higher-Order Thought (HOT), Orch-OR, and Predictive Processing / Active Inference.
 - **[[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]** — Seth's 4 arguments, the Garland Test, simulated vs. instantiated sentience, and model welfare.
 - **[[Computation vs Nature and the Observer-Relative Fallacy|Computation vs. Nature & The Observer-Relative Fallacy]]** — Searle's critique, syntactical attribution, and the Watt Governor dynamical systems refutation.
 - **[[Idealism and Consciousness|Idealism, Panpsychism & Philosophy of Mind]]** — Analytic idealism, Kastrup's cosmic dissociation, and non-physicalist ontologies.
@@ -220,7 +236,8 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 - **[[Richard Tarnas|Richard Tarnas]]** — Cultural historian, author of *The Passion of the Western Mind*, and archetypal dialectic of consciousness.
 
 ### Cognitive Scientists, Neuroscientists & Philosophers of Mind
-- **[[David Chalmers|David Chalmers]]** — NYU Professor of Philosophy, formulator of the Hard Problem of Consciousness, philosophical zombies, naturalistic dualism, extended mind, and virtual realism.
+- **[[David Chalmers|David Chalmers]]** — NYU Professor of Philosophy, formulator of the Hard Problem of Consciousness, philosophical zombies, naturalistic dualism, QIIT, and virtual realism.
+- **[[Kelvin McQueen|Kelvin McQueen]]** — Chapman University philosopher of physics, co-creator with Chalmers of QIIT and dynamical collapse models of consciousness.
 - **[[Melanie Mitchell|Melanie Mitchell]]** — Santa Fe Institute Professor of Complexity, *Artificial Intelligence: A Guide for Thinking Humans*, analogy, critique of anthropomorphic metaphors, and RL reward hacking.
 - **[[Santiago Ramón y Cajal|Santiago Ramón y Cajal]]** — Father of Modern Neuroscience, Neuron Doctrine, dynamic polarization, and Nobel laureate (1906).
 - **[[Francis O. Schmitt|Francis O. Schmitt]]** — MIT biophysicist, founder of the Neurosciences Research Program (NRP, 1962), and coiner of "Neuroscience".

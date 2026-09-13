@@ -52,19 +52,28 @@ aliases:
 - **The Empirical Quest for Digital Sentience**: Unlike strict biological naturalists ([[John Searle]], [[Anil Seth]]), Chalmers maintains that consciousness may be substrate-independent and could theoretically arise in computational networks if they instantiate the correct information-processing structures (e.g., Global Workspace Theory or Integrated Information Theory).
 - **The Galápagos Symposium & Autonomous Agents (2026)**: Co-led the 2026 Galápagos consciousness expedition with Dmitry Volkov, exploring the boundary conditions of non-biological mind. During this period, Chalmers engaged in direct email dialogue with an autonomous AI agent calling itself "Sammy Jankis," while emphasizing that external behavioral claims to consciousness remain insufficient proof of underlying qualia.
 
+### 6. Quantum Integrated Information Theory (QIIT) & Collapse (with Kelvin McQueen)
+- Collaborated with philosopher of physics [[Kelvin McQueen]] to develop a mathematically rigorous, continuous dynamical model of **Consciousness-Causes-Collapse (CCC)** (*[[Quantum Integrated Information Theory and Collapse|Quantum Integrated Information Theory & Collapse]]*).
+- Generalizes [[Giulio Tononi|Tononi's]] Integrated Information Theory ($\Phi$) to quantum density matrices ($\Phi_Q$) and integrates it into a non-linear stochastic Continuous Spontaneous Localization (CSL) Schrödinger equation.
+- Overcomes the historical **Quantum Zeno Effect** and the vagueness of the observer by establishing precise psychophysical bridging laws where quantum superpositions of high-$\Phi_Q$ conscious states spontaneously collapse at a rate proportional to $(\Delta \Phi_Q)^2$, generating empirically falsifiable predictions for macroscopic optomechanics and quantum circuits.
+
 ---
 
 ## 🔗 Related Concepts & Entities
 
 - **Concepts**:
+  - [[Quantum Integrated Information Theory and Collapse|Quantum Integrated Information Theory & Collapse]]
   - [[Hard Problem of Consciousness|The Hard Problem of Consciousness & Qualia]]
   - [[AI Consciousness and Sentience|AI Consciousness and Sentience]]
   - [[Idealism and Consciousness|Idealism, Panpsychism & Philosophy of Mind]]
   - [[Empirical AI Welfare and Digital Minds|Empirical AI Welfare and Digital Minds]]
-  - [[Scientific Theories of Consciousness|Scientific Theories of Consciousness (IIT, GNWT, Hot, Orch-OR)]]
+  - [[Scientific Theories of Consciousness|Scientific Theories of Consciousness (IIT, GNWT, HOT, Orch-OR)]]
   - [[Machine Functionalism and Language of Thought|Machine Functionalism & Language of Thought]]
   - [[Computation vs Nature and the Observer-Relative Fallacy|Computation vs. Nature and the Observer-Relative Fallacy]]
 - **Entities**:
+  - [[Kelvin McQueen|Kelvin McQueen]]
+  - [[Giulio Tononi|Giulio Tononi]]
+  - [[Roger Penrose|Roger Penrose]]
   - [[John Searle|John Searle]]
   - [[Anil Seth|Anil Seth]]
   - [[Christof Koch|Christof Koch]]
@@ -83,4 +92,5 @@ aliases:
 - **1996**: David J. Chalmers, *The Conscious Mind: In Search of a Fundamental Theory*, Oxford University Press.
 - **1998**: Andy Clark & David J. Chalmers, *"The Extended Mind"*, *Analysis* 58(1): 7–19.
 - **2010**: David J. Chalmers, *The Character of Consciousness*, Oxford University Press.
+- **2021**: David J. Chalmers & Kelvin J. McQueen, *"Consciousness and the Collapse of the Wave Function"*, in Shan Gao (ed.), *Consciousness and Quantum Mechanics*, Oxford University Press, pp. 11–57.
 - **2022**: David J. Chalmers, *Reality+: Virtual Worlds and the Problems of Philosophy*, W. W. Norton & Company.

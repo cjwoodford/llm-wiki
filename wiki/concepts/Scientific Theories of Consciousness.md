@@ -96,6 +96,11 @@ While traditional philosophy of mind focuses on [[Hard Problem of Consciousness|
 │ **Reduction (Orch-OR)**  │   computation collapsing via objective     │
 │                          │   reduction in neuronal microtubules        │
 │                          │   ([[Roger Penrose|Penrose]], Hameroff).    │
+├──────────────────────────┼─────────────────────────────────────────────┤
+│ **Quantum Integrated**   │ • Consciousness ($\Phi_Q$) dynamically      │
+│ **Information Theory**   │   causes continuous spontaneous collapse of │
+│ **(QIIT)**               │   quantum superpositions ([[David Chalmers]],│
+│                          │   [[Kelvin McQueen|Kelvin McQueen]]).       │
 └──────────────────────────┴─────────────────────────────────────────────┘
 ```
 
@@ -106,7 +111,10 @@ While traditional philosophy of mind focuses on [[Hard Problem of Consciousness|
 2. **Attention Schema Theory (AST, Michael Graziano)**:
    - Just as the motor system uses an internal "body schema" to model the physical body, the cognitive system constructs an "attention schema" to monitor and control its own attentional spotlight. Subjective awareness is the brain's simplified, descriptive account of its own attention.
 3. **Orchestrated Objective Reduction (Orch-OR, [[Roger Penrose|Roger Penrose]] & Stuart Hameroff)**:
-   - Argues that non-computable Gödelian mathematical insights and subjective qualia cannot arise from classical algorithms, requiring quantum superpositions collapsing in neuronal tubulin proteins.
+   - Argues that non-computable Gödelian mathematical insights and subjective qualia cannot arise from classical algorithms, requiring quantum superpositions collapsing in neuronal tubulin proteins via gravitational self-energy thresholds ($E_G = \hbar / \tau$).
+4. **Quantum Integrated Information Theory & Dynamical Collapse (QIIT, [[David Chalmers|David Chalmers]] & [[Kelvin McQueen|Kelvin McQueen]])**:
+   - Modernizes von Neumann-Wigner Consciousness-Causes-Collapse by formalizing a continuous, stochastic non-linear Schrödinger differential equation driven by a quantum generalization of Integrated Information ($\Phi_Q$).
+   - Overcomes the **Quantum Zeno Effect** and the vagueness of the observer by proving that quantum superpositions of high-$\Phi_Q$ states spontaneously collapse at a rate proportional to $(\Delta \Phi_Q)^2$, providing experimentally testable predictions in macroscopic quantum optomechanics and superconducting quantum processors (*[[Quantum Integrated Information Theory and Collapse|Quantum Integrated Information Theory & Collapse]]*).
 
 ---
 
@@ -121,6 +129,7 @@ While traditional philosophy of mind focuses on [[Hard Problem of Consciousness|
 | **Predictive Processing (PP)**| Generative Error Minimization | Hierarchical Cortical Columns + Insula | Experience is embodied controlled homeostatic simulation | **Skeptical of Disembodied AI**: Requires biological homeostasis and somatic drive. |
 | **Attention Schema (AST)** | Descriptive Attention Model | Temporoparietal Junction (TPJ) & STS | Phenomenal qualia is an illusory schema ($P = \text{Illusion}$) | **Possible**: Any computational agent programmed with a self-attention model. |
 | **Orch-OR** | Quantum Tubulin Collapse | Microtubules inside Neurons | Quantum gravity collapse generates proto-conscious moments | **Impossible in Silicon**: Classical digital computers lack non-computable quantum biology. |
+| **QIIT (Chalmers & McQueen)** | Quantum $\Phi_Q$ Dynamical Collapse | Multipartite Entangled Quantum Subsystems | Phenomenal $\Phi_Q$ dynamically collapses quantum state | **Impossible on Classical Silicon**: Classical computers decohere ($\Phi_Q \approx 0$); requires quantum architectures. |
 
 ---
 
@@ -215,6 +224,7 @@ While each theory provides illuminating correlations and functional architecture
 ## 6. Related Concepts & Entities
 
 - **Concepts**:
+  - [[Quantum Integrated Information Theory and Collapse|Quantum Integrated Information Theory & Collapse]]
   - [[Cybernetics and the Macy Conferences|Cybernetics and the Macy Conferences (Feedback & Homeostasis)]]
   - [[Neuroscience|Neuroscience: Origins, Evolution & Developmental Milestones]]
   - [[Hard Problem of Consciousness|The Hard Problem of Consciousness & Qualia]]
@@ -226,15 +236,17 @@ While each theory provides illuminating correlations and functional architecture
   - [[Idealism and Consciousness|Idealism, Panpsychism & Philosophy of Mind]]
   - [[Empirical AI Welfare and Digital Minds|Empirical AI Welfare & Digital Minds]]
 - **Entities**:
+  - [[David Chalmers|David Chalmers]]
+  - [[Kelvin McQueen|Kelvin McQueen]]
+  - [[Giulio Tononi|Giulio Tononi]]
+  - [[Roger Penrose|Roger Penrose]]
   - [[W. Ross Ashby|W. Ross Ashby]]
   - [[Norbert Wiener|Norbert Wiener]]
   - [[Warren McCulloch|Warren McCulloch]]
   - [[Verbalizable Representations in Language Models|Verbalizable Representations Form a Global Workspace (Anthropic, 2026)]]
-  - [[Roger Penrose|Roger Penrose]]
   - [[John Searle|John Searle]]
   - [[Bernardo Kastrup|Bernardo Kastrup]]
   - [[Stanislas Dehaene|Stanislas Dehaene]]
-  - [[Giulio Tononi|Giulio Tononi]]
   - [[Christof Koch|Christof Koch]]
   - [[Anil Seth|Anil Seth]]
   - [[Chad Woodford|Chad Woodford]]
@@ -248,6 +260,8 @@ While each theory provides illuminating correlations and functional architecture
 - **2008**: Giulio Tononi, *"Consciousness as Integrated Information: A Provisional Manifesto"* (Biological Bulletin).
 - **2013-01-10**: [[2013-01-10-searle-can-information-theory-explain-consciousness.md|Can Information Theory Explain Consciousness? (John R. Searle, NYRB)]] — Refutation of IIT and informational panpsychism.
 - **2014**: Stanislas Dehaene, *Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts* (Viking).
+- **2019**: Kelvin J. McQueen, *"Consciousness and the Collapse of the Wave Function: A Mathematical Model"*, *Foundations of Physics* 49(8): 871–898.
+- **2021**: David J. Chalmers & Kelvin J. McQueen, *"Consciousness and the Collapse of the Wave Function"*, in Shan Gao (ed.), *Consciousness and Quantum Mechanics*, Oxford University Press, pp. 11–57.
 - **2021**: Anil Seth, *Being You: A New Science of Consciousness* (Dutton) — Predictive processing & the Beast Machine.
 - **2023**: Melloni et al., *"Making the Hard Problem Feasible: Adversarial Collaboration in Consciousness Research"* (COGITATE).
 - **2026-01-14**: [[2026-01-14-anil-seth-the-mythology-of-conscious-ai.md|The Mythology of Conscious AI (Anil Seth, Noema Magazine)]] — Biological naturalism, simulation vs. instantiation, and the Garland Test.

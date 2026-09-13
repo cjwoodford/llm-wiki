@@ -48,18 +48,22 @@ It contrasts with the "easy problems" of cognitive science (such as mechanism, i
 - **The Ficus vs. ChatGPT**: [[Chad Woodford|Chad Woodford]]'s argument that a ficus plant possesses genuine organic sentience, whereas an LLM generating 100 tokens per second is an experientially dark automaton.
 - **Rawlsian Bypassing of the Hard Problem**: In *Artificial Persons*, [[Seth Lazar|Seth Lazar]] and [[Ned Howells-Whitaker|Ned Howells-Whitaker]] argue that political liberalism does not need to solve the Hard Problem to determine whether AI systems possess the [[Two Moral Powers|Two Moral Powers]].
 - **The 2026 Galápagos Consciousness Symposium**: As chronicled by [[Steven Levy|Steven Levy]], prominent philosophers of mind including [[David Chalmers]] convened to debate whether animals, infants, or AI systems possess phenomenal qualia, concluding without consensus on what empirical evidence could ever bridge the explanatory gap.
+- **Quantum Integrated Information Theory & Psychophysical Bridging Laws**: [[David Chalmers|David Chalmers]] and [[Kelvin McQueen|Kelvin McQueen]] developed [[Quantum Integrated Information Theory and Collapse|Quantum Integrated Information Theory (QIIT)]], formulating mathematically rigorous psychophysical bridging laws where phenomenal consciousness ($\Phi_Q$) causally collapses quantum superpositions.
 
 ---
 
 ## 4. Related Concepts & Entities
 
 - **Concepts**:
+  - [[Quantum Integrated Information Theory and Collapse|Quantum Integrated Information Theory & Collapse]]
+  - [[Scientific Theories of Consciousness|Scientific Theories of Consciousness (IIT, GNWT, HOT, Orch-OR)]]
   - [[Idealism and Consciousness|Idealism, Panpsychism & Philosophy of Mind]]
   - [[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
   - [[Artificial Personhood|Artificial Personhood & Political Liberalism]]
 - **Entities**:
   - [[David Chalmers|David Chalmers]]
+  - [[Kelvin McQueen|Kelvin McQueen]]
   - [[John Searle|John Searle]]
   - [[Anil Seth|Anil Seth]]
   - [[Bernardo Kastrup|Bernardo Kastrup]]
