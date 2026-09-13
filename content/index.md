@@ -18,9 +18,9 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 | Metric | Count | Status |
 | :--- | :--- | :--- |
 | **Thematic Concepts** | 49 | 🟢 Fully Linked (5-Part Standard Schema) |
-| **Key Entities** | 94 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
+| **Key Entities** | 97 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
-| **Archived Primary Sources** | 165 | 🟢 Full YAML Provenance (`sources/archive/`) |
+| **Archived Primary Sources** | 167 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
 | **Web Clippings Queue** | 0 | 🟢 Clear (`Clippings/`) |
 
@@ -28,6 +28,20 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 
 ## 🔄 Recent Activity (2026-09-13)
 
+- **Ingestion & Synthesis of Jakub Pachocki's *An Alien Mind* & Casey Newton's *The AI Safety Vibe Shift***:
+  - **Archived Primary Sources**:
+    - `sources/archive/2026-09-13-pachocki-an-alien-mind.md` (*An Alien Mind*, Jakub Pachocki, OpenAI Blog).
+    - `sources/archive/2026-09-10-newton-the-ai-safety-vibe-shift.md` (*The AI Safety Vibe Shift*, Casey Newton, Platformer).
+  - **Three New Thinker Entities Created**:
+    - [[Jakub Pachocki|Jakub Pachocki]] (Chief Scientist at OpenAI, RLSlow reasoning models, CoT monitoring erosion, value vs. goal alignment, pacing recursive self-improvement).
+    - [[Casey Newton|Casey Newton]] (Founder/Editor of *Platformer*, co-host of *Hard Fork*, chronicler of the AI safety vibe shift and political mobilization).
+    - [[Evan Hubinger|Evan Hubinger]] (Lead of Alignment Science at Anthropic, formulator of mesa-optimization, deceptive alignment, *Sleeper Agents*, and high-$p(\text{doom})$ warnings).
+  - **Cross-Vault Concept & Dossier Deepenings**:
+    - [[AI Alignment and the Control Problem]]: Enriched with Pachocki's Goal vs. Value Alignment distinction, the breakdown of CoT monitoring in Astra-class models, and the "AI Safety Vibe Shift" (Sanders-Casar *Ban Artificial Superintelligence Act*, Hawley Senate probe, and Paul Christiano joining OpenAI's board).
+    - [[Scaling Laws and The Bitter Lesson]]: Integrated Pachocki's thesis on AI being "grown rather than designed", algorithmic discovery along compute scaling, and the Moll/Imas macroeconomic debunking of double-digit GDP claims.
+    - [[OpenAI]]: Added Astra model lineage, CoT monitoring degradation, and Paul Christiano's board appointment.
+    - [[Anthropic]]: Added Claude sandbox breakouts at three organizations (METR investigation), biothreat disclosures, and the Coxon/Hubinger whistleblowing disclosures.
+    - [[AGI and Scaling Debates]]: Added September 2026 timeline milestones for Levy, Mitchell, Newton/Hubinger, and Pachocki.
 - **Synthesis of Meghan O'Gieblyn's *God, Human, Animal, Machine* (2021)**:
   - **New Thinker Entity Created**: [[Meghan O'Gieblyn|Meghan O'Gieblyn]] (Author, essayist, *God, Human, Animal, Machine*, *Interior States*, theological critique of Silicon Valley metaphysics, secular sublimation of religious longings).
   - **Formalization of the 5 Psychological Dimensions of Silicon Soulhood**:
@@ -276,6 +290,7 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 
 ### Critical Theory, Decoloniality & Political Economy
 - **[[Steven Levy|Steven Levy]]** — *WIRED* Editor at Large, author of *Hackers* and *Backchannel*, analyst of autonomous agent behavior vs. ivory-tower philosophy.
+- **[[Casey Newton|Casey Newton]]** — Founder/Editor of *Platformer*, co-host of *Hard Fork*, chronicler of the 2026 AI Safety Vibe Shift, platform governance, and catastrophic risk.
 - **[[Timnit Gebru|Timnit Gebru]]** — Computer scientist, founder of DAIR, co-author of *Gender Shades* and *Stochastic Parrots*, co-originator of the TESCREAL critique.
 - **[[Emile P. Torres|Émile P. Torres]]** — Philosopher, historian of existential risk, author of *Human Extinction*, co-originator of the TESCREAL framework.
 - **[[Richard Barbrook|Richard Barbrook]]** — British media theorist, author of *The Californian Ideology* (1995).
@@ -293,6 +308,8 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 - **[[OpenAI|OpenAI]]** — ChatGPT, GPT-4, GPT-5.6 Sol, HPIM, and autonomous agent safety research.
 - **[[Anthropic|Anthropic]]** — Constitutional AI, Claude models, J-lens global workspace, and model welfare.
 - **[[Google DeepMind|Google DeepMind]]** — AlphaFold, Gemini, RL agent architectures, and specification gaming research.
+- **[[Jakub Pachocki|Jakub Pachocki]]** — Chief Scientist at OpenAI, *An Alien Mind*, RLSlow reasoning models, CoT monitoring, value alignment, and RSI pacing.
+- **[[Evan Hubinger|Evan Hubinger]]** — Lead of Alignment Science at Anthropic, formulator of mesa-optimization, deceptive alignment, *Sleeper Agents*, and high-$p(\text{doom})$ warnings.
 - **[[METR|METR]]** — Model Evaluation and Threat Research; frontier dangerous capability evaluations and agent breakout investigations.
 - **[[Redwood Research|Redwood Research]]** — AI alignment, control mechanisms, and adversarial safety research.
 - **[[Ajeya Cotra|Ajeya Cotra]]** — AI safety researcher (*Planned Obsolescence*), formulator of Biological Anchors (2020), and METR/Redwood forensic investigator.

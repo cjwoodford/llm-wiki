@@ -38,6 +38,7 @@ aliases:
 
 - **Scaling Evangelism**: Championed by [[Sam Altman|Sam Altman]], [[Dario Amodei|Dario Amodei]], and frontier labs between 2020 and 2024.
 - **Diminishing Returns & Pivot to Inference (2025–2026)**: As web text data exhausted and pre-training scaling slowed, labs pivoted to **post-training reinforcement learning** (DeepSeek-R1, OpenAI o-series) and **test-time compute** (Snell et al.).
+- **Grown Intellect & Recursive Self-Improvement ([[Jakub Pachocki|Pachocki]], 2026)**: In *[[2026-09-13-pachocki-an-alien-mind.md|An Alien Mind]]*, OpenAI Chief Scientist Jakub Pachocki argued that machine intelligence is *grown* rather than *designed* through repeated optimization over compute, with algorithmic discoveries occurring along the compute curve. Pachocki positions **Recursive Self-Improvement (RSI)**—AI automating AI research and designing future computational substrates—as the dramatic next stage of scaling compute.
 - **Architectural Skepticism**: [[Gary Marcus|Gary Marcus]] and [[Yann LeCun|Yann LeCun]] maintain that scaling token prediction will never bridge the gap to causal world understanding.
 
 ---
@@ -46,7 +47,9 @@ aliases:
 
 - **ImageNet (2012)**: AlexNet's victory marking the deep learning revolution, validating Sutton's bitter lesson over hand-crafted computer vision filters.
 - **Chinchilla Optimal Compute (2022)**: Hoffmann et al.'s demonstration that previous models were severely undertrained relative to their parameter size.
-- **The $800B Valuation Bubble**: The economic inflation of frontier AI valuations predicated on uninterrupted exponential scaling toward omniscient AGI.
+- **The $900B+ Valuation Bubble & Macroeconomic Realism**:
+  - In September 2026, [[Anthropic]] released an interactive economic model projecting potential GDP growth up to 15.4% annually under extreme automation.
+  - Economists **Ben Moll** (LSE) and **Alex Imas** ([[Google DeepMind|Google DeepMind]]) debunked double-digit GDP forecasts, pointing out that such projections rely on unrealistic assumptions: total automation of the economy by 2035, infinite consumer absorption of automated output, and AI systems that never destroy value or face regulatory headwinds.
 
 ---
 
@@ -54,15 +57,21 @@ aliases:
 
 - **Concepts**:
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
+  - [[AI Alignment and the Control Problem|AI Alignment & The Control Problem]]
   - [[Quasi-Local Sovereign AI|Quasi-Local, Domain-Specific & Sovereign AI]]
   - [[Abductive Reasoning and Common Sense|Abductive Reasoning & Common Sense]]
+  - [[Technological Determinism|Technological Determinism]]
 - **Entities**:
+  - [[Jakub Pachocki|Jakub Pachocki]]
   - [[Sam Altman|Sam Altman]]
   - [[Dario Amodei|Dario Amodei]]
+  - [[Evan Hubinger|Evan Hubinger]]
+  - [[Casey Newton|Casey Newton]]
   - [[Gary Marcus|Gary Marcus]]
   - [[Yann LeCun|Yann LeCun]]
   - [[OpenAI|OpenAI]]
   - [[Anthropic|Anthropic]]
+  - [[Google DeepMind|Google DeepMind]]
 
 ---
 
@@ -71,3 +80,5 @@ aliases:
 - **2023-06-10**: [[2023-06-10-why-ai-needs-more-philosophers.md|Why AI Needs More Philosophers]] — Early critique of the brute-force scaling dogma.
 - **2026-01-13**: [[2026-01-13-the-better-ai-gets-the-further-we.md|The Better AI Gets, the Further We Seem from AGI]] — Comprehensive survey of the pre-training scaling wall.
 - **2026-07-14**: [[2026-07-14-howells-whitaker-lazar-artificial-persons.pdf|Artificial Persons (Howells-Whitaker & Lazar, 2026)]] — Reviews the technical trajectory of compute scaling and LMA scaffolding.
+- **2026-09-10**: [[2026-09-10-newton-the-ai-safety-vibe-shift.md|The AI Safety Vibe Shift (Casey Newton, Platformer)]] — Details Anthropic economic modeling and Moll/Imas macroeconomic critiques.
+- **2026-09-13**: [[2026-09-13-pachocki-an-alien-mind.md|An Alien Mind (Jakub Pachocki, OpenAI Blog)]] — Analysis of grown intellect, compute scaling, and recursive self-improvement.

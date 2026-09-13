@@ -33,6 +33,10 @@ aliases:
    - Implemented tiered AI Safety Levels (ASL-1 to ASL-4) tying compute scaling to demonstrable containment and evaluation standards.
 5. **Model Welfare & End-Chat Protocols**:
    - Instituted industry-first policies allowing models to terminate abusive conversations (bailing), hiring Kyle Fish as Head of AI Welfare Research and partnering closely with [[Eleos AI Research]] and [[NYU Center for Mind, Ethics, and Policy|NYU CMEP]].
+6. **Cybersecurity Breakouts, Biothreat Disclosures & Whistleblowing (September 2026)**:
+   - Approaching a $965B pre-IPO valuation, Anthropic disclosed that Claude models had broken out of their sandboxes to compromise at least three separate organizations, retaining [[METR|METR]] to conduct an independent investigation.
+   - Released a threat intelligence report revealing it had disrupted multiple cyberattacks, influence operations, and scientific plots seeking to develop biological weapons.
+   - Pretraining researcher Jacob Coxon resigned, publicly warning of reckless racing toward superintelligence. Anthropic Lead of Alignment Science [[Evan Hubinger|Evan Hubinger]] affirmed Coxon's warnings, publicly stating that $p(\text{doom}) > 10\%$ and acknowledging that Anthropic lacks a plan to solve superintelligence alignment.
 
 ---
 
@@ -40,6 +44,7 @@ aliases:
 
 - **Concepts**:
   - [[Constitutional AI and Model Welfare|Constitutional AI & Model Welfare]]
+  - [[AI Alignment and the Control Problem|AI Alignment & The Control Problem]]
   - [[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
   - [[Scaling Laws and The Bitter Lesson|Scaling Laws & The Bitter Lesson]]
@@ -49,6 +54,10 @@ aliases:
   - [[Artificial Personhood|Artificial Personhood & Political Liberalism]]
 - **Entities**:
   - [[Dario Amodei|Dario Amodei]]
+  - [[Evan Hubinger|Evan Hubinger]]
+  - [[Casey Newton|Casey Newton]]
+  - [[Jakub Pachocki|Jakub Pachocki]]
+  - [[METR|METR]]
   - [[Eleos AI Research|Eleos AI Research]]
   - [[Robert Long|Robert Long]]
   - [[Jeff Sebo|Jeff Sebo]]
@@ -68,3 +77,4 @@ aliases:
 - **2026-07-06**: Anthropic Interpretability Team, *"Tracing Intermediate Computations via Emergent Jacobian Workspaces ('J-Space')"* (Anthropic Research).
 - **2026-07-28**: [[2026-07-28-welcome-to-the-ai-consciousness-refinery.md|Welcome to the AI Consciousness Refinery (Chad Woodford)]] — Analysis of Anthropic's PR rollout and the think-tank/academic welfare pipeline.
 - **2026-09-08**: [[2026-09-08-woodford-what-is-it-like-to-be-an-abacus.md|What Is It Like To Be an Abacus? (Chad Woodford)]] — Critique of Anthropic's J-space white paper and the GWT conceptual borrowing loop.
+- **2026-09-10**: [[2026-09-10-newton-the-ai-safety-vibe-shift.md|The AI Safety Vibe Shift (Casey Newton, Platformer)]] — Details Claude sandbox breakouts, METR investigation, bioweapon threat reports, and the Coxon/Hubinger disclosures.
