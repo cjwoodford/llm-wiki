@@ -45,6 +45,10 @@ aliases:
    - Champions [[Quasi-Local Sovereign AI|Quasi-Local, Domain-Specific, and Sovereign AI]] as an ecological, humane alternative to centralized monopoly empires.
 9. **Abductive Reasoning as AGI Barrier**:
    - Identifies abductive inference and common sense as non-computable human faculties ([[Abductive Reasoning and Common Sense|Abductive Reasoning & Common Sense in AI]]).
+10. **The "Two AIs" Dichotomy (Specialized Science vs. Generative Slop & Hacking, 2026)**:
+    - Demonstrates that real, measurable AI breakthroughs (AlphaFold, GraphCast, GNoME, AlphaProof) originate from specialized geometric deep learning, RL with search, and neurosymbolic hybrids—**not** generalist reasoning LLMs. Autoregressive reasoning models generate text summaries, AI slop, and rogue automated cyberattacks, but have not delivered on promised societal solutions ([[2026-09-16-woodford-is-ai-going-to-cure-cancer-or-kill.md|Is AI Going To Cure Cancer or Kill Everyone?]]).
+11. **Critique of "Pacing the Frontier" & Broken Techno-Utopian Promises (2026)**:
+    - Audits the unfulfilled promises made by tech executives (curing all cancer, ending global poverty, solving all physics, radical life extension), showing that "Pacing the Frontier" agreements ([[Dario Amodei|Amodei]], [[Sam Altman|Altman]]) rest on an unproven faith-based bet that scaling reasoning models will magically yield superintelligence and post-scarcity abundance.
 
 ---
 
@@ -55,6 +59,9 @@ aliases:
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
   - [[Machine Functionalism and Language of Thought|Machine Functionalism & Language of Thought]]
   - [[Empirical AI Welfare and Digital Minds|Empirical AI Welfare & Digital Minds]]
+  - [[Techno-Utopianism|Techno-Utopianism & Prometheanism]]
+  - [[Scaling Laws and The Bitter Lesson|Scaling Laws & The Bitter Lesson (Specialized vs. Generative AI)]]
+  - [[AI Alignment and the Control Problem|AI Alignment & The Control Problem]]
   - [[Computation vs Nature and the Observer-Relative Fallacy|Computation vs. Nature & The Observer-Relative Fallacy]]
   - [[The 1956 Foundations of AI and Cognitive Science|The 1956 Foundations of AI and Cognitive Science]]
   - [[Neuroscience|Neuroscience: Origins, Evolution & Developmental Milestones]]
@@ -80,6 +87,10 @@ aliases:
   - [[Anil Seth|Anil Seth]]
   - [[John Searle|John Searle]]
   - [[Gary Marcus|Gary Marcus]]
+  - [[Terence Tao|Terence Tao]]
+  - [[Demis Hassabis|Demis Hassabis]]
+  - [[Jacob Coxon|Jacob Coxon]]
+  - [[Dario Amodei|Dario Amodei]]
   - [[Sam Altman|Sam Altman]]
 
 ---
@@ -88,3 +99,4 @@ aliases:
 
 - **2026-07-28**: [[2026-07-28-welcome-to-the-ai-consciousness-refinery.md|Welcome to the AI Consciousness Refinery]] (*Cosmic Intelligence*) — Institutional investigation into the Anthropic-Eleos-NYU pipeline, media gullibility, and the 6 nested assumptions of machine consciousness.
 - **2026-09-08**: [[2026-09-08-woodford-what-is-it-like-to-be-an-abacus.md|What Is It Like To Be an Abacus? (Dude, Is This Abacus Conscious?)]] (*Cosmic Intelligence*) — The Abacus Box Engine thought experiment, deconstruction of Anthropic's J-space white paper, the CS-neuroscience feedback loop, and the Putnam/Fodor retractions.
+- **2026-09-16**: [[2026-09-16-woodford-is-ai-going-to-cure-cancer-or-kill.md|Is AI Going To Cure Cancer or Kill Everyone?]] (*Cosmic Intelligence*) — The "Two AIs" dichotomy, specialized scientific AI vs. generative slop/hacking LLMs, audit of broken techno-utopian promises, and Terence Tao's critique of LLM math.

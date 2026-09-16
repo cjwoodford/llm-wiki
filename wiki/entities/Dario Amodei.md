@@ -79,12 +79,22 @@ Amodei's philosophy reflects the intellectual heritage of Silicon Valley **Ratio
 ### 4. The 2026 AI Backlash & Trust Debate
 - In August 2026, following public criticisms from Mark Zuckerberg, David Sacks, and Gavin Baker asserting that safety-oriented rhetoric fueled public fear and data center bans, Amodei published a defense arguing that the root of popular skepticism is a broader historical *"crisis of trust"* in institutions and tech corporations, though he maintained that delivering tangible medical breakthroughs (such as curing cancer) will ultimately validate the technology.
 
+### 5. "We Must Pace the Frontier" & Evaluator Access (September 2026)
+- On September 12, 2026, amid the resignation of [[Jacob Coxon]] and public warnings from Alignment Science Lead [[Evan Hubinger]], Amodei published the essay *"We Must Pace the Frontier"*.
+- Proposed a **three-part plan** for industry-wide deceleration, committing Anthropic unilaterally to grant third-party evaluators permanent, employee-level access to internal model weights and red-teaming harnesses.
+- Prompted [[Sam Altman|Sam Altman]] to publicly agree that OpenAI would mirror the commitment.
+- Critiqued by [[Chad Woodford]] ([[2026-09-16-woodford-is-ai-going-to-cure-cancer-or-kill.md|Is AI Going To Cure Cancer or Kill Everyone?]]) for framing the issue around an unproven faith-based bet that scaling reasoning models will inevitably unlock disease cures and post-scarcity abundance.
+
+---
+
 ## 🔗 Related Concepts & Entities
 
 - **Concepts**:
   - [[TESCREAL and The Merge|TESCREAL & The Merge]]
+  - [[Techno-Utopianism|Techno-Utopianism & Prometheanism]]
   - [[Human Flourishing and Technology Innovation|Human Flourishing & Technology Innovation]]
   - [[Scaling Laws and The Bitter Lesson|Scaling Laws & The Bitter Lesson]]
+  - [[AI Alignment and the Control Problem|AI Alignment & The Control Problem]]
   - [[Constitutional AI and Model Welfare|Constitutional AI & Model Welfare]]
   - [[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]
   - [[Techgnosticism|Techgnosticism & Transhumanism]]
@@ -93,6 +103,9 @@ Amodei's philosophy reflects the intellectual heritage of Silicon Valley **Ratio
 - **Entities**:
   - [[Anthropic|Anthropic]]
   - [[Sam Altman|Sam Altman]]
+  - [[Jacob Coxon|Jacob Coxon]]
+  - [[Evan Hubinger|Evan Hubinger]]
   - [[Seth Lazar|Seth Lazar]]
+  - [[Demis Hassabis|Demis Hassabis]]
   - [[The AI Doc|The AI Doc: Or How I Became an Apocaloptimist]]
   - [[Chad Woodford|Chad Woodford]]

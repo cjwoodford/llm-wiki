@@ -26,9 +26,6 @@ aliases:
 > **Techno-Utopianism vs. Technological Determinism**:
 > While *Techno-Utopianism* makes a **normative/evaluative claim** (technology is inherently good, desirable, and saving), [[Technological Determinism|Technological Determinism]] makes a **causal/ontological claim** (technology develops autonomously and dictates social structure inevitably, regardless of human will). Modern Silicon Valley ideology typically fuses both into *deterministic techno-optimism* (e/acc).
 
-
-**Techno-Utopianism** (also known as *Techno-Optimism* or *Prometheanism*) is the ideological conviction that technological innovation is the supreme engine of human emancipation and progress, capable of resolving poverty, physical illness, environmental scarcity, cognitive limitations, and mortality without necessitating fundamental political, social, or spiritual transformations of society.
-
 In its contemporary Silicon Valley manifestation, techno-utopianism fuses libertarian free-market economics, cybernetic functionalism, and secular eschatology into the belief that maximizing computational power, energy production, and intelligence is a moral imperative that will inevitably birth post-scarcity abundance and cosmic expansion.
 
 ```text
@@ -68,7 +65,7 @@ Francis Bacon (1627: New Atlantis)
 ## 3. Competing Perspectives & Core Critiques
 
 ### The Techno-Optimist / Accelerationist Defense
-- **Proponents**: Marc Andreessen, [[Sam Altman|Sam Altman]], [[Dario Amodei|Dario Amodei]], Nick Land, Ray Kurzweil.
+- **Proponents**: Marc Andreessen, [[Sam Altman|Sam Altman]], [[Dario Amodei|Dario Amodei]], [[Demis Hassabis|Demis Hassabis]], Nick Land, Ray Kurzweil.
 - **Argument**: Technology is the foundational lever of civilizational growth. Without technological acceleration, societies stagnate, regress, and succumb to Malthusian scarcity. Anyone attempting to slow or regulate AI is seen as an "enemy of progress" committing moral harm against future human flourishing.
 
 ### The Decolonial & Sociotechnical Critique
@@ -89,6 +86,13 @@ Francis Bacon (1627: New Atlantis)
    - OpenAI CEO Sam Altman declared that within decades, humanity will have "superintelligence" capable of solving climate change, creating physics breakthroughs, and creating unimaginable cosmic wealth.
 3. **The Radical Life Extension Movement**:
    - Transhumanist efforts to cure aging and achieve biological immortality, treating the mortal human condition not as an existential ground of meaning, but as an engineering bug to be solved.
+4. **The Audit of Grandiose Promises vs. Empirical Reality ([[Chad Woodford|Woodford]], 2026)**:
+   - In *[[2026-09-16-woodford-is-ai-going-to-cure-cancer-or-kill.md|Is AI Going To Cure Cancer or Kill Everyone?]]*, Chad Woodford audited the catalog of techno-utopian claims made by lab executives:
+     - **Curing all disease & cancer**: [[Demis Hassabis]] (Google DeepMind).
+     - **Solving global poverty & universal abundance**: [[Sam Altman]] (OpenAI), Elon Musk.
+     - **Solving climate change & "all of physics"**: [[Sam Altman]], Bill Gates.
+     - **Doubling lifespan (to 150+ years) & eliminating mental illness**: [[Dario Amodei]] (Anthropic).
+   - *Epistemological Verdict*: None of these promises are in sight. The belief that scaling reasoning LLMs will deliver salvation is an article of faith used to justify runaway valuations and reckless race dynamics, whereas genuine civilizational crises are deeply human, political, and ecological dilemmas without simple technofixes.
 
 ---
 
@@ -98,6 +102,7 @@ Francis Bacon (1627: New Atlantis)
   - [[Technological Determinism|Technological Determinism]]
   - [[TESCREAL and The Merge|TESCREAL & The Merge]]
   - [[Techgnosticism|Techgnosticism & Transhumanism]]
+  - [[Scaling Laws and The Bitter Lesson|Scaling Laws & The Bitter Lesson (Specialized vs. Generative AI)]]
   - [[Apollonian Mind Virus|The Apollonian vs. Dionysian Mindset]]
   - [[Human Flourishing and Technology Innovation|Human Flourishing & Technology Innovation]]
   - [[Decoloniality and Empire Technologies|Empire Technologies & The Windigo Mind]]
@@ -108,8 +113,11 @@ Francis Bacon (1627: New Atlantis)
   - [[Emile P. Torres|Émile P. Torres]]
   - [[Charles Taylor|Charles Taylor]]
   - [[Future of Humanity Institute|Future of Humanity Institute]]
+  - [[Demis Hassabis|Demis Hassabis]]
   - [[Sam Altman|Sam Altman]]
   - [[Dario Amodei|Dario Amodei]]
+  - [[Jacob Coxon|Jacob Coxon]]
+  - [[Terence Tao|Terence Tao]]
   - [[Center for Humane Technology|Center for Humane Technology]]
   - [[The AI Doc|The AI Doc: Or How I Became an Apocaloptimist]]
   - [[Chad Woodford|Chad Woodford]]
@@ -122,3 +130,4 @@ Francis Bacon (1627: New Atlantis)
 - **2024-09-02**: [[2024-09-02-the-techgnostics-the-idealists-and.md|TechGnostics, Idealists, and the Future of Humanity]] — Critical analysis of Silicon Valley's Promethean mythos.
 - **2025-09-02**: [[2025-09-02-why-do-tech-bros-have-the-worst-ideas.md|Why Do Tech Bros Have the Worst Ideas?]] — Philosophical critique of techno-utopian reductionism.
 - **2025-11-06**: [[2025-11-06-ai-empires-and-the-soul-sickness.md|AI Empires and the Soul Sickness of Silicon Valley]] — Contrast between extractive technological empires and humane stewardship.
+- **2026-09-16**: [[2026-09-16-woodford-is-ai-going-to-cure-cancer-or-kill.md|Is AI Going To Cure Cancer or Kill Everyone?]] (Chad Woodford, *Cosmic Intelligence*) — Comprehensive audit of unfulfilled techno-utopian promises and the "Two AIs" divide.

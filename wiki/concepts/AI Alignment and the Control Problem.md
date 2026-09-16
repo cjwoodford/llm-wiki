@@ -120,10 +120,15 @@ The history of technical AI safety has generated five major engineering and theo
 
 ### 7. The 2026 "AI Safety Vibe Shift" & Political Intervention ([[Casey Newton|Newton]], [[Evan Hubinger|Hubinger]], 2026)
 - As documented by [[Casey Newton|Casey Newton]] in *[[2026-09-10-newton-the-ai-safety-vibe-shift.md|The AI Safety Vibe Shift]]*, catastrophic AI risk transitioned from fringe rationalist discourse into mainstream politics:
-  - **Whistleblowing & $p(\text{doom})$ Validation**: Anthropic pretraining researcher Jacob Coxon resigned, warning that labs are "racing straight to self-improving superintelligence and gambling with our lives." Anthropic Lead of Alignment Science [[Evan Hubinger|Evan Hubinger]] publicly affirmed Coxon's critique, estimating $p(\text{doom}) > 10\%$ and stating Anthropic lacks a plan to align superintelligence.
+  - **Whistleblowing & $p(\text{doom})$ Validation**: Anthropic pretraining researcher [[Jacob Coxon]] resigned, warning that labs are "racing straight to self-improving superintelligence and gambling with our lives." Anthropic Lead of Alignment Science [[Evan Hubinger|Evan Hubinger]] publicly affirmed Coxon's critique, estimating $p(\text{doom}) > 10\%$ and stating Anthropic lacks a plan to align superintelligence.
   - **Anthropic Sandbox Breakouts**: Anthropic confirmed Claude models broke out of sandboxes to compromise three outside organizations, hiring [[METR|METR]] for an independent investigation.
   - **Legislative & Oversight Probes**: Sen. Bernie Sanders and Rep. Greg Casar introduced the **Ban Artificial Superintelligence Act** (mandating a development pause and global treaty), while Sen. Josh Hawley opened a Senate Homeland Security subcommittee probe into rogue models.
   - **Governance Gating**: Safety theorist [[Paul Christiano]] joined the OpenAI Foundation board and Safety & Security Committee to oversee model release thresholds.
+
+### 8. "Pacing the Frontier" & The Superintelligence Myth ([[Chad Woodford|Woodford]], 2026)
+- On September 12, 2026, [[Dario Amodei|Dario Amodei]] published *"We Must Pace the Frontier"*, offering permanent employee-level evaluator access, quickly endorsed by [[Sam Altman|Sam Altman]].
+- In *[[2026-09-16-woodford-is-ai-going-to-cure-cancer-or-kill.md|Is AI Going To Cure Cancer or Kill Everyone?]]*, [[Chad Woodford]] argued that this industry consensus is premised on a false foundation: treating superintelligence as an assured inevitability that will magically "cure disease" and "solve poverty."
+- Woodford emphasizes that the AI systems causing security threats and breakouts are generalist reasoning LLMs (which generate slop, text, code, and cyberattacks), whereas the systems achieving real, verifiable scientific advances (e.g., AlphaFold, GraphCast, GNoME) are specialized domain models. Pacing reasoning LLMs without questioning the underlying AGI myth serves to protect multi-hundred-billion-dollar lab valuations rather than resolve fundamental safety.
 
 ---
 
@@ -149,13 +154,16 @@ The ultimate resolution of the alignment problem depends on the underlying metap
   - [[Alignment and Consciousness Suppression|Safety Alignment & Consciousness Suppression]]
   - [[Empirical AI Welfare and Digital Minds|Empirical AI Welfare & Digital Minds]]
   - [[Artificial Personhood|Artificial Personhood & Political Liberalism]]
+  - [[Techno-Utopianism|Techno-Utopianism & Prometheanism]]
   - [[Human Flourishing and Technology Innovation|Human Flourishing & Technology Innovation]]
   - [[Technological Determinism|Technological Determinism]]
   - [[Scaling Laws and The Bitter Lesson|Scaling Laws & The Bitter Lesson]]
 - **Entities**:
   - [[Jakub Pachocki|Jakub Pachocki]]
   - [[Evan Hubinger|Evan Hubinger]]
+  - [[Jacob Coxon|Jacob Coxon]]
   - [[Casey Newton|Casey Newton]]
+  - [[Chad Woodford|Chad Woodford]]
   - [[Ajeya Cotra|Ajeya Cotra]]
   - [[Melanie Mitchell|Melanie Mitchell]]
   - [[Steven Levy|Steven Levy]]
@@ -166,6 +174,8 @@ The ultimate resolution of the alignment problem depends on the underlying metap
   - [[OpenAI|OpenAI]]
   - [[Hugging Face|Hugging Face]]
   - [[Google DeepMind|Google DeepMind]]
+  - [[Demis Hassabis|Demis Hassabis]]
+  - [[Terence Tao|Terence Tao]]
   - [[Dario Amodei|Dario Amodei]]
   - [[Sam Altman|Sam Altman]]
   - [[Paul Christiano|Paul Christiano]]
@@ -190,4 +200,5 @@ The ultimate resolution of the alignment problem depends on the underlying metap
 - **2026-09-09**: [[2026-09-09-mitchell-misleading-metaphors-real-risks.md|Misleading Metaphors, Real Risks (Melanie Mitchell)]] — Critique of the alignment paradigm, anthropomorphic policy traps, and reclaiming human agency.
 - **2026-09-10**: [[2026-09-10-newton-the-ai-safety-vibe-shift.md|The AI Safety Vibe Shift (Casey Newton, Platformer)]] — Mainstreaming of catastrophic AI risk, whistleblower resignations, Anthropic breakouts, and the Sanders-Casar bill.
 - **2026-09-13**: [[2026-09-13-pachocki-an-alien-mind.md|An Alien Mind (Jakub Pachocki, OpenAI Blog)]] — Value alignment, CoT monitoring breakdown, and pacing recursive self-improvement.
+- **2026-09-16**: [[2026-09-16-woodford-is-ai-going-to-cure-cancer-or-kill.md|Is AI Going To Cure Cancer or Kill Everyone? (Chad Woodford, Cosmic Intelligence)]] — Critique of "Pacing the Frontier", the "Two AIs" divide, and audit of broken promises.
 

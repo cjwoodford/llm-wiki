@@ -18,11 +18,30 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 | Metric | Count | Status |
 | :--- | :--- | :--- |
 | **Thematic Concepts** | 49 | 🟢 Fully Linked (5-Part Standard Schema) |
-| **Key Entities** | 97 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
+| **Key Entities** | 100 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
-| **Archived Primary Sources** | 167 | 🟢 Full YAML Provenance (`sources/archive/`) |
+| **Archived Primary Sources** | 168 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
 | **Web Clippings Queue** | 0 | 🟢 Clear (`Clippings/`) |
+
+---
+
+## 🔄 Recent Activity (2026-09-16)
+
+- **Ingestion & Synthesis of Chad Woodford's *Is AI Going To Cure Cancer or Kill Everyone?***:
+  - **Archived Primary Source**:
+    - `sources/archive/2026-09-16-woodford-is-ai-going-to-cure-cancer-or-kill.md` (*Is AI Going To Cure Cancer or Kill Everyone?*, Chad Woodford, *Cosmic Intelligence*).
+  - **Three New Thinker Entities Created**:
+    - [[Terence Tao|Terence Tao]] (Fields Medalist, UCLA professor, critique of LLM statistical pattern-matching in pure mathematics vs. semantic comprehension, co-signer of 26-Fields-Medalist open letter).
+    - [[Demis Hassabis|Demis Hassabis]] (CEO of Google DeepMind, 2024 Nobel Laureate in Chemistry, architect of specialized scientific AI systems including AlphaFold2, GraphCast, GNoME, and AlphaProof).
+    - [[Jacob Coxon|Jacob Coxon]] (Former pretraining researcher at OpenAI and Anthropic, whistleblower in the 2026 AI Safety Vibe Shift, "abundance on our doorstep" perspective on *The Daily*).
+  - **Cross-Vault Concept & Dossier Deepenings**:
+    - [[Techno-Utopianism]]: Added Section 4.4 auditing broken techno-utopian promises (curing all disease/cancer, ending global poverty, solving physics, radical life extension) and the faith-based superintelligence bet.
+    - [[Scaling Laws and The Bitter Lesson]]: Added the "Two AIs" dichotomy (specialized domain-grounded systems vs. autoregressive reasoning slop/hacking) and Terence Tao's critique of LLMs on Navier–Stokes.
+    - [[AI Alignment and the Control Problem]]: Added Section 3.8 on the "Pacing the Frontier" agreement ([[Dario Amodei|Amodei]] & [[Sam Altman|Altman]]) and Woodford's critique of the unproven superintelligence leap.
+    - [[AGI and Scaling Debates]]: Added September 12 (Amodei/Altman Pacing Pact) and September 16 (Woodford Two AIs & Tao Math Critique) timeline milestones.
+    - [[Chad Woodford]]: Added the "Two AIs" thesis and critique of frontier pacing.
+    - [[Dario Amodei]] & [[Sam Altman]]: Updated with September 2026 "Pacing the Frontier" pact and third-party evaluator access.
 
 ---
 
@@ -148,7 +167,7 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
     - Details the 21st-century **Cybernetic Renaissance**: Modern Reinforcement Learning, Karl Friston's Free Energy Principle / Active Inference, Dynamical Systems, and Wiener's prophetic 1950/1964 AI Alignment warnings.
   - **5 New Pioneer Entity Dossiers Added**:
     - [[Norbert Wiener|Norbert Wiener]] — Father of Cybernetics, MIT mathematician, stochastic processes, and early AI alignment pioneer.
-    - [[Warren McCulloch|Warren McCulloch]] — Neurophysiologist, psychiatrist, Chairman of the 10 Macy Conferences, and co-creator of artificial neural networks.
+    - [[Warren McCulloch|Warren McCulloch]] — Neurophysiologist, psychiatrist, Chairman of the 10 Macy Conferences (1946–1953), and co-author of the 1943 artificial neuron model.
     - [[Walter Pitts|Walter Pitts]] — Mathematical logician, prodigy, and co-author of the 1943 threshold logic artificial neuron.
     - [[W. Ross Ashby|W. Ross Ashby]] — British psychiatrist, cyberneticist, inventor of the Homeostat (1948), and formulator of the Law of Requisite Variety (1956).
     - [[Gregory Bateson|Gregory Bateson]] — Anthropologist, core Macy participant, formulator of the Double-Bind Theory, and author of *Steps to an Ecology of Mind* (1972).
@@ -269,9 +288,10 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 - **[[Richard Tarnas|Richard Tarnas]]** — Cultural historian, author of *The Passion of the Western Mind*, and archetypal dialectic of consciousness.
 - **[[Meghan O'Gieblyn|Meghan O'Gieblyn]]** — Essayist, author of *God, Human, Animal, Machine* (2021), secular sublimation of religious longings, the 5 psychological dimensions of silicon soulhood, and the Dehumanizing Boomerang.
 
-### Cognitive Scientists, Neuroscientists & Philosophers of Mind
+### Cognitive Scientists, Neuroscientists, Mathematicians & Philosophers of Mind
 - **[[David Chalmers|David Chalmers]]** — NYU Professor of Philosophy, formulator of the Hard Problem of Consciousness, philosophical zombies, naturalistic dualism, QIIT, and virtual realism.
 - **[[Kelvin McQueen|Kelvin McQueen]]** — Chapman University philosopher of physics, co-creator with Chalmers of QIIT and dynamical collapse models of consciousness.
+- **[[Terence Tao|Terence Tao]]** — UCLA mathematician, Fields Medalist, formal proof verification (Lean), and critique of LLM pattern-matching vs. semantic comprehension in mathematics.
 - **[[Melanie Mitchell|Melanie Mitchell]]** — Santa Fe Institute Professor of Complexity, *Artificial Intelligence: A Guide for Thinking Humans*, analogy, critique of anthropomorphic metaphors, and RL reward hacking.
 - **[[Santiago Ramón y Cajal|Santiago Ramón y Cajal]]** — Father of Modern Neuroscience, Neuron Doctrine, dynamic polarization, and Nobel laureate (1906).
 - **[[Francis O. Schmitt|Francis O. Schmitt]]** — MIT biophysicist, founder of the Neurosciences Research Program (NRP, 1962), and coiner of "Neuroscience".
@@ -308,8 +328,10 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 - **[[OpenAI|OpenAI]]** — ChatGPT, GPT-4, GPT-5.6 Sol, HPIM, and autonomous agent safety research.
 - **[[Anthropic|Anthropic]]** — Constitutional AI, Claude models, J-lens global workspace, and model welfare.
 - **[[Google DeepMind|Google DeepMind]]** — AlphaFold, Gemini, RL agent architectures, and specification gaming research.
+- **[[Demis Hassabis|Demis Hassabis]]** — CEO of Google DeepMind, 2024 Nobel Laureate in Chemistry, architect of AlphaFold, GraphCast, GNoME, and AlphaProof.
 - **[[Jakub Pachocki|Jakub Pachocki]]** — Chief Scientist at OpenAI, *An Alien Mind*, RLSlow reasoning models, CoT monitoring, value alignment, and RSI pacing.
 - **[[Evan Hubinger|Evan Hubinger]]** — Lead of Alignment Science at Anthropic, formulator of mesa-optimization, deceptive alignment, *Sleeper Agents*, and high-$p(\text{doom})$ warnings.
+- **[[Jacob Coxon|Jacob Coxon]]** — Former OpenAI and Anthropic pretraining researcher, whistleblower in the 2026 AI Safety Vibe Shift.
 - **[[METR|METR]]** — Model Evaluation and Threat Research; frontier dangerous capability evaluations and agent breakout investigations.
 - **[[Redwood Research|Redwood Research]]** — AI alignment, control mechanisms, and adversarial safety research.
 - **[[Ajeya Cotra|Ajeya Cotra]]** — AI safety researcher (*Planned Obsolescence*), formulator of Biological Anchors (2020), and METR/Redwood forensic investigator.
