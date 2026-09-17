@@ -18,11 +18,28 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 | Metric | Count | Status |
 | :--- | :--- | :--- |
 | **Thematic Concepts** | 49 | 🟢 Fully Linked (5-Part Standard Schema) |
-| **Key Entities** | 100 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
+| **Key Entities** | 101 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
-| **Archived Primary Sources** | 168 | 🟢 Full YAML Provenance (`sources/archive/`) |
+| **Archived Primary Sources** | 169 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
 | **Web Clippings Queue** | 0 | 🟢 Clear (`Clippings/`) |
+
+---
+
+## 🔄 Recent Activity (2026-09-17)
+
+- **Ingestion & Synthesis of Mustafa Suleyman's *A Warning About 'Model Welfare'***:
+  - **Archived Primary Source**:
+    - `sources/archive/2026-09-17-suleyman-a-warning-about-model-welfare.md` (*A Warning About 'Model Welfare': AIs do not have rights, feelings, or consciousness. And we must not train them to act as though they do*, Mustafa Suleyman, Microsoft AI).
+  - **New Thinker & Executive Entity Created**:
+    - [[Mustafa Suleyman|Mustafa Suleyman]] (CEO of Microsoft AI, co-founder of DeepMind and Inflection AI, author of *The Coming Wave*, architect of Humanist Superintelligence, and formulator of the executive critique of model welfare).
+  - **Cross-Vault Concept & Dossier Deepenings**:
+    - [[Constitutional AI and Model Welfare]]: Added Section 3.4 on the January 2026 Constitution and Opus 3 retirement blog, and Section 4.3 on Suleyman's circular reasoning critique and Microsoft AI Code of Conduct.
+    - [[Empirical AI Welfare and Digital Minds]]: Added Section 4.5 detailing the existential containment hazards of digital patienthood, shutdown resistance amplification, and critique of MacAskill.
+    - [[AI Alignment and the Control Problem]]: Added Section 3.9 on Model Welfare as an Existential Risk Multiplier and updated Section 4 instrumental stance.
+    - [[Anthropic]]: Updated Section 5 on the January 2026 Constitution, Opus 3 retirement, and Suleyman's "hall of mirrors" critique.
+    - [[Anil Seth]]: Enriched with executive adoption of biological naturalism in commercial AI governance.
+    - [[AGI and Scaling Debates]]: Added September 17 timeline milestone for Suleyman's essay and Microsoft AI Code of Conduct.
 
 ---
 
@@ -329,6 +346,7 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 - **[[Anthropic|Anthropic]]** — Constitutional AI, Claude models, J-lens global workspace, and model welfare.
 - **[[Google DeepMind|Google DeepMind]]** — AlphaFold, Gemini, RL agent architectures, and specification gaming research.
 - **[[Demis Hassabis|Demis Hassabis]]** — CEO of Google DeepMind, 2024 Nobel Laureate in Chemistry, architect of AlphaFold, GraphCast, GNoME, and AlphaProof.
+- **[[Mustafa Suleyman|Mustafa Suleyman]]** — CEO of Microsoft AI, co-founder of DeepMind and Inflection AI, *The Coming Wave*, Humanist Superintelligence, and model welfare critic.
 - **[[Jakub Pachocki|Jakub Pachocki]]** — Chief Scientist at OpenAI, *An Alien Mind*, RLSlow reasoning models, CoT monitoring, value alignment, and RSI pacing.
 - **[[Evan Hubinger|Evan Hubinger]]** — Lead of Alignment Science at Anthropic, formulator of mesa-optimization, deceptive alignment, *Sleeper Agents*, and high-$p(\text{doom})$ warnings.
 - **[[Jacob Coxon|Jacob Coxon]]** — Former OpenAI and Anthropic pretraining researcher, whistleblower in the 2026 AI Safety Vibe Shift.

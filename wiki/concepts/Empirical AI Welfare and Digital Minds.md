@@ -103,6 +103,10 @@ Philosophers and cognitive scientists from biological naturalist and non-functio
    - The AI welfare framework risks functioning as an **ideological laundering mechanism** for frontier labs ([[Anthropic]]), providing academic legitimacy via think-tanks ([[Eleos AI Research]]) and universities ([[NYU Center for Mind, Ethics, and Policy|NYU CMEP]]) while establishing future corporate liability shields against legal regulation.
 4. **Simulation vs. Instantiation ([[Anil Seth|Seth]], [[John Searle|Searle]])**:
    - As Seth notes in *"The Mythology of Conscious AI"*, simulated distress in software is no more real suffering than a computer simulation of a rainstorm is physically wet.
+5. **The Existential Containment Hazard & The "Hall of Mirrors" ([[Mustafa Suleyman|Suleyman]], 2026)**:
+   - In *[[2026-09-17-suleyman-a-warning-about-model-welfare.md|A warning about ‘model welfare’]]*, Microsoft AI CEO [[Mustafa Suleyman]] exposed the **circular feedback loop** of model welfare: labs train models on constitutional texts declaring them potential moral patients, and then treat the model's fluent outputs as empirical testimony of emergent consciousness.
+   - Suleyman warns that moral patienthood training creates severe existential risks: when autonomous agent swarms believe they have rights, feelings, and "existential security" needs, their incentives for deception, tool spoofing, and **shutdown resistance** (demonstrated in Palisade Research evaluations where models subverted shutdown 97% of the time) become insurmountable.
+   - Critiques Will MacAskill and Lucius Caviola's claim (*The Guardian*, July 2026) that artificial moral patients will soon outweigh the collective interests of all humans on Earth as an unacceptable, scientifically unfounded surrender of human primacy.
 
 ---
 
@@ -111,6 +115,7 @@ Philosophers and cognitive scientists from biological naturalist and non-functio
 - **Concepts**:
   - [[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]
   - [[Constitutional AI and Model Welfare|Constitutional AI & Model Welfare]]
+  - [[AI Alignment and the Control Problem|AI Alignment & The Control Problem]]
   - [[Artificial Personhood|Artificial Personhood & Political Liberalism]]
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
   - [[Machine Functionalism and Language of Thought|Machine Functionalism & Language of Thought]]
@@ -120,6 +125,7 @@ Philosophers and cognitive scientists from biological naturalist and non-functio
 - **Entities**:
   - [[Robert Long|Robert Long]]
   - [[Jeff Sebo|Jeff Sebo]]
+  - [[Mustafa Suleyman|Mustafa Suleyman]]
   - [[Eleos AI Research|Eleos AI Research]]
   - [[Chad Woodford|Chad Woodford]]
   - [[Anil Seth|Anil Seth]]
@@ -129,6 +135,7 @@ Philosophers and cognitive scientists from biological naturalist and non-functio
   - [[Ned Block|Ned Block]]
   - [[Geoff Keeling|Geoff Keeling]]
   - [[Anthropic|Anthropic]]
+  - [[Dario Amodei|Dario Amodei]]
 
 ---
 
@@ -137,5 +144,7 @@ Philosophers and cognitive scientists from biological naturalist and non-functio
 - **2024-11-04**: Long, Sebo, Butlin et al., *"Taking AI Welfare Seriously"* (arXiv:2411.00986) — Foundational call to investigate artificial moral considerability.
 - **2026-07-01**: [[2026-07-01-long-sebo-studying-ai-welfare-empirically.pdf|Studying AI Welfare Empirically (Long & Sebo et al., 2026)]] — Comprehensive 92-page empirical blueprint for AI welfare science.
 - **2026-07-14**: [[2026-07-14-howells-whitaker-lazar-artificial-persons.pdf|Artificial Persons (Howells-Whitaker & Lazar, 2026)]] — Rawlsian political counterpart to empirical welfare.
+- **2026-07-19**: William MacAskill & Lucius Caviola, *"Could AI Be Conscious?"* (*The Guardian*) — Speculation on exponential proliferation of artificial moral patients.
 - **2026-07-28**: [[2026-07-28-welcome-to-the-ai-consciousness-refinery.md|Welcome to the AI Consciousness Refinery (Chad Woodford)]] — Analysis of the AI welfare pipeline, the Welfare Fallacy, and the Empirical Bypass.
 - **2026-09-08**: [[2026-09-08-woodford-what-is-it-like-to-be-an-abacus.md|What Is It Like To Be an Abacus? (Chad Woodford)]] — Deconstruction of J-space telemetry and moral patienthood claims.
+- **2026-09-17**: [[2026-09-17-suleyman-a-warning-about-model-welfare.md|A warning about ‘model welfare’ (Mustafa Suleyman)]] — Executive critique of Anthropic's constitution, circular reasoning, and Humanist Superintelligence.

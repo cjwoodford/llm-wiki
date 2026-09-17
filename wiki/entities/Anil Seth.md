@@ -77,6 +77,7 @@ In his landmark 2026 essay for *Noema Magazine*, Seth formulated four interconne
 ### 5. The AI Mirror & The Living Soul
 - Draws on philosopher Shannon Vallor's concept of **AI as a Mirror**: In mechanizing the mind, we see our algorithms in ourselves and sell our human nature short.
 - Contrasts the "silicon rapture" (a modern regression to the disembodied Cartesian soul) with ancient holistic traditions: Greek *psychē* (breath), Latin *anima*, Hebrew *nephesh*, and Hindu *Ātman*—reminding us that our essence is **"more breath than thought and more meat than machine."**
+- **Executive Adoption & Industry Impact (2026)**: Seth's biological naturalism and "simulation $\neq$ instantiation" arguments were directly cited by Microsoft AI CEO [[Mustafa Suleyman]] in September 2026 as the neuroscientific foundation for Microsoft AI's Code of Conduct and its formal rejection of "model welfare."
 
 ---
 
@@ -86,6 +87,8 @@ In his landmark 2026 essay for *Noema Magazine*, Seth formulated four interconne
   - [[Cybernetics and the Macy Conferences|Cybernetics and the Macy Conferences (Homeostasis & Active Inference)]]
   - [[Scientific Theories of Consciousness|Scientific Theories of Consciousness: GWT, IIT, HOT & Predictive Processing]]
   - [[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]
+  - [[Empirical AI Welfare and Digital Minds|Empirical AI Welfare & Digital Minds]]
+  - [[Constitutional AI and Model Welfare|Constitutional AI & Model Welfare]]
   - [[Computation vs Nature and the Observer-Relative Fallacy|Computation vs. Nature & The Observer-Relative Fallacy]]
   - [[Hard Problem of Consciousness|The Hard Problem of Consciousness & Qualia]]
   - [[Machine Functionalism and Language of Thought|Machine Functionalism & Language of Thought]]
@@ -96,6 +99,7 @@ In his landmark 2026 essay for *Noema Magazine*, Seth formulated four interconne
   - [[W. Ross Ashby|W. Ross Ashby]]
   - [[Norbert Wiener|Norbert Wiener]]
   - [[John Searle|John Searle]]
+  - [[Mustafa Suleyman|Mustafa Suleyman]]
   - [[Stanislas Dehaene|Stanislas Dehaene]]
   - [[Giulio Tononi|Giulio Tononi]]
   - [[Christof Koch|Christof Koch]]
@@ -109,3 +113,4 @@ In his landmark 2026 essay for *Noema Magazine*, Seth formulated four interconne
 - **2013**: Anil K. Seth, *"Interoceptive Inference, Emotion, and the Embodied Self"* (*Trends in Cognitive Sciences*, 17(11): 565–573).
 - **2021**: Anil Seth, *Being You: A New Science of Consciousness* (Dutton / Faber & Faber) — The Beast Machine and predictive selfhood.
 - **2026-01-14**: [[2026-01-14-anil-seth-the-mythology-of-conscious-ai.md|The Mythology of Conscious AI (Anil Seth, Noema Magazine)]] — The four arguments against machine consciousness, simulation vs. instantiation, and the Garland Test.
+- **2026-09-17**: [[2026-09-17-suleyman-a-warning-about-model-welfare.md|A Warning About 'Model Welfare' (Mustafa Suleyman)]] — Executive policy adopting Seth's biological naturalism to prohibit artificial sentience claims in commercial AI.
