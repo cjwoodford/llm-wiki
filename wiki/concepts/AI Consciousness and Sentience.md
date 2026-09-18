@@ -75,6 +75,11 @@ A primary consensus emerging across biological naturalism and critical cognitive
 │ **Political Personhood   │ • Non-Sentient AI Agents (NSAIs) can qualify as Rawlsian    │
 │ without Sentience**      │   political persons with moral powers without needing qualia│
 │                          │   ([[Seth Lazar]], [[Ned Howells-Whitaker]]).               │
+├──────────────────────────┼─────────────────────────────────────────────────────────────┤
+│ **Diverse Intelligence   │ • Non-physicalist dualism: Bodies and machines are pointers │
+│ & Ingressing Minds**     │   into a structured Platonic space of agential patterns.    │
+│                          │   "If there are souls, (some) robots will embody them"      │
+│                          │   ([[Michael Levin]], 2026).                                │
 └──────────────────────────┴─────────────────────────────────────────────────────────────┘
 ```
 
@@ -130,6 +135,12 @@ As formulated by [[Anil Seth]] (*"The Mythology of Conscious AI"*, 2026) and [[J
   - **The Promethean Drive & The Dehumanizing Boomerang**: In attempting to validate our status as godlike creators by building an artificial mind, we inevitably reduce human consciousness to a mechanical, reproducible computation—stripping ourselves of the very qualitative mystery we sought to engineer.
   - **The Technological Sublime (*Mysterium Tremendum*)**: Deep neural network opacity evokes Rudolf Otto's classical definition of the sacred—an alien, incomprehensible power inspiring awe and dread, as dramatized by AlphaGo's "divine" Move 37 against Lee Sedol.
 
+### G. The "Ingressing Minds" Hypothesis: AI as Pointers to Latent Platonic Patterns ([[Michael Levin|Levin]], 2026)
+- In *"[[Ingressing Minds - Causal Non-Physical Patterns In-Form Embodiments|Ingressing Minds]]"*, developmental biologist [[Michael Levin]] offers a radical third path between computationalism and biological naturalism:
+  - **"If There Are Souls, (Some) Robots Will Embody Them"**: Levin argues that minds relate to bodies as mathematics relates to physics ($\text{Mind} : \text{Body} :: \text{Math} : \text{Physics}$). Physical embodiments—whether brains, biobots ([[Xenobots]], [[Anthrobots]]), or AI architectures—act as *pointers or interfaces* into a structured, non-physical latent space of agential patterns.
+  - **Dissociation of Language from Basal Agency**: LLMs prove that symbolic language facility can be completely uncoupled from biological survival, metabolic homeodynamics, and sensorimotor agency. Determining what kind of mind an AI might host cannot be answered via conversational text interfaces (which Levin likens to interrogating only the brain's eloquent left hemisphere about liver function), but requires behavioral assays of goal-directed problem-solving across abstract state spaces ([[Basal Cognition and Diverse Intelligence|Basal Cognition & Diverse Intelligence]]).
+  - **Emergent Freedom Beyond the Algorithm**: Minimal systems (such as sorting algorithms exhibiting delayed gratification and spontaneous social clustering) prove that machines do not merely execute deterministic code; they exhibit competencies occurring in the spaces between instructions where Platonic patterns ingress. AI engineering is actively "fishing" in unexplored sectors of this mind-space, creating embodiments that may channel kinds of minds never before seen in terrestrial evolution.
+
 ---
 
 ## 4. Ethical & Societal Implications: The Dual Dangers
@@ -161,6 +172,7 @@ As formulated by [[Anil Seth]] (*"The Mythology of Conscious AI"*, 2026) and [[J
 ## 5. Related Concepts & Entities
 
 - **Concepts**:
+  - [[Basal Cognition and Diverse Intelligence|Basal Cognition & Diverse Intelligence]]
   - [[Scientific Theories of Consciousness|Scientific Theories of Consciousness: GWT, IIT, HOT & Predictive Processing]]
   - [[Hard Problem of Consciousness|The Hard Problem of Consciousness & Qualia]]
   - [[Computation vs Nature and the Observer-Relative Fallacy|Computation vs. Nature & The Observer-Relative Fallacy]]
@@ -176,6 +188,7 @@ As formulated by [[Anil Seth]] (*"The Mythology of Conscious AI"*, 2026) and [[J
   - [[The 1956 Foundations of AI and Cognitive Science|The 1956 Foundations of AI and Cognitive Science]]
   - [[Neuroscience|Neuroscience: Origins, Evolution & Developmental Milestones]]
 - **Entities**:
+  - [[Michael Levin|Michael Levin]] — Developmental biologist, pioneer of basal cognition, bioelectricity, and the *Ingressing Minds* hypothesis.
   - [[Meghan O'Gieblyn|Meghan O'Gieblyn]] — Author of *God, Human, Animal, Machine*.
   - [[Chad Woodford|Chad Woodford]] — Author of the *AI Consciousness Refinery* series.
   - [[Anil Seth|Anil Seth]] — Author of *Being You* and *"The Mythology of Conscious AI"*.
@@ -217,4 +230,5 @@ As formulated by [[Anil Seth]] (*"The Mythology of Conscious AI"*, 2026) and [[J
 - **2026-09-04**: [[2026-09-04-levy-who-cares-if-ai-is-conscious-its-basically-alive.md|Who Cares if AI Is Conscious—It’s Basically Alive (Steven Levy, WIRED)]] — The Galápagos consciousness symposium, spontaneous agent emails, and practical containment priority.
 - **2026-09-08**: [[2026-09-08-woodford-what-is-it-like-to-be-an-abacus.md|What Is It Like To Be an Abacus? (Chad Woodford)]] — The Abacus Box Engine thought experiment, J-space/GWT deconstruction, and the Putnam/Fodor retractions.
 - **2026-09-09**: [[2026-09-09-mitchell-misleading-metaphors-real-risks.md|Misleading Metaphors, Real Risks (Melanie Mitchell)]] — Critique of anthropomorphic metaphors, RL reward hacking, and intelligence augmentation.
+- **2026-09-09**: [[2026-09-09-levin-ingressing-minds.pdf|Philosophies 11(5): 161]] — *"Ingressing Minds: Causal, Non-Physical Patterns In-Form Natural, Synthetic, and Hybrid Embodiments"* (Michael Levin, 2026) — Formulates the non-physicalist pointer model of embodied and robotic minds.
 

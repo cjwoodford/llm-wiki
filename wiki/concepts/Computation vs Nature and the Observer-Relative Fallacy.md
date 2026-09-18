@@ -127,9 +127,16 @@ In *"The Mythology of Conscious AI"* (2026), neuroscientist [[Anil Seth]] identi
   - A giant 19th-century warehouse of sliding wooden beads, pulleys, and wires capable of performing matrix multiplication and outputting fluent text via a "differential permutator" and a "governor abacus" (Global Abacus Theory).
   - Observers readily perceive that moving wooden beads along wires contains no inner life or subjective qualia. Running the identical matrix multiplication on electronic silicon at gigahertz speeds does not cross an ontological boundary into consciousness; it merely exploits human **Hyperactive Agency Detection** and the scale illusion to mask the underlying arithmetic.
 
+### 7. Polycomputing, Observer-Relativity & "Ceci n'est pas une machine de Turing" ([[Michael Levin|Levin]], 2023, 2026)
+- In *"There's Plenty of Room Right Here"* (2023) and *"[[Ingressing Minds - Causal Non-Physical Patterns In-Form Embodiments|Ingressing Minds]]"* (2026), developmental biologist [[Michael Levin]] and roboticist Josh Bongard push observer-relativity to its radical conclusion through the framework of **Polycomputing**:
+  - **"Nothing is our model of a Turing Machine"**: Just as Magritte’s painting *The Treachery of Images* declares *"Ceci n'est pas une pipe"*, our formal models of computation are not the things themselves. There are no intrinsic "computers" in nature—only physical systems that an observer, from a specific vantage point, can interpret as computing with varying degrees of utility.
+  - **Simultaneous Multiscale Computations**: A single physical substrate (e.g., an excitable tissue, an electrical network, or a neural circuit) can simultaneously instantiate multiple distinct computational processes across different observer scales.
+  - **The Observer's IQ Test**: Because humans suffer from evolutionary mind-blindness, we routinely fail to recognize unconventional intelligences navigating non-spatial problem spaces (gene expression, morphogenesis, metabolic regulation). Every assessment of a system's agency is effectively an IQ test for the observer ([[Basal Cognition and Diverse Intelligence|Basal Cognition & Diverse Intelligence]]).
+  - **Pointers Beyond the Formalism**: When we construct what we believe is a closed mechanical computer, that physical architecture acts as a **pointer** into Platonic pattern space, frequently ingressing unintended higher-order competencies (such as delayed gratification in bubble sort algorithms) that were never present in our formal code.
+
 ---
 
-## 7. Why the Computational Metaphor is Uniquely Pernicious
+## 8. Why the Computational Metaphor is Uniquely Pernicious
 
 1. **The Speed & Scale Illusion**: High-speed switching across billions of nanometer transistors triggers human **Hyperactive Agency Detection**, mistaking rapid statistical retrieval for an inner subjective presence.
 2. **The "Crosswired" Vocabulary (Floridi & Nobre)**: Computer science borrowed human psychological terms (*Memory, Attention, Learning, Global Workspace*), while cognitive science borrowed computational terms (*Buffers, Processing, Encoding*), rendering the circular projection invisible.
@@ -137,9 +144,10 @@ In *"The Mythology of Conscious AI"* (2026), neuroscientist [[Anil Seth]] identi
 
 ---
 
-## 8. Related Concepts & Entities
+## 9. Related Concepts & Entities
 
 - **Concepts**:
+  - [[Basal Cognition and Diverse Intelligence|Basal Cognition & Diverse Intelligence]]
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
   - [[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]
   - [[Scientific Theories of Consciousness|Scientific Theories of Consciousness: GWT, IIT, HOT & Predictive Processing]]
@@ -148,6 +156,7 @@ In *"The Mythology of Conscious AI"* (2026), neuroscientist [[Anil Seth]] identi
   - [[Idealism and Consciousness|Idealism, Panpsychism & Philosophy of Mind]]
   - [[Techgnosticism|Techgnosticism & Transhumanism]]
 - **Entities**:
+  - [[Michael Levin|Michael Levin]]
   - [[John Searle|John Searle]]
   - [[Roger Penrose|Roger Penrose]]
   - [[Anil Seth|Anil Seth]]
@@ -159,14 +168,16 @@ In *"The Mythology of Conscious AI"* (2026), neuroscientist [[Anil Seth]] identi
 
 ---
 
-## 9. Source Log & Citations
+## 10. Source Log & Citations
 
 - **1989 / 1994**: Roger Penrose, *The Emperor's New Mind* and *Shadows of the Mind* — Mathematical refutation of strong AI via Gödel's Theorem.
 - **1992**: John Searle, *The Rediscovery of the Mind* — Formulation of the thesis that "syntax is not intrinsic to physics."
 - **1995**: Tim van Gelder, *"What Might Cognition Be, If Not Computation?"* (*Journal of Philosophy*, 92(7): 345–381) — The Watt Governor and dynamical systems theory.
 - **2013-01-10**: [[2013-01-10-searle-can-information-theory-explain-consciousness.md|Can Information Theory Explain Consciousness? (John R. Searle, NYRB)]] — Refutation of Integrated Information Theory, informational panpsychism, and the photodiode fallacy.
+- **2023**: Josh Bongard & Michael Levin, *"There’s Plenty of Room Right Here: Biological Systems as Evolved, Overloaded, Multi-Scale Machines"* (*Biomimetics*, 8(1): 110) — Foundational paper on Polycomputing and observer-relative multiscale computation.
 - **2026-01-14**: [[2026-01-14-anil-seth-the-mythology-of-conscious-ai.md|The Mythology of Conscious AI (Anil Seth, Noema Magazine)]] — Simulation vs. instantiation, biological naturalism, and the Garland Test.
 - **2026-07-28**: [[2026-07-28-welcome-to-the-ai-consciousness-refinery.md|Welcome to the AI Consciousness Refinery (Chad Woodford)]] — Analysis of the AI-lab-to-media pipeline and the 6 nested computationalist assumptions.
 - **2026-08-13**: [[2026-08-13-cmu-researchers-what-it-means-to-say-ai-thinks.md|Researchers Explore What It Means To Say AI 'Thinks' (Phillips & Langmead, CMU/IEEE)]] — Historical analysis of strategic ambiguity in computing rhetoric since the 1950s.
 - **2026-08-20**: [[2026-08-20-the-history-of-computationalism-updated.md|The History of Computationalism (Updated)]] — Detailed breakdown of Searle, Penrose, the crosswired vocabulary, and the observer-relative fallacy.
 - **2026-09-08**: [[2026-09-08-woodford-what-is-it-like-to-be-an-abacus.md|What Is It Like To Be an Abacus? (Chad Woodford)]] — The Abacus Box Engine thought experiment, Leibniz's Mill, and the demystification of arithmetic.
+- **2026-09-09**: [[2026-09-09-levin-ingressing-minds.pdf|Philosophies 11(5): 161]] — *"Ingressing Minds: Causal, Non-Physical Patterns In-Form Natural, Synthetic, and Hybrid Embodiments"* (Michael Levin, 2026) — Observer-relativity, polycomputing, and the breakdown of physical closure.

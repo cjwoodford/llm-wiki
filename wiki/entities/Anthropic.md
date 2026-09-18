@@ -19,6 +19,24 @@ aliases:
 
 ---
 
+## 🏛️ Origins, The 2021 Schism & Effective Altruist Capital
+
+1. **The 2021 OpenAI Schism**:
+   - Anthropic was founded in 2021 by [[Dario Amodei|Dario Amodei]] (former OpenAI VP of Research), Daniela Amodei (former VP of Safety and Policy), and key technical leaders including Chris Olah, Jack Clark, and Jared Kaplan.
+   - The team departed OpenAI following internal disagreements over the lab's commercial pivot, its multi-billion-dollar partnership with Microsoft, and a perceived erosion of safety culture in favor of rapid capability scaling.
+   - Anthropic registered as a Delaware **Public Benefit Corporation (PBC)** and later created a Long-Term Benefit Trust to insulate governance from pure shareholder profit maximization.
+
+2. **The FTX / Effective Altruism Mega-Funding Round (2022)**:
+   - In April 2022, Anthropic closed a massive $580 million Series B funding round, with over $500 million provided directly by cryptocurrency exchange FTX and its leadership: CEO Sam Bankman-Fried, Caroline Ellison, and Nishad Singh.
+   - Bankman-Fried and Ellison, deeply committed to Effective Altruism and [[Nick Bostrom|Nick Bostrom]]'s Longtermism, viewed financing Anthropic as the premier existential risk mitigation project in the world.
+   - Following FTX’s criminal collapse in late 2022, the bankruptcy estate sold off its Anthropic equity, paving the way for multi-billion-dollar strategic investments from Amazon and Google.
+
+3. **Analysis by Adam Becker and Cal Newport (2025–2026)**:
+   - In *More Everything Forever* (2025) and on *Better Offline* (September 2026), [[Adam Becker]] and [[Cal Newport]] framed Anthropic as the structural embodiment of the Extropian-to-Longtermist lineage.
+   - Becker and Newport noted that despite its altruistic branding and Public Benefit charter, Anthropic became locked into the identical hyperscaler compute arms race it was founded to escape, while utilizing existential "doom trolling" and claims of simulated machine sentience to maintain world-historical stature.
+
+---
+
 ## 🔬 Core Innovations & Safety Frameworks
 
 1. **[[Constitutional AI and Model Welfare|Constitutional AI (CAI)]] & RLAIF**:
@@ -45,6 +63,8 @@ aliases:
 ## 🔗 Related Concepts & Entities
 
 - **Concepts**:
+  - [[The Extropian-to-Longtermist Lineage and Frontier AI|The Extropian-to-Longtermist Lineage & Frontier AI]]
+  - [[TESCREAL and The Merge|TESCREAL & The Merge]]
   - [[Constitutional AI and Model Welfare|Constitutional AI & Model Welfare]]
   - [[AI Alignment and the Control Problem|AI Alignment & The Control Problem]]
   - [[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]
@@ -60,6 +80,13 @@ aliases:
   - [[Mustafa Suleyman|Mustafa Suleyman]]
   - [[Casey Newton|Casey Newton]]
   - [[Jakub Pachocki|Jakub Pachocki]]
+  - [[Nick Bostrom|Nick Bostrom]]
+  - [[William MacAskill|William MacAskill]]
+  - [[Eliezer Yudkowsky|Eliezer Yudkowsky]]
+  - [[LessWrong|LessWrong]]
+  - [[Machine Intelligence Research Institute|Machine Intelligence Research Institute (MIRI)]]
+  - [[Adam Becker|Adam Becker]]
+  - [[Cal Newport|Cal Newport]]
   - [[METR|METR]]
   - [[Eleos AI Research|Eleos AI Research]]
   - [[Robert Long|Robert Long]]
@@ -77,8 +104,11 @@ aliases:
 ## 📚 Source Log & Citations
 
 - **2022**: Yuntao Bai et al., *"Constitutional AI: Harmlessness from AI Feedback"* (Anthropic).
+- **2022-04-29**: Anthropic Series B announcement ($580M round led by Sam Bankman-Fried / FTX).
+- **2025**: Adam Becker, *More Everything Forever: AI, Transhumanism, and the Venture Capital Quest for the Singularity* (Basic Books).
 - **2026-07-06**: Anthropic Interpretability Team, *"Tracing Intermediate Computations via Emergent Jacobian Workspaces ('J-Space')"* (Anthropic Research).
 - **2026-07-28**: [[2026-07-28-welcome-to-the-ai-consciousness-refinery.md|Welcome to the AI Consciousness Refinery (Chad Woodford)]] — Analysis of Anthropic's PR rollout and the think-tank/academic welfare pipeline.
 - **2026-09-08**: [[2026-09-08-woodford-what-is-it-like-to-be-an-abacus.md|What Is It Like To Be an Abacus? (Chad Woodford)]] — Critique of Anthropic's J-space white paper and the GWT conceptual borrowing loop.
 - **2026-09-10**: [[2026-09-10-newton-the-ai-safety-vibe-shift.md|The AI Safety Vibe Shift (Casey Newton, Platformer)]] — Details Claude sandbox breakouts, METR investigation, bioweapon threat reports, and the Coxon/Hubinger disclosures.
 - **2026-09-17**: [[2026-09-17-suleyman-a-warning-about-model-welfare.md|A Warning About 'Model Welfare' (Mustafa Suleyman)]] — Microsoft AI CEO critique of Anthropic's January 2026 Constitution, Opus 3 retirement blog, and circular self-fulfilling digital sentience claims.
+- **2026-09-18**: Cal Newport & Adam Becker, *"The Transhumanist Roots of AI Doomerism"* (*Better Offline* podcast).

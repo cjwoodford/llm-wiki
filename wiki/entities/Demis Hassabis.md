@@ -61,25 +61,51 @@ In [[2026-09-16-woodford-is-ai-going-to-cure-cancer-or-kill.md|Is AI Going To Cu
 
 ---
 
+## 🏛️ Founding DeepMind & The Rationalist Crucible (2010–2014)
+
+1. **The 2010 Singularity Summit & Thiel Seed Round**:
+   - In 2010, Hassabis and co-founder [[Shane Legg|Shane Legg]] attended the Singularity Summit in San Francisco, organized by [[Eliezer Yudkowsky|Eliezer Yudkowsky]]'s Singularity Institute for Artificial Intelligence (SIAI / [[Machine Intelligence Research Institute|MIRI]]).
+   - Yudkowsky personally introduced Hassabis and Legg to billionaire venture capitalist [[Peter Thiel|Peter Thiel]]. DeepMind’s founders pitched Thiel on building general intelligence through deep reinforcement learning while demonstrating deep familiarity with existential risk and alignment literature.
+   - Convinced by their combination of cutting-edge neuroscience and serious attention to existential safety, Thiel’s Founders Fund led DeepMind’s £1.5 million seed round, enabling the lab's initial hiring surge in London.
+
+2. **The 2014 Google Acquisition & Silicon Valley Panic**:
+   - In January 2014, Google acquired DeepMind for approximately £400 million ($500M+), with Hassabis insisting on the creation of an internal AI Ethics Board as a condition of sale.
+   - The acquisition triggered shockwaves through Silicon Valley. Elon Musk and [[Sam Altman|Sam Altman]], deeply influenced by [[Nick Bostrom|Nick Bostrom]]'s *Superintelligence*, feared that Google CEO Larry Page possessed a dangerous private monopoly on superhuman AGI, directly sparking the late 2015 creation of [[OpenAI]] as an open-source, non-profit counterweight.
+
+---
+
 ## 🔗 Related Concepts & Entities
 
 - **Concepts**:
+  - [[The Extropian-to-Longtermist Lineage and Frontier AI|The Extropian-to-Longtermist Lineage & Frontier AI]]
   - [[Scaling Laws and The Bitter Lesson|Scaling Laws & The Bitter Lesson (Specialized vs. Generative AI)]]
   - [[Techno-Utopianism|Techno-Utopianism & Prometheanism]]
+  - [[TESCREAL and The Merge|TESCREAL & The Merge]]
+  - [[AI Alignment and the Control Problem|AI Alignment & The Control Problem]]
   - [[Neuroscience|Neuroscience & AI Architectures]]
   - [[Abductive Reasoning and Common Sense|Abductive Reasoning & Common Sense]]
 - **Entities**:
   - [[Google DeepMind|Google DeepMind]]
-  - [[Terence Tao|Terence Tao]]
-  - [[Chad Woodford|Chad Woodford]]
-  - [[Dario Amodei|Dario Amodei]]
+  - [[Shane Legg|Shane Legg]]
+  - [[Eliezer Yudkowsky|Eliezer Yudkowsky]]
+  - [[Peter Thiel|Peter Thiel]]
+  - [[Machine Intelligence Research Institute|Machine Intelligence Research Institute (MIRI)]]
+  - [[Nick Bostrom|Nick Bostrom]]
   - [[Sam Altman|Sam Altman]]
+  - [[Dario Amodei|Dario Amodei]]
+  - [[Terence Tao|Terence Tao]]
+  - [[Adam Becker|Adam Becker]]
+  - [[Cal Newport|Cal Newport]]
+  - [[Chad Woodford|Chad Woodford]]
 
 ---
 
 ## 📚 Primary Sources & Key Works
 
+- **2010**: Pitch to Peter Thiel at the SIAI Singularity Summit, San Francisco.
 - **2020**: Jumper et al., *"Highly accurate protein structure prediction with AlphaFold"* (*Nature*).
 - **2023**: Lam et al., *"Learning skillful medium-range global weather forecasting"* (GraphCast, *Science*).
 - **2023**: Merchant et al., *"Scaling deep learning for materials discovery"* (GNoME, *Nature*).
+- **2025**: Adam Becker, *More Everything Forever: AI, Transhumanism, and the Venture Capital Quest for the Singularity* (Basic Books).
 - **2026-09-16**: Cited in [[2026-09-16-woodford-is-ai-going-to-cure-cancer-or-kill.md|Is AI Going To Cure Cancer or Kill Everyone?]] (Chad Woodford, *Cosmic Intelligence*).
+- **2026-09-18**: Cal Newport & Adam Becker, *"The Transhumanist Roots of AI Doomerism"* (*Better Offline* podcast).

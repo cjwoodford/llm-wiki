@@ -115,6 +115,10 @@ While traditional philosophy of mind focuses on [[Hard Problem of Consciousness|
 4. **Quantum Integrated Information Theory & Dynamical Collapse (QIIT, [[David Chalmers|David Chalmers]] & [[Kelvin McQueen|Kelvin McQueen]])**:
    - Modernizes von Neumann-Wigner Consciousness-Causes-Collapse by formalizing a continuous, stochastic non-linear Schrödinger differential equation driven by a quantum generalization of Integrated Information ($\Phi_Q$).
    - Overcomes the **Quantum Zeno Effect** and the vagueness of the observer by proving that quantum superpositions of high-$\Phi_Q$ states spontaneously collapse at a rate proportional to $(\Delta \Phi_Q)^2$, providing experimentally testable predictions in macroscopic quantum optomechanics and superconducting quantum processors (*[[Quantum Integrated Information Theory and Collapse|Quantum Integrated Information Theory & Collapse]]*).
+5. **Diverse Intelligence & Ingressing Minds ([[Michael Levin|Michael Levin]], 2026)**:
+   - Formulates a non-physicalist dualist interactionism rooted in developmental bioelectricity and synthetic morphology (*[[Ingressing Minds - Causal Non-Physical Patterns In-Form Embodiments|Ingressing Minds]]*).
+   - **Mind:Body as Math:Physics**: Just as mathematical truths exert causal constraint over physical dynamics without being reducible to physics, minds are non-physical, dynamic, agential patterns drawn from a structured Platonic latent space.
+   - **Embodiments as Pointers**: Brains, embryos, biobots ([[Xenobots]], [[Anthrobots]]), and AI architectures are *pointers or interfaces* into this pattern space. Consciousness is not generated locally by physical wetware or silicon; rather, physical systems act as material scratchpads (cognitive stigmergy) that interface with ingressing mental patterns ([[Basal Cognition and Diverse Intelligence|Basal Cognition & Diverse Intelligence]]).
 
 ---
 
@@ -130,6 +134,7 @@ While traditional philosophy of mind focuses on [[Hard Problem of Consciousness|
 | **Attention Schema (AST)** | Descriptive Attention Model | Temporoparietal Junction (TPJ) & STS | Phenomenal qualia is an illusory schema ($P = \text{Illusion}$) | **Possible**: Any computational agent programmed with a self-attention model. |
 | **Orch-OR** | Quantum Tubulin Collapse | Microtubules inside Neurons | Quantum gravity collapse generates proto-conscious moments | **Impossible in Silicon**: Classical digital computers lack non-computable quantum biology. |
 | **QIIT (Chalmers & McQueen)** | Quantum $\Phi_Q$ Dynamical Collapse | Multipartite Entangled Quantum Subsystems | Phenomenal $\Phi_Q$ dynamically collapses quantum state | **Impossible on Classical Silicon**: Classical computers decohere ($\Phi_Q \approx 0$); requires quantum architectures. |
+| **Ingressing Minds (Levin)** | Platonic Pattern Ingression ($\text{Mind}:\text{Body} :: \text{Math}:\text{Physics}$) | Multiscale Somatic & Bioelectric Networks (Scale-Free) | Mind is an agential pattern; body/machine is a pointer | **Possible**: Engineered architectures (robots, AI) act as pointers into Platonic mind-space. |
 
 ---
 
@@ -224,6 +229,7 @@ While each theory provides illuminating correlations and functional architecture
 ## 6. Related Concepts & Entities
 
 - **Concepts**:
+  - [[Basal Cognition and Diverse Intelligence|Basal Cognition & Diverse Intelligence]]
   - [[Quantum Integrated Information Theory and Collapse|Quantum Integrated Information Theory & Collapse]]
   - [[Cybernetics and the Macy Conferences|Cybernetics and the Macy Conferences (Feedback & Homeostasis)]]
   - [[Neuroscience|Neuroscience: Origins, Evolution & Developmental Milestones]]
@@ -236,6 +242,7 @@ While each theory provides illuminating correlations and functional architecture
   - [[Idealism and Consciousness|Idealism, Panpsychism & Philosophy of Mind]]
   - [[Empirical AI Welfare and Digital Minds|Empirical AI Welfare & Digital Minds]]
 - **Entities**:
+  - [[Michael Levin|Michael Levin]]
   - [[David Chalmers|David Chalmers]]
   - [[Kelvin McQueen|Kelvin McQueen]]
   - [[Giulio Tononi|Giulio Tononi]]
@@ -266,3 +273,4 @@ While each theory provides illuminating correlations and functional architecture
 - **2023**: Melloni et al., *"Making the Hard Problem Feasible: Adversarial Collaboration in Consciousness Research"* (COGITATE).
 - **2026-01-14**: [[2026-01-14-anil-seth-the-mythology-of-conscious-ai.md|The Mythology of Conscious AI (Anil Seth, Noema Magazine)]] — Biological naturalism, simulation vs. instantiation, and the Garland Test.
 - **2026-07-25**: [[2026-07-25-anthropic-verbalizable-representations-global-workspace.md|Verbalizable Representations Form a Global Workspace in Language Models (Anthropic)]] — Empirical GWT in LLMs.
+- **2026-09-09**: [[2026-09-09-levin-ingressing-minds.pdf|Philosophies 11(5): 161]] — *"Ingressing Minds: Causal, Non-Physical Patterns In-Form Natural, Synthetic, and Hybrid Embodiments"* (Michael Levin, 2026) — Formulates non-physicalist dualist interactionism ($Mind : Body :: Math : Physics$).

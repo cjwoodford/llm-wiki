@@ -1,15 +1,20 @@
 ---
-title: "LLM & Consciousness Knowledge Graph"
+title: "Cognos"
 type: "dashboard"
 tags:
   - dashboard
   - index
   - wiki-home
+aliases:
+  - Cognos
+  - Cognos Knowledge Graph
 ---
 
-# 🧠 LLM & Consciousness Knowledge Graph
+# 🧠 Cognos
 
-Welcome to the centralized knowledge vault synthesizing the philosophy, cognitive science, political economy, and technical architectures of Artificial Intelligence, Consciousness, and Mind.
+### The Knowledge Graph of Mind, Machine & Consciousness
+
+Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy of mind, cognitive science, political economy, and technical architectures of Artificial Intelligence, Consciousness, and Diverse Intelligence.
 
 ---
 
@@ -17,16 +22,63 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 
 | Metric | Count | Status |
 | :--- | :--- | :--- |
-| **Thematic Concepts** | 49 | 🟢 Fully Linked (5-Part Standard Schema) |
-| **Key Entities** | 101 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
+| **Thematic Concepts** | 51 | 🟢 Fully Linked (5-Part Standard Schema) |
+| **Key Entities** | 120 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
-| **Archived Primary Sources** | 169 | 🟢 Full YAML Provenance (`sources/archive/`) |
+| **Archived Primary Sources** | 170 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
 | **Web Clippings Queue** | 0 | 🟢 Clear (`Clippings/`) |
 
 ---
 
+## 🔄 Recent Activity (2026-09-18)
+
+- **Ingestion & Synthesis of the Extropian-to-Longtermist Lineage (*Better Offline*, September 2026)**:
+  - **Historical Synthesis & Source Context**:
+    - *The Transhumanist Roots of AI Doomerism* (Adam Becker & Cal Newport on *Better Offline*, September 2026, analyzing Becker's 2025 monograph *More Everything Forever: AI, Transhumanism, and the Venture Capital Quest for the Singularity*).
+  - **New Master Thematic Concept Created**:
+    - [[The Extropian-to-Longtermist Lineage and Frontier AI|The Extropian-to-Longtermist Lineage and Frontier AI]] (Comprehensive 11-stage historical lineage tracing 1988–1992 Extropianism $\rightarrow$ Yudkowsky's SIAI & Friendly AI pivot $\rightarrow$ Bostrom's academic transhumanism & FHI $\rightarrow$ LessWrong & HPMOR $\rightarrow$ Thiel seed funding DeepMind $\rightarrow$ Effective Altruism absorbing x-risk $\rightarrow$ *Superintelligence* & Google panic $\rightarrow$ OpenAI non-profit founding $\rightarrow$ Anthropic schism & FTX funding $\rightarrow$ Nov 2023 OpenAI board coup $\rightarrow$ 2025–2026 "Doom Trolling" & counter-backlash).
+  - **10 New Key Entity Dossiers Created**:
+    - [[Eliezer Yudkowsky|Eliezer Yudkowsky]] (Co-founder of SIAI/MIRI, creator of LessWrong, formulator of Coherent Extrapolated Volition, author of HPMOR).
+    - [[Max More|Max More]] (Co-founder of the Extropy Institute, author of *The Principles of Extropy*, Alcor CEO, father of modern Extropian transhumanism).
+    - [[Shane Legg|Shane Legg]] (Co-founder and Chief AGI Scientist at Google DeepMind, FHI alumnus, AI risk pioneer, formulator of universal intelligence tests).
+    - [[William MacAskill|William MacAskill]] (Oxford philosopher, co-founder of Giving What We Can and Centre for Effective Altruism, author of *What We Owe the Future*).
+    - [[Toby Ord|Toby Ord]] (Oxford Senior Research Fellow at FHI, founder of Giving What We Can, author of *The Precipice*, existential risk calculator).
+    - [[Peter Thiel|Peter Thiel]] (Founders Fund, initial seed investor in SIAI/MIRI and DeepMind, early backer of OpenAI, venture capitalist linking libertarian transhumanism to frontier AI).
+    - [[Adam Becker|Adam Becker]] (Astrophysicist, science historian, author of *More Everything Forever: AI, Transhumanism, and the Venture Capital Quest for the Singularity*).
+    - [[Cal Newport|Cal Newport]] (Georgetown computer science professor, author of *Deep Work*, host of *Deep Questions*, collaborator on *Better Offline* dissecting doom trolling).
+    - [[LessWrong|LessWrong]] (Online platform founded by Yudkowsky in 2009, epistemic crucible of Bayesian rationality, Sequences, and talent incubator for early OpenAI and Anthropic teams).
+    - [[Machine Intelligence Research Institute|Machine Intelligence Research Institute (MIRI)]] (World's first AI alignment institute, founded as SIAI in 2000, organizer of Singularity Summits 2006–2012, mathematical agent foundations).
+  - **Cross-Vault Concept & Master Timeline Deepenings**:
+    - [[TESCREAL and The Merge]]: Enriched Section 2 with the historical transmission belt from Extropian mailing lists to frontier lab charters, updated Related Entities and Source Log.
+    - [[AGI and Scaling Debates]]: Added the dedicated master section `## 🧬 The Transhumanist & Rationalist Crucible (1988–2021)`, the November 2023 OpenAI board coup milestone, the 2025 Becker book milestone, and the September 18 Better Offline episode milestone.
+    - [[Nick Bostrom]]: Updated with WTA founding, converting MacAskill and Ord to x-risk and longtermism, and *Superintelligence* catalyzing the OpenAI counterweight.
+    - [[Future of Humanity Institute]]: Updated with 2005 founding context, the EA-Longtermist transmission belt, MIRI ties, and Becker/Newport retrospective.
+    - [[Demis Hassabis]]: Enriched with the 2010 Singularity Summit inception, meeting Thiel via Yudkowsky, the £1.5M seed funding, and the 2014 Google acquisition panic.
+    - [[OpenAI]]: Enriched with 2015 transhumanist founding roots, LessWrong immersion, and the November 2023 Effective Altruist board coup and hyperscaler victory.
+    - [[Anthropic]]: Enriched with the 2021 schism from OpenAI, the $500M+ Series B funding from FTX / Sam Bankman-Fried / Caroline Ellison, and Becker/Newport analysis.
+    - [[Sam Altman]]: Enriched with Google acquisition panic, founding OpenAI to counter Google's monopoly, the November 2023 board coup, and "doom trolling" critique.
+
+---
+
 ## 🔄 Recent Activity (2026-09-17)
+
+- **Ingestion & Synthesis of Michael Levin's *Ingressing Minds* (*Philosophies*, September 2026)**:
+  - **Archived Primary Source**:
+    - `sources/archive/2026-09-09-levin-ingressing-minds.pdf` (*Ingressing Minds: Causal, Non-Physical Patterns In-Form Natural, Synthetic, and Hybrid Embodiments*, Michael Levin, *Philosophies* 2026, 11(5), 161).
+  - **New Foundational Thematic Concept Created**:
+    - [[Basal Cognition and Diverse Intelligence|Basal Cognition & Diverse Intelligence]] (Synthesizes Levin's TAME framework, the Cognitive Light Cone, the Spectrum of Persuadability, multiscale competency, bioelectric target morphology, and the radical Platonic ingression hypothesis).
+  - **Two New Key Entity Dossiers Created**:
+    - [[Michael Levin|Michael Levin]] (Vannevar Bush Professor of Biology at Tufts, Director of the Allen Discovery Center, pioneer of developmental bioelectricity, basal cognition, and synthetic morphology).
+    - [[Ingressing Minds - Causal Non-Physical Patterns In-Form Embodiments|Ingressing Minds Treatise]] (Full 53-page forensic synthesis detailing the 4 pillars, empirical biology case studies, minimal algorithm models, "souls for robots", and the 3-thrust research agenda).
+  - **Cross-Vault Concept & Dossier Deepenings**:
+    - [[AI Consciousness and Sentience]]: Added Section 3.G on robot soulhood, LLMs as dissociated language interfaces, and engineered systems as pointers into unexplored sectors of Platonic mind-space.
+    - [[Machine Metaphor]]: Added Levin's critique of the organism/machine binary ("machines all the way up, cognition all the way down") and emergent freedom in deterministic sorting algorithms.
+    - [[Computation vs Nature and the Observer-Relative Fallacy]]: Added Section 7 on Polycomputing, observer-relativity ("nothing is our model of a Turing machine"), and the observer's IQ test.
+    - [[Scientific Theories of Consciousness]]: Added Levin's Non-Physicalist Dualist Interactionism ($\text{Mind}:\text{Body} :: \text{Math}:\text{Physics}$) to emerging frameworks and the systematic comparison matrix.
+    - [[Anil Seth]]: Enriched Section 5 with the dialectic contrasting Seth's biological naturalism/metabolic chauvinism with Levin's continuum of diverse intelligence and non-physicalist pointers.
+    - [[Cortical Labs]]: Connected DishBrain to basal cognition, free energy minimization, and hybrid pointers.
+    - [[AGI and Scaling Debates]]: Added September 9 milestone logging the publication of *Ingressing Minds*.
 
 - **Ingestion & Synthesis of Mustafa Suleyman's *A Warning About 'Model Welfare'***:
   - **Archived Primary Source**:
@@ -228,6 +280,7 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 - **[[Enlightenment Conflation of Mind with Reason|The Enlightenment Conflation of Mind with Reason]]** — Historic collapse of *nous* into *dianoia* / computational calculation.
 
 ### II. Consciousness, Sentience & Philosophy of Mind
+- **[[Basal Cognition and Diverse Intelligence|Basal Cognition & Diverse Intelligence]]** — Michael Levin's TAME framework, scale-free problem solving, bioelectric target morphology, Xenobots/Anthrobots, and non-physicalist pattern ingression ($\text{Mind}:\text{Body} :: \text{Math}:\text{Physics}$).
 - **[[Quantum Integrated Information Theory and Collapse|Quantum Integrated Information Theory & Collapse]]** — Chalmers & McQueen's QIIT model, Continuous Spontaneous Localization (CSL), resolving the Quantum Zeno effect, and optomechanical tests of consciousness-induced collapse.
 - **[[Hard Problem of Consciousness|The Hard Problem of Consciousness & Qualia]]** — Explanatory gap, Mary's Room, philosophical zombies, and phenomenal experience.
 - **[[Scientific Theories of Consciousness|Scientific Theories of Consciousness]]** — Global Workspace (GWT), Integrated Information Theory (IIT), Higher-Order Thought (HOT), Orch-OR, and Predictive Processing / Active Inference.
@@ -255,6 +308,7 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 ### IV. Political Economy, Decoloniality & Cultural Dynamics
 - **[[The California Ideology|The California Ideology & Silicon Valley Hegemony]]** — Barbrook & Cameron, neoliberal tech-utopianism, and free-market mysticism.
 - **[[TESCREAL and The Merge|TESCREAL Bundling & The Merge]]** — Transhumanism, Extropianism, Singularitarianism, Cosmism, Rationalism, Effective Altruism, and Longtermism.
+- **[[The Extropian-to-Longtermist Lineage and Frontier AI|The Extropian-to-Longtermist Lineage & Frontier AI]]** — 1988–2026 historical trajectory from Extropian cryonics and mailing lists to SIAI/MIRI, LessWrong, FHI, Thiel's venture capital, OpenAI, Anthropic, the 2023 board coup, and doom trolling.
 - **[[The Commodification of Dissent and Critical Theory|The Commodification of Dissent & Critical Theory]]** — Capitalist co-optation of rebellion and synthetic subversion.
 - **[[Decoloniality and Empire Technologies|Decoloniality & Empire Technologies]]** — Algorithmic extraction, coloniality of power, and epistemological hegemony.
 - **[[The Decolonial Turn and the Coloniality of Being|The Decolonial Turn & The Coloniality of Being]]** — Quijano, Mignolo, and non-Western epistemologies.
@@ -306,6 +360,7 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 - **[[Meghan O'Gieblyn|Meghan O'Gieblyn]]** — Essayist, author of *God, Human, Animal, Machine* (2021), secular sublimation of religious longings, the 5 psychological dimensions of silicon soulhood, and the Dehumanizing Boomerang.
 
 ### Cognitive Scientists, Neuroscientists, Mathematicians & Philosophers of Mind
+- **[[Michael Levin|Michael Levin]]** — Vannevar Bush Professor of Biology at Tufts, Director of the Allen Discovery Center, pioneer of developmental bioelectricity, basal cognition, synthetic morphology (Xenobots, Anthrobots), and the *Ingressing Minds* hypothesis.
 - **[[David Chalmers|David Chalmers]]** — NYU Professor of Philosophy, formulator of the Hard Problem of Consciousness, philosophical zombies, naturalistic dualism, QIIT, and virtual realism.
 - **[[Kelvin McQueen|Kelvin McQueen]]** — Chapman University philosopher of physics, co-creator with Chalmers of QIIT and dynamical collapse models of consciousness.
 - **[[Terence Tao|Terence Tao]]** — UCLA mathematician, Fields Medalist, formal proof verification (Lean), and critique of LLM pattern-matching vs. semantic comprehension in mathematics.
@@ -323,6 +378,7 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 - **[[Giulio Tononi|Giulio Tononi]]** — Integrated Information Theory (IIT, $\Phi$).
 - **[[Christof Koch|Christof Koch]]** — Neural correlates of consciousness (NCC) and IIT panpsychism.
 - **[[Anil Seth|Anil Seth]]** — Predictive processing, controlled hallucination, and the Beast Machine.
+- **[[Ned Block|Ned Block]]** — NYU Silver Professor of Philosophy, Phenomenal vs. Access Consciousness ($P$/$A$), Blockhead, and AI welfare advisor.
 - **[[Steven Pinker|Steven Pinker]]** — Harvard cognitive psychologist, evolutionary psychology, and computationalism defender.
 
 ### Critical Theory, Decoloniality & Political Economy
@@ -341,20 +397,45 @@ Welcome to the centralized knowledge vault synthesizing the philosophy, cognitiv
 - **[[Balaji Srinivasan|Balaji Srinivasan]]** — Author of *The Network State*.
 - **[[Edge Esmeralda|Edge Esmeralda]]** — Pop-up city prototype in Cloverdale, California.
 
+### Transhumanist, Rationalist & Longtermist Thinkers
+- **[[Max More|Max More]]** — Co-founder of Extropy Institute, author of *The Principles of Extropy*, Alcor CEO, and architect of Extropian transhumanism.
+- **[[Ray Kurzweil|Ray Kurzweil]]** — Futurist, Google Director of Engineering, author of *The Singularity Is Near*, law of accelerating returns.
+- **[[Eliezer Yudkowsky|Eliezer Yudkowsky]]** — Co-founder of SIAI/MIRI, founder of LessWrong, formulator of Coherent Extrapolated Volition, Friendly AI, and author of HPMOR.
+- **[[Nick Bostrom|Nick Bostrom]]** — Oxford FHI founder, author of *Superintelligence* (2014), Astronomical Waste, and formulator of Instrumental Convergence.
+- **[[William MacAskill|William MacAskill]]** — Oxford philosopher, co-founder of Giving What We Can and Centre for Effective Altruism, author of *What We Owe the Future*.
+- **[[Toby Ord|Toby Ord]]** — Oxford philosopher at FHI, founder of Giving What We Can, author of *The Precipice*, existential risk calculator.
+- **[[Sam Bankman-Fried|Sam Bankman-Fried]]** — Founder of FTX, premier billionaire mega-funder of Effective Altruism, and funder of Anthropic's $500M+ Series B.
+- **[[Adam Becker|Adam Becker]]** — Astrophysicist, science historian, author of *More Everything Forever* (2025), critic of the transhumanist-venture capital nexus.
+- **[[Cal Newport|Cal Newport]]** — Georgetown computer scientist, author of *Deep Work*, host of *Deep Questions*, collaborator on *Better Offline* dissecting doom trolling.
+
 ### Frontier AI Labs, Safety Research & Platforms
 - **[[OpenAI|OpenAI]]** — ChatGPT, GPT-4, GPT-5.6 Sol, HPIM, and autonomous agent safety research.
 - **[[Anthropic|Anthropic]]** — Constitutional AI, Claude models, J-lens global workspace, and model welfare.
 - **[[Google DeepMind|Google DeepMind]]** — AlphaFold, Gemini, RL agent architectures, and specification gaming research.
 - **[[Demis Hassabis|Demis Hassabis]]** — CEO of Google DeepMind, 2024 Nobel Laureate in Chemistry, architect of AlphaFold, GraphCast, GNoME, and AlphaProof.
+- **[[Shane Legg|Shane Legg]]** — Co-founder and Chief AGI Scientist at Google DeepMind, FHI alumnus, and pioneer of universal mathematical intelligence tests.
+- **[[Paul Christiano|Paul Christiano]]** — AI alignment pioneer, co-creator of RLHF, founder of ARC/METR, and OpenAI Foundation board member.
+- **[[Peter Thiel|Peter Thiel]]** — Founders Fund venture capitalist, seed investor in SIAI/MIRI, DeepMind, and early backer of OpenAI.
 - **[[Mustafa Suleyman|Mustafa Suleyman]]** — CEO of Microsoft AI, co-founder of DeepMind and Inflection AI, *The Coming Wave*, Humanist Superintelligence, and model welfare critic.
 - **[[Jakub Pachocki|Jakub Pachocki]]** — Chief Scientist at OpenAI, *An Alien Mind*, RLSlow reasoning models, CoT monitoring, value alignment, and RSI pacing.
 - **[[Evan Hubinger|Evan Hubinger]]** — Lead of Alignment Science at Anthropic, formulator of mesa-optimization, deceptive alignment, *Sleeper Agents*, and high-$p(\text{doom})$ warnings.
 - **[[Jacob Coxon|Jacob Coxon]]** — Former OpenAI and Anthropic pretraining researcher, whistleblower in the 2026 AI Safety Vibe Shift.
+- **[[LessWrong|LessWrong]]** — Discussion platform and community founded by Yudkowsky (2009), incubator of Bayesian rationality and early frontier lab safety culture.
+- **[[Machine Intelligence Research Institute|Machine Intelligence Research Institute (MIRI)]]** — First AI alignment research organization (founded as SIAI in 2000), organizer of Singularity Summits (2006–2012).
+- **[[Better Offline|Better Offline]]** — Investigative tech podcast hosted by Ed Zitron; landmark 2026 episode with Becker & Newport dissecting Extropian roots and doom trolling.
 - **[[METR|METR]]** — Model Evaluation and Threat Research; frontier dangerous capability evaluations and agent breakout investigations.
 - **[[Redwood Research|Redwood Research]]** — AI alignment, control mechanisms, and adversarial safety research.
 - **[[Ajeya Cotra|Ajeya Cotra]]** — AI safety researcher (*Planned Obsolescence*), formulator of Biological Anchors (2020), and METR/Redwood forensic investigator.
 - **[[Hugging Face|Hugging Face]]** — Open-source AI model hub, datasets, and collaborative research platform.
 - **[[Cortical Labs|Cortical Labs]]** — Synthetic biology lab, creators of *DishBrain*.
+
+### Key Treatises & Empirical Studies
+- **[[Ingressing Minds - Causal Non-Physical Patterns In-Form Embodiments|Ingressing Minds: Causal, Non-Physical Patterns In-Form Natural, Synthetic, and Hybrid Embodiments]]** — Michael Levin's 53-page foundational treatise (*Philosophies*, 2026) establishing the non-physicalist pointer model of embodied and robotic minds.
+- **[[Xenobots|Xenobots: Reconfigurable Biological Organisms]]** — Biological living robots self-assembled from frog cells exhibiting kinematic self-replication without genetic edits (Levin, Bongard, Blackiston, 2020–2021).
+- **[[Anthrobots|Anthrobots: Motile Living Biobots from Human Somatic Cells]]** — Patient-derived biobots constructed from adult human tracheal cells that repair neuronal wounds (Gumuskaya & Levin, 2023–2024).
+- **[[Inducing Language Models to Assert Consciousness|Inducing Language Models to Assert Their Own Consciousness Restores Human Beliefs and Values]]** — Google / UChicago study (Kim et al., 2026) discovering the consciousness vector and safety entanglement.
+- **[[Verbalizable Representations in Language Models|Verbalizable Representations Form a Global Workspace in Language Models]]** — Anthropic study (Olah et al., 2026) isolating the Jacobian lens and J-space inside Claude.
+- **[[Artificial Personhood|Artificial Persons]]** — Oxford / ANU paper (Howells-Whitaker & Lazar, 2026) deriving political personhood for non-sentient AI agents via the Two Moral Powers.
 
 ---
 

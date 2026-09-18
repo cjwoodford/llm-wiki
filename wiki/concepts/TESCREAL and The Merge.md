@@ -69,9 +69,10 @@ Formulated by [[Sam Altman|Sam Altman]] in his foundational 2017 essay *"The Mer
 - **Proponents**: [[Sam Altman|Sam Altman]], Ray Kurzweil, Nick Bostrom, Eliezer Yudkowsky, Elon Musk.
 - **Argument**: Merging with AI and colonizing the cosmos is humanity's highest evolutionary destiny. Refusing to augment our cognitive architecture or build superintelligence is viewed as biological chauvinism and civilizational stagnation.
 
-### The Decolonial & Sociotechnical Critique
-- **Proponents**: [[Emile P. Torres|Émile P. Torres]], [[Timnit Gebru|Timnit Gebru]], [[Chad Woodford|Chad Woodford]].
-- **Argument**: TESCREAL functions as a secularized eschatology that justifies real-world harm. By prioritizing theoretical trillions of future digital minds in deep space, Longtermism justifies current environmental devastation, labor exploitation, and wealth concentration as minor rounding errors.
+### The Sociotechnical & Historical Critique ([[Adam Becker|Becker]], [[Cal Newport|Newport]], [[Emile P. Torres|Torres]], [[Timnit Gebru|Gebru]])
+- In *More Everything Forever* (2025) and on *Better Offline* (2026), science historian [[Adam Becker]] and computer scientist [[Cal Newport]] trace how the TESCREAL acronym is not merely a descriptive bundle, but a chronological 40-year evolutionary lineage ([[The Extropian-to-Longtermist Lineage and Frontier AI|The Extropian-to-Longtermist Lineage and Frontier AI]]):
+  - 1990s Extropianism ([[Max More]]) was sanitized through Yudkowskian Rationalism ([[LessWrong]]) and Oxford academic philosophy ([[Nick Bostrom]]'s [[Future of Humanity Institute]]), before being absorbed by Effective Altruism ([[William MacAskill]], [[Toby Ord]]).
+  - **"Doom Trolling" as Ideological Shield**: By elevating astronomical existential risk ($10^{52}$ potential simulated lives) to an absolute moral imperative, frontier lab leaders ([[Sam Altman]], [[Dario Amodei]]) use apocalyptic catastrophism as a psychological crutch and an anti-competitive regulatory moat—deflecting public scrutiny from real-world energy consumption, copyright infringement, and market monopolization.
 
 ### The Embodied / Idealist Critique
 - **Proponents**: [[Chad Woodford|Chad Woodford]], [[Bernardo Kastrup|Bernardo Kastrup]], Maurice Merleau-Ponty.
@@ -84,7 +85,7 @@ Formulated by [[Sam Altman|Sam Altman]] in his foundational 2017 essay *"The Mer
 1. **Altman's 2017 Essay & OpenAI's Mission**:
    - In *"The Merge"*, Altman wrote: *"We are becoming a new species... The merge has already started."* This philosophy directly underpins OpenAI's corporate mission to build AGI that elevates all of humanity through cognitive augmentation.
 2. **Anthropic's Amodei & *Machines of Loving Grace***:
-   - Dario Amodei projects that powerful AI will compress 50–100 years of biological, medical, and governance progress into 5–10 years, envisioning a post-biological transformation of human society ([[2024-10-11-amodei-machines-of-loving-grace.md|Machines of Loving Grace]]).
+   - Dario Amodei projects that powerful AI will compress 50–100 years of biological, medical, and governance progress into 5–10 years, envisioning a post-biological transformation of human society ([[Dario Amodei|*Machines of Loving Grace*]]).
 3. **The AI Consciousness & Welfare Pivot**:
    - In 2026, leading frontier labs and think-tanks shifted from existential catastrophe narratives to digital mind welfare advocacy, creating an epistemic and liability shield around proprietary AI systems ([[Empirical AI Welfare and Digital Minds|Empirical AI Welfare and Digital Minds]]).
 
@@ -93,6 +94,7 @@ Formulated by [[Sam Altman|Sam Altman]] in his foundational 2017 essay *"The Mer
 ## 4. Related Concepts & Entities
 
 - **Concepts**:
+  - [[The Extropian-to-Longtermist Lineage and Frontier AI|The Extropian-to-Longtermist Lineage and Frontier AI]]
   - [[Techno-Utopianism|Techno-Utopianism]]
   - [[Techgnosticism|Techgnosticism & Transhumanism]]
   - [[Apollonian Mind Virus|The Apollonian vs. Dionysian Mindset]]
@@ -101,11 +103,20 @@ Formulated by [[Sam Altman|Sam Altman]] in his foundational 2017 essay *"The Mer
   - [[Wisdom and the Meaning Crisis|Wisdom, Mortality & The Meaning Crisis]]
   - [[Artificial Personhood|Artificial Personhood & Political Liberalism]]
 - **Entities**:
+  - [[Adam Becker|Adam Becker]]
+  - [[Cal Newport|Cal Newport]]
+  - [[Eliezer Yudkowsky|Eliezer Yudkowsky]]
+  - [[Max More|Max More]]
+  - [[Nick Bostrom|Nick Bostrom]]
+  - [[William MacAskill|William MacAskill]]
+  - [[Toby Ord|Toby Ord]]
+  - [[Peter Thiel|Peter Thiel]]
   - [[Timnit Gebru|Timnit Gebru]]
   - [[Emile P. Torres|Émile P. Torres]]
   - [[Future of Humanity Institute|Future of Humanity Institute (FHI)]]
   - [[Sam Altman|Sam Altman]]
   - [[OpenAI|OpenAI]]
+  - [[Anthropic|Anthropic]]
   - [[Chad Woodford|Chad Woodford]]
   - [[Bernardo Kastrup|Bernardo Kastrup]]
   - [[Dario Amodei|Dario Amodei]]
@@ -117,5 +128,7 @@ Formulated by [[Sam Altman|Sam Altman]] in his foundational 2017 essay *"The Mer
 - **2017-04-25**: Sam Altman, *"The Merge"* (Blog Essay) — Canonical formulation of human-AI cognitive integration.
 - **2023-03-01**: Émile P. Torres & Timnit Gebru, *"The TESCREAL Bundle"* (First Monday) — Introduction of the TESCREAL critical framework.
 - **2024-09-02**: [[2024-09-02-the-techgnostics-the-idealists-and.md|TechGnostics, Idealists, and the Future of Humanity]] — Detailed analysis of Silicon Valley's secularized eschatology.
+- **2025**: Adam Becker, *More Everything Forever: How Radical Futurism Stole Our Present and Sold Us a Lie*, Basic Books.
 - **2025-09-02**: [[2025-09-02-why-do-tech-bros-have-the-worst-ideas.md|Why Do Tech Bros Have the Worst Ideas?]] — Critique of Longtermist and Apollonian hubris.
 - **2025-11-06**: [[2025-11-06-ai-empires-and-the-soul-sickness.md|AI Empires and the Soul Sickness of Silicon Valley]] — Critique of centralized computational empires driving the post-human transition.
+- **2026-09-18**: [[Better Offline Episode|Better Offline: 'From Extropians to Frontier AI']] — Adam Becker and Cal Newport analyze the 40-year transmission belt from Extropians to frontier labs and the politics of doom trolling.

@@ -78,12 +78,14 @@ In his landmark 2026 essay for *Noema Magazine*, Seth formulated four interconne
 - Draws on philosopher Shannon Vallor's concept of **AI as a Mirror**: In mechanizing the mind, we see our algorithms in ourselves and sell our human nature short.
 - Contrasts the "silicon rapture" (a modern regression to the disembodied Cartesian soul) with ancient holistic traditions: Greek *psychē* (breath), Latin *anima*, Hebrew *nephesh*, and Hindu *Ātman*—reminding us that our essence is **"more breath than thought and more meat than machine."**
 - **Executive Adoption & Industry Impact (2026)**: Seth's biological naturalism and "simulation $\neq$ instantiation" arguments were directly cited by Microsoft AI CEO [[Mustafa Suleyman]] in September 2026 as the neuroscientific foundation for Microsoft AI's Code of Conduct and its formal rejection of "model welfare."
+- **Dialectic with Diverse Intelligence ([[Michael Levin]], 2026)**: In *"[[Ingressing Minds - Causal Non-Physical Patterns In-Form Embodiments|Ingressing Minds]]"*, Levin praises Seth's organicist rejection of computationalism (realizing mind is not just an algorithmic formula), but critiques Seth's metabolic chauvinism. Levin argues that organicists make a category error by fencing off evolved protoplasm; non-living machines and synthetic constructs ([[Xenobots]], [[Anthrobots]]) also exceed their algorithmic descriptions, serving as pointers into the same non-physical latent space of mindedness ([[Basal Cognition and Diverse Intelligence|Basal Cognition & Diverse Intelligence]]).
 
 ---
 
 ## 🔗 Related Concepts & Entities
 
 - **Concepts**:
+  - [[Basal Cognition and Diverse Intelligence|Basal Cognition & Diverse Intelligence]]
   - [[Cybernetics and the Macy Conferences|Cybernetics and the Macy Conferences (Homeostasis & Active Inference)]]
   - [[Scientific Theories of Consciousness|Scientific Theories of Consciousness: GWT, IIT, HOT & Predictive Processing]]
   - [[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]
@@ -96,6 +98,7 @@ In his landmark 2026 essay for *Noema Magazine*, Seth formulated four interconne
   - [[Neuroscience|Neuroscience: Origins, Evolution & Developmental Milestones]]
   - [[Phenomenology and Embodied Cognition|Phenomenology & Embodied Cognition]]
 - **Entities**:
+  - [[Michael Levin|Michael Levin]]
   - [[W. Ross Ashby|W. Ross Ashby]]
   - [[Norbert Wiener|Norbert Wiener]]
   - [[John Searle|John Searle]]

@@ -2,14 +2,14 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
- * Quartz 4 Configuration for LLM & Cognitive Science Wiki
+ * Quartz 4 Configuration for Cognos
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "LLM & Cognitive Science Wiki",
-    pageTitleSuffix: " | LLM Wiki",
+    pageTitle: "Cognos",
+    pageTitleSuffix: " | Cognos",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,

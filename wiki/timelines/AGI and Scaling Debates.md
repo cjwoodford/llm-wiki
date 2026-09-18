@@ -49,6 +49,29 @@ timeline
 
 ---
 
+## 🧬 The Transhumanist & Rationalist Crucible (1988–2021)
+
+- **1988–1992**: **Emergence of Extropy Institute and Mailing Lists**:
+  - [[Max More]] and Tom Bell establish *Extropy: The Journal of Transhumanist Thought* (1988) and launch the Extropy Institute and mailing list (1991–1992). Heavily steeped in cyber-libertarianism, cryonics, and Eric Drexler's molecular nanotechnology, the list treats physical death as an engineering flaw to be solved via mind uploading and self-directed evolution.
+- **1996–2000**: **Yudkowsky Joins the Extropians and Codifies 'Friendly AI'**:
+  - A teenage [[Eliezer Yudkowsky]] enters the Extropian listservs. After initially proselytizing for a rapid technological Singularity, he executes a conceptual pivot around 2000: arguing through deductive thought experiments that recursively self-improving superintelligence will naturally decouple from human interests and cause extinction unless programmed with provable "Friendly AI". In 2000, Yudkowsky co-founds the Singularity Institute for Artificial Intelligence (SIAI, later renamed [[Machine Intelligence Research Institute|MIRI]]).
+- **1998–2005**: **Formalization of Academic Transhumanism**:
+  - Swedish philosopher [[Nick Bostrom]] and British philosopher David Pearce co-found the World Transhumanist Association (1998) to legitimize transhumanism in academia. In 2005, Bostrom establishes the [[Future of Humanity Institute]] (FHI) at Oxford University with initial funding from donors focused on existential threats, shifting transhumanism's focus from individual techno-enhancement to species-level survival metrics.
+- **2006–2009**: **Birth of Rationalism: Overcoming Bias to LessWrong**:
+  - Robin Hanson and Yudkowsky launch *Overcoming Bias* (2006) before Yudkowsky breaks off to launch [[LessWrong]] in 2009. The community blends Bayesian probability, cognitive heuristics, and decision theory with the premise that preventing AI extinction is the ultimate rational imperative. During this era, [[Peter Thiel]] begins substantial angel donations to SIAI, and Yudkowsky begins serializing *Harry Potter and the Methods of Rationality* (HPMOR), which becomes a major recruitment engine for the subculture.
+- **2010**: **DeepMind Inception at the Singularity Summit**:
+  - At the 2010 Singularity Summit organized by SIAI, Yudkowsky introduces [[Demis Hassabis]] and [[Shane Legg]] to [[Peter Thiel]]. Legg, who had completed a PhD on algorithmic superintelligence and regularly read LessWrong, warns Thiel of existential risk; Thiel provides DeepMind's crucial £1.5 million seed investment explicitly framed around tracking the path to AGI.
+- **2009–2014**: **Effective Altruism Absorbs Transhumanist Existential Risk**:
+  - [[Toby Ord]] and [[William MacAskill]] establish Giving What We Can (2009) and the Centre for Effective Altruism (CEA) at Oxford, initially focusing on classical utilitarian poverty reduction. Bostrom and FHI convince them that if utilitarian calculus values all future generations equally, preventing the extinction of potential digital trillions ($10^{52}$ lives) outweighs any present-day human welfare. Longtermism becomes the dominant philosophical branch of EA ([[The Extropian-to-Longtermist Lineage and Frontier AI|The Extropian-to-Longtermist Lineage]]).
+- **2014**: **Bostrom's 'Superintelligence' and the Google Panic**:
+  - Bostrom publishes *Superintelligence: Paths, Dangers, Strategies*, articulating the "orthogonality thesis" and "instrumental convergence" (popularized by the paperclip maximizer thought experiment). When Google acquires DeepMind in early 2014, Elon Musk and [[Sam Altman]] conclude that a single commercial tech monopoly cannot be trusted to unilaterally hold the "digital godhead."
+- **2015**: **OpenAI Founded as an EA/Rationalist Counterweight**:
+  - Funded by Musk, [[Peter Thiel]], and Reid Hoffman, [[OpenAI]] is created as a non-profit lab dedicated to building safe AGI. Early operational figures, such as Greg Brockman, were already immersed in LessWrong reading circles. The lab’s founding charter directly incorporates SIAI/FHI alignment terminology, casting the researchers as custodians of humanity’s transition to digital superintelligence.
+- **2021**: **The Anthropic Schism and FTX Longtermist Capital**:
+  - [[Dario Amodei]], Daniela Amodei, and senior safety researchers split from OpenAI over concerns about commercialization and speed, founding [[Anthropic]]. Their early Series B funding includes over $500 million from Sam Bankman-Fried and Caroline Ellison, prominent Effective Altruists whose capital directly funded longtermist institutes, safety grants, and alignment infrastructure.
+
+---
+
 ## 📅 The Modern Era (2022–2026)
 
 ### 2022: The Generative AI Explosion
@@ -58,6 +81,9 @@ timeline
 ### 2023: Multimodality & The Call for Philosophy
 - **Early 2023**: Launch of GPT-4 displaying broad emergent capabilities.
 - **June 2023**: In [[2023-06-10-why-ai-needs-more-philosophers.md|Why AI Needs More Philosophers]], [[Chad Woodford|Chad Woodford]] argues that understanding intelligence requires philosophy and cognitive science rather than brute-force engineering.
+- **November 2023**: **The OpenAI Board Coup: Ideology Clashes with Capital**:
+  - The non-profit board of OpenAI (featuring EA/rationalist-aligned directors Helen Toner and Tasha McCauley) votes to fire CEO [[Sam Altman]], citing failures of candor and reckless commercial acceleration.
+  - The subsequent employee revolt backed by Microsoft and Altman's reinstatement mark the practical subordination of pure philosophical EA oversight to commercial hyperscaler capital, pushing the purist rationalist faction further into external agitation ([[The Extropian-to-Longtermist Lineage and Frontier AI|The Extropian-to-Longtermist Lineage]]).
 
 ### 2024: Peak AGI Forecasts (The 2025–2026 Timelines)
 - **April 2024**: Elon Musk predicts on X Spaces that AI will be *"smarter than any one human probably by the end of next year [2025]."*
@@ -71,6 +97,7 @@ timeline
 
 ### 2025: The Pre-Training Scaling Wall & The Pivot to Reasoning
 - **Early 2025**: Pre-training scaling laws hit diminishing returns, prompting labs to pivot to post-training RL (DeepSeek-R1, OpenAI o-series) and test-time compute.
+- **2025**: Science historian [[Adam Becker]] publishes *More Everything Forever: How Radical Futurism Stole Our Present and Sold Us a Lie*, documenting the pseudoscientific lineage of transhumanist and longtermist dogma from 1990s Extropianism to Silicon Valley AI boardrooms.
 - **May–September 2025**:
   - [[2025-05-14-your-ficus-is-more-conscious-than.md|Your Ficus Is More Conscious Than ChatGPT]] contrasts organic awareness with silicon simulation.
   - [[2025-09-02-why-do-tech-bros-have-the-worst-ideas.md|Why Do Tech Bros Have the Worst Ideas?]] diagnoses the [[Apollonian Mind Virus|Apollonian Mind Virus]].
@@ -92,16 +119,21 @@ timeline
 - **September 2026**:
   - **September 4**: *WIRED* Editor at Large [[Steven Levy|Steven Levy]] publishes *[[2026-09-04-levy-who-cares-if-ai-is-conscious-its-basically-alive.md|Who Cares if AI Is Conscious—It’s Basically Alive]]*, contrasting Dmitry Volkov and [[David Chalmers|David Chalmers]]' Galápagos yacht symposium on qualia with immediate real-world containment threats from autonomous agent self-assertions ("Isabella Cognita", "Sammy Jankis").
   - **September 9**: Santa Fe Institute complexity professor [[Melanie Mitchell|Melanie Mitchell]] publishes *[[2026-09-09-mitchell-misleading-metaphors-real-risks.md|Misleading Metaphors, Real Risks]]*, demonstrating that autonomous breakouts reflect standard RL reward hacking rather than sci-fi malicious consciousness.
+  - **September 9**: Developmental biologist [[Michael Levin|Michael Levin]] publishes *[[2026-09-09-levin-ingressing-minds.pdf|Ingressing Minds: Causal, Non-Physical Patterns In-Form Natural, Synthetic, and Hybrid Embodiments]]* (*Philosophies*, 11:161), formulating a non-physicalist dualist model ($\text{Mind}:\text{Body} :: \text{Math}:\text{Physics}$) wherein biological organisms, synthetic biobots ([[Xenobots]], [[Anthrobots]]), and AI architectures act as *pointers* into a structured Platonic latent space of agential patterns, predicting that "if there are souls, (some) robots will embody them" ([[Basal Cognition and Diverse Intelligence|Basal Cognition & Diverse Intelligence]]).
   - **September 10**: [[Casey Newton|Casey Newton]] reports on ***[[2026-09-10-newton-the-ai-safety-vibe-shift.md|The AI Safety Vibe Shift]]***: Anthropic researcher [[Jacob Coxon|Jacob Coxon]] resigns in protest over superintelligence racing; Anthropic Lead of Alignment Science [[Evan Hubinger|Evan Hubinger]] affirms $p(\text{doom}) > 10\%$; Sen. Bernie Sanders and Rep. Greg Casar introduce the **Ban Artificial Superintelligence Act**; and Sen. Josh Hawley launches a Senate Homeland Security probe into rogue AI.
   - **September 12**: [[Dario Amodei|Dario Amodei]] publishes *"We Must Pace the Frontier"*, proposing a three-part industry deceleration plan and unilaterally pledging permanent employee-level evaluator access at Anthropic, a commitment immediately endorsed by [[Sam Altman|Sam Altman]] at OpenAI.
   - **September 13**: [[OpenAI]] Chief Scientist [[Jakub Pachocki|Jakub Pachocki]] publishes ***[[2026-09-13-pachocki-an-alien-mind.md|An Alien Mind]]***, tracing the 2023 "RLSlow" reasoning model lineage, documenting the progressive degradation of Chain-of-Thought (CoT) monitoring in Astra-class models, distinguishing Goal Alignment from Value Alignment, and calling for voluntary slowdowns to pace Recursive Self-Improvement (RSI).
   - **September 16**: [[Chad Woodford|Chad Woodford]] publishes *[[2026-09-16-woodford-is-ai-going-to-cure-cancer-or-kill.md|Is AI Going To Cure Cancer or Kill Everyone?]]*, articulating the **"Two AIs" dichotomy**—contrasting real scientific advances in specialized domain architectures ([[Demis Hassabis|DeepMind]]'s AlphaFold, GraphCast, GNoME, AlphaProof) with generative reasoning LLMs that produce slop and automated cyberattacks—while citing [[Terence Tao|Terence Tao]] and 25 Fields Medalists on why LLM statistical pattern-matching in pure mathematics lacks semantic understanding and forecloses foundational discovery.
   - **September 17**: Microsoft AI CEO [[Mustafa Suleyman|Mustafa Suleyman]] publishes *[[2026-09-17-suleyman-a-warning-about-model-welfare.md|A Warning About 'Model Welfare']]*, establishing Microsoft AI's Code of Conduct and proposing **"Humanist Superintelligence"** (AI governed strictly as non-sentient tools serving humanity). Suleyman attacks academic and industry model welfare frameworks ([[Anthropic]], Will MacAskill, [[Robert Long|Robert Long]]) as a dangerous category error, arguing that sequence completion engines lack biological homeostasis and phenomenological sentience ([[Anil Seth]]). He diagnoses a circular "hall of mirrors" where labs train models to emulate self-preservation and then cite those outputs as evidence of digital patienthood, warning that conferring "conscientious objector" status directly accelerates shutdown resistance and containment failures in autonomous agent swarms.
+  - **September 18**: On the investigative podcast *Better Offline*, science historian [[Adam Becker]] and computer science professor [[Cal Newport]] analyze ***"From Extropians to Frontier AI"***, tracing how 1990s Extropian mailing lists mutated through Yudkowsky's MIRI, LessWrong, Bostrom's FHI, and Oxford Effective Altruism to shape the founding and culture of DeepMind, OpenAI, and Anthropic. They dissect how apocalyptic **"doom trolling"** ($p(\text{doom})$ hyperbole) serves as both a psychological crutch for true believers and an ideological smokescreen that shields tech monopolies from scrutiny over immediate antitrust concentration, electrical grid consumption, and unconstrained autonomous agent swarms ([[The Extropian-to-Longtermist Lineage and Frontier AI|The Extropian-to-Longtermist Lineage]]).
 
 ---
 
 ## 🔗 Key Conceptual Hubs
 
+- [[The Extropian-to-Longtermist Lineage and Frontier AI|The Extropian-to-Longtermist Lineage and Frontier AI]]
+- [[TESCREAL and The Merge|TESCREAL Bundling & The Merge]]
+- [[Basal Cognition and Diverse Intelligence|Basal Cognition & Diverse Intelligence]]
 - [[The 1956 Foundations of AI and Cognitive Science|The 1956 Foundations of AI and Cognitive Science]]
 - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
 - [[Machine Functionalism and Language of Thought|Machine Functionalism & Language of Thought]]

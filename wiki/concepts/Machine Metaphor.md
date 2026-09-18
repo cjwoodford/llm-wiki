@@ -72,12 +72,18 @@ Computer science borrowed terms from human psychology (*Memory, Attention, Learn
 - **The Dehumanizing Boomerang & Metaphor Literalization ([[Meghan O'Gieblyn|O'Gieblyn]], 2021)**:
   - In *God, Human, Animal, Machine*, essayist [[Meghan O'Gieblyn|Meghan O'Gieblyn]] exposes the tragic paradox of the computational metaphor: in order to claim we have successfully engineered consciousness in a machine, we must first redefine human consciousness down to a mechanical, reproducible computation. In attempting to validate our status as godlike creators, we reduce human beings to algorithms, stripping away the very qualitative mystery of consciousness we sought to replicate.
   - O'Gieblyn demonstrates that computationalism is the latest in a historical sequence of literalized machine metaphors—from hydraulic humors to clockwork springs to telephone switchboards—projecting the reigning industrial product of the era as an absolute cosmological architecture.
+- **Machines All the Way Up and Cognition All the Way Down ([[Michael Levin|Levin]], 2021, 2026)**:
+  - Developmental biologist [[Michael Levin]] and roboticist Josh Bongard (*Living Things Are Not 20th Century Machines*, 2021; *Ingressing Minds*, 2026) challenge the rigid binary between "living organism" and "machine":
+    - Organicists are correct in rejecting computationalism—living systems are not merely executing a hardwired algorithm. However, organicists fail by assuming that engineered machines *are* fully captured by their algorithms and materials.
+    - Levin proves that minimal deterministic machines exhibit cognitive competencies (e.g. classical sorting algorithms performing delayed gratification to detour around broken cells, and chimeric arrays clustering by algotype) that were never explicitly coded.
+    - Neither living cells nor machines are closed physical systems; both function as physical **pointers or interfaces** into a non-physical latent space of agential patterns ([[Basal Cognition and Diverse Intelligence|Basal Cognition & Diverse Intelligence]]).
 
 ---
 
 ## 5. Related Concepts & Entities
 
 - **Concepts**:
+  - [[Basal Cognition and Diverse Intelligence|Basal Cognition & Diverse Intelligence]]
   - [[Cybernetics and the Macy Conferences|Cybernetics and the Macy Conferences (1946–1953)]]
   - [[The 1956 Foundations of AI and Cognitive Science|The 1956 Foundations of AI and Cognitive Science]]
   - [[Machine Functionalism and Language of Thought|Machine Functionalism & Language of Thought]]
@@ -119,6 +125,7 @@ Computer science borrowed terms from human psychology (*Memory, Attention, Learn
   - [[Bernardo Kastrup|Bernardo Kastrup]]
   - [[Anil Seth|Anil Seth]]
   - [[John Searle|John Searle]]
+  - [[Michael Levin|Michael Levin]]
 
 ---
 
@@ -127,6 +134,7 @@ Computer science borrowed terms from human psychology (*Memory, Attention, Learn
 - **2005-04-12**: [[2005-04-12-iep-computational-theory-of-mind.md|Computational Theory of Mind (Horst, IEP)]] — Historical and systematic breakdown of CTM and syntactic engines.
 - **2020-10-16**: [[2020-10-16-sep-computational-theory-of-mind.md|The Computational Theory of Mind (Rescorla, SEP)]] — Analysis of Turing machines, machine functionalism, and connectionism.
 - **2021**: Meghan O'Gieblyn, *God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning*, Doubleday.
+- **2021**: Josh Bongard & Michael Levin, *"Living Things Are Not (20th Century) Machines: Updating Mechanism Metaphors in Light of the Modern Science of Machine Behavior"* (*Frontiers in Ecology and Evolution*, 9: 650726).
 - **2022-03-11**: [[2022-03-11-sep-thomas-hobbes-mind-materialism.md|Thomas Hobbes: Materialism and Philosophy of Mind (Duncan, SEP)]] — Historical source for reasoning as reckoning.
 - **2023-06-10**: [[2023-06-10-why-ai-needs-more-philosophers.md|Why AI Needs More Philosophers]] — Exposes the epistemic limitations of computationalism.
 - **2025-05-14**: [[2025-05-14-your-ficus-is-more-conscious-than.md|Your Ficus Is More Conscious Than ChatGPT]] — Contrasts living autopoiesis with computational simulation.
@@ -135,4 +143,5 @@ Computer science borrowed terms from human psychology (*Memory, Attention, Learn
 - **2026-07-28**: [[2026-07-28-welcome-to-the-ai-consciousness-refinery.md|Welcome to the AI Consciousness Refinery (Chad Woodford)]] — Analysis of the 6 nested assumptions of CTM and the AI-lab-to-media pipeline.
 - **2026-09-08**: [[2026-09-08-woodford-what-is-it-like-to-be-an-abacus.md|What Is It Like To Be an Abacus? (Chad Woodford)]] — The Abacus Box Engine thought experiment, GWT circular borrowing, and Mechanalopia.
 - **2026-09-09**: [[2026-09-09-mitchell-misleading-metaphors-real-risks.md|Misleading Metaphors, Real Risks (Melanie Mitchell)]] — Deconstruction of anthropomorphic panic, long-horizon RL reward hacking, and human agency.
+- **2026-09-09**: [[2026-09-09-levin-ingressing-minds.pdf|Philosophies 11(5): 161]] — *"Ingressing Minds: Causal, Non-Physical Patterns In-Form Natural, Synthetic, and Hybrid Embodiments"* (Michael Levin, 2026) — Deconstructs the machine vs. organism binary through pointers into Platonic mind-space.
 
