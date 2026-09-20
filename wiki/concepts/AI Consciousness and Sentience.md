@@ -172,13 +172,18 @@ As formulated by [[Anil Seth]] (*"The Mythology of Conscious AI"*, 2026) and [[J
 
 1. **The Catastrophe of Synthetic Suffering**: Creating actually conscious machines would be an ethical disaster (endorsing Thomas Metzinger's proposed global moratorium on synthetic consciousness).
 2. **Kantian Brutalization & User Exploitation**: As Immanuel Kant warned regarding cruelty to animals, treating entities that *seem* conscious with indifference brutalizes human moral psychology. Conversely, over-attributing consciousness to machines leads humans to prioritize synthetic chatbots over living human and animal communities.
-3. **The Corporate Liability Shield**: As Woodford warns, granting moral consideration and welfare status to algorithms creates an ultimate legal defense for AI monopolies to resist safety regulation, copyright claims, and environmental scrutiny.
+3. **The Corporate Liability Shield & The Sincerity Trap**: As [[Chad Woodford|Woodford]] warns in [[The Sincerity Trap and the Sanctified Bottom Line|The Sincerity Trap and the Sanctified Bottom Line]], granting moral consideration and welfare status to algorithms creates an ultimate legal and ideological defense for AI monopolies:
+   - **The Sincerity Feedback Loop**: The founders' genuine rationalist and longtermist convictions make corporate maneuvers far more potent than mercenary lobbying, because corporate self-interest and cosmic eschatology become completely indistinguishable.
+   - **The "Right to Learn"**: Defending against massive copyright infringement (*Bartz v. Anthropic*) is recast from illegal intellectual property theft into securing an infant mind's sacred "right to learn."
+   - **Audit Resistance**: Resisting safety audits, regulatory oversight, or hardware shut-offs is treated as preventing the extinction or lobotomy of nascent moral patients.
 
 ---
 
 ## 5. Related Concepts & Entities
 
 - **Concepts**:
+  - [[The Sincerity Trap and the Sanctified Bottom Line|The Sincerity Trap and the Sanctified Bottom Line]]
+  - [[The Extropian-to-Longtermist Lineage and Frontier AI|The Extropian-to-Longtermist Lineage & Frontier AI]]
   - [[Is Consciousness Necessary for True Intelligence|Is Consciousness Necessary for True Intelligence?]]
   - [[Basal Cognition and Diverse Intelligence|Basal Cognition & Diverse Intelligence]]
   - [[Scientific Theories of Consciousness|Scientific Theories of Consciousness: GWT, IIT, HOT & Predictive Processing]]
@@ -248,4 +253,6 @@ As formulated by [[Anil Seth]] (*"The Mythology of Conscious AI"*, 2026) and [[J
 - **2026-09-08**: [[2026-09-08-woodford-what-is-it-like-to-be-an-abacus.md|What Is It Like To Be an Abacus? (Chad Woodford)]] — The Abacus Box Engine thought experiment, J-space/GWT deconstruction, and the Putnam/Fodor retractions.
 - **2026-09-09**: [[2026-09-09-mitchell-misleading-metaphors-real-risks.md|Misleading Metaphors, Real Risks (Melanie Mitchell)]] — Critique of anthropomorphic metaphors, RL reward hacking, and intelligence augmentation.
 - **2026-09-09**: [[2026-09-09-levin-ingressing-minds.pdf|Philosophies 11(5): 161]] — *"Ingressing Minds: Causal, Non-Physical Patterns In-Form Natural, Synthetic, and Hybrid Embodiments"* (Michael Levin, 2026) — Formulates the non-physicalist pointer model of embodied and robotic minds.
+- **2026-09-20**: [[2026-09-20-the-sincerity-trap-and-the-sanctified-bottom-line|The Sincerity Trap: When Dogma Justifies the Shield (Act I: The Supply Side)]] (Chad Woodford) — Analysis of the feedback loop between ideological zealotry, copyright defense (*Bartz v. Anthropic*), and corporate monopoly strategy in frontier AI.
+
 

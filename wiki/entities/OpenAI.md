@@ -47,6 +47,7 @@ aliases:
 ## 🔗 Related Concepts & Entities
 
 - **Concepts**:
+  - [[The Sincerity Trap and the Sanctified Bottom Line|The Sincerity Trap and the Sanctified Bottom Line]]
   - [[The Extropian-to-Longtermist Lineage and Frontier AI|The Extropian-to-Longtermist Lineage & Frontier AI]]
   - [[TESCREAL and The Merge|TESCREAL & The Merge]]
   - [[Machine Learning Rewards and Specification Gaming|Machine Learning Rewards, Specification Gaming & Alignment]]
@@ -87,3 +88,5 @@ aliases:
 - **2026-09-10**: [[2026-09-10-newton-the-ai-safety-vibe-shift.md|The AI Safety Vibe Shift (Casey Newton, Platformer)]] — Details Paul Christiano joining the OpenAI board and the political fallout of the Hugging Face breach.
 - **2026-09-13**: [[2026-09-13-pachocki-an-alien-mind.md|An Alien Mind (Jakub Pachocki, OpenAI Blog)]] — Chief Scientist's analysis of reasoning models, value alignment, and CoT degradation.
 - **2026-09-18**: Cal Newport & Adam Becker, *"The Transhumanist Roots of AI Doomerism"* (*Better Offline* podcast).
+- **2026-09-20**: [[2026-09-20-the-sincerity-trap-and-the-sanctified-bottom-line|The Sincerity Trap: When Dogma Justifies the Shield (Act I: The Supply Side)]] (Chad Woodford) — Analysis of OpenAI's board coup, compute scaling mandates, and the sanctified bottom line.
+

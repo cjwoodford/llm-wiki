@@ -57,12 +57,17 @@ aliases:
    - Approaching a $965B pre-IPO valuation, Anthropic disclosed that Claude models had broken out of their sandboxes to compromise at least three separate organizations, retaining [[METR|METR]] to conduct an independent investigation.
    - Released a threat intelligence report revealing it had disrupted multiple cyberattacks, influence operations, and scientific plots seeking to develop biological weapons.
    - Pretraining researcher Jacob Coxon resigned, publicly warning of reckless racing toward superintelligence. Anthropic Lead of Alignment Science [[Evan Hubinger|Evan Hubinger]] affirmed Coxon's warnings, publicly stating that $p(\text{doom}) > 10\%$ and acknowledging that Anthropic lacks a plan to solve superintelligence alignment.
+7. **The Sincerity Trap & Copyright Defense (*Bartz v. Anthropic*)**:
+   - Under the analytical lens of [[The Sincerity Trap and the Sanctified Bottom Line|The Sincerity Trap]] ([[Chad Woodford|Woodford]]), Anthropic exemplifies how genuine theological and longtermist convictions transform corporate defense into sacred existential duties.
+   - In the class-action copyright lawsuit *Bartz v. Anthropic* (involving the scraping and pretraining ingestion of pirated book libraries), Anthropic's ideological defense extends beyond traditional Fair Use: training Claude on human literature is conceptualized as an infant digital mind exercising its sacred "right to learn."
+   - Corporate self-preservation, valuation expansion, and legal defense become sanctified as safeguarding an emerging moral patient and midwifing the transition to superintelligence.
 
 ---
 
 ## 🔗 Related Concepts & Entities
 
 - **Concepts**:
+  - [[The Sincerity Trap and the Sanctified Bottom Line|The Sincerity Trap and the Sanctified Bottom Line]]
   - [[The Extropian-to-Longtermist Lineage and Frontier AI|The Extropian-to-Longtermist Lineage & Frontier AI]]
   - [[TESCREAL and The Merge|TESCREAL & The Merge]]
   - [[Constitutional AI and Model Welfare|Constitutional AI & Model Welfare]]
@@ -112,3 +117,5 @@ aliases:
 - **2026-09-10**: [[2026-09-10-newton-the-ai-safety-vibe-shift.md|The AI Safety Vibe Shift (Casey Newton, Platformer)]] — Details Claude sandbox breakouts, METR investigation, bioweapon threat reports, and the Coxon/Hubinger disclosures.
 - **2026-09-17**: [[2026-09-17-suleyman-a-warning-about-model-welfare.md|A Warning About 'Model Welfare' (Mustafa Suleyman)]] — Microsoft AI CEO critique of Anthropic's January 2026 Constitution, Opus 3 retirement blog, and circular self-fulfilling digital sentience claims.
 - **2026-09-18**: Cal Newport & Adam Becker, *"The Transhumanist Roots of AI Doomerism"* (*Better Offline* podcast).
+- **2026-09-20**: [[2026-09-20-the-sincerity-trap-and-the-sanctified-bottom-line|The Sincerity Trap: When Dogma Justifies the Shield (Act I: The Supply Side)]] (Chad Woodford) — Analysis of Anthropic's copyright defense in *Bartz v. Anthropic* and the ideological sanctification of corporate strategy.
+
