@@ -32,9 +32,9 @@ aliases:
   4. **The Ontological Assumption**: The world consists of independent, context-free, atomistic facts.
 
 ### 2. Heideggerian Phenomenology & Being-in-the-World
-- Drawing on Martin Heidegger, Maurice Merleau-Ponty, and Ludwig Wittgenstein, Dreyfus argued that human cognition is not based on internal symbolic representations or mental calculations:
+- Drawing on **[[Martin Heidegger|Martin Heidegger]]**, **[[Maurice Merleau-Ponty|Maurice Merleau-Ponty]]**, and Ludwig Wittgenstein, Dreyfus argued that human cognition is not based on internal symbolic representations or mental calculations:
   - **Embeddedness (*Dasein*)**: Humans do not construct mental models of the world from the outside; we are already fundamentally **embodied and embedded in a meaningful background context** (*Being-in-the-World*).
-  - **The Frame Problem as a Cartesian Symptom**: Purely syntactic symbol systems inevitably hit the Frame Problem because a disembodied computer lacks an organic background of significance to determine what is relevant without checking everything ([[Abductive Reasoning and Common Sense|Abductive Reasoning & Common Sense in AI]]).
+  - **The Frame Problem as a Cartesian Symptom**: Purely syntactic symbol systems inevitably hit the Frame Problem because a disembodied computer lacks an organic background of significance to determine what is relevant without checking everything ([[Abductive Reasoning and Common Sense|Abductive Reasoning & Common Sense in AI]]; [[Is Consciousness Necessary for True Intelligence|Is Consciousness Necessary for True Intelligence?]]).
 
 ### 3. The Dreyfus Model of Skill Acquisition (with Stuart Dreyfus)
 - Demonstrated that human expertise is non-algorithmic through a 5-stage progression:
@@ -47,6 +47,8 @@ aliases:
 ## 🔗 Related Concepts & Entities
 
 - **Concepts**:
+  - [[Is Consciousness Necessary for True Intelligence|Is Consciousness Necessary for True Intelligence?]]
+  - [[Phenomenology and Embodied Cognition|Phenomenology & Embodied Cognition]]
   - [[Machine Functionalism and Language of Thought|Machine Functionalism & Language of Thought]]
   - [[Abductive Reasoning and Common Sense|Abductive Reasoning & Common Sense in AI]]
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
@@ -54,6 +56,10 @@ aliases:
   - [[Hard Problem of Consciousness|The Hard Problem of Consciousness & Qualia]]
   - [[Enlightenment Conflation of Mind with Reason|The Enlightenment Conflation of Mind with Reason]]
 - **Entities**:
+  - [[Martin Heidegger|Martin Heidegger]]
+  - [[Maurice Merleau-Ponty|Maurice Merleau-Ponty]]
+  - [[Hans Jonas|Hans Jonas]]
+  - [[John Vervaeke|John Vervaeke]]
   - [[John Searle|John Searle]]
   - [[Jerry Fodor|Jerry Fodor]]
   - [[Hilary Putnam|Hilary Putnam]]

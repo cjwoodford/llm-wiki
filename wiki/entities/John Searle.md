@@ -36,14 +36,24 @@ aliases:
    - Demonstrated that information (whether Shannon bits, photodiode states, or tree rings) is strictly **observer-relative**; attempting to explain observer-independent consciousness via observer-relative information is a vicious circularity.
    - Refuted the naive deterministic interpretation of Benjamin Libet's readiness potential (*Bereitschaftspotential*), showing that preparatory brain activity is an associated physiological condition, not a causally sufficient compulsion eliminating free will.
 
+5. **The Connection Principle & Intrinsic Intentionality (*The Rediscovery of the Mind*, 1992)**:
+   - Formulated the **Connection Principle**, establishing that an unconscious brain state only qualifies as a genuine *mental state* if it is in principle capable of being consciously experienced.
+   - Demonstrated that physical states in a computer or brain without connection to conscious awareness are purely non-mental physical/electrical events. Genuine intentionality (the intrinsic "aboutness" of thought) is rooted entirely in phenomenal conscious experience, refuting the functionalist claim that unconscious syntax constitutes thought ([[Is Consciousness Necessary for True Intelligence|Is Consciousness Necessary for True Intelligence?]]).
+
+---
+
 ## 🔗 Related Concepts & Entities
 
 - **Concepts**:
+  - [[Is Consciousness Necessary for True Intelligence|Is Consciousness Necessary for True Intelligence?]]
   - [[Computation vs Nature and the Observer-Relative Fallacy|Computation vs. Nature & The Observer-Relative Fallacy]]
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
   - [[Hard Problem of Consciousness|The Hard Problem of Consciousness & Qualia]]
   - [[Enlightenment Conflation of Mind with Reason|The Enlightenment Conflation of Mind with Reason]]
 - **Entities**:
+  - [[Antonio Damasio|Antonio Damasio]]
+  - [[Hubert Dreyfus|Hubert Dreyfus]]
+  - [[Anil Seth|Anil Seth]]
   - [[Roger Penrose|Roger Penrose]]
   - [[Alan Turing|Alan Turing]]
   - [[Jerry Fodor|Jerry Fodor]]

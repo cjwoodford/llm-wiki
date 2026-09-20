@@ -94,7 +94,10 @@ A prominent cultural case study of left-hemisphere ideology is the thought of **
 
 1. **Digital AI as a Pure Left-Hemisphere Construct**:
    - Large Language Models (LLMs) and deep neural networks are the ultimate manifestation of left-hemisphere cognition: vast arrays of discrete tokens, matrix multiplications, and explicit syntactic patterns devoid of a living body, felt meaning, or direct encounter with the world.
-2. **The Inversion of Values**:
+2. **Parasitic Abstraction & The Intelligence Trap**:
+   - As McGilchrist details, left-hemisphere analysis is fundamentally parasitic upon the right hemisphere's primary conscious, holistic awareness.
+   - Divorced from this conscious grounding, hyper-rational left-hemisphere cognition falls into the **Intelligence Trap**: possessing immense technical problem-solving skill while exhibiting total situational and contextual blindness ([[Is Consciousness Necessary for True Intelligence|Is Consciousness Necessary for True Intelligence?]]).
+3. **The Inversion of Values**:
    - By elevating algorithmic generation over embodied human wisdom, technocratic society exhibits the classic symptom of right-hemisphere stroke patients: unshakeable, delusional confidence in an internally coherent but completely ungrounded logical system.
 
 ---
@@ -102,9 +105,11 @@ A prominent cultural case study of left-hemisphere ideology is the thought of **
 ## 4. Related Concepts & Entities
 
 - **Concepts**:
+  - [[Is Consciousness Necessary for True Intelligence|Is Consciousness Necessary for True Intelligence?]]
   - [[Neuroscience|Neuroscience: Origins, Evolution & Developmental Milestones]]
   - [[Enlightenment Conflation of Mind with Reason|The Enlightenment Conflation of Mind with Reason]]
   - [[The Meaning Crisis and Cultural Disenchantment|The Meaning Crisis & Cultural Disenchantment]]
+  - [[Wisdom and the Meaning Crisis|Wisdom & Cognitive Ecology]]
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
   - [[Machine Functionalism and Language of Thought|Machine Functionalism & Language of Thought]]
   - [[Phenomenology and Embodied Cognition|Phenomenology & Embodied Cognition]]
@@ -112,6 +117,9 @@ A prominent cultural case study of left-hemisphere ideology is the thought of **
   - [[Computation vs Nature and the Observer-Relative Fallacy|Computation vs. Nature & The Observer-Relative Fallacy]]
 - **Entities**:
   - [[Iain McGilchrist|Iain McGilchrist]]
+  - [[John Vervaeke|John Vervaeke]]
+  - [[Antonio Damasio|Antonio Damasio]]
+  - [[Hubert Dreyfus|Hubert Dreyfus]]
   - [[Yuval Noah Harari|Yuval Noah Harari]]
   - [[Steven Pinker|Steven Pinker]]
   - [[Richard Tarnas|Richard Tarnas]]

@@ -22,12 +22,40 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 
 | Metric | Count | Status |
 | :--- | :--- | :--- |
-| **Thematic Concepts** | 51 | 🟢 Fully Linked (5-Part Standard Schema) |
-| **Key Entities** | 120 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
+| **Thematic Concepts** | 52 | 🟢 Fully Linked (5-Part Standard Schema) |
+| **Key Entities** | 129 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
-| **Archived Primary Sources** | 170 | 🟢 Full YAML Provenance (`sources/archive/`) |
+| **Archived Primary Sources** | 171 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
 | **Web Clippings Queue** | 0 | 🟢 Clear (`Clippings/`) |
+
+---
+
+## 🔄 Recent Activity (2026-09-20)
+
+- **Ingestion & Synthesis: Is Consciousness Necessary for True Intelligence? (Gemini Synthesis, September 2026)**:
+  - **Archived Primary Source**:
+    - `sources/archive/2026-09-20-is-consciousness-necessary-for-true-intelligence.md` (*Is Consciousness Necessary for True Intelligence?*, Gemini Synthesis, September 20, 2026).
+  - **New Master Thematic Concept Created**:
+    - [[Is Consciousness Necessary for True Intelligence|Is Consciousness Necessary for True Intelligence?]] (Cross-disciplinary formalization of the living counter-tradition—spanning affective neuroscience, enactive biology, phenomenology, hemispheric attention, and biological naturalism—arguing that adaptive intelligence requires felt valence, skin in the game, and relevance realization).
+  - **9 New Thinker & Scientist Entity Dossiers Created**:
+    - [[Antonio Damasio|Antonio Damasio]] (Neuroscientist, Somatic Marker Hypothesis, *Descartes' Error*, the "Elliot" vmPFC case study, and the homeostatic grounding of rationality).
+    - [[Jaak Panksepp|Jaak Panksepp]] (Founder of Affective Neuroscience, 7 primal subcortical emotional operating systems, subcortical consciousness, and mammalian sentience).
+    - [[Mark Solms|Mark Solms]] (Neuropsychoanalyst, *The Hidden Spring*, the cortical fallacy, consciousness as felt homeostatic error, and free energy minimization).
+    - [[Karl Friston|Karl Friston]] (Theoretical neurobiologist, creator of the Free Energy Principle, active inference, and Markov blankets).
+    - [[Francisco Varela|Francisco Varela]] (Biologist and philosopher, co-originator of autopoiesis, enactivism [*The Embodied Mind*], neurophenomenology, and Mind and Life Institute co-founder).
+    - [[Humberto Maturana|Humberto Maturana]] (Biologist and cyberneticist, co-originator of autopoiesis, structural coupling, operational closure, and biology of cognition).
+    - [[Evan Thompson|Evan Thompson]] (Enactive philosopher, *Mind in Life*, the Life-Mind Continuity Thesis, and radical embodied cognitive science).
+    - [[Hans Jonas|Hans Jonas]] (Philosophical biologist, *The Phenomenon of Life*, metabolism, existential vulnerability/mortality as source of intrinsic value, and technological ethics).
+    - [[Martin Heidegger|Martin Heidegger]] (Fundamental ontologist, *Being and Time*, *Dasein*, *Zuhandenheit* [ready-to-hand practical coping], and the *Gestell* technological critique).
+  - **Cross-Vault Concept & Dossier Deepenings**:
+    - [[AI Consciousness and Sentience]]: Added Section 3.H on the Counter-Tradition (adaptive sense-making vs. computational optimization, somatic markers, and relevance realization).
+    - [[The Divided Brain and Hemispheric Lateralization]]: Added Section 3 on Parasitic Abstraction and the Intelligence Trap.
+    - [[Phenomenology and Embodied Cognition]]: Enriched Section 4 with Heidegger, Varela, Thompson, Jonas, and Vervaeke.
+    - [[John Searle]]: Added Section 5 on the Connection Principle (*The Rediscovery of the Mind*) and intrinsic intentionality.
+    - [[Hubert Dreyfus]]: Deepened Section 2 with Relevance Realization and Frame Problem links.
+    - [[John Vervaeke]]: Comprehensive expansion with Relevance Realization, Salience Landscape Engineering, 4P Ways of Knowing, and the Frame Problem.
+    - [[Iain McGilchrist]]: Added Parasitic Abstraction and the Intelligence Trap.
 
 ---
 
@@ -280,6 +308,7 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[Enlightenment Conflation of Mind with Reason|The Enlightenment Conflation of Mind with Reason]]** — Historic collapse of *nous* into *dianoia* / computational calculation.
 
 ### II. Consciousness, Sentience & Philosophy of Mind
+- **[[Is Consciousness Necessary for True Intelligence|Is Consciousness Necessary for True Intelligence?]]** — The cross-disciplinary counter-tradition (affective neuroscience, enactive biology, phenomenology, biological naturalism) proving genuine adaptive intelligence requires felt valence, skin in the game, and relevance realization.
 - **[[Basal Cognition and Diverse Intelligence|Basal Cognition & Diverse Intelligence]]** — Michael Levin's TAME framework, scale-free problem solving, bioelectric target morphology, Xenobots/Anthrobots, and non-physicalist pattern ingression ($\text{Mind}:\text{Body} :: \text{Math}:\text{Physics}$).
 - **[[Quantum Integrated Information Theory and Collapse|Quantum Integrated Information Theory & Collapse]]** — Chalmers & McQueen's QIIT model, Continuous Spontaneous Localization (CSL), resolving the Quantum Zeno effect, and optomechanical tests of consciousness-induced collapse.
 - **[[Hard Problem of Consciousness|The Hard Problem of Consciousness & Qualia]]** — Explanatory gap, Mary's Room, philosophical zombies, and phenomenal experience.
@@ -349,6 +378,8 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[Alfred P. Sloan Foundation|Alfred P. Sloan Foundation]]** — Philanthropic catalyst of Cognitive Science, creator of the 1978 Sloan Hexagon ($17.4M investment).
 
 ### Continental, Process & Phenomenological Thinkers
+- **[[Martin Heidegger|Martin Heidegger]]** — Fundamental ontology (*Being and Time*), *Dasein*, *Zuhandenheit* (ready-to-hand coping vs. present-at-hand inspection), and *Gestell* technological critique.
+- **[[Hans Jonas|Hans Jonas]]** — Philosophical biology (*The Phenomenon of Life*), metabolism, existential vulnerability/mortality as source of intrinsic value, and technological ethics.
 - **[[Henri Bergson|Henri Bergson]]** — Nobel laureate, pure duration (*la durée*), *Matter and Memory*, *élan vital*, and the cinematographic illusion.
 - **[[Edmund Husserl|Edmund Husserl]]** — Founder of Phenomenology, *Epoché*, noetic-noematic correlation, and the *Lebenswelt*.
 - **[[Maurice Merleau-Ponty|Maurice Merleau-Ponty]]** — Lived body (*corps propre*), motor intentionality, and *maximum grip*.
@@ -360,6 +391,13 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[Meghan O'Gieblyn|Meghan O'Gieblyn]]** — Essayist, author of *God, Human, Animal, Machine* (2021), secular sublimation of religious longings, the 5 psychological dimensions of silicon soulhood, and the Dehumanizing Boomerang.
 
 ### Cognitive Scientists, Neuroscientists, Mathematicians & Philosophers of Mind
+- **[[Antonio Damasio|Antonio Damasio]]** — Neuroscientist, Somatic Marker Hypothesis (*Descartes' Error*), the Elliot case, and homeostatic foundation of feelings and rationality.
+- **[[Jaak Panksepp|Jaak Panksepp]]** — Father of Affective Neuroscience, 7 primal subcortical emotional systems, subcortical consciousness, and mammalian sentience.
+- **[[Mark Solms|Mark Solms]]** — Neuropsychoanalyst, *The Hidden Spring*, cortical fallacy, consciousness as felt homeostatic error, and free energy minimization.
+- **[[Karl Friston|Karl Friston]]** — Theoretical neurobiologist, creator of the Free Energy Principle, active inference, and Markov blankets.
+- **[[Francisco Varela|Francisco Varela]]** — Biologist and philosopher, co-originator of autopoiesis, enactivism (*The Embodied Mind*), and neurophenomenology.
+- **[[Humberto Maturana|Humberto Maturana]]** — Biologist and cyberneticist, co-originator of autopoiesis, structural coupling, operational closure, and biology of cognition.
+- **[[Evan Thompson|Evan Thompson]]** — Enactive philosopher, *Mind in Life*, Life-Mind Continuity Thesis, and radical embodied cognitive science.
 - **[[Michael Levin|Michael Levin]]** — Vannevar Bush Professor of Biology at Tufts, Director of the Allen Discovery Center, pioneer of developmental bioelectricity, basal cognition, synthetic morphology (Xenobots, Anthrobots), and the *Ingressing Minds* hypothesis.
 - **[[David Chalmers|David Chalmers]]** — NYU Professor of Philosophy, formulator of the Hard Problem of Consciousness, philosophical zombies, naturalistic dualism, QIIT, and virtual realism.
 - **[[Kelvin McQueen|Kelvin McQueen]]** — Chapman University philosopher of physics, co-creator with Chalmers of QIIT and dynamical collapse models of consciousness.

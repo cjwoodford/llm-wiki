@@ -113,6 +113,7 @@ Phenomenology provides the foundational philosophical refutation of the [[Machin
 ## 4. Related Concepts & Entities
 
 - **Concepts**:
+  - [[Is Consciousness Necessary for True Intelligence|Is Consciousness Necessary for True Intelligence?]]
   - [[Cybernetics and the Macy Conferences|Cybernetics and the Macy Conferences (Second-Order Cybernetics & Autopoiesis)]]
   - [[Hard Problem of Consciousness|The Hard Problem of Consciousness & Qualia]]
   - [[Machine Functionalism and Language of Thought|Machine Functionalism & Language of Thought]]
@@ -123,11 +124,16 @@ Phenomenology provides the foundational philosophical refutation of the [[Machin
   - [[Comparative Idealism - Western and Indian Traditions|Comparative Idealism: Analytic, Western & Indian Traditions]]
   - [[Scientific Theories of Consciousness|Scientific Theories of Consciousness]]
 - **Entities**:
+  - [[Martin Heidegger|Martin Heidegger]]
+  - [[Maurice Merleau-Ponty|Maurice Merleau-Ponty]]
+  - [[Edmund Husserl|Edmund Husserl]]
+  - [[Hubert Dreyfus|Hubert Dreyfus]]
+  - [[Francisco Varela|Francisco Varela]]
+  - [[Evan Thompson|Evan Thompson]]
+  - [[Hans Jonas|Hans Jonas]]
+  - [[John Vervaeke|John Vervaeke]]
   - [[Gregory Bateson|Gregory Bateson]]
   - [[W. Ross Ashby|W. Ross Ashby]]
-  - [[Edmund Husserl|Edmund Husserl]]
-  - [[Maurice Merleau-Ponty|Maurice Merleau-Ponty]]
-  - [[Hubert Dreyfus|Hubert Dreyfus]]
   - [[John Searle|John Searle]]
   - [[David Abram|David Abram]]
   - [[Richard Tarnas|Richard Tarnas]]

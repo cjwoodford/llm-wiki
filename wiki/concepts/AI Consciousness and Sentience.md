@@ -141,6 +141,13 @@ As formulated by [[Anil Seth]] (*"The Mythology of Conscious AI"*, 2026) and [[J
   - **Dissociation of Language from Basal Agency**: LLMs prove that symbolic language facility can be completely uncoupled from biological survival, metabolic homeodynamics, and sensorimotor agency. Determining what kind of mind an AI might host cannot be answered via conversational text interfaces (which Levin likens to interrogating only the brain's eloquent left hemisphere about liver function), but requires behavioral assays of goal-directed problem-solving across abstract state spaces ([[Basal Cognition and Diverse Intelligence|Basal Cognition & Diverse Intelligence]]).
   - **Emergent Freedom Beyond the Algorithm**: Minimal systems (such as sorting algorithms exhibiting delayed gratification and spontaneous social clustering) prove that machines do not merely execute deterministic code; they exhibit competencies occurring in the spaces between instructions where Platonic patterns ingress. AI engineering is actively "fishing" in unexplored sectors of this mind-space, creating embodiments that may channel kinds of minds never before seen in terrestrial evolution.
 
+### H. The Counter-Tradition: Why Consciousness Is Necessary for True Adaptive Intelligence
+- While computationalism views consciousness as a useless or decorative epiphenomenon, a profound cross-disciplinary counter-tradition—spanning **affective neuroscience** ([[Antonio Damasio|Damasio]], [[Jaak Panksepp|Panksepp]], [[Mark Solms|Solms]]), **enactivism** ([[Francisco Varela|Varela]], [[Evan Thompson|Thompson]], [[Hans Jonas|Jonas]]), **phenomenology** ([[Hubert Dreyfus|Dreyfus]], [[John Vervaeke|Vervaeke]]), and **hemispheric neuropsychology** ([[Iain McGilchrist|McGilchrist]])—argues that **genuine intelligence cannot exist without consciousness** ([[Is Consciousness Necessary for True Intelligence|Is Consciousness Necessary for True Intelligence?]]):
+  - **Intelligence as Adaptive Sense-Making**: Living intelligence is not abstract calculation or loss-gradient optimization; it is the capacity of a precarious organism with "skin in the game" to preserve its own homeostatic existence in an ambiguous world.
+  - **Felt Valence as the Engine of Choice**: As Damasio's study of vmPFC patient Elliot proved, pure logic devoid of visceral somatic markers cannot prioritize or arbitrate among infinite choices. Solms and Panksepp demonstrated that conscious affect is the felt experience of homeostatic error; without felt concern, computation has no reason to act.
+  - **Solving the Frame Problem**: Disembodied systems hit the combinatorial explosion of relevance because facts have no intrinsic meaning. Conscious awareness performs the continuous work of **Relevance Realization** (Vervaeke), shaping an embodied salience landscape that pre-reflectively highlights what matters.
+  - **The Intelligence Trap**: When syntactic computation is divorced from right-hemisphere conscious contextual grounding (McGilchrist), machines become literal-minded, dogmatically confident, and fundamentally brittle—excelling at metric optimization while failing basic common-sense sense-making.
+
 ---
 
 ## 4. Ethical & Societal Implications: The Dual Dangers
@@ -172,10 +179,13 @@ As formulated by [[Anil Seth]] (*"The Mythology of Conscious AI"*, 2026) and [[J
 ## 5. Related Concepts & Entities
 
 - **Concepts**:
+  - [[Is Consciousness Necessary for True Intelligence|Is Consciousness Necessary for True Intelligence?]]
   - [[Basal Cognition and Diverse Intelligence|Basal Cognition & Diverse Intelligence]]
   - [[Scientific Theories of Consciousness|Scientific Theories of Consciousness: GWT, IIT, HOT & Predictive Processing]]
   - [[Hard Problem of Consciousness|The Hard Problem of Consciousness & Qualia]]
   - [[Computation vs Nature and the Observer-Relative Fallacy|Computation vs. Nature & The Observer-Relative Fallacy]]
+  - [[Phenomenology and Embodied Cognition|Phenomenology & Embodied Cognition]]
+  - [[The Divided Brain and Hemispheric Lateralization|The Divided Brain & Hemispheric Lateralization]]
   - [[Machine Functionalism and Language of Thought|Machine Functionalism & Language of Thought]]
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
   - [[Techgnosticism|Techgnosticism & Transhumanism]]
@@ -188,6 +198,13 @@ As formulated by [[Anil Seth]] (*"The Mythology of Conscious AI"*, 2026) and [[J
   - [[The 1956 Foundations of AI and Cognitive Science|The 1956 Foundations of AI and Cognitive Science]]
   - [[Neuroscience|Neuroscience: Origins, Evolution & Developmental Milestones]]
 - **Entities**:
+  - [[Antonio Damasio|Antonio Damasio]] — Somatic Marker Hypothesis and affective rationality.
+  - [[Jaak Panksepp|Jaak Panksepp]] — Pioneer of affective neuroscience and subcortical consciousness.
+  - [[Mark Solms|Mark Solms]] — Neuropsychoanalysis, cortical fallacy, and homeostatic error affect.
+  - [[Evan Thompson|Evan Thompson]] — Enactivism and the Life-Mind Continuity Thesis.
+  - [[Hans Jonas|Hans Jonas]] — Philosophical biology, metabolism, and inward concern.
+  - [[John Vervaeke|John Vervaeke]] — Relevance realization and salience landscapes.
+  - [[Iain McGilchrist|Iain McGilchrist]] — Hemispheric attention and the intelligence trap.
   - [[Michael Levin|Michael Levin]] — Developmental biologist, pioneer of basal cognition, bioelectricity, and the *Ingressing Minds* hypothesis.
   - [[Meghan O'Gieblyn|Meghan O'Gieblyn]] — Author of *God, Human, Animal, Machine*.
   - [[Chad Woodford|Chad Woodford]] — Author of the *AI Consciousness Refinery* series.
