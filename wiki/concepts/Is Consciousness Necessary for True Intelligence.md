@@ -238,6 +238,7 @@ The insights of this counter-tradition provide a rigorous diagnostic for underst
 ## 🔗 Related Concepts & Entities
 
 - **Core Concepts**:
+  - [[The Frame Problem and Relevance Realization|The Frame Problem and Relevance Realization]]
   - [[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]
   - [[Phenomenology and Embodied Cognition|Phenomenology & Embodied Cognition]]
   - [[The Divided Brain and Hemispheric Lateralization|The Divided Brain & Hemispheric Lateralization]]
@@ -260,6 +261,10 @@ The insights of this counter-tradition provide a rigorous diagnostic for underst
   - [[Maurice Merleau-Ponty|Maurice Merleau-Ponty]]
   - [[Hubert Dreyfus|Hubert Dreyfus]]
   - [[John Vervaeke|John Vervaeke]]
+  - [[Walter J. Freeman|Walter J. Freeman]]
+  - [[Michael Wheeler|Michael Wheeler]]
+  - [[Rodney Brooks|Rodney Brooks]]
+  - [[Daniel Dennett|Daniel Dennett]]
   - [[Iain McGilchrist|Iain McGilchrist]]
   - [[John Searle|John Searle]]
   - [[Anil Seth|Anil Seth]]
@@ -278,7 +283,9 @@ The insights of this counter-tradition provide a rigorous diagnostic for underst
 - **1998**: Panksepp, J. *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
 - **2007**: Thompson, E. *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 - **2009**: McGilchrist, I. *The Master and His Emissary: The Divided Brain and the Making of the Western World*. Yale University Press.
+- **2012**: Vervaeke, J., Lillicrap, T. P., & Richards, B. A. *"Relevance Realization and the Emerging Framework in Cognitive Science"*, *Journal of Logic and Computation*.
 - **2019**: Vervaeke, J. *Awakening from the Meaning Crisis* (50-part lecture series, University of Toronto).
 - **2021**: Solms, M. *The Hidden Spring: A Journey to the Source of Consciousness*. W. W. Norton & Company.
 - **2021**: McGilchrist, I. *The Matter with Things: Our Brains, Our Delusions, and the Unmaking of the World*. Perspectiva.
 - **2026-09-20**: [[2026-09-20-is-consciousness-necessary-for-true-intelligence.md|Gemini Synthesis]] — *"Is Consciousness Necessary for True Intelligence?"* (archived primary synthesis).
+- **2026-09-20**: [[2026-09-20-dreyfus-vervaeke-frame-problem-relevance|The Problem of Relevance and the Horizon of Mind: Hubert Dreyfus and John Vervaeke on the Frame Problem]] (archived primary treatise).

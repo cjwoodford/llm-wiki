@@ -36,6 +36,7 @@ While machine learning models excel at **deductive** logic (following rules) and
 
 ## 3. Case Studies & Manifestations
 
+- **The Frame Problem & Relevance Realization**: Abductive reasoning is structurally isomorphic to the [[The Frame Problem and Relevance Realization|Frame Problem]]. As [[John Vervaeke|John Vervaeke]] and [[Hubert Dreyfus|Hubert Dreyfus]] demonstrate, "inference to the best explanation" requires an agent to zero in on the relevant candidate hypotheses out of an astronomically vast combinatorial space. Formal algorithmic search fails because determining what constitutes a "plausible" explanation without embodied relevance realization triggers an infinite meta-heuristic regress.
 - **The Dreyfus Phenomenological Critique (1972)**: In *What Computers Can't Do*, [[Hubert Dreyfus|Hubert Dreyfus]] showed that human common sense is rooted in embodied *Being-in-the-World* rather than formal rule-following. Novices use rules; human experts operate via holistic, intuitive situational grasping (the Dreyfus Model of Skill Acquisition), explaining why rule-based and disembodied AI systems inevitably fail at common sense.
 - **Medical & Scientific Diagnosis**: A doctor observing symptoms must select the most likely cause among thousands of possibilities using causal intuition—a task where LLMs often over-diagnose rare conditions found in high-frequency medical papers.
 - **Physical Common Sense**: The inability of language models to predict simple physical interactions (e.g., stacking irregular objects) without extensive fine-tuning.
@@ -46,11 +47,17 @@ While machine learning models excel at **deductive** logic (following rules) and
 ## 4. Related Concepts & Entities
 
 - **Concepts**:
+  - [[The Frame Problem and Relevance Realization|The Frame Problem and Relevance Realization]]
+  - [[Is Consciousness Necessary for True Intelligence|Is Consciousness Necessary for True Intelligence?]]
+  - [[Phenomenology and Embodied Cognition|Phenomenology & Embodied Cognition]]
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
   - [[Scaling Laws and The Bitter Lesson|Scaling Laws & The Bitter Lesson]]
   - [[Wisdom and the Meaning Crisis|Wisdom, Mortality & The Meaning Crisis]]
 - **Entities**:
   - [[Hubert Dreyfus|Hubert Dreyfus]]
+  - [[John Vervaeke|John Vervaeke]]
+  - [[Daniel Dennett|Daniel Dennett]]
+  - [[Walter J. Freeman|Walter J. Freeman]]
   - [[Gary Marcus|Gary Marcus]]
   - [[Yann LeCun|Yann LeCun]]
   - [[Chad Woodford|Chad Woodford]]
@@ -61,3 +68,4 @@ While machine learning models excel at **deductive** logic (following rules) and
 
 - **2023-06-10**: [[2023-06-10-why-ai-needs-more-philosophers.md|Why AI Needs More Philosophers]] — Highlights common-sense reasoning deficits in generative models.
 - **2026-01-13**: [[2026-01-13-the-better-ai-gets-the-further-we.md|The Better AI Gets, the Further We Seem from AGI]] — Comprehensive analysis of abductive reasoning as an AGI bottleneck.
+- **2026-09-20**: [[2026-09-20-dreyfus-vervaeke-frame-problem-relevance|The Problem of Relevance and the Horizon of Mind: Hubert Dreyfus and John Vervaeke on the Frame Problem]] — Detailed synthesis of the frame problem, combinatorial explosion, and relevance realization.

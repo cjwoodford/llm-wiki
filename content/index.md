@@ -22,16 +22,33 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 
 | Metric | Count | Status |
 | :--- | :--- | :--- |
-| **Thematic Concepts** | 52 | 🟢 Fully Linked (5-Part Standard Schema) |
-| **Key Entities** | 129 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
+| **Thematic Concepts** | 53 | 🟢 Fully Linked (5-Part Standard Schema) |
+| **Key Entities** | 133 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
-| **Archived Primary Sources** | 171 | 🟢 Full YAML Provenance (`sources/archive/`) |
+| **Archived Primary Sources** | 172 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
 | **Web Clippings Queue** | 0 | 🟢 Clear (`Clippings/`) |
 
 ---
 
 ## 🔄 Recent Activity (2026-09-20)
+
+- **Ingestion & Synthesis: The Frame Problem and Relevance Realization (Hubert Dreyfus & John Vervaeke)**:
+  - **Archived Primary Source**:
+    - `sources/archive/2026-09-20-dreyfus-vervaeke-frame-problem-relevance.md` (*The Problem of Relevance and the Horizon of Mind: Hubert Dreyfus and John Vervaeke on the Frame Problem*, Chad Woodford / Google Docs, September 20, 2026).
+  - **New Master Thematic Concept Created**:
+    - [[The Frame Problem and Relevance Realization|The Frame Problem and Relevance Realization]] (Exhaustive comparative synthesis of McCarthy & Hayes's situation calculus, Dennett's Robot's Dilemma, Fodor's central isotropy, Dreyfus's phenomenological dissolution [*Zuhandenheit*, Minsky frame regress, maximal grip, Freeman neurodynamics], Vervaeke's cognitive science of Relevance Realization [cognitive trilemma, opponent processing constraint matrix, bio-economics, transjectivity, 4P knowing], and 4 foundational requirements for AGI frame resolution).
+  - **4 New Thinker Entity Dossiers Created**:
+    - [[Daniel Dennett|Daniel Dennett]] (American philosopher, functionalist, formulator of the Robot's Dilemma [*Cognitive Wheels*], the Intentional Stance, and the Multiple Drafts Model).
+    - [[Walter J. Freeman|Walter J. Freeman]] (UC Berkeley neurophysiologist, pioneer of non-linear chaotic neurodynamics, olfactory attractor landscapes, non-representational intentionality, and biological model of the intentional arc).
+    - [[Michael Wheeler|Michael Wheeler]] (Cognitive philosopher, *Reconstructing the Cognitive World*, Heideggerian AI, Continuous Reciprocal Causation [CRC], and the intra- vs. inter-context frame problem).
+    - [[Rodney Brooks|Rodney Brooks]] (Father of situated robotics, former MIT CSAIL Director, creator of the Subsumption Architecture ["Intelligence without Representation", "the world is its own best model"]).
+  - **Cross-Vault Concept & Dossier Deepenings**:
+    - [[Hubert Dreyfus]]: Enriched with Minsky frame regress, Merleau-Ponty intentional arc, Freeman neurodynamics, and Wheeler Heideggerian AI critique.
+    - [[John Vervaeke]]: Enriched with the cognitive trilemma, heuristic selection regress, multi-tiered opponent processing constraint matrix, and bio-economics.
+    - [[Is Consciousness Necessary for True Intelligence]]: Added bidirectional link to The Frame Problem and Relevance Realization and cross-linked new thinkers.
+    - [[Abductive Reasoning and Common Sense]]: Structured abductive reasoning as isomorphic to the frame problem and relevance realization.
+    - [[Phenomenology and Embodied Cognition]]: Integrated neurodynamics, Heideggerian AI debate, and Brooks's situated robotics.
 
 - **Ingestion & Synthesis: Is Consciousness Necessary for True Intelligence? (Gemini Synthesis, September 2026)**:
   - **Archived Primary Source**:
@@ -297,6 +314,7 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 ## 🧠 Thematic Concepts Directory
 
 ### I. Cognitive Architecture, Computation & Mechanistic Roots
+- **[[The Frame Problem and Relevance Realization|The Frame Problem and Relevance Realization]]** — From McCarthy & Hayes's situation calculus and Dennett's Robot's Dilemma to Hubert Dreyfus's phenomenological coping (*Zuhandenheit*, maximal grip, Freeman neurodynamics) and John Vervaeke's cognitive science of Relevance Realization (opponent processing, bio-economics, transjectivity, 4P knowing).
 - **[[Cybernetics and the Macy Conferences|Cybernetics & The Macy Conferences (1946–1953)]]** — Wiener's steersman, circular causality, negative feedback loops, threshold logic neurons, 1st- vs 2nd-order cybernetics, the 1956 AI schism, and active inference.
 - **[[Neuroscience|Neuroscience: Origins, Evolution & Developmental Milestones]]** — From ancient encephalocentrism and Willis's cortex to Cajal's Neuron Doctrine, Hodgkin-Huxley biophysics, the MIT NRP founding (1962), BOLD fMRI, optogenetics, and connectomics.
 - **[[The 1956 Foundations of AI and Cognitive Science|The 1956 Foundations of AI and Cognitive Science]]** — Dartmouth AI Workshop, MIT Symposium, Logic Theorist, generative grammar, $7 \pm 2$ chunks, overthrow of behaviorism, and the Sloan Hexagon.
@@ -376,6 +394,7 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[George Miller|George Miller]]** — $7 \pm 2$ working memory chunks, designated Sept 11, 1956 as CogSci's birthday, Harvard Center for Cognitive Studies, and WordNet.
 - **[[Nathaniel Rochester|Nathaniel Rochester]]** — Chief architect of IBM 701, Dartmouth co-organizer, first symbolic assembler, and early neural network simulations.
 - **[[Alfred P. Sloan Foundation|Alfred P. Sloan Foundation]]** — Philanthropic catalyst of Cognitive Science, creator of the 1978 Sloan Hexagon ($17.4M investment).
+- **[[Rodney Brooks|Rodney Brooks]]** — Father of situated robotics, former MIT CSAIL Director, creator of the Subsumption Architecture ("Intelligence without Representation", "the world is its own best model").
 
 ### Continental, Process & Phenomenological Thinkers
 - **[[Martin Heidegger|Martin Heidegger]]** — Fundamental ontology (*Being and Time*), *Dasein*, *Zuhandenheit* (ready-to-hand coping vs. present-at-hand inspection), and *Gestell* technological critique.
@@ -387,6 +406,7 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[Henri Corbin|Henri Corbin]]** — Pioneer of the *Mundus Imaginalis* (*'Ālam al-Mithāl*), Active Imagination, and Islamic illuminationist theosophy.
 - **[[David Abram|David Abram]]** — Cultural ecologist, eco-phenomenology, author of *The Spell of the Sensuous*, and coiner of "the more-than-human world."
 - **[[Hubert Dreyfus|Hubert Dreyfus]]** — UC Berkeley phenomenologist, foremost critic of CTM, and author of *What Computers Can't Do*.
+- **[[Michael Wheeler|Michael Wheeler]]** — Cognitive philosopher (*Reconstructing the Cognitive World*), pioneer of Heideggerian AI, Continuous Reciprocal Causation (CRC), and the intra- vs. inter-context frame problem.
 - **[[Richard Tarnas|Richard Tarnas]]** — Cultural historian, author of *The Passion of the Western Mind*, and archetypal dialectic of consciousness.
 - **[[Meghan O'Gieblyn|Meghan O'Gieblyn]]** — Essayist, author of *God, Human, Animal, Machine* (2021), secular sublimation of religious longings, the 5 psychological dimensions of silicon soulhood, and the Dehumanizing Boomerang.
 
@@ -398,6 +418,7 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[Francisco Varela|Francisco Varela]]** — Biologist and philosopher, co-originator of autopoiesis, enactivism (*The Embodied Mind*), and neurophenomenology.
 - **[[Humberto Maturana|Humberto Maturana]]** — Biologist and cyberneticist, co-originator of autopoiesis, structural coupling, operational closure, and biology of cognition.
 - **[[Evan Thompson|Evan Thompson]]** — Enactive philosopher, *Mind in Life*, Life-Mind Continuity Thesis, and radical embodied cognitive science.
+- **[[Walter J. Freeman|Walter J. Freeman]]** — UC Berkeley neurophysiologist, pioneer of non-linear chaotic neurodynamics, olfactory attractor landscapes, non-representational intentionality, and biological foundation of Dreyfus's intentional arc.
 - **[[Michael Levin|Michael Levin]]** — Vannevar Bush Professor of Biology at Tufts, Director of the Allen Discovery Center, pioneer of developmental bioelectricity, basal cognition, synthetic morphology (Xenobots, Anthrobots), and the *Ingressing Minds* hypothesis.
 - **[[David Chalmers|David Chalmers]]** — NYU Professor of Philosophy, formulator of the Hard Problem of Consciousness, philosophical zombies, naturalistic dualism, QIIT, and virtual realism.
 - **[[Kelvin McQueen|Kelvin McQueen]]** — Chapman University philosopher of physics, co-creator with Chalmers of QIIT and dynamical collapse models of consciousness.
@@ -407,6 +428,7 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[Francis O. Schmitt|Francis O. Schmitt]]** — MIT biophysicist, founder of the Neurosciences Research Program (NRP, 1962), and coiner of "Neuroscience".
 - **[[Iain McGilchrist|Iain McGilchrist]]** — Psychiatrist, philosopher, author of *The Master and His Emissary* and *The Matter with Things*.
 - **[[John Vervaeke|John Vervaeke]]** — Cognitive scientist, creator of *Awakening from the Meaning Crisis* (4P/3V knowing).
+- **[[Daniel Dennett|Daniel Dennett]]** — American philosopher, functionalist, formulator of the Robot's Dilemma (*Cognitive Wheels*), the Intentional Stance, and the Multiple Drafts Model.
 - **[[John Searle|John Searle]]** — Chinese Room argument, observer-relative fallacy, and biological naturalism.
 - **[[Hilary Putnam|Hilary Putnam]]** — Machine Functionalism pioneer and author of later anti-functionalist retractions.
 - **[[Jerry Fodor|Jerry Fodor]]** — Language of Thought (LOT) hypothesis and modularity ceiling.
