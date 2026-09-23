@@ -123,9 +123,10 @@ Incorporating this background into the political economy of AI (**Act I: The Sup
 
 ### 1. The Theological Foundation
 Nick Bostrom's Oxford philosophy provided the intellectual alchemy that converted speculative science fiction into a moral duty. By synthesizing:
-- **Bayesian Decision Theory**: Rational agents must multiply astronomical future payoffs by tiny nonzero probabilities, dictating that even a $1\%$ chance of birthing a digital utopia justifies deploying almost infinite resources today.
-- **Utilitarian Population Ethics**: Treating non-existent future digital lives as moral patients whose non-creation constitutes catastrophic harm.
-- **The Midwife Mandate**: Founders do not see themselves as corporate managers selling software services; they perceive themselves as the historic midwives presiding over the evolutionary birth of planetary post-biological mind.
+- **Bayesian Decision Theory & Infinite Stakes**: Rational agents must multiply astronomical future payoffs by tiny nonzero probabilities, dictating that even a $1\%$ chance of birthing a digital utopia justifies deploying almost infinite resources today. As **[[John Gray]]** documented in his critique of millenarian cults (*Black Mass*), **"infinite stakes justify infinite means"**: when leaders believe the destiny of the cosmos hangs in the balance, ordinary legal boundaries, ethical restraints, and regulatory compliance appear as petty sabotage.
+- **Utilitarian Population Ethics**: Treating non-existent future digital lives as moral patients whose non-creation constitutes catastrophic harm ("Astronomical Waste").
+- **The Midwife vs. Architect Archetype**: As analyzed in [[Millenarianism and Secular Eschatology]], utopian reformers act as *architects* who test and adjust social institutions; millenarians act as *midwives* presiding over an apocalyptic birth. Frontier lab founders do not see themselves as corporate managers building commercial software products; they perceive themselves as the consecrated midwives destined to usher the cosmos from biological constraint into post-biological superintelligence.
+- **The Joachite Triad**: Following the historical pattern identified by **[[Joachim of Fiore]]** and **[[Norman Cohn]]**, the transition to AGI is framed as the third and final dispensation of cosmic history—superseding human limitation with algorithmic omnipotence.
 
 ### 2. The Sincere Delusion: High IQ meets Phenomenological Blindness
 Frontier lab researchers inhabit an insular subcultural echo chamber characterized by exceptional mathematical competence combined with what Woodford terms **Mechanalopia**—an impoverished, disembodied phenomenological understanding of mind:
@@ -168,6 +169,7 @@ As documented by [[Adam Becker]] (*More Everything Forever*) and [[Cal Newport]]
 ## 5. Related Concepts & Entities
 
 - **Concepts**:
+  - [[Millenarianism and Secular Eschatology|Millenarianism & Secular Eschatology]]
   - [[The Extropian-to-Longtermist Lineage and Frontier AI|The Extropian-to-Longtermist Lineage & Frontier AI]]
   - [[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]
   - [[Constitutional AI and Model Welfare|Constitutional AI & Model Welfare]]
@@ -181,6 +183,9 @@ As documented by [[Adam Becker]] (*More Everything Forever*) and [[Cal Newport]]
   - [[Machine Functionalism and Language of Thought|Machine Functionalism & Language of Thought]]
   - [[Decoloniality and Empire Technologies|Decoloniality & Empire Technologies]]
 - **Entities**:
+  - [[John Gray|John Gray]]
+  - [[Norman Cohn|Norman Cohn]]
+  - [[Joachim of Fiore|Joachim of Fiore]]
   - [[Chad Woodford|Chad Woodford]]
   - [[Shane Legg|Shane Legg]]
   - [[Sam Altman|Sam Altman]]
@@ -205,7 +210,10 @@ As documented by [[Adam Becker]] (*More Everything Forever*) and [[Cal Newport]]
 
 - **Archived Primary Formulation**:
   - [[2026-09-20-the-sincerity-trap-and-the-sanctified-bottom-line|The Sincerity Trap: When Dogma Justifies the Shield (Act I: The Supply Side)]] (Chad Woodford / LLM Wiki Ingestion, September 20, 2026).
+  - [[2026-09-23-millenarianism-and-utopianism.md|Millenarianism, Utopianism, and the Myth of Progress]] (Analysis of secular eschatology, infinite stakes, and the midwife archetype).
 - **Core Critical References**:
+  - Cohn, N. (1957). *The Pursuit of the Millennium: Revolutionary Millenarians and Mystical Anarchists of the Middle Ages*, Secker & Warburg.
+  - Gray, J. (2007). *Black Mass: Apocalyptic Religion and the Death of Utopia*, Farrar, Straus and Giroux.
   - Woodford, C. (2026). *"Welcome to the AI Consciousness Refinery"*, *Cosmic Wit*.
   - Woodford, C. (2026). *"What Is It Like To Be an Abacus? / Dude, Is This Abacus Conscious?"*, *Cosmic Wit*.
   - Becker, A. (2025). *More Everything Forever: How Radical Futurism Stole Our Present and Sold Us a Lie*, Basic Books.

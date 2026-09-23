@@ -76,6 +76,10 @@ Francis Bacon (1627: New Atlantis)
 - **Proponents**: [[Charles Taylor|Charles Taylor]], [[Tyler VanderWeele|Tyler VanderWeele]], Tristan Harris ([[Center for Humane Technology|Center for Humane Technology]]), Shannon Vallor.
 - **Argument**: Techno-utopianism confuses **instrumental capabilities** (compute speed, GDP, longevity) with **intrinsic goods** (virtue, meaning, love, community). Merely automating human tasks risks cognitive de-skilling and spiritual emptiness ([[Human Flourishing and Technology Innovation|Human Flourishing & Technology Innovation]]).
 
+### The Secular Millenarian Critique (The Myth of Progress)
+- **Proponents**: [[John Gray|John Gray]], [[Norman Cohn|Norman Cohn]], [[Joachim of Fiore|Joachim of Fiore (theological roots)]].
+- **Argument**: In *Black Mass* (2007) and *Straw Dogs* (2002), **[[John Gray]]** demonstrated that techno-utopianism is not an enlightened, rational philosophy, but an unacknowledged **Christian heresy** that secularized apocalyptic eschatology. While scientific knowledge is cumulative, human ethics and political wisdom are non-cumulative. Confusing exponential compute with human moral evolution represents a fatal category error. Furthermore, techno-utopianism operates via **[[Millenarianism and Secular Eschatology|Millenarian Chiliasm]]**: framing humanity not as architects incrementally testing social reforms, but as apocalyptic "midwives" ushering in a catastrophic technological rupture (the Singularity) that supposedly justifies infinite risk and autocratic corporate monopolization.
+
 ---
 
 ## 4. Case Studies & Real-World Manifestations
@@ -99,6 +103,8 @@ Francis Bacon (1627: New Atlantis)
 ## 5. Related Concepts & Entities
 
 - **Concepts**:
+  - [[Millenarianism and Secular Eschatology|Millenarianism & Secular Eschatology]]
+  - [[The Sincerity Trap and the Sanctified Bottom Line|The Sincerity Trap & The Sanctified Bottom Line]]
   - [[Technological Determinism|Technological Determinism]]
   - [[TESCREAL and The Merge|TESCREAL & The Merge]]
   - [[Techgnosticism|Techgnosticism & Transhumanism]]
@@ -109,6 +115,9 @@ Francis Bacon (1627: New Atlantis)
   - [[Wisdom and the Meaning Crisis|Wisdom, Mortality & The Meaning Crisis]]
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
 - **Entities**:
+  - [[John Gray|John Gray]]
+  - [[Norman Cohn|Norman Cohn]]
+  - [[Joachim of Fiore|Joachim of Fiore]]
   - [[Timnit Gebru|Timnit Gebru]]
   - [[Emile P. Torres|Émile P. Torres]]
   - [[Charles Taylor|Charles Taylor]]
@@ -126,8 +135,11 @@ Francis Bacon (1627: New Atlantis)
 
 ## 6. Source Log & Citations
 
+- **1957**: Norman Cohn, *The Pursuit of the Millennium: Revolutionary Millenarians and Mystical Anarchists of the Middle Ages* — Foundational taxonomy of millenarian psychology and its 5 criteria.
+- **2007**: John Gray, *Black Mass: Apocalyptic Religion and the Death of Utopia* — Philosophical critique of secular progress and techno-utopianism as Christian heresy.
 - **2023-10-16**: Marc Andreessen, *"The Techno-Optimist Manifesto"* (a16z Blog) — Contemporary manifesto of extreme techno-optimism.
 - **2024-09-02**: [[2024-09-02-the-techgnostics-the-idealists-and.md|TechGnostics, Idealists, and the Future of Humanity]] — Critical analysis of Silicon Valley's Promethean mythos.
 - **2025-09-02**: [[2025-09-02-why-do-tech-bros-have-the-worst-ideas.md|Why Do Tech Bros Have the Worst Ideas?]] — Philosophical critique of techno-utopian reductionism.
 - **2025-11-06**: [[2025-11-06-ai-empires-and-the-soul-sickness.md|AI Empires and the Soul Sickness of Silicon Valley]] — Contrast between extractive technological empires and humane stewardship.
 - **2026-09-16**: [[2026-09-16-woodford-is-ai-going-to-cure-cancer-or-kill.md|Is AI Going To Cure Cancer or Kill Everyone?]] (Chad Woodford, *Cosmic Intelligence*) — Comprehensive audit of unfulfilled techno-utopian promises and the "Two AIs" divide.
+- **2026-09-23**: [[2026-09-23-millenarianism-and-utopianism.md|Millenarianism, Utopianism, and the Myth of Progress]] — Analysis of secular eschatology, the Joachite Three Ages, and the "midwife vs. architect" archetype.

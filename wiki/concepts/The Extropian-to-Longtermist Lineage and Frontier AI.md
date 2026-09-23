@@ -188,6 +188,7 @@ As formulated by [[Chad Woodford|Chad Woodford]] in [[The Sincerity Trap and the
 ## 🔗 Related Concepts & Entities
 
 - **Concepts**:
+  - [[Millenarianism and Secular Eschatology|Millenarianism & Secular Eschatology]]
   - [[The Sincerity Trap and the Sanctified Bottom Line|The Sincerity Trap and the Sanctified Bottom Line (Master Concept)]]
   - [[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]
   - [[TESCREAL and The Merge|TESCREAL Bundling & The Merge]]
@@ -200,6 +201,9 @@ As formulated by [[Chad Woodford|Chad Woodford]] in [[The Sincerity Trap and the
   - [[The Meaning Crisis and Cultural Disenchantment|The Meaning Crisis & Cultural Disenchantment]]
   - [[Decoloniality and Empire Technologies|Decoloniality & Empire Technologies]]
 - **Entities**:
+  - [[John Gray|John Gray]]
+  - [[Norman Cohn|Norman Cohn]]
+  - [[Joachim of Fiore|Joachim of Fiore]]
   - [[Chad Woodford|Chad Woodford]]
   - [[Eliezer Yudkowsky|Eliezer Yudkowsky]]
   - [[Nick Bostrom|Nick Bostrom]]

@@ -22,12 +22,31 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 
 | Metric | Count | Status |
 | :--- | :--- | :--- |
-| **Thematic Concepts** | 54 | 🟢 Fully Linked (5-Part Standard Schema) |
-| **Key Entities** | 133 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
+| **Thematic Concepts** | 55 | 🟢 Fully Linked (5-Part Standard Schema) |
+| **Key Entities** | 136 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
-| **Archived Primary Sources** | 173 | 🟢 Full YAML Provenance (`sources/archive/`) |
+| **Archived Primary Sources** | 174 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
 | **Web Clippings Queue** | 0 | 🟢 Clear (`Clippings/`) |
+
+---
+
+## 🔄 Recent Activity (2026-09-23)
+
+- **Ingestion & Synthesis: Millenarianism, Utopianism, and the Myth of Progress (John Gray, Norman Cohn, & Joachim of Fiore)**:
+  - **Archived Primary Source**:
+    - `sources/archive/2026-09-23-millenarianism-and-utopianism.md` (*Millenarianism, Utopianism, and the Myth of Progress*, September 23, 2026).
+  - **New Master Thematic Concept Created**:
+    - [[Millenarianism and Secular Eschatology|Millenarianism and Secular Eschatology: From Apocalyptic Religion to Technological Chiliasm]] (Exhaustive analysis of the migration of religious apocalypse into secular politics and techno-singularitarianism; Norman Cohn's 5 anatomical criteria [Collective, Terrestrial, Imminent, Total, Miraculous]; Utopianism vs. Millenarianism [The Blueprint vs. The Rupture, The Architect vs. The Midwife]; Joachim of Fiore's Three Ages of History as the secular prototype for Comte, Marx, and the Singularity; John Gray's critique of the myth of progress and secular politics as Christian heresies; the mechanics of millenarian violence ["infinite stakes justify infinite means" and the hunt for demonic saboteurs]; and the counter-proposal of Tragic Realism & *modus vivendi*).
+  - **3 New Thinker Entity Dossiers Created**:
+    - [[John Gray|John Gray]] (British political philosopher, *Black Mass*, *Straw Dogs*, *False Dawn*; critique of secular humanism and the myth of progress; tragic realism and *modus vivendi*).
+    - [[Norman Cohn|Norman Cohn]] (British historian, *The Pursuit of the Millennium*; defined the 5 anatomical criteria of millenarian movements; demonstrated medieval chiliasm as structural template for modern totalitarian fanaticism).
+    - [[Joachim of Fiore|Joachim of Fiore]] (12th-century Calabrian abbot and theologian; formulated the Three Ages of History [Father, Son, Holy Spirit]; shattered Augustinian amillennialism by bringing transcendence into historical time; prototype for modern secular teleologies and the Technological Singularity).
+  - **Cross-Vault Concept Deepenings**:
+    - [[Techno-Utopianism]]: Added the Secular Millenarian Critique (John Gray, Norman Cohn, and the myth of cumulative moral progress).
+    - [[Techgnosticism]]: Added the Secular Eschatological Critique (Christian heresy, Joachite Third Age, and disembodied redemption).
+    - [[The Sincerity Trap and the Sanctified Bottom Line]]: Enriched Section 3.1 with the Midwife vs. Architect archetype, Joachite triad, and Gray's "infinite stakes justify infinite means" axiom.
+    - [[The Extropian-to-Longtermist Lineage and Frontier AI]]: Cross-linked Millenarianism and Secular Eschatology and new thinker dossiers.
 
 ---
 
@@ -369,6 +388,7 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[TESCREAL and The Merge|TESCREAL Bundling & The Merge]]** — Transhumanism, Extropianism, Singularitarianism, Cosmism, Rationalism, Effective Altruism, and Longtermism.
 - **[[The Extropian-to-Longtermist Lineage and Frontier AI|The Extropian-to-Longtermist Lineage & Frontier AI]]** — 1988–2026 historical trajectory from Extropian cryonics and mailing lists to SIAI/MIRI, LessWrong, FHI, Thiel's venture capital, OpenAI, Anthropic, the 2023 board coup, and doom trolling.
 - **[[The Sincerity Trap and the Sanctified Bottom Line|The Sincerity Trap & The Sanctified Bottom Line]]** — Woodford's analysis of how genuine rationalist/longtermist eschatology makes corporate monopolization vastly more potent; the supply-side triad (Theological Foundation, Sincere Delusion, Instrumental Exploitation) and *Bartz v. Anthropic*.
+- **[[Millenarianism and Secular Eschatology|Millenarianism & Secular Eschatology]]** — John Gray, Norman Cohn, and Joachim of Fiore; apocalyptic rupture, the myth of progress, the "midwife vs. architect" archetype, and techno-singularitarian chiliasm.
 - **[[The Commodification of Dissent and Critical Theory|The Commodification of Dissent & Critical Theory]]** — Capitalist co-optation of rebellion and synthetic subversion.
 - **[[Decoloniality and Empire Technologies|Decoloniality & Empire Technologies]]** — Algorithmic extraction, coloniality of power, and epistemological hegemony.
 - **[[The Decolonial Turn and the Coloniality of Being|The Decolonial Turn & The Coloniality of Being]]** — Quijano, Mignolo, and non-Western epistemologies.
@@ -459,6 +479,9 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[Casey Newton|Casey Newton]]** — Founder/Editor of *Platformer*, co-host of *Hard Fork*, chronicler of the 2026 AI Safety Vibe Shift, platform governance, and catastrophic risk.
 - **[[Timnit Gebru|Timnit Gebru]]** — Computer scientist, founder of DAIR, co-author of *Gender Shades* and *Stochastic Parrots*, co-originator of the TESCREAL critique.
 - **[[Emile P. Torres|Émile P. Torres]]** — Philosopher, historian of existential risk, author of *Human Extinction*, co-originator of the TESCREAL framework.
+- **[[John Gray|John Gray]]** — British political philosopher, *Black Mass*, *Straw Dogs*, critique of secular humanism and the myth of progress, and proponent of tragic realism and *modus vivendi*.
+- **[[Norman Cohn|Norman Cohn]]** — British historian, *The Pursuit of the Millennium*, formulator of the 5 anatomical criteria of millenarian movements, and medieval roots of modern totalitarian fanaticism.
+- **[[Joachim of Fiore|Joachim of Fiore]]** — 12th-century Calabrian theologian, formulator of the Three Ages of History, and progenitor of secularized historical teleology and the Technological Singularity.
 - **[[Richard Barbrook|Richard Barbrook]]** — British media theorist, author of *The Californian Ideology* (1995).
 - **[[Theodor Adorno|Theodor Adorno]]** & **[[Max Horkheimer|Max Horkheimer]]** — Frankfurt School, *Dialectic of Enlightenment*, Instrumental Reason.
 - **[[Guy Debord|Guy Debord]]** — Situationist International, *The Society of the Spectacle*.
