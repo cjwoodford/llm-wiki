@@ -66,6 +66,12 @@ His magnum opuses—*Sources of the Self* (1989), *The Malaise of Modernity* (19
     - *Constitutive-Expressivist*: Language does not merely point to things already conceived; it **constitutes** new modes of awareness, interpersonal communion, ethical sensitivity, and human world-disclosure.
 - Proves that mechanistic, algorithmic systems cannot replicate human language because they lack the expressive embodiment, bodily attunement, and existential concern that give symbols meaning.
 
+### 5. Retrieval vs. Demolition: Charles Taylor vs. John Gray
+As analyzed in [[2026-09-27-craft-john-grays-work|John Gray's Work]], Taylor and political philosopher **[[John Gray]]** share an essential premise—both reject the Enlightenment "subtraction story," demonstrating that secular modernity is living on borrowed Christian moral capital—before diverging completely on what this means for human agency:
+- **Taylor is a philosopher of retrieval**: He diagnoses the atomized "buffered self" and instrumental reason not to declare modernity bankrupt, but to rescue it—arguing that human beings are self-interpreting animals who can and must reopen themselves to qualitative "hypergoods" and shared moral horizons.
+- **Gray is a philosopher of demolition**: He regards Taylor's constructive project as the eloquent final gasp of the Christian-Hegelian illusion, arguing that humans are merely *Homo rapiens*—predatory primates whose civilizational veneer is fragile and cycling.
+- **The Acid Test Against Sentimentality**: While Taylor provides the affirmative grammar for human depth and embodiment against mechanistic AI reductionism, Gray serves as an indispensable **acid test against sentimentality**. An argument built solely on Taylor risks sounding like an earnest plea for human specialness; Gray reminds critics that transhumanism is humanism taken to its logical, Gnostic extreme, forcing the question of whether our defense of human dignity is an objective reality or a comforting primate myth.
+
 ---
 
 ## 🔗 Related Concepts & Entities
@@ -78,7 +84,9 @@ His magnum opuses—*Sources of the Self* (1989), *The Malaise of Modernity* (19
   - [[Phenomenology and Embodied Cognition|Phenomenology & Embodied Cognition]]
   - [[Human Flourishing and Technology Innovation|Human Flourishing & Technology Innovation]]
   - [[Techno-Utopianism|Techno-Utopianism]]
+  - [[Techgnosticism|Techgnosticism & Transhumanism]]
 - **Entities**:
+  - [[John Gray|John Gray]]
   - [[Richard Tarnas|Richard Tarnas]]
   - [[John Vervaeke|John Vervaeke]]
   - [[Hubert Dreyfus|Hubert Dreyfus]]

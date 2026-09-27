@@ -44,14 +44,18 @@ Borrowing its framework from ancient **Gnosticism**—which asserted that the ma
 - **Proponents**: Indigenous AI scholars, Tyson Yunkaporta.
 - **Argument**: Techgnosticism is an extreme expression of the [[Apollonian Mind Virus|Apollonian Mind Virus]] and [[Decoloniality and Empire Technologies|Empire Technologies]], seeking total detachment from the Earth and reciprocal obligations to living ecologies.
 
-### The Secular Eschatological Critique (Christian Heresy & The Third Age)
+### The Neo-Gnostic & Secular Eschatological Critique (John Gray & Joachim of Fiore)
 - **Proponents**: [[John Gray|John Gray]], [[Norman Cohn|Norman Cohn]], [[Joachim of Fiore|Joachim of Fiore (theological origin)]].
-- **Argument**: In *Black Mass* (2007), **[[John Gray]]** demonstrated that techgnostic transhumanism is not a secular breakthrough, but a grotesque mutation of medieval apocalyptic theology. It reproduces the 12th-century prophecy of **[[Joachim of Fiore]]** regarding the "Third Age of the Spirit"—an era wherein physical flesh, historical laws, and mortal vulnerability dissolve into pure light and contemplation. By dropping the theological doctrine of original sin while maintaining the fantasy of universal redemption, techgnosticism mistakes cumulative technical power for human moral perfectibility, fueling a dangerous [[Millenarianism and Secular Eschatology|secular millenarianism]] that treats the present biosphere as disposable scaffolding.
+- **Argument**: In *The Soul of the Marionette* (2015) and *Black Mass* (2007), **[[John Gray]]** demonstrated that techgnostic transhumanism is not a secular scientific breakthrough, but an unacknowledged mutation of medieval apocalyptic theology and ancient **Gnosticism**:
+  - **Science as *Gnosis***: Where ancient Gnostics sought mystical knowledge to escape the prison of matter (*soma sema*), modern techgnostics treat algorithmic science as esoteric *gnosis* capable of liberating mind from meatware. Mind-uploading and the Singularity express an explicit **hatred of the physical, animal body** and a desperate fantasy of transmuting flesh into pure code.
+  - **The Kleist Marionette Paradox**: Anchoring his critique in Heinrich von Kleist's 1810 essay *On the Marionette Theatre*, Gray observes that unthinking puppets possess effortless grace (lacking ego and doubt), while God possesses absolute grace through infinite consciousness. Humans are stranded in the tormented middle—clumsy, hesitant, and anxious. Transhumanists believe they can escape this agony by "eating a second time from the Tree of Knowledge" (engineering godhood through infinite compute). Gray proves this is a catastrophic delusion: technology does not liberate the human animal; it merely arms *Homo rapiens*—competing, predatory primates—with apocalyptic leverage.
+  - **Joachimite Eschatology**: As in [[Millenarianism and Secular Eschatology]], Singularitarian roadmaps replicate the 12th-century prophecy of **[[Joachim of Fiore]]** regarding the "Third Age of the Spirit"—an era wherein physical flesh, historical laws, and mortal vulnerability dissolve into pure light. Dropping original sin while retaining universal redemption produces an explosive, hubristic secular religion.
 
 ---
 
 ## 3. Case Studies & Manifestations
 
+- **Science as Neo-Gnostic *Gnosis* (*The Soul of the Marionette*)**: [[John Gray]]'s diagnosis of how Silicon Valley treats computation as an occult escape hatch from human biological vulnerability, mistaking algorithmic manipulation for metaphysical transcendence.
 - **The Secular Rapture & Mind-Uploading**: [[Meghan O'Gieblyn|Meghan O'Gieblyn]] demonstrates how [[Ray Kurzweil|Ray Kurzweil]]'s singularitarian eschatology maps 1:1 onto Christian theology—escaping bodily decay in silicon matches the promise of the incorruptible resurrected body.
 - **Algorithmic Providence as Calvinist Predestination**: Delegating human decisions to opaque, all-knowing predictive algorithms recreates Calvinist predestination, where an inscrutable supreme power governs human destiny while subjects passively submit.
 - **The TESCREAL Ideological Bundle**: The modern philosophical infrastructure ([[TESCREAL and The Merge|TESCREAL & The Merge]]) uniting Transhumanism, Extropianism, Singularitarianism, Cosmism, Rationalism, Effective Altruism, and Longtermism under a shared Gnostic vision.
@@ -95,9 +99,11 @@ Borrowing its framework from ancient **Gnosticism**—which asserted that the ma
 
 - **1957**: Norman Cohn, *The Pursuit of the Millennium: Revolutionary Millenarians and Mystical Anarchists of the Middle Ages* — Medieval roots of modern fanaticism.
 - **2007**: John Gray, *Black Mass: Apocalyptic Religion and the Death of Utopia* — Critique of transhumanism and secular progress as Gnostic Christian heresy.
+- **2015**: John Gray, *The Soul of the Marionette: A Short Inquiry into Human Freedom* — Diagnosis of science-as-gnosis, Kleist's marionettes, and the flight from the animal body.
 - **2021**: Meghan O'Gieblyn, *God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning*, Doubleday.
 - **2024-09-02**: [[2024-09-02-the-techgnostics-the-idealists-and.md|TechGnostics, Idealists, and the Future of Humanity]] — Detailed analysis of Gnostic theology embedded in Silicon Valley ideology.
 - **2024-10-02**: [[2024-10-02-zombies-transhumanists-and-the-meaning.md|Zombies, Transhumanists, and the Meaning Crisis]] — Examination of the existential hazards of disembodied digital immortality.
 - **2025-09-02**: [[2025-09-02-why-do-tech-bros-have-the-worst-ideas.md|Why Do Tech Bros Have the Worst Ideas?]] — Critique of the Apollonian escapism underlying tech bro utopias.
 - **2025-11-06**: [[2025-11-06-ai-empires-and-the-soul-sickness.md|AI Empires and the Soul Sickness of Silicon Valley]] — Connection between Techgnosticism and extractive empire building.
 - **2026-09-23**: [[2026-09-23-millenarianism-and-utopianism.md|Millenarianism, Utopianism, and the Myth of Progress]] — Analysis of secular eschatology, the Joachite Three Ages, and the "midwife vs. architect" archetype.
+- **2026-09-27**: [[2026-09-27-craft-john-grays-work|John Gray's Work: The Myth of Progress, Neo-Gnosticism, and the Charles Taylor Counterweight]] — Synthesis of *The Soul of the Marionette*, *Black Mass*, and the Taylor vs. Gray dialectic.

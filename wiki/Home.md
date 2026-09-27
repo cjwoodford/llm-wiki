@@ -25,9 +25,23 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 | **Thematic Concepts** | 55 | 🟢 Fully Linked (5-Part Standard Schema) |
 | **Key Entities** | 136 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
-| **Archived Primary Sources** | 174 | 🟢 Full YAML Provenance (`sources/archive/`) |
+| **Archived Primary Sources** | 175 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
 | **Web Clippings Queue** | 0 | 🟢 Clear (`Clippings/`) |
+
+---
+
+## 🔄 Recent Activity (2026-09-27)
+
+- **Craft Ingestion & Synthesis: John Gray's Work (Neo-Gnosticism & The Charles Taylor Counterweight)**:
+  - **Archived Primary Source**:
+    - `sources/archive/2026-09-27-craft-john-grays-work.md` (*John Gray's Work: The Myth of Progress, Neo-Gnosticism, and the Charles Taylor Counterweight*, Chad Woodford / Craft MCP Ingestion, September 27, 2026).
+  - **Thinker Dossier Expansions**:
+    - [[John Gray|John Gray]]: Comprehensive expansion detailing *The Soul of the Marionette* (Kleist's marionette paradox, science-as-gnosis, the flight from the animal body, the illusion of the puppeteer, and the tyranny of choice); Darwinian naturalism and *Homo rapiens*; Daoist detachment (*wu wei*) and *Feline Philosophy*; the comparative dialectic with Charles Taylor; and a targeted reading guide for *Black Mass* in the context of AI singularitarianism.
+    - [[Charles Taylor|Charles Taylor]]: Added Section 5 analyzing the tension between Taylor's *Philosophy of Retrieval* (reopening the buffered self to hypergoods and horizons of significance) and Gray's *Philosophy of Demolition* (the acid test against humanist sentimentality).
+  - **Cross-Vault Concept Deepenings**:
+    - [[Techgnosticism]]: Integrated Gray's critique of science-as-gnosis, transhumanist hatred of the animal body, and Kleist's marionette paradox.
+    - [[Human Flourishing and Technology Innovation]]: Added the **Taylor vs. Gray Dialectic** (retrieval vs. demolition) as an essential tension for assessing technology and the good life.
 
 ---
 
