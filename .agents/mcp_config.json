@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "craft": {
+      "url": "https://mcp.craft.do/my/mcp",
+      "serverUrl": "https://mcp.craft.do/my/mcp"
+    }
+  }
+}
