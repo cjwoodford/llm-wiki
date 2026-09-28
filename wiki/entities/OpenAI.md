@@ -41,12 +41,15 @@ aliases:
 - **Philosophical Debates & "Doom Trolling"**:
   - Central subject of critiques regarding [[Decoloniality and Empire Technologies|Empire Technologies]], computational hubris, and [[TESCREAL and The Merge|TESCREAL ideology]].
   - In *More Everything Forever* (2025) and on *Better Offline* (September 2026), [[Adam Becker]] and [[Cal Newport]] critiqued OpenAI leadership for utilizing apocalyptic "doom trolling" to cultivate an aura of world-historical indispensability while erecting regulatory barriers around frontier compute.
+- **Legal Strategy & Epistemological Evasion**:
+  - In civil litigation (*Walters v. OpenAI*) and mass copyright disputes (*The New York Times v. OpenAI*), OpenAI pioneered the defense of non-deterministic emergent reasoning to assert intervening user causation and anthropomorphic fair use, while utilizing its Preparedness Framework and Microsoft cloud partnership to navigate antitrust and regulatory scrutiny (see [[The Epistemology of Evasion and AI Legal Strategy]]).
 
 ---
 
 ## 🔗 Related Concepts & Entities
 
 - **Concepts**:
+  - [[The Epistemology of Evasion and AI Legal Strategy|The Epistemology of Evasion & AI Legal Strategy]]
   - [[The Sincerity Trap and the Sanctified Bottom Line|The Sincerity Trap and the Sanctified Bottom Line]]
   - [[The Extropian-to-Longtermist Lineage and Frontier AI|The Extropian-to-Longtermist Lineage & Frontier AI]]
   - [[TESCREAL and The Merge|TESCREAL & The Merge]]

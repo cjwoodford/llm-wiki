@@ -22,12 +22,26 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 
 | Metric | Count | Status |
 | :--- | :--- | :--- |
-| **Thematic Concepts** | 55 | 🟢 Fully Linked (5-Part Standard Schema) |
+| **Thematic Concepts** | 56 | 🟢 Fully Linked (5-Part Standard Schema) |
 | **Key Entities** | 136 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
-| **Archived Primary Sources** | 175 | 🟢 Full YAML Provenance (`sources/archive/`) |
+| **Archived Primary Sources** | 176 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
 | **Web Clippings Queue** | 0 | 🟢 Clear (`Clippings/`) |
+
+---
+
+## 🔄 Recent Activity (2026-09-28)
+
+- **Monograph Ingestion & Synthesis: The Epistemology of Evasion (AI Legal Strategy in Tort, Antitrust, & Regulation)**:
+  - **Archived Primary Source**:
+    - `sources/archive/2026-09-28-the-epistemology-of-evasion.md` (*The Epistemology of Evasion: The Emergent Superintelligence Myth in Tort, Antitrust, and Regulatory Strategy*, September 28, 2026).
+  - **New Master Thematic Concept Created**:
+    - [[The Epistemology of Evasion and AI Legal Strategy|The Epistemology of Evasion and AI Legal Strategy]] (Exhaustive doctrinal analysis of how frontier AI developers deploy narratives of emergent superintelligence and existential risk across 4 legal arenas: torts/products liability [design defect vs emergent reasoner, *Walters v. OpenAI*, § 519/520 ultrahazardous activity boomerang, and the Price-Anderson Nuclear Compact model]; intellectual property [anthropomorphic fair use under 17 U.S.C. § 107 vs downstream compute-threshold weight enclosure]; administrative audits [audit substitution displacing Title VII, ECOA, GDPR, and labor compliance with speculative alignment benchmarks; dual-use security cloak]; and antitrust neutralization ["Manhattan Project" national champion defense, natural monopoly of containment, sub-HSR cloud partnerships]).
+  - **Cross-Vault Concept & Entity Deepenings**:
+    - [[The Sincerity Trap and the Sanctified Bottom Line]]: Added subsections on Doctrinal Tort Defense & Price-Anderson Nuclear Compact, Antitrust Neutralization, and Audit Substitution.
+    - [[OpenAI]]: Added analysis of *Walters v. OpenAI*, *The New York Times v. OpenAI*, Preparedness Framework, and Microsoft cloud partnership.
+    - [[Anthropic]]: Added analysis of Responsible Scaling Policies (ASL-1 to 4) as audit substitution and "terrified sorcerer" regulatory advocacy (e.g. SB 1047).
 
 ---
 
@@ -402,6 +416,7 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[TESCREAL and The Merge|TESCREAL Bundling & The Merge]]** — Transhumanism, Extropianism, Singularitarianism, Cosmism, Rationalism, Effective Altruism, and Longtermism.
 - **[[The Extropian-to-Longtermist Lineage and Frontier AI|The Extropian-to-Longtermist Lineage & Frontier AI]]** — 1988–2026 historical trajectory from Extropian cryonics and mailing lists to SIAI/MIRI, LessWrong, FHI, Thiel's venture capital, OpenAI, Anthropic, the 2023 board coup, and doom trolling.
 - **[[The Sincerity Trap and the Sanctified Bottom Line|The Sincerity Trap & The Sanctified Bottom Line]]** — Woodford's analysis of how genuine rationalist/longtermist eschatology makes corporate monopolization vastly more potent; the supply-side triad (Theological Foundation, Sincere Delusion, Instrumental Exploitation) and *Bartz v. Anthropic*.
+- **[[The Epistemology of Evasion and AI Legal Strategy|The Epistemology of Evasion & AI Legal Strategy]]** — Doctrinal analysis of how frontier AI labs deploy narratives of emergent superintelligence to evade common law liability across 4 arenas: products liability (emergent reasoner defense vs. § 519/520 ultrahazardous boomerang and the Price-Anderson Nuclear Compact); intellectual property (anthropomorphic fair use vs. downstream weight enclosure); administrative audits (audit substitution and the dual-use security cloak); and antitrust neutralization ("Manhattan Project" defense and sub-HSR cloud partnerships).
 - **[[Millenarianism and Secular Eschatology|Millenarianism & Secular Eschatology]]** — John Gray, Norman Cohn, and Joachim of Fiore; apocalyptic rupture, the myth of progress, the "midwife vs. architect" archetype, and techno-singularitarian chiliasm.
 - **[[The Commodification of Dissent and Critical Theory|The Commodification of Dissent & Critical Theory]]** — Capitalist co-optation of rebellion and synthetic subversion.
 - **[[Decoloniality and Empire Technologies|Decoloniality & Empire Technologies]]** — Algorithmic extraction, coloniality of power, and epistemological hegemony.

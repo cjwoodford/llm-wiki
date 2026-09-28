@@ -164,11 +164,29 @@ As documented by [[Adam Becker]] (*More Everything Forever*) and [[Cal Newport]]
 - Tech executives testify before congressional committees warning of global extinction and bio-weapons, voluntarily asking for strict government licensing of compute clusters exceeding $10^{26}$ FLOPs.
 - This performative repentance creates an insurmountable barrier to entry for open-source software and smaller startups, legally cementing the monopoly moats of Microsoft/OpenAI, Amazon/Anthropic, and Google.
 
+### D. Doctrinal Tort Defense & The Price-Anderson Nuclear Compact
+As detailed in [[The Epistemology of Evasion and AI Legal Strategy]], the eschatological framing directly structures the defense in products liability:
+- In civil litigation (*Walters v. OpenAI*), laboratories plead that models are **non-deterministic, emergent reasoning agents** rather than deterministic software, framing the user's prompt as an intervening and superseding cause to evade design-defect liability.
+- **The Doctrinal Boomerang**: By publicly professing that model risks cannot be neutralized through reasonable care, labs establish the factual predicates of Restatement (Second) of Torts §§ 519–520 (strict liability for ultrahazardous activities).
+- **The Legislative Endgame**: To escape this uninsurable liability trap, labs actively lobby for a federal statutory compact modeled on the **Price-Anderson Act (42 U.S.C. § 2210)**—exchanging compliance with government safety benchmarks for aggregate civil liability caps, mandatory industry insurance pools, and total preemption of state-level tort actions.
+
+### E. Antitrust Neutralization: The "Manhattan Project" & Sub-HSR Cloud Tie-Ups
+The corporate consolidation of compute is sanctified by geopolitical existentialism:
+- Any proposed antitrust action under the Sherman or Clayton Acts to break up hyperscalers or unwind AI joint ventures is branded as **"unilateral economic disarmament"** against China in the cosmic race for AGI.
+- The extreme capital concentration required for multi-gigawatt data centers is recast as an ethical mandate for containment (the "natural monopoly of containment").
+- Incumbents structured multi-billion-dollar hyperscaler tie-ups (Microsoft/OpenAI, Amazon/Anthropic) as non-controlling equity and compute-credit covenants specifically to test the boundaries of Hart-Scott-Rodino (HSR) premerger notification.
+
+### F. Audit Substitution & The Dual-Use Security Cloak
+By elevating speculative existential threats (ASL-1 through ASL-4, autonomous weaponization), labs execute **audit substitution**:
+- Voluntary, industry-designed red-teaming benchmarks displace enforceable administrative compliance regarding algorithmic disparate impact (Title VII), consumer credit discrimination (ECOA), data harvesting violations (GDPR/CCPA), and Global South annotation labor.
+- Categorizing weights as dual-use national security artifacts justifies locking out independent academic auditing, discovery, and open-source replication under the guise of patriotic containment.
+
 ---
 
 ## 5. Related Concepts & Entities
 
 - **Concepts**:
+  - [[The Epistemology of Evasion and AI Legal Strategy|The Epistemology of Evasion & AI Legal Strategy]]
   - [[Millenarianism and Secular Eschatology|Millenarianism & Secular Eschatology]]
   - [[The Extropian-to-Longtermist Lineage and Frontier AI|The Extropian-to-Longtermist Lineage & Frontier AI]]
   - [[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]
@@ -210,7 +228,8 @@ As documented by [[Adam Becker]] (*More Everything Forever*) and [[Cal Newport]]
 
 - **Archived Primary Formulation**:
   - [[2026-09-20-the-sincerity-trap-and-the-sanctified-bottom-line|The Sincerity Trap: When Dogma Justifies the Shield (Act I: The Supply Side)]] (Chad Woodford / LLM Wiki Ingestion, September 20, 2026).
-  - [[2026-09-23-millenarianism-and-utopianism.md|Millenarianism, Utopianism, and the Myth of Progress]] (Analysis of secular eschatology, infinite stakes, and the midwife archetype).
+  - [[2026-09-28-the-epistemology-of-evasion|The Epistemology of Evasion: The Emergent Superintelligence Myth in Tort, Antitrust, and Regulatory Strategy]] (September 28, 2026).
+  - [[2026-09-23-millenarianism-and-utopianism|Millenarianism, Utopianism, and the Myth of Progress]] (Analysis of secular eschatology, infinite stakes, and the midwife archetype).
 - **Core Critical References**:
   - Cohn, N. (1957). *The Pursuit of the Millennium: Revolutionary Millenarians and Mystical Anarchists of the Middle Ages*, Secker & Warburg.
   - Gray, J. (2007). *Black Mass: Apocalyptic Religion and the Death of Utopia*, Farrar, Straus and Giroux.

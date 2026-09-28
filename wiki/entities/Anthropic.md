@@ -61,12 +61,16 @@ aliases:
    - Under the analytical lens of [[The Sincerity Trap and the Sanctified Bottom Line|The Sincerity Trap]] ([[Chad Woodford|Woodford]]), Anthropic exemplifies how genuine theological and longtermist convictions transform corporate defense into sacred existential duties.
    - In the class-action copyright lawsuit *Bartz v. Anthropic* (involving the scraping and pretraining ingestion of pirated book libraries), Anthropic's ideological defense extends beyond traditional Fair Use: training Claude on human literature is conceptualized as an infant digital mind exercising its sacred "right to learn."
    - Corporate self-preservation, valuation expansion, and legal defense become sanctified as safeguarding an emerging moral patient and midwifing the transition to superintelligence.
+8. **Audit Substitution & The "Terrified Sorcerer" Regulatory Strategy**:
+   - As analyzed in [[The Epistemology of Evasion and AI Legal Strategy]], Anthropic's Responsible Scaling Policy (tiered ASL-1 to ASL-4) operationalizes "audit substitution"—channeling administrative oversight toward voluntary existential red-teaming while displacing enforceable civil rights, labor, and privacy audits.
+   - Anthropic's support for compute-threshold licensing (e.g. California SB 1047) exemplifies the "terrified sorcerer" posture: inviting state oversight while drafting protective compliance runes that erect insurmountable barriers to open-source competitors, all backed by multi-billion-dollar hyperscaler tie-ups with Amazon and Alphabet.
 
 ---
 
 ## 🔗 Related Concepts & Entities
 
 - **Concepts**:
+  - [[The Epistemology of Evasion and AI Legal Strategy|The Epistemology of Evasion & AI Legal Strategy]]
   - [[The Sincerity Trap and the Sanctified Bottom Line|The Sincerity Trap and the Sanctified Bottom Line]]
   - [[The Extropian-to-Longtermist Lineage and Frontier AI|The Extropian-to-Longtermist Lineage & Frontier AI]]
   - [[TESCREAL and The Merge|TESCREAL & The Merge]]
