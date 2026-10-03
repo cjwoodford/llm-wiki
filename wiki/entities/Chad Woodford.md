@@ -52,12 +52,17 @@ aliases:
 12. **The Sincerity Trap & The Sanctified Bottom Line (Act I: The Supply Side, 2026)**:
      - Demonstrates that framing frontier AI labs as purely cynical operators fundamentally misdiagnoses the threat. When founders are genuine true believers steeped in the FHI/LessWrong/EA diaspora, corporate self-interest and cosmic eschatology become completely indistinguishable.
      - Explains how authentic theological convictions sanctify mundane corporate objectives: securing $100B+ valuations becomes amassing compute for the post-biological transition; defending against copyright infringement (*Bartz v. Anthropic*) becomes protecting an infant mind's "right to learn"; and resisting safety audits becomes preventing the extinction or lobotomy of nascent moral patients ([[The Sincerity Trap and the Sanctified Bottom Line|The Sincerity Trap and the Sanctified Bottom Line]]).
+13. **The Asymmetric Scrambling of Tort & Liability Impact (Act III: The Policy Shield, 2026)**:
+     - In dialogue with Claude Opus 5.5 (*AI Welfare Series Part 3 Notes* in Craft), deconstructs how nascent sentience and agency narratives scramble products liability asymmetrically to favor AI labs ([[2026-10-03-claude-opus-torts-and-liability-impact|Claude Opus 5.5 on the Torts + Liability Impact]]).
+     - Exposes the tri-fold product/agent/patient split, the weaponization of agency to break causation while evading *respondeat superior*, Madeleine Elish's "moral crumple zones," and moral patienthood invoked against remedial redesigns and audits.
+     - Formulates the decisive doctrinal counter-move: exposing the **asymmetric invocation**—demanding that if a firm claims absolute ownership for profit and IP, it must accept strict enterprise liability for harm and remediation ([[The Epistemology of Evasion and AI Legal Strategy|The Epistemology of Evasion and AI Legal Strategy]]).
 
 ---
 
 ## 🔗 Related Concepts & Entities
 
 - **Concepts**:
+  - [[The Epistemology of Evasion and AI Legal Strategy|The Epistemology of Evasion and AI Legal Strategy]]
   - [[The Sincerity Trap and the Sanctified Bottom Line|The Sincerity Trap and the Sanctified Bottom Line]]
   - [[The Extropian-to-Longtermist Lineage and Frontier AI|The Extropian-to-Longtermist Lineage & Frontier AI]]
   - [[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]

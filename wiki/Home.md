@@ -25,9 +25,20 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 | **Thematic Concepts** | 56 | 🟢 Fully Linked (5-Part Standard Schema) |
 | **Key Entities** | 136 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
-| **Archived Primary Sources** | 176 | 🟢 Full YAML Provenance (`sources/archive/`) |
+| **Archived Primary Sources** | 177 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
 | **Web Clippings Queue** | 0 | 🟢 Clear (`Clippings/`) |
+
+---
+
+## 🔄 Recent Activity (2026-10-03)
+
+- **Craft Ingestion & Synthesis: Claude Opus 5.5 on the Torts + Liability Impact (AI Welfare Series Part 3 Notes)**:
+  - **Archived Primary Source**:
+    - `sources/archive/2026-10-03-claude-opus-torts-and-liability-impact.md` (*Claude Opus 5.5 on the Torts + Liability Impact: The Asymmetric Scrambling of Products Liability, Agency, and Moral Patienthood*, October 3, 2026).
+  - **Concept & Dossier Expansions**:
+    - [[The Epistemology of Evasion and AI Legal Strategy]]: Deepened Section 2.I with the Product/Agent/Patient tri-fold split; agency talk as a liability shield and the *respondeat superior* trap; Madeleine Elish's "moral crumple zones"; moral patienthood as an immunity against redesigns/recalls (*Character.ai*); SaaS product liability precedents (*Aetna v. Jeppesen*, *Lemmon v. Snap*, *In re Social Media Adolescent Addiction*); the metaphysics-free basis for strict liability (Calabresi's cheapest-cost-avoider principle, enterprise liability, loss-spreading); and the fourth fatal contradiction: *The Asymmetric Invocation Contradiction*.
+    - [[Chad Woodford]]: Added Key Contribution #13 detailing the asymmetric scrambling of tort and liability impact in the AI Welfare series.
 
 ---
 
