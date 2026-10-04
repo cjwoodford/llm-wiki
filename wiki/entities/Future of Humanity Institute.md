@@ -46,6 +46,13 @@ In April 2024, the University of Oxford officially closed the Future of Humanity
 
 In *More Everything Forever* (2025) and on *Better Offline* (September 2026), science historian [[Adam Becker]] and author [[Cal Newport]] analyzed FHI's historical role as the academic respectability machine that laundered fringe 1990s Extropian transhumanism and science-fiction apocalypticism into mainstream academic philosophy, venture capital boardrooms, and federal policy circles.
 
+### Institutional Disambiguation: FHI vs. FLI vs. FLF
+FHI is frequently confused with two related organizations:
+- **[[Future of Humanity Institute|Future of Humanity Institute (FHI)]]**: Nick Bostrom's former Oxford academic research center (2005–2024; closed).
+- **[[Future of Life Institute|Future of Life Institute (FLI)]]**: The US-based advocacy, policy, and grantmaking NGO (founded 2014 by [[Max Tegmark]], Anthony Aguirre, and [[Jaan Tallinn]]).
+- **[[Future of Life Foundation|Future of Life Foundation (FLF)]]**: The California-based incubator and applied venture studio (founded 2022 by Anthony Aguirre, often colloquially called *"Future for Life Foundation"*).
+*(For a complete side-by-side breakdown, see [[Future of Life Foundation#🔍 The Disambiguation Matrix: FHI vs. FLI vs. FLF|The Disambiguation Matrix]])*.
+
 ---
 
 ## 🔗 Related Concepts & Entities
@@ -66,6 +73,7 @@ In *More Everything Forever* (2025) and on *Better Offline* (September 2026), sc
   - [[Eliezer Yudkowsky|Eliezer Yudkowsky]]
   - [[Machine Intelligence Research Institute|Machine Intelligence Research Institute (MIRI)]]
   - [[Future of Life Institute|Future of Life Institute (FLI)]]
+  - [[Future of Life Foundation|Future of Life Foundation (FLF)]]
   - [[LessWrong|LessWrong]]
   - [[Shane Legg|Shane Legg]]
   - [[Peter Thiel|Peter Thiel]]

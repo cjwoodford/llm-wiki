@@ -23,7 +23,7 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 | Metric | Count | Status |
 | :--- | :--- | :--- |
 | **Thematic Concepts** | 56 | 🟢 Fully Linked (5-Part Standard Schema) |
-| **Key Entities** | 140 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
+| **Key Entities** | 141 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
 | **Archived Primary Sources** | 177 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
@@ -32,6 +32,16 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 ---
 
 ## 🔄 Recent Activity (2026-10-04)
+
+- **New Entity Dossier & Ecosystem Disambiguation: Future of Life Foundation (FLF)**:
+  - **New Entity Dossier Created**:
+    - [[Future of Life Foundation]]: Institutional dossier and venture studio profile:
+      - *Identity & Legal Status*: 501(c)(3) nonprofit incubator founded in 2022 in California, led by President Anthony Aguirre (co-founder and Executive Director of FLI).
+      - *Master Disambiguation Matrix (FHI vs. FLI vs. FLF)*: Resolves frequent conflation between Oxford's theoretical academic institute ([[Future of Humanity Institute|FHI]], 2005–2024), Boston's public advocacy and grantmaking NGO ([[Future of Life Institute|FLI]], 2014–Present), and California's applied startup/tooling incubator ([[Future of Life Foundation|FLF]], 2022–Present, often mistakenly cited as *"Future for Life Foundation"*).
+      - *Core Programs*: The Epistemic Stack (verifiable truth supply chains), Epistemic Virtue Evaluations (benchmarking frontier models against sycophancy and cognitive manipulation), AI-facilitated collective coordination, and The Windfall Trust.
+  - **Cross-Vault Institutional Updates**:
+    - [[Future of Life Institute]]: Added institutional disambiguation section and reciprocal cross-links to sister incubator FLF.
+    - [[Future of Humanity Institute]]: Added institutional disambiguation callout distinguishing FHI from FLI and FLF.
 
 - **New Master Dossier & Lineage Synthesis: Future of Life Institute (FLI)**:
   - **New Master Dossier Created**:
@@ -592,6 +602,7 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[LessWrong|LessWrong]]** — Discussion platform and community founded by Yudkowsky (2009), incubator of Bayesian rationality and early frontier lab safety culture.
 - **[[Machine Intelligence Research Institute|Machine Intelligence Research Institute (MIRI)]]** — First AI alignment research organization (founded as SIAI in 2000), organizer of Singularity Summits (2006–2012), mathematical agent foundations, embedded agency, and deceptive alignment.
 - **[[Future of Life Institute|Future of Life Institute (FLI)]]** — AI governance, grantmaking, and existential risk NGO; organizer of 2017 Asilomar AI Principles and 2023 "Pause Giant AI Experiments" Open Letter.
+- **[[Future of Life Foundation|Future of Life Foundation (FLF)]]** — 501(c)(3) organizational incubator and venture studio (founded 2022 by Anthony Aguirre); builds applied epistemic infrastructure, model truthfulness evaluations, and human coordination tooling (disambiguated from FLI and FHI; often misnamed *"Future for Life Foundation"*).
 - **[[Better Offline|Better Offline]]** — Investigative tech podcast hosted by Ed Zitron; landmark 2026 episode with Becker & Newport dissecting Extropian roots and doom trolling.
 - **[[METR|METR]]** — Model Evaluation and Threat Research; frontier dangerous capability evaluations and agent breakout investigations.
 - **[[Redwood Research|Redwood Research]]** — AI alignment, control mechanisms, and adversarial safety research.

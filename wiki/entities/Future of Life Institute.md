@@ -236,6 +236,13 @@ In *More Everything Forever* (2025) and on *Better Offline* (September 2026), sc
 - **The Respectability Machine**: While MIRI represented the insular, intense rationalist fringe and FHI represented Oxford academic abstraction, FLI functioned as the high-gloss **institutional PR and mobilization arm** of the movement.
 - **The "Sincerity Trap" Paradox**: Becker and Newport highlight how FLI's high-decibel campaigns paradoxically benefited the very frontier labs they sought to restrain. By framing frontier models as potentially omnipotent entities capable of wiping out humanity, FLI inadvertently validated the marketing hype of [[OpenAI]], [[Anthropic]], and [[Google DeepMind]]. Investors poured hundreds of billions into frontier labs partly because FLI’s warnings convinced capital markets that these systems were on the verge of godlike general capabilities ([[The Sincerity Trap and the Sanctified Bottom Line|The Sincerity Trap]]).
 
+### Institutional Distinctions: FLI vs. FLF vs. FHI
+The AI safety and governance landscape contains three distinct organizations with overlapping names, leadership, and philosophical roots:
+- **[[Future of Life Institute|Future of Life Institute (FLI)]]**: The primary 501(c)(3) advocacy, policy, and grantmaking NGO (Boston/Cambridge, MA), founded in 2014 by [[Max Tegmark]], Anthony Aguirre, and [[Jaan Tallinn]].
+- **[[Future of Life Foundation|Future of Life Foundation (FLF)]]**: The affiliated 501(c)(3) organizational incubator and applied venture studio (California), established in 2022 by Anthony Aguirre to build operational tooling (the "Epistemic Stack", model eval suites) and launch 3–5 dedicated entities annually. *(Commonly misnamed as "Future for Life Foundation")*.
+- **[[Future of Humanity Institute|Future of Humanity Institute (FHI)]]**: [[Nick Bostrom]]'s former academic research institute at Oxford University (2005–2024), which formulated foundational existential risk and longtermist theory.
+*(See the comprehensive [[Future of Life Foundation#🔍 The Disambiguation Matrix: FHI vs. FLI vs. FLF|Disambiguation Matrix]] for detailed side-by-side criteria).*
+
 ---
 
 ## 🔗 Related Concepts & Entities
@@ -250,9 +257,10 @@ In *More Everything Forever* (2025) and on *Better Offline* (September 2026), sc
   - [[Techno-Utopianism|Techno-Utopianism & Prometheanism]]
   - [[Techgnosticism|Techgnosticism & Transhumanism]]
 - **Entities**:
+  - [[Future of Life Foundation|Future of Life Foundation (FLF)]]
+  - [[Future of Humanity Institute|Future of Humanity Institute (FHI)]]
   - [[Max Tegmark|Max Tegmark]]
   - [[Jaan Tallinn|Jaan Tallinn]]
-  - [[Future of Humanity Institute|Future of Humanity Institute (FHI)]]
   - [[Machine Intelligence Research Institute|Machine Intelligence Research Institute (MIRI)]]
   - [[Eliezer Yudkowsky|Eliezer Yudkowsky]]
   - [[Nick Bostrom|Nick Bostrom]]
