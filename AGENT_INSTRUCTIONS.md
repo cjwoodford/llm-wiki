@@ -34,3 +34,6 @@ llm-wiki/
    - Move all processed files from `sources/unread/` or `Clippings/` to `sources/archive/` with standardized `YYYY-MM-DD-slug.md` (or `.pdf`) naming.
 4. **Dashboard & Graph Updates**:
    - Refresh `wiki/Home.md` metrics, activity log, and topic maps.
+5. **Publishing to Quartz**:
+   - Sync `wiki/Home.md` to `content/index.md` (`cp wiki/Home.md content/index.md`).
+   - Run `./publish.sh "<commit message>"` (or `git add`, `git commit`, and `git push origin main`) to trigger the automated GitHub Actions deployment to GitHub Pages.
