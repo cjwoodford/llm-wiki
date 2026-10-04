@@ -31,6 +31,21 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 
 ---
 
+## 🔄 Recent Activity (2026-10-04)
+
+- **Comprehensive Master Dossier Expansion: Machine Intelligence Research Institute (MIRI)**:
+  - **Dossier Deepening**:
+    - [[Machine Intelligence Research Institute]]: Transformed into an exhaustive master dossier spanning:
+      - *Institutional Genealogy*: 2000 SIAI founding by [[Eliezer Yudkowsky]], Brian Atkins, and Sabine Atkins; hosting of the Singularity Summits (2006–2012); [[Peter Thiel]]'s catalytic seed financing ($100K in 2006 scaling to multi-millions); introducing Hassabis and Legg to Thiel at the 2010 Summit (birthing [[Google DeepMind]]); CFAR spinout; LessWrong cultural incubation.
+      - *Agent Foundations Research Program*: Mathematical alignment under embedded agency (Demski & Garrabrant, 2019), logical induction (Garrabrant et al., 2016), Functional Decision Theory (Yudkowsky & Soares, 2017), corrigibility and the off-switch problem (Soares et al., 2015), safe self-modification / tiling agents, and learned optimization / deceptive alignment (Hubinger et al., 2019).
+      - *The Methodological Schism*: MIRI's deductive mathematical purism vs. empirical deep learning scaling; critique of RLHF ("putting makeup on a shoggoth"); the one-shot failure rule; and alumni diaspora into [[Anthropic]] (Hubinger), [[OpenAI]] (Brockman, Christiano), and ARC.
+      - *Late MIRI & Fatalistic AI Realism*: Yudkowsky's 2022 "Death with Dignity" strategy, $p(\text{doom}) \approx 99\%$, and the 2023 *Time* "Shut It Down" op-ed.
+      - *Critical Analysis & Political Economy*: Historical analysis by [[Adam Becker]] and [[Cal Newport]] (*Better Offline*) tracing MIRI as the ideological transmission belt from Extropianism to frontier monopoly compute claims ([[The Sincerity Trap and the Sanctified Bottom Line|The Sincerity Trap]]).
+  - **Cross-Vault Concept Deepening**:
+    - [[AI Alignment and the Control Problem]]: Formalized **Agent Foundations & Mathematical Logic (MIRI)** as a primary technical alignment paradigm in Section 2 table and text, detailing the epistemological schism between deductive proofs and empirical deep learning, and enriched Section 5/6 with MIRI entities and foundational papers.
+
+---
+
 ## 🔄 Recent Activity (2026-10-03)
 
 - **Craft Ingestion & Synthesis: Claude Opus 5.5 on the Torts + Liability Impact (AI Welfare Series Part 3 Notes)**:
@@ -557,7 +572,7 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[Evan Hubinger|Evan Hubinger]]** — Lead of Alignment Science at Anthropic, formulator of mesa-optimization, deceptive alignment, *Sleeper Agents*, and high-$p(\text{doom})$ warnings.
 - **[[Jacob Coxon|Jacob Coxon]]** — Former OpenAI and Anthropic pretraining researcher, whistleblower in the 2026 AI Safety Vibe Shift.
 - **[[LessWrong|LessWrong]]** — Discussion platform and community founded by Yudkowsky (2009), incubator of Bayesian rationality and early frontier lab safety culture.
-- **[[Machine Intelligence Research Institute|Machine Intelligence Research Institute (MIRI)]]** — First AI alignment research organization (founded as SIAI in 2000), organizer of Singularity Summits (2006–2012).
+- **[[Machine Intelligence Research Institute|Machine Intelligence Research Institute (MIRI)]]** — First AI alignment research organization (founded as SIAI in 2000), organizer of Singularity Summits (2006–2012), mathematical agent foundations, embedded agency, and deceptive alignment.
 - **[[Better Offline|Better Offline]]** — Investigative tech podcast hosted by Ed Zitron; landmark 2026 episode with Becker & Newport dissecting Extropian roots and doom trolling.
 - **[[METR|METR]]** — Model Evaluation and Threat Research; frontier dangerous capability evaluations and agent breakout investigations.
 - **[[Redwood Research|Redwood Research]]** — AI alignment, control mechanisms, and adversarial safety research.

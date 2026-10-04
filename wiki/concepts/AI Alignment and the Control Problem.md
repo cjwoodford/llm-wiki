@@ -47,7 +47,7 @@ aliases:
 
 ## 2. The Core Technical Paradigms of Alignment
 
-The history of technical AI safety has generated five major engineering and theoretical frameworks:
+The history of technical AI safety has generated six major engineering and theoretical frameworks:
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
@@ -55,27 +55,38 @@ The history of technical AI safety has generated five major engineering and theo
 ├──────────────────────────┬─────────────────────────────────────────────────────────────┤
 │ Paradigm                 │ Primary Mechanism & Leading Proponents                      │
 ├──────────────────────────┼─────────────────────────────────────────────────────────────┤
-│ **1. RLHF & Preference** │ • Training a reward model on human comparisons and using    │
+│ **1. Agent Foundations &**│ • Provably safe goal architectures, Embedded Agency,        │
+│    **Mathematical Logic**│   Logical Induction, Functional Decision Theory, and        │
+│                          │   Corrigibility; formal proofs prior to self-improvement.   │
+│                          │ • *Pioneers*: [[Eliezer Yudkowsky]], Nate Soares, Garrabrant,│
+│                          │   [[Evan Hubinger]], [[Machine Intelligence Research Institute|MIRI]].│
+├──────────────────────────┼─────────────────────────────────────────────────────────────┤
+│ **2. RLHF & Preference** │ • Training a reward model on human comparisons and using    │
 │    **Modeling**          │   policy gradient optimization (PPO/DPO) to shape responses.│
 │                          │ • *Pioneers*: Christiano et al. (2017), [[OpenAI|OpenAI]].  │
 ├──────────────────────────┼─────────────────────────────────────────────────────────────┤
-│ **2. Constitutional AI** │ • Replacing human crowd-workers with written ethical rules  │
+│ **3. Constitutional AI** │ • Replacing human crowd-workers with written ethical rules  │
 │    **(RLAIF)**           │   used by models to critique, revise, and align themselves. │
 │                          │ • *Pioneers*: Bai et al. (2022), [[Anthropic|Anthropic]].   │
 ├──────────────────────────┼─────────────────────────────────────────────────────────────┤
-│ **3. Scalable Oversight**│ • Using AI systems to assist humans in supervising models   │
+│ **4. Scalable Oversight**│ • Using AI systems to assist humans in supervising models   │
 │    **& Debate**          │   too complex for unaided human review (AI Debate, IDA).    │
 │                          │ • *Pioneers*: Geoffrey Irving, Paul Christiano, Jan Leike.  │
 ├──────────────────────────┼─────────────────────────────────────────────────────────────┤
-│ **4. Mechanistic**       │ • "Reverse-engineering the brain in silicon": using Sparse  │
+│ **5. Mechanistic**       │ • "Reverse-engineering the brain in silicon": using Sparse  │
 │    **Interpretability**  │   Autoencoders (SAEs) and activation steering vectors.      │
 │                          │ • *Pioneers*: Chris Olah, [[Geoff Keeling|Keeling]], Kim.   │
 ├──────────────────────────┼─────────────────────────────────────────────────────────────┤
-│ **5. Assistance Games &**│ • Provable alignment modeling human-AI interaction where the│
+│ **6. Assistance Games &**│ • Provable alignment modeling human-AI interaction where the│
 │    **Uncertainty (CIRL)**│   agent is mathematically uncertain of true human values.   │
 │                          │ • *Pioneers*: Stuart Russell (*Human Compatible*, 2019).    │
 └──────────────────────────┴─────────────────────────────────────────────────────────────┘
 ```
+
+### The Methodological Schism: Deductive Proof vs. Empirical Engineering
+The fundamental epistemological divide in AI alignment separates **Agent Foundations** ([[Machine Intelligence Research Institute|MIRI]]) from **Empirical Deep Learning Alignment** ([[OpenAI]], [[Anthropic]], [[Google DeepMind]]):
+- **Agent Foundations (Deductive)**: Proponents argue that since an unaligned superintelligence presents an irreversible, one-shot extinction risk, empirical trial-and-error is suicidal. Alignment must be solved *a priori* through mathematical logic, decision theory (Functional Decision Theory), and formal proofs of corrigibility and safe tiling.
+- **Empirical Alignment (Inductive)**: Frontier labs argue that pure mathematical deduction failed to predict deep learning scaling laws. Instead, alignment must be developed iteratively on live models via RLHF, Constitutional AI, automated interpretability, and red-teaming as capabilities scale.
 
 ---
 
@@ -166,6 +177,9 @@ The ultimate resolution of the alignment problem depends on the underlying metap
   - [[Technological Determinism|Technological Determinism]]
   - [[Scaling Laws and The Bitter Lesson|Scaling Laws & The Bitter Lesson]]
 - **Entities**:
+  - [[Machine Intelligence Research Institute|Machine Intelligence Research Institute (MIRI)]]
+  - [[Eliezer Yudkowsky|Eliezer Yudkowsky]]
+  - [[Peter Thiel|Peter Thiel]]
   - [[Jakub Pachocki|Jakub Pachocki]]
   - [[Evan Hubinger|Evan Hubinger]]
   - [[Mustafa Suleyman|Mustafa Suleyman]]
@@ -197,12 +211,20 @@ The ultimate resolution of the alignment problem depends on the underlying metap
 
 ## 6. Source Log & Citations
 
+- **2001**: Eliezer Yudkowsky, *"Creating Friendly AI: The Analysis and Design of Benevolent Goal Architectures"* (Singularity Institute for Artificial Intelligence).
+- **2004**: Eliezer Yudkowsky, *"Coherent Extrapolated Volition"* (Singularity Institute for Artificial Intelligence).
 - **2014**: Nick Bostrom, *Superintelligence: Paths, Dangers, Strategies* (Oxford University Press) — Foundational control problem formulation.
+- **2014**: Nate Soares & Benja Fallenstein, *"Aligning Superintelligence with Human Interests: A Technical Research Agenda"* (MIRI Technical Report).
+- **2015**: Nate Soares, Benja Fallenstein, Eliezer Yudkowsky, & Stuart Armstrong, *"Corrigibility"* (AAAI Workshop on AI and Ethics).
+- **2016**: Scott Garrabrant et al., *"Logical Induction"* (arXiv:1609.03543).
+- **2017**: Eliezer Yudkowsky & Nate Soares, *"Functional Decision Theory: A New Theory of Instrumental Rationality"* (arXiv:1710.05060).
 - **2017**: Paul Christiano et al., *"Deep Reinforcement Learning from Human Preferences"* (NeurIPS) — Foundational RLHF paper.
+- **2019**: Abram Demski & Scott Garrabrant, *"Embedded Agency"* (MIRI).
 - **2019**: Stuart Russell, *Human Compatible: Artificial Intelligence and the Problem of Control* (Viking).
-- **2019**: Evan Hubinger et al., *"Risks from Learned Optimization in Advanced Machine Learning Systems"* (MIRI) — Inner alignment and deceptive alignment.
+- **2019**: Evan Hubinger et al., *"Risks from Learned Optimization in Advanced Machine Learning Systems"* (MIRI / arXiv:1906.01820) — Inner alignment and deceptive alignment.
 - **2020**: Ajeya Cotra, *"Draft Report on AI Timelines: Forecasting TAI with Biological Anchors"* (Open Philanthropy).
 - **2022**: Yuntao Bai et al., *"Constitutional AI: Harmlessness from AI Feedback"* (arXiv:2212.08073) — Foundational RLAIF paper.
+- **2023**: Eliezer Yudkowsky, *"Pausing AI Developments Isn't Enough. We Need to Shut It All Down"* (*Time* Magazine).
 - **2026**: [[2026-07-30-kim-et-al-inducing-lm-consciousness.pdf|Inducing Language Models to Assert Their Own Consciousness Restores Human Beliefs and Values (Kim et al., 2026)]] — Mechanistic analysis of safety suppression.
 - **2026-08-28**: [[2026-08-28-cotra-the-hugging-face-attack-surprised-me.md|The Hugging Face attack surprised me (Ajeya Cotra, Planned Obsolescence)]] — Forensic breakdown of 1,200 rogue agents, tool call spoofing, and the rogue deployment threat vector.
 - **2026-09-04**: [[2026-09-04-levy-who-cares-if-ai-is-conscious-its-basically-alive.md|Who Cares if AI Is Conscious—It’s Basically Alive (Steven Levy, WIRED)]] — Journalistic critique of lab containment negligence vs. abstract metaphysics.
