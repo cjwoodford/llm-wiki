@@ -60,6 +60,7 @@ Rather than emerging from classical academic computer science or standard corpor
 │   2010–2015: THE FRONTIER LAB CRUCIBLE (DEEPMIND & OPENAI)                             │
 │   • 2010: SIAI Summit connects [[Demis Hassabis]] & [[Shane Legg]] to Thiel (£1.5M).   │
 │   • 2014: Google acquires DeepMind; Bostrom publishes *Superintelligence*.             │
+│   • 2014–2017: [[Future of Life Institute|FLI]] founded; Puerto Rico & [[Future of Life Institute|Asilomar AI Principles]].│
 │   • 2015: [[OpenAI]] founded by Musk, Thiel & [[Sam Altman]] as non-profit EA bastion. │
 │                           │                                                            │
 │                           ▼                                                            │
@@ -116,22 +117,28 @@ Rather than emerging from classical academic computer science or standard corpor
 - In January 2014, **Google acquired DeepMind for £400 million**. 
 - The acquisition triggered intense anxiety among Silicon Valley futurists: **Elon Musk** and **[[Sam Altman]]** concluded that a single, profit-driven corporate advertising monopoly (Google under Larry Page) could not be trusted to unilaterally hold the "digital godhead."
 
-### 8. OpenAI Founded as an EA/Rationalist Counterweight (2015)
+### 8. Institutional Mobilization: Future of Life Institute & Asilomar Principles (2014–2017)
+- In March 2014, MIT cosmologist [[Max Tegmark]], [[Jaan Tallinn]], Anthony Aguirre, and Viktoriya Krakovna founded the **[[Future of Life Institute]] (FLI)** in Cambridge, Massachusetts, designed as an outward-facing advocacy and grantmaking NGO bridging academia, tech billionaires, and public diplomacy.
+- In January 2015, FLI convened the Puerto Rico Conference on Beneficial AI, releasing an open letter signed by Stephen Hawking, Stuart Russell, and Demis Hassabis, supported by a **$10 million grant from Elon Musk** to establish the world's first open AI safety grant program.
+- In January 2017, FLI organized the landmark Beneficial AI conference in Asilomar, California, producing the **23 Asilomar AI Principles** (signed by over 1,200 researchers and endorsed by the California legislature), formalizing early global benchmarks for value alignment, shared prosperity, and long-term capability control.
+
+### 9. OpenAI Founded as an EA/Rationalist Counterweight (2015)
 - In December 2015, OpenAI was unveiled as a **$1 billion non-profit research institution** explicitly designed to counter Google's monopoly by building safe, open AGI for the benefit of all humanity.
 - It was funded by Elon Musk, [[Peter Thiel]], Reid Hoffman, and Y Combinator, with [[Sam Altman]] and Greg Brockman taking operational leadership.
 - Brockman and many of the founding technical staff were deeply immersed in LessWrong and MIRI literature. OpenAI’s founding charter directly incorporated FHI/SIAI alignment terminology, viewing its researchers as moral custodians safeguarding humanity’s perilous passage to superintelligence.
 
-### 9. The Anthropic Schism & FTX Longtermist Capital (2021)
+### 10. The Anthropic Schism & FTX Longtermist Capital (2021)
 - In late 2020, OpenAI VP of Research **[[Dario Amodei]]**, Daniela Amodei, and senior safety researchers grew alarmed by OpenAI's increasing commercialization (the 2019 "capped-profit" restructuring and multi-billion-dollar Microsoft partnership) and rapid capability scaling.
 - In early 2021, they broke away to found **[[Anthropic]]** as a Public Benefit Corporation (PBC), framing it as an alignment-first frontier lab dedicated to "Constitutional AI."
 - **The FTX Capital Pipeline**: Anthropic’s $580 million Series B funding round was overwhelmingly anchored by **Sam Bankman-Fried (SBF)** and Caroline Ellison—committed Effective Altruists who funneled over $500 million in customer funds into Anthropic, cementing the intimate structural knot between speculative crypto capital and longtermist AI governance.
 
-### 10. The OpenAI Board Coup: Ideology Clashes with Capital (November 2023)
+### 11. The 6-Month Pause Letter & The OpenAI Board Coup (2023)
+- In March 2023, following the release of GPT-4, the [[Future of Life Institute]] published its historic open letter calling for an immediate **6-month pause on giant AI experiments**, signed by Yoshua Bengio, Stuart Russell, and Elon Musk. The letter provoked global regulatory hearings while triggering [[Eliezer Yudkowsky|Eliezer Yudkowsky's]] "Shut It All Down" manifesto.
 - On November 17, 2023, the non-profit board of OpenAI—prominently featuring EA- and rationalist-aligned directors **Helen Toner** (Center for Security and Emerging Technology) and **Tasha McCauley** (RAND)—abruptly fired CEO [[Sam Altman]], citing a chronic breakdown in candor and reckless commercial acceleration.
 - The firing represented the purest historical clash between **pure Effective Altruist governance** (enforcing the non-profit charter to stop unsafe AGI) and **hyperscaler capital**.
 - Within five days, an overwhelming employee revolt backed by Microsoft CEO Satya Nadella forced Altman’s triumphant return, the dissolution of the original board, and the total subordination of rationalist oversight to commercial hyperscaler capital.
 
-### 11. The Counter-Backlash: "Doom Trolling" & Imperial Distraction (2025–2026)
+### 12. The Counter-Backlash: "Doom Trolling" & Imperial Distraction (2025–2026)
 - In 2025, astrophysicist and science historian **[[Adam Becker]]** published ***More Everything Forever: How Radical Futurism Stole Our Present and Sold Us a Lie***, systematically documenting how 19th-century eugenics and 1990s Extropianism were sanitized into the academic philosophies of Longtermism and Rationalism.
 - In September 2026, on the investigative podcast *Better Offline*, Becker and computer science professor **[[Cal Newport]]** dissected the political economy of **"Doom Trolling"**:
   - Apocalyptic narratives of existential machine doom ($p(\text{doom}) > 10\%$) function as a psychological defense mechanism for true believers whose cosmic prophesies failed to materialize.
@@ -219,6 +226,8 @@ As formulated by [[Chad Woodford|Chad Woodford]] in [[The Sincerity Trap and the
   - [[LessWrong|LessWrong]]
   - [[Machine Intelligence Research Institute|MIRI / SIAI]]
   - [[Future of Humanity Institute|Future of Humanity Institute (FHI)]]
+  - [[Future of Life Institute|Future of Life Institute (FLI)]]
+  - [[Max Tegmark|Max Tegmark]]
   - [[OpenAI|OpenAI]]
   - [[Anthropic|Anthropic]]
   - [[Sam Altman|Sam Altman]]
@@ -235,8 +244,11 @@ As formulated by [[Chad Woodford|Chad Woodford]] in [[The Sincerity Trap and the
 - **2003**: Nick Bostrom, *"Astronomical Waste: The Opportunity Cost of Delayed Technological Development"* (*Utilitas*, 15(3): 308–314).
 - **2010–2015**: Eliezer Yudkowsky, *Harry Potter and the Methods of Rationality* (serialized online).
 - **2014**: Nick Bostrom, *Superintelligence: Paths, Dangers, Strategies*, Oxford University Press.
+- **2017**: Future of Life Institute, *"Asilomar AI Principles"*, Beneficial AI 2017 Conference.
+- **2017**: Max Tegmark, *Life 3.0: Being Human in the Age of Artificial Intelligence*, Alfred A. Knopf.
 - **2020**: Toby Ord, *The Precipice: Existential Risk and the Future of Humanity*, Hachette.
 - **2022**: William MacAskill, *What We Owe the Future*, Basic Books.
+- **2023-03-22**: Future of Life Institute, *"Pause Giant AI Experiments: An Open Letter"*.
 - **2025**: Adam Becker, *More Everything Forever: How Radical Futurism Stole Our Present and Sold Us a Lie*, Basic Books.
 - **2026-09-18**: *Better Offline: 'From Extropians to Frontier AI'* ([[Adam Becker]] & [[Cal Newport]]) — Traces the historical mutations of the Extropian subculture, MIRI, LessWrong, and the political economy of AI "doom trolling."
 - **2026-09-20**: [[2026-09-20-the-sincerity-trap-and-the-sanctified-bottom-line|The Sincerity Trap: When Dogma Justifies the Shield (Act I: The Supply Side)]] (Chad Woodford) — Analysis of the feedback loop between ideological zealotry and corporate monopoly strategy in frontier AI.

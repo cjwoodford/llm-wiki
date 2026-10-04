@@ -110,7 +110,7 @@ The sudden ascendancy of empirical deep learning—demonstrated by DeepMind’s 
 ### Phase 5: Late MIRI, "Death with Dignity", and Militant AI Realism (2022–2026)
 By 2022, MIRI’s leadership reached the conclusion that humanity's trajectory toward superintelligence was catastrophic and near-irreversible:
 - **"Death with Dignity" (April 2022)**: Yudkowsky published a widely read manifesto on LessWrong declaring that MIRI’s original mission had effectively failed. He argued that the empirical deep learning paradigm was moving orders of magnitude faster than foundational mathematical safety research, that empirical alignment techniques (RLHF, fine-tuning) were superficial behavioral masks, and that humanity was on track for total extinction ($p(\text{doom}) \ge 99\%$).
-- **The *Time* Magazine Op-Ed ("Shut It Down", March 2023)**: Following the release of GPT-4 and the Future of Life Institute's 6-Month Pause Letter, Yudkowsky authored a provocative op-ed in *Time* magazine (*"Pausing AI Developments Isn't Enough. We Need to Shut It All Down"*). Yudkowsky argued that a voluntary commercial pause was useless and called for an international treaty enforcing strict hardware caps, global monitoring of GPUs, and kinetic military airstrikes against unauthorized data centers operating outside treaty boundaries.
+- **The *Time* Magazine Op-Ed ("Shut It Down", March 2023)**: Following the release of GPT-4 and the [[Future of Life Institute|Future of Life Institute's (FLI)]] 6-Month Pause Letter, Yudkowsky authored a provocative op-ed in *Time* magazine (*"Pausing AI Developments Isn't Enough. We Need to Shut It All Down"*). Yudkowsky argued that a voluntary commercial pause was useless and called for an international treaty enforcing strict hardware caps, global monitoring of GPUs, and kinetic military airstrikes against unauthorized data centers operating outside treaty boundaries.
 - **Institutional Retrenchment**: Between 2023 and 2026, MIRI scaled down its theoretical mathematical output, shifting its focus toward high-decibel alarmism, public warnings, policy pressure, and advising governmental inquiries examining extreme catastrophic risk.
 
 ---
@@ -299,6 +299,7 @@ Critics from both academic philosophy and investigative journalism (e.g., Timnit
   - [[Google DeepMind|Google DeepMind]]
   - [[Nick Bostrom|Nick Bostrom]]
   - [[Future of Humanity Institute|Future of Humanity Institute]]
+  - [[Future of Life Institute|Future of Life Institute]]
   - [[OpenAI|OpenAI]]
   - [[Anthropic|Anthropic]]
   - [[Adam Becker|Adam Becker]]

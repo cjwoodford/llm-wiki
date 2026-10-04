@@ -65,6 +65,8 @@ timeline
   - [[Toby Ord]] and [[William MacAskill]] establish Giving What We Can (2009) and the Centre for Effective Altruism (CEA) at Oxford, initially focusing on classical utilitarian poverty reduction. Bostrom and FHI convince them that if utilitarian calculus values all future generations equally, preventing the extinction of potential digital trillions ($10^{52}$ lives) outweighs any present-day human welfare. Longtermism becomes the dominant philosophical branch of EA ([[The Extropian-to-Longtermist Lineage and Frontier AI|The Extropian-to-Longtermist Lineage]]).
 - **2014**: **Bostrom's 'Superintelligence' and the Google Panic**:
   - Bostrom publishes *Superintelligence: Paths, Dangers, Strategies*, articulating the "orthogonality thesis" and "instrumental convergence" (popularized by the paperclip maximizer thought experiment). When Google acquires DeepMind in early 2014, Elon Musk and [[Sam Altman]] conclude that a single commercial tech monopoly cannot be trusted to unilaterally hold the "digital godhead."
+- **2014–2017**: **Future of Life Institute, Puerto Rico Summit & The Asilomar AI Principles**:
+  - In 2014, cosmologist [[Max Tegmark]], [[Jaan Tallinn]], Anthony Aguirre, and Viktoriya Krakovna found the [[Future of Life Institute]] (FLI). In January 2015, FLI convenes the Puerto Rico Conference on Beneficial AI, releasing an open letter signed by Stephen Hawking and Stuart Russell, backed by a $10M grant from Elon Musk. In 2017, FLI organizes the Asilomar conference, producing the **23 Asilomar AI Principles**, signed by over 1,200 researchers and establishing the early international benchmark for AI ethics, non-subversion, and long-term control.
 - **2015**: **OpenAI Founded as an EA/Rationalist Counterweight**:
   - Funded by Musk, [[Peter Thiel]], and Reid Hoffman, [[OpenAI]] is created as a non-profit lab dedicated to building safe AGI. Early operational figures, such as Greg Brockman, were already immersed in LessWrong reading circles. The lab’s founding charter directly incorporates SIAI/FHI alignment terminology, casting the researchers as custodians of humanity’s transition to digital superintelligence.
 - **2021**: **The Anthropic Schism and FTX Longtermist Capital**:
@@ -80,6 +82,9 @@ timeline
 
 ### 2023: Multimodality & The Call for Philosophy
 - **Early 2023**: Launch of GPT-4 displaying broad emergent capabilities.
+- **March 2023**: **The 6-Month AI Pause Letter & The "Shut It Down" Debate**:
+  - On March 22, the [[Future of Life Institute]] publishes *"Pause Giant AI Experiments: An Open Letter"*, signed by Yoshua Bengio, Stuart Russell, Steve Wozniak, and Elon Musk, calling for an immediate 6-month moratorium on models beyond GPT-4.
+  - On March 29, [[Eliezer Yudkowsky]] publishes an op-ed in *Time* magazine (*"Pausing AI Developments Isn't Enough. We Need to Shut It All Down"*), rejecting the 6-month pause as inadequate theater and calling for an indefinite global compute ban backed by kinetic airstrikes on rogue data centers.
 - **June 2023**: In [[2023-06-10-why-ai-needs-more-philosophers.md|Why AI Needs More Philosophers]], [[Chad Woodford|Chad Woodford]] argues that understanding intelligence requires philosophy and cognitive science rather than brute-force engineering.
 - **November 2023**: **The OpenAI Board Coup: Ideology Clashes with Capital**:
   - The non-profit board of OpenAI (featuring EA/rationalist-aligned directors Helen Toner and Tasha McCauley) votes to fire CEO [[Sam Altman]], citing failures of candor and reckless commercial acceleration.

@@ -206,6 +206,7 @@ The ultimate resolution of the alignment problem depends on the underlying metap
   - [[Winnie Street|Winnie Street]]
   - [[Seth Lazar|Seth Lazar]]
   - [[Future of Humanity Institute|Future of Humanity Institute]]
+  - [[Future of Life Institute|Future of Life Institute (FLI)]]
 
 ---
 

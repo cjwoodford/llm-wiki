@@ -35,7 +35,7 @@ The **Future of Humanity Institute (FHI)** was a multidisciplinary research inst
    - Bostrom's astronomical calculation ($10^{52}$ future lives) provided the mathematical justification for EA philanthropic capital (Open Philanthropy, Centre for Effective Altruism) to divert massive funding away from bed nets and malaria treatments toward AI existential risk, talent pipelines, and alignment institutions.
 
 5. **Institutional Offshoots & Frontier Lab Influence**:
-   - FHI incubated much of the modern AI safety ecosystem, directly spawning or influencing the Centre for Effective Altruism (CEA), the Global Priorities Institute, the Centre for the Study of Existential Risk (Cambridge), and safety teams across frontier labs.
+   - FHI incubated much of the modern AI safety ecosystem, directly spawning or influencing the Centre for Effective Altruism (CEA), the Global Priorities Institute, the Centre for the Study of Existential Risk (Cambridge), closely collaborating with the US-based [[Future of Life Institute]] (FLI), and safety teams across frontier labs.
    - Researchers trained at or affiliated with FHI entered key alignment and governance roles at [[OpenAI]], [[Anthropic]], and [[Google DeepMind|Google DeepMind]] (notably DeepMind co-founder [[Shane Legg|Shane Legg]], whose doctoral thesis on formal definitions of machine intelligence deeply intersected with FHI's core work).
 
 ---
@@ -65,6 +65,7 @@ In *More Everything Forever* (2025) and on *Better Offline* (September 2026), sc
   - [[Toby Ord|Toby Ord]]
   - [[Eliezer Yudkowsky|Eliezer Yudkowsky]]
   - [[Machine Intelligence Research Institute|Machine Intelligence Research Institute (MIRI)]]
+  - [[Future of Life Institute|Future of Life Institute (FLI)]]
   - [[LessWrong|LessWrong]]
   - [[Shane Legg|Shane Legg]]
   - [[Peter Thiel|Peter Thiel]]

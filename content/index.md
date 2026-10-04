@@ -23,7 +23,7 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 | Metric | Count | Status |
 | :--- | :--- | :--- |
 | **Thematic Concepts** | 56 | 🟢 Fully Linked (5-Part Standard Schema) |
-| **Key Entities** | 136 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
+| **Key Entities** | 140 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
 | **Archived Primary Sources** | 177 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
@@ -32,6 +32,21 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 ---
 
 ## 🔄 Recent Activity (2026-10-04)
+
+- **New Master Dossier & Lineage Synthesis: Future of Life Institute (FLI)**:
+  - **New Master Dossier Created**:
+    - [[Future of Life Institute]]: Comprehensive institutional dossier spanning:
+      - *Origins & Architecture*: 2014 founding by [[Max Tegmark]], Meia Chita-Tegmark, [[Jaan Tallinn]], Anthony Aguirre, and Viktoriya Krakovna as an action-oriented advocacy and grantmaking NGO bridging academia, tech billionaires, and public diplomacy.
+      - *Signature Convenings & Principles*: 2015 Puerto Rico Conference on Beneficial AI ($10M Elon Musk AI safety grant program) and the 2017 Asilomar AI Principles (23 benchmarks adopted by California ACR 215 and international bodies).
+      - *Disarmament & Arms Control*: UN campaign to ban Lethal Autonomous Weapons Systems (LAWS) and the viral 2017 speculative film *Slaughterbots*.
+      - *The 2023 6-Month Pause Letter*: Authoring *"Pause Giant AI Experiments"* signed by >33,000 leaders (Bengio, Russell, Musk, Wozniak), sparking global Senate hearings, Bletchley Park summit, and SB 1047.
+      - *Capital Scale & Tegmark's Life 3.0*: Vitalik Buterin's 2021 donation of ~$665M in SHIB tokens; Tegmark's three-tiered cosmological hierarchy of life (Life 1.0 $\to$ Life 2.0 $\to$ Life 3.0).
+      - *Critical Analysis & The Sincerity Trap*: Role as the public respectability and media mobilization arm of the Extropian-to-Longtermist transmission belt.
+  - **Cross-Vault Lineage & Timeline Integrations**:
+    - [[The Extropian-to-Longtermist Lineage and Frontier AI]]: Added Stage 8 detailing FLI's institutional mobilization, Puerto Rico, and Asilomar Principles; enriched 2023 pause dynamics and sources.
+    - [[AGI and Scaling Debates]]: Added 2014–2017 FLI/Asilomar milestone and March 2023 6-Month Pause milestone.
+    - [[Future of Humanity Institute]]: Integrated collaboration notes and cross-links with FLI.
+    - [[AI Alignment and the Control Problem]]: Cross-linked FLI in technical alignment governance.
 
 - **Comprehensive Master Dossier Expansion: Machine Intelligence Research Institute (MIRI)**:
   - **Dossier Deepening**:
@@ -555,6 +570,8 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[Nick Bostrom|Nick Bostrom]]** — Oxford FHI founder, author of *Superintelligence* (2014), Astronomical Waste, and formulator of Instrumental Convergence.
 - **[[William MacAskill|William MacAskill]]** — Oxford philosopher, co-founder of Giving What We Can and Centre for Effective Altruism, author of *What We Owe the Future*.
 - **[[Toby Ord|Toby Ord]]** — Oxford philosopher at FHI, founder of Giving What We Can, author of *The Precipice*, existential risk calculator.
+- **[[Max Tegmark|Max Tegmark]]** — MIT physicist, co-founder of FLI, author of *Life 3.0*, architect of Asilomar AI Principles, and AI interpretability researcher.
+- **[[Jaan Tallinn|Jaan Tallinn]]** — Skype founding engineer, co-founder of FLI and CSER, premier early seed investor in DeepMind, Anthropic, and AI safety institutes.
 - **[[Sam Bankman-Fried|Sam Bankman-Fried]]** — Founder of FTX, premier billionaire mega-funder of Effective Altruism, and funder of Anthropic's $500M+ Series B.
 - **[[Adam Becker|Adam Becker]]** — Astrophysicist, science historian, author of *More Everything Forever* (2025), critic of the transhumanist-venture capital nexus.
 - **[[Cal Newport|Cal Newport]]** — Georgetown computer scientist, author of *Deep Work*, host of *Deep Questions*, collaborator on *Better Offline* dissecting doom trolling.
@@ -565,6 +582,7 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[Google DeepMind|Google DeepMind]]** — AlphaFold, Gemini, RL agent architectures, and specification gaming research.
 - **[[Demis Hassabis|Demis Hassabis]]** — CEO of Google DeepMind, 2024 Nobel Laureate in Chemistry, architect of AlphaFold, GraphCast, GNoME, and AlphaProof.
 - **[[Shane Legg|Shane Legg]]** — Co-founder and Chief AGI Scientist at Google DeepMind, FHI alumnus, and pioneer of universal mathematical intelligence tests.
+- **[[Stuart Russell|Stuart Russell]]** — UC Berkeley computer scientist, author of *Human Compatible*, AIMA co-author, pioneer of Assistance Games / CIRL, and anti-autonomous weapons leader.
 - **[[Paul Christiano|Paul Christiano]]** — AI alignment pioneer, co-creator of RLHF, founder of ARC/METR, and OpenAI Foundation board member.
 - **[[Peter Thiel|Peter Thiel]]** — Founders Fund venture capitalist, seed investor in SIAI/MIRI, DeepMind, and early backer of OpenAI.
 - **[[Mustafa Suleyman|Mustafa Suleyman]]** — CEO of Microsoft AI, co-founder of DeepMind and Inflection AI, *The Coming Wave*, Humanist Superintelligence, and model welfare critic.
@@ -573,6 +591,7 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[Jacob Coxon|Jacob Coxon]]** — Former OpenAI and Anthropic pretraining researcher, whistleblower in the 2026 AI Safety Vibe Shift.
 - **[[LessWrong|LessWrong]]** — Discussion platform and community founded by Yudkowsky (2009), incubator of Bayesian rationality and early frontier lab safety culture.
 - **[[Machine Intelligence Research Institute|Machine Intelligence Research Institute (MIRI)]]** — First AI alignment research organization (founded as SIAI in 2000), organizer of Singularity Summits (2006–2012), mathematical agent foundations, embedded agency, and deceptive alignment.
+- **[[Future of Life Institute|Future of Life Institute (FLI)]]** — AI governance, grantmaking, and existential risk NGO; organizer of 2017 Asilomar AI Principles and 2023 "Pause Giant AI Experiments" Open Letter.
 - **[[Better Offline|Better Offline]]** — Investigative tech podcast hosted by Ed Zitron; landmark 2026 episode with Becker & Newport dissecting Extropian roots and doom trolling.
 - **[[METR|METR]]** — Model Evaluation and Threat Research; frontier dangerous capability evaluations and agent breakout investigations.
 - **[[Redwood Research|Redwood Research]]** — AI alignment, control mechanisms, and adversarial safety research.
