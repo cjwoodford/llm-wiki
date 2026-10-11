@@ -44,8 +44,8 @@ aliases:
   - Massive unlicensed intellectual property and cultural enclosure.
   - Monopoly concentration and extreme resource extraction.
 
-### 4. Distributed AI Research Institute (DAIR)
-- Founded in December 2021 as an independent, non-profit research institution to pioneer community-rooted, public-interest AI scholarship free from the commercial agendas, venture capital incentives, and philanthropic capture of Big Tech.
+### 4. [[Distributed AI Research Institute|Distributed AI Research Institute (DAIR)]]
+- Founded in December 2021 as an independent, non-profit research institution to pioneer community-rooted, public-interest AI scholarship free from the commercial agendas, venture capital incentives, and philanthropic capture of Big Tech. (See master dossier: [[Distributed AI Research Institute]]).
 
 ---
 
@@ -61,10 +61,12 @@ aliases:
   - [[AI Ethics and Existential Risk Framing|AI Ethics & Existential Risk Framing]]
   - [[Empirical AI Welfare and Digital Minds|Empirical AI Welfare & Digital Minds]]
 - **Entities**:
+  - [[Distributed AI Research Institute|Distributed AI Research Institute (DAIR)]]
+  - [[AI Now Institute|AI Now Institute]]
+  - [[Center for Humane Technology|Center for Humane Technology (CHT)]]
   - [[Emile P. Torres|Émile P. Torres]]
   - [[Google DeepMind|Google / Google DeepMind]]
   - [[Anthropic|Anthropic]]
-  - [[Center for Humane Technology|Center for Humane Technology]]
   - [[Donna Haraway|Donna Haraway]]
   - [[Chad Woodford|Chad Woodford]]
 

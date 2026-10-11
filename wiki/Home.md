@@ -23,11 +23,23 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 | Metric | Count | Status |
 | :--- | :--- | :--- |
 | **Thematic Concepts** | 56 | 🟢 Fully Linked (5-Part Standard Schema) |
-| **Key Entities** | 144 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
+| **Key Entities** | 146 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
 | **Archived Primary Sources** | 179 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
 | **Web Clippings Queue** | 0 | 🟢 Clear (`Clippings/`) |
+
+---
+
+## 🔄 Recent Activity (2026-10-11)
+
+- **New Institutional Dossiers & Critical Ecosystem Mapping: Distributed AI Research Institute (DAIR) & AI Now Institute**:
+  - **2 New Key Organization Dossiers Created**:
+    - [[Distributed AI Research Institute]]: Comprehensive institutional dossier (Founded December 2021 by [[Timnit Gebru]]; decentralized public-interest research lab countering Big Tech compute maximalism; centering African language and data sovereignty, auditing Global South data annotation/moderation labor, and dismantling the [[TESCREAL and The Merge|TESCREAL]] AGI hype cycle).
+    - [[AI Now Institute]]: Comprehensive institutional dossier (Founded in 2017 by [[Meredith Whittaker]] and [[Kate Crawford]], co-directed by Amba Kak and Sarah Myers West; premier antitrust, legal, and economic accountability think tank; exposing the "cloud infrastructure cartel" [Azure, AWS, GCP], algorithmic impact assessments [AIAs], biometric and facial recognition moratoria, FTC competition enforcement, and countering AGI existential risk smokescreens).
+  - **Tripartite Disambiguation & Cross-Vault Syntheses**:
+    - [[Center for Humane Technology]]: Expanded with an institutional dossier and dedicated comparative matrix disambiguating CHT (attention economy, persuasive design) from DAIR (decoloniality, Global South labor, TESCREAL critique) and AI Now (antitrust, cloud cartels, state regulatory enforcement).
+    - [[Timnit Gebru]]: Reciprocally cross-linked DAIR master dossier and AI Now.
 
 ---
 
@@ -622,6 +634,9 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[Machine Intelligence Research Institute|Machine Intelligence Research Institute (MIRI)]]** — First AI alignment research organization (founded as SIAI in 2000), organizer of Singularity Summits (2006–2012), mathematical agent foundations, embedded agency, and deceptive alignment.
 - **[[Future of Life Institute|Future of Life Institute (FLI)]]** — AI governance, grantmaking, and existential risk NGO; organizer of 2017 Asilomar AI Principles and 2023 "Pause Giant AI Experiments" Open Letter.
 - **[[Future of Life Foundation|Future of Life Foundation (FLF)]]** — 501(c)(3) organizational incubator and venture studio (founded 2022 by Anthony Aguirre); builds applied epistemic infrastructure, model truthfulness evaluations, and human coordination tooling (disambiguated from FLI and FHI; often misnamed *"Future for Life Foundation"*).
+- **[[Distributed AI Research Institute|Distributed AI Research Institute (DAIR)]]** — Independent research institute founded by Timnit Gebru; focuses on community-rooted AI, decolonial data sovereignty, Global South labor audits, and TESCREAL critique.
+- **[[AI Now Institute|AI Now Institute]]** — Leading policy and legal think tank founded by Meredith Whittaker and Kate Crawford; focuses on Big Tech antitrust, cloud infrastructure cartels, biometric moratoria, and FTC competition policy.
+- **[[Center for Humane Technology|Center for Humane Technology (CHT)]]** — Advocacy NGO founded by Tristan Harris, Aza Raskin, and Randima Fernando; focuses on the attention economy, evolutionary mismatch, and generative AI as "Second Contact".
 - **[[Better Offline|Better Offline]]** — Investigative tech podcast hosted by Ed Zitron; landmark 2026 episode with Becker & Newport dissecting Extropian roots and doom trolling.
 - **[[METR|METR]]** — Model Evaluation and Threat Research; frontier dangerous capability evaluations and agent breakout investigations.
 - **[[Redwood Research|Redwood Research]]** — AI alignment, control mechanisms, and adversarial safety research.
