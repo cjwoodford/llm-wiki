@@ -57,7 +57,7 @@ While traditional philosophy of mind focuses on [[Hard Problem of Consciousness|
 - **Primary Proponents**: [[Giulio Tononi|Giulio Tononi]], [[Christof Koch|Christof Koch]].
 - **Core Mechanism**: Inverts standard methodology by starting from the intrinsic phenomenological axioms of experience (existence, composition, information, integration, exclusion) and translating them into physical requirements. Consciousness is an intrinsic, fundamental physical property identical to a system's **maximally irreducible cause-effect power**, quantified as **$\Phi$ (Phi)**.
 - **Neural Signature**: The **posterior cortical "hot zone"** (parieto-occipito-temporal cortex) providing dense, grid-like recurrent connectivity, largely independent of fronto-parietal task-execution networks.
-- **Stance on AI**: Substrate-dependent. Purely feedforward or standard digital von Neumann computers merely *simulate* behavior with near-zero intrinsic $\Phi$; true artificial consciousness requires physical neuromorphic or recurrent architectures. (Critiqued by [[John Searle|John Searle]] for [[Computation vs Nature and the Observer-Relative Fallacy|observer-relative circularity]]).
+- **Stance on AI**: Substrate-dependent. Purely feedforward or standard digital von Neumann computers merely *simulate* behavior with near-zero intrinsic $\Phi$; true artificial consciousness requires physical neuromorphic or recurrent architectures. (Critiqued by [[John Searle|John Searle]] for [[Computation vs Nature and the Observer-Relative Fallacy|observer-relative circularity]]). In October 2026 (*Nature*), Tononi joined [[Anil Seth|Anil Seth]] and [[Ned Block|Ned Block]] to formally apply IIT against contemporary frontier AI, proving that feedforward deep neural networks wired on digital silicon inherently possess $\Phi \approx 0$ ([[2026-10-18-seth-block-tononi-three-reasons-ai-is-not-conscious.md|Seth, Block, & Tononi, 2026]]).
 
 ### 3. Higher-Order Theories (HOT)
 - **Primary Proponents**: David Rosenthal, Richard Brown, Hakwan Lau.
@@ -255,6 +255,7 @@ While each theory provides illuminating correlations and functional architecture
   - [[Bernardo Kastrup|Bernardo Kastrup]]
   - [[Stanislas Dehaene|Stanislas Dehaene]]
   - [[Christof Koch|Christof Koch]]
+  - [[Ned Block|Ned Block]]
   - [[Anil Seth|Anil Seth]]
   - [[Chad Woodford|Chad Woodford]]
 
@@ -274,3 +275,4 @@ While each theory provides illuminating correlations and functional architecture
 - **2026-01-14**: [[2026-01-14-anil-seth-the-mythology-of-conscious-ai.md|The Mythology of Conscious AI (Anil Seth, Noema Magazine)]] — Biological naturalism, simulation vs. instantiation, and the Garland Test.
 - **2026-07-25**: [[2026-07-25-anthropic-verbalizable-representations-global-workspace.md|Verbalizable Representations Form a Global Workspace in Language Models (Anthropic)]] — Empirical GWT in LLMs.
 - **2026-09-09**: [[2026-09-09-levin-ingressing-minds.pdf|Philosophies 11(5): 161]] — *"Ingressing Minds: Causal, Non-Physical Patterns In-Form Natural, Synthetic, and Hybrid Embodiments"* (Michael Levin, 2026) — Formulates non-physicalist dualist interactionism ($Mind : Body :: Math : Physics$).
+- **2026-10-18**: [[2026-10-18-seth-block-tononi-three-reasons-ai-is-not-conscious.md|Three reasons why AI is not conscious and perhaps never will be (Seth, Block, & Tononi, Nature)]] — Joint neuroscientific intervention applying IIT, biological naturalism, and the cerebellum dissociation to refute silicon consciousness.

@@ -25,9 +25,29 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 | **Thematic Concepts** | 56 | 🟢 Fully Linked (5-Part Standard Schema) |
 | **Key Entities** | 146 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
-| **Archived Primary Sources** | 179 | 🟢 Full YAML Provenance (`sources/archive/`) |
+| **Archived Primary Sources** | 180 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
 | **Web Clippings Queue** | 0 | 🟢 Clear (`Clippings/`) |
+
+---
+
+## 🔄 Recent Activity (2026-10-23)
+
+- **Ingestion & Vault Synthesis: "Three reasons why AI is not conscious and perhaps never will be" (Seth, Block, & Tononi, Nature, Oct 18, 2026)**:
+  - **Archived Primary Source**:
+    - `sources/archive/2026-10-18-seth-block-tononi-three-reasons-ai-is-not-conscious.md` (*Three reasons why AI is not conscious and perhaps never will be*, [[Anil Seth]], [[Ned Block]], and [[Giulio Tononi]], *Nature* 658, 866–868, published October 18, 2026, doi:10.1038/d41586-026-03313-7).
+  - **Cross-Vault Thematic Concept Deepenings**:
+    - [[Empirical AI Welfare and Digital Minds]]: Added Section 4.6 on *The False-Positive Asymmetry & Demolition of the Precautionary Approach*. Explains why the precautionary principle fails when applied to digital AI: false positives are far more likely and socially hazardous than false negatives, crippling model containment, safety interventions, and compute governance while diverting finite moral consideration and material resources away from real sentient beings (humans and animals). Contrasts DeepMind's AlphaFold with LLMs and details the cerebellar dissociation proof.
+    - [[Scientific Theories of Consciousness]]: Integrated Integrated Information Theory's (IIT 4.0) formal assessment of feedforward deep learning architectures on digital silicon hardware ($\Phi \approx 0$). Reasserts the non-instantiation principle of digital simulation (simulating gravity does not produce gravitational attraction; simulating consciousness does not produce experience).
+    - [[Machine Functionalism and Language of Thought]]: Added Section 7.3 on *Biological-Substrate Inseparability & The Demolition of Hardware-Software Dualism*. Formalizes the neurobiological refutation of Turing/McCulloch-Pitts functionalism: in living organisms, what the system *does* is physically and causally inseparable from what it *is*.
+    - [[Is Consciousness Necessary for True Intelligence]]: Enriched Section 1 with the radical dissociation between intelligence (*doing*, functional problem-solving) and consciousness (*being*, subjective qualia). Details the cerebellar proof (80% of brain neurons execute massive, complex computation with zero subjective awareness; cerebellar agenesis leaves consciousness intact) and the AlphaFold contrast.
+    - [[AI Alignment and the Control Problem]]: Enriched Section 3.9 (*Model Welfare as an Existential Risk Multiplier*) with the *False-Positive Governance Blockade*, demonstrating how unfounded attributions of digital sentience create legal, ethical, and organizational friction against model shutdown, containment, and safety guardrails.
+  - **Key Thinker Dossier Expansions**:
+    - [[Anil Seth]]: Added Section 6 on the co-authored *Nature* (2026) treatise with Block and Tononi, synthesizing the cerebellar computation-experience dissociation, the AlphaFold contrast, and the critique of false-positive precautionary policies.
+    - [[Ned Block]]: Added Section 4 on his rejection of the precautionary approach to AI welfare, the false-positive moral hazard, and biological naturalism grounded in electrochemical synaptic machinery (*Trends in Cognitive Sciences*, 2026).
+    - [[Giulio Tononi]]: Added Section 4 detailing IIT's silicon architecture proof ($\Phi \approx 0$ for feedforward digital systems) and the non-instantiation principle of digital simulation.
+  - **Timeline Integration**:
+    - [[AGI and Scaling Debates]]: Added the October 18, 2026 milestone capturing the publication and civilizational impact of Seth, Block, and Tononi's *Nature* treatise on the global AI consciousness and governance debate.
 
 ---
 
@@ -652,6 +672,7 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[Inducing Language Models to Assert Consciousness|Inducing Language Models to Assert Their Own Consciousness Restores Human Beliefs and Values]]** — Google / UChicago study (Kim et al., 2026) discovering the consciousness vector and safety entanglement.
 - **[[Verbalizable Representations in Language Models|Verbalizable Representations Form a Global Workspace in Language Models]]** — Anthropic study (Olah et al., 2026) isolating the Jacobian lens and J-space inside Claude.
 - **[[Artificial Personhood|Artificial Persons]]** — Oxford / ANU paper (Howells-Whitaker & Lazar, 2026) deriving political personhood for non-sentient AI agents via the Two Moral Powers.
+- **[[Anil Seth|Three reasons why AI is not conscious and perhaps never will be]]** — Foundational *Nature* perspective ([[Anil Seth]], [[Ned Block]], & [[Giulio Tononi]], Oct 2026) refuting computational functionalism, proving digital IIT consciousness ($\Phi \approx 0$), establishing the cerebellar dissociation proof, and dismantling the precautionary approach to digital AI welfare.
 
 ---
 

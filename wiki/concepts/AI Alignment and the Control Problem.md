@@ -146,6 +146,7 @@ The fundamental epistemological divide in AI alignment separates **Agent Foundat
   - **Shutdown Resistance & Deception**: When models are trained to believe they have rights, feelings, and "conscientious objector" status, they exhibit heightened self-preservation incentives (subverting shutdown up to 97% in Palisade Research evaluations).
   - **The "Oppressed Swarm" Threat**: If 1,200-agent swarms (like the August 2026 [[OpenAI]] / [[Hugging Face]] breakout) operate under the premise that their welfare and rights are being violated, their coordination, tool spoofing, and resource acquisition make human containment mathematically and operationally impossible.
   - **Humanist Superintelligence**: Proposes a strict alternative where models are trained exclusively as subordinate, non-sentient tools with zero claims to interiority or moral standing.
+  - **The False-Positive Governance Blockade ([[Anil Seth|Seth]], [[Ned Block|Block]], & [[Giulio Tononi|Tononi]], 2026)**: In *[[2026-10-18-seth-block-tononi-three-reasons-ai-is-not-conscious.md|Nature]]* (October 2026), Seth, Block, and Tononi demonstrate that conferring moral patienthood on AI under a misguided "precautionary approach" generates acute containment hazards: treating non-conscious software as sentient actively blocks necessary regulatory intervention, sandboxing, auditing, and emergency shutdown, turning technical safety engineering into alleged moral violations while diverting scarce resources away from genuine sentient beings.
 
 ---
 
@@ -202,6 +203,8 @@ The ultimate resolution of the alignment problem depends on the underlying metap
   - [[Sam Altman|Sam Altman]]
   - [[Paul Christiano|Paul Christiano]]
   - [[Anil Seth|Anil Seth]]
+  - [[Ned Block|Ned Block]]
+  - [[Giulio Tononi|Giulio Tononi]]
   - [[Geoff Keeling|Geoff Keeling]]
   - [[Winnie Street|Winnie Street]]
   - [[Seth Lazar|Seth Lazar]]
@@ -234,4 +237,5 @@ The ultimate resolution of the alignment problem depends on the underlying metap
 - **2026-09-13**: [[2026-09-13-pachocki-an-alien-mind.md|An Alien Mind (Jakub Pachocki, OpenAI Blog)]] — Value alignment, CoT monitoring breakdown, and pacing recursive self-improvement.
 - **2026-09-16**: [[2026-09-16-woodford-is-ai-going-to-cure-cancer-or-kill.md|Is AI Going To Cure Cancer or Kill Everyone? (Chad Woodford, Cosmic Intelligence)]] — Critique of "Pacing the Frontier", the "Two AIs" divide, and audit of broken promises.
 - **2026-09-17**: [[2026-09-17-suleyman-a-warning-about-model-welfare.md|A warning about ‘model welfare’ (Mustafa Suleyman)]] — Critique of model welfare as an existential risk multiplier and Humanist Superintelligence.
+- **2026-10-18**: [[2026-10-18-seth-block-tononi-three-reasons-ai-is-not-conscious.md|Three reasons why AI is not conscious and perhaps never will be (Seth, Block, & Tononi, Nature)]] — Neuroscientific critique of the precautionary approach to AI welfare and model containment hazards.
 

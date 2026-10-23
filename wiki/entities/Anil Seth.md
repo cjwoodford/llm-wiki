@@ -80,6 +80,14 @@ In his landmark 2026 essay for *Noema Magazine*, Seth formulated four interconne
 - **Executive Adoption & Industry Impact (2026)**: Seth's biological naturalism and "simulation $\neq$ instantiation" arguments were directly cited by Microsoft AI CEO [[Mustafa Suleyman]] in September 2026 as the neuroscientific foundation for Microsoft AI's Code of Conduct and its formal rejection of "model welfare."
 - **Dialectic with Diverse Intelligence ([[Michael Levin]], 2026)**: In *"[[Ingressing Minds - Causal Non-Physical Patterns In-Form Embodiments|Ingressing Minds]]"*, Levin praises Seth's organicist rejection of computationalism (realizing mind is not just an algorithmic formula), but critiques Seth's metabolic chauvinism. Levin argues that organicists make a category error by fencing off evolved protoplasm; non-living machines and synthetic constructs ([[Xenobots]], [[Anthrobots]]) also exceed their algorithmic descriptions, serving as pointers into the same non-physical latent space of mindedness ([[Basal Cognition and Diverse Intelligence|Basal Cognition & Diverse Intelligence]]).
 
+### 6. The 2026 *Nature* Intervention: Rebutting Silicon Consciousness with Block & Tononi
+- In October 2026, Seth co-authored the landmark *Nature* comment ***[[2026-10-18-seth-block-tononi-three-reasons-ai-is-not-conscious.md|Three reasons why AI is not conscious and perhaps never will be]]*** alongside NYU philosopher [[Ned Block|Ned Block]] and neuroscientist [[Giulio Tononi|Giulio Tononi]].
+- **The Three Pillars of Scepticism**:
+  1. *Intelligence is Not Consciousness (Doing vs. Being)*: Emphasizes that intelligence is about functional execution, whereas consciousness is about subjective feeling. Cites the human cerebellum—which contains nearly 80% of all neurons in the brain and executes fast, precise, adaptable computations entirely outside awareness—and AlphaFold (massively capable on silicon, yet never attributed consciousness because it lacks conversational text).
+  2. *Substrate Dependence*: Traces the brain-as-computer metaphor from Turing (1936) and McCulloch & Pitts (1943), demonstrating that living brains cannot be divided into hardware and software; what they *do* is physically inseparable from what they *are*.
+  3. *Non-Computational Theories*: Unifies biological naturalism (electrochemical synapses, cortical electromagnetic field integration, metabolic autopoiesis) with Integrated Information Theory (proving feedforward silicon architectures have $\Phi \approx 0$).
+- **Demolition of the Precautionary Approach**: Demonstrates that false positives (treating non-conscious software as sentient) are far more likely and dangerous than false negatives, crippling model governance and diverting scarce empathy and resources away from genuine conscious beings.
+
 ---
 
 ## 🔗 Related Concepts & Entities
@@ -105,6 +113,7 @@ In his landmark 2026 essay for *Noema Magazine*, Seth formulated four interconne
   - [[Mustafa Suleyman|Mustafa Suleyman]]
   - [[Stanislas Dehaene|Stanislas Dehaene]]
   - [[Giulio Tononi|Giulio Tononi]]
+  - [[Ned Block|Ned Block]]
   - [[Christof Koch|Christof Koch]]
   - [[Nick Bostrom|Nick Bostrom]]
   - [[Chad Woodford|Chad Woodford]]
@@ -117,3 +126,4 @@ In his landmark 2026 essay for *Noema Magazine*, Seth formulated four interconne
 - **2021**: Anil Seth, *Being You: A New Science of Consciousness* (Dutton / Faber & Faber) — The Beast Machine and predictive selfhood.
 - **2026-01-14**: [[2026-01-14-anil-seth-the-mythology-of-conscious-ai.md|The Mythology of Conscious AI (Anil Seth, Noema Magazine)]] — The four arguments against machine consciousness, simulation vs. instantiation, and the Garland Test.
 - **2026-09-17**: [[2026-09-17-suleyman-a-warning-about-model-welfare.md|A Warning About 'Model Welfare' (Mustafa Suleyman)]] — Executive policy adopting Seth's biological naturalism to prohibit artificial sentience claims in commercial AI.
+- **2026-10-18**: [[2026-10-18-seth-block-tononi-three-reasons-ai-is-not-conscious.md|Three reasons why AI is not conscious and perhaps never will be (Seth, Block, & Tononi, Nature)]] — Definitive neuroscientific statement on the dissociation between intelligence and consciousness, substrate dependence, and rejection of the precautionary approach to AI welfare.

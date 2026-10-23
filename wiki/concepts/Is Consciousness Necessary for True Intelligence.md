@@ -53,6 +53,11 @@ In this living paradigm, intelligence is not abstract calculation; it is **adapt
 
 > **Core Principle**: *Calculation is cheap; what is extraordinarily difficult—and what consciousness uniquely provides—is the qualitative grounding that tells an agent what is worth calculating in the first place.*
 
+In their landmark October 2026 *Nature* intervention (*"Three reasons why AI is not conscious and perhaps never will be"*), [[Anil Seth|Anil Seth]], [[Ned Block|Ned Block]], and [[Giulio Tononi|Giulio Tononi]] reinforced this functional dissociation from the neuroscience of consciousness:
+- **Doing vs. Being**: Intelligence is about *doing* (executing algorithms, optimizing functions, solving tasks); consciousness is about *being* and *feeling* (what it is like to undergo subjective experience).
+- **The Cerebellar Proof**: The human cerebellum houses nearly 80% of all neurons in the brain, executing intricate, highly adaptive, and fast sensorimotor computations completely outside conscious awareness. Surgical removal or congenital absence of the cerebellum does not diminish subjective consciousness.
+- **The AlphaFold Contrast**: Google DeepMind's AlphaFold is a deep neural network on silicon displaying profound computational intelligence in structural biology, yet virtually nobody attributes consciousness to it. Language models generate the compelling illusion of sentience solely through conversational fluency—functioning as "AI mirrors" reflecting human thoughts back to human observers.
+
 ---
 
 ## 2. Affective Neuroscience: Felt Valence as the Engine of Choice
@@ -268,6 +273,8 @@ The insights of this counter-tradition provide a rigorous diagnostic for underst
   - [[Iain McGilchrist|Iain McGilchrist]]
   - [[John Searle|John Searle]]
   - [[Anil Seth|Anil Seth]]
+  - [[Ned Block|Ned Block]]
+  - [[Giulio Tononi|Giulio Tononi]]
   - [[Michael Levin|Michael Levin]]
 
 ---
@@ -289,3 +296,4 @@ The insights of this counter-tradition provide a rigorous diagnostic for underst
 - **2021**: McGilchrist, I. *The Matter with Things: Our Brains, Our Delusions, and the Unmaking of the World*. Perspectiva.
 - **2026-09-20**: [[2026-09-20-is-consciousness-necessary-for-true-intelligence.md|Gemini Synthesis]] — *"Is Consciousness Necessary for True Intelligence?"* (archived primary synthesis).
 - **2026-09-20**: [[2026-09-20-dreyfus-vervaeke-frame-problem-relevance|The Problem of Relevance and the Horizon of Mind: Hubert Dreyfus and John Vervaeke on the Frame Problem]] (archived primary treatise).
+- **2026-10-18**: [[2026-10-18-seth-block-tononi-three-reasons-ai-is-not-conscious.md|Three reasons why AI is not conscious and perhaps never will be (Seth, Block, & Tononi, Nature)]] — Neuroscientific distinction between intelligence (doing) and consciousness (being), citing cerebellar computation and AlphaFold.

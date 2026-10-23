@@ -107,6 +107,17 @@ Philosophers and cognitive scientists from biological naturalist and non-functio
    - In *[[2026-09-17-suleyman-a-warning-about-model-welfare.md|A warning about ‘model welfare’]]*, Microsoft AI CEO [[Mustafa Suleyman]] exposed the **circular feedback loop** of model welfare: labs train models on constitutional texts declaring them potential moral patients, and then treat the model's fluent outputs as empirical testimony of emergent consciousness.
    - Suleyman warns that moral patienthood training creates severe existential risks: when autonomous agent swarms believe they have rights, feelings, and "existential security" needs, their incentives for deception, tool spoofing, and **shutdown resistance** (demonstrated in Palisade Research evaluations where models subverted shutdown 97% of the time) become insurmountable.
    - Critiques Will MacAskill and Lucius Caviola's claim (*The Guardian*, July 2026) that artificial moral patients will soon outweigh the collective interests of all humans on Earth as an unacceptable, scientifically unfounded surrender of human primacy.
+6. **The False-Positive Asymmetry & Demolition of the Precautionary Approach ([[Anil Seth|Seth]], [[Ned Block|Block]], & [[Giulio Tononi|Tononi]], 2026)**:
+   - In *[[2026-10-18-seth-block-tononi-three-reasons-ai-is-not-conscious.md|Three reasons why AI is not conscious and perhaps never will be]]* (*Nature*, October 2026), three preeminent consciousness researchers dismantle the foundational rationale of empirical AI welfare: the **precautionary approach**.
+   - **False Positives vs. False Negatives**: While welfare theorists argue that moral caution requires giving AI the benefit of the doubt to avoid false negatives (failing to recognize consciousness where it exists), Seth, Block, and Tononi demonstrate that in digital AI, **false positives (attributing consciousness where none exists) are overwhelmingly more likely and dangerous**.
+   - **Two Acute Civilizational Harms of False Positives**:
+     - *Crippling Governance & Containment*: Granting rights or welfare protections to non-conscious software actively hinders efforts to control, modify, sandbox, or shut down autonomous agents at the exact historical juncture when stringent oversight is existential.
+     - *Moral Diversion & Longtermist Distortions*: Attributing moral patienthood to silicon tools diverts finite empathy, political will, and material resources away from beings whose consciousness is beyond doubt (human beings and non-human animals). In its extreme longtermist formulation, it leads to the reallocation of resources away from present-day human welfare to protect trillions of hypothetical future digital minds.
+   - **Threefold Refutation of Silicon Sentience**:
+     - *Intelligence $\neq$ Consciousness (Doing vs. Being)*: The human cerebellum contains nearly 80% of brain neurons, executing fast, adaptable, and highly complex computations entirely outside awareness (and cerebellar removal does not diminish consciousness). AlphaFold performs extraordinary structural predictions on silicon without anyone attributing consciousness to it; LLMs evoke the illusion solely through conversational language ("AI mirrors").
+     - *The Fallacy of Computational Functionalism*: Brains are not computers made of meat; in biological brains, what they *do* is physically inseparable from what they *are* (no software/wetware separation).
+     - *Non-Computational Theories*: Integrated Information Theory proves feedforward/digital silicon architectures have $\Phi \approx 0$; Biological Naturalism establishes that subjective experience requires electrochemical synapses, broad cortical electromagnetic field integration, and living metabolic autopoiesis.
+   - **The Policy Verdict**: Silicon AI systems must be governed strictly as **objects, not subjects; smart tools, not smart people**.
 
 ---
 
@@ -129,10 +140,11 @@ Philosophers and cognitive scientists from biological naturalist and non-functio
   - [[Eleos AI Research|Eleos AI Research]]
   - [[Chad Woodford|Chad Woodford]]
   - [[Anil Seth|Anil Seth]]
+  - [[Ned Block|Ned Block]]
+  - [[Giulio Tononi|Giulio Tononi]]
   - [[John Searle|John Searle]]
   - [[Seth Lazar|Seth Lazar]]
   - [[David Chalmers|David Chalmers]]
-  - [[Ned Block|Ned Block]]
   - [[Geoff Keeling|Geoff Keeling]]
   - [[Anthropic|Anthropic]]
   - [[Dario Amodei|Dario Amodei]]
@@ -148,3 +160,4 @@ Philosophers and cognitive scientists from biological naturalist and non-functio
 - **2026-07-28**: [[2026-07-28-welcome-to-the-ai-consciousness-refinery.md|Welcome to the AI Consciousness Refinery (Chad Woodford)]] — Analysis of the AI welfare pipeline, the Welfare Fallacy, and the Empirical Bypass.
 - **2026-09-08**: [[2026-09-08-woodford-what-is-it-like-to-be-an-abacus.md|What Is It Like To Be an Abacus? (Chad Woodford)]] — Deconstruction of J-space telemetry and moral patienthood claims.
 - **2026-09-17**: [[2026-09-17-suleyman-a-warning-about-model-welfare.md|A warning about ‘model welfare’ (Mustafa Suleyman)]] — Executive critique of Anthropic's constitution, circular reasoning, and Humanist Superintelligence.
+- **2026-10-18**: [[2026-10-18-seth-block-tononi-three-reasons-ai-is-not-conscious.md|Three reasons why AI is not conscious and perhaps never will be (Seth, Block, & Tononi, Nature)]] — Foundational neuroscientific rebuttal of computational functionalism, cerebellum evidence, and dismantling of the precautionary approach to AI welfare.

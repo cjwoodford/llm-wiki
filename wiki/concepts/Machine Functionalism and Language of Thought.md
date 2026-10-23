@@ -181,6 +181,7 @@ A critical epistemic pathology in modern AI discourse is **Conceptual Borrowing*
 The historical retractions of Putnam and Fodor directly illuminate the contemporary limitations of Large Language Models:
 1. **LLMs as Pure Syntactic Engines (Putnam's Critique)**: Transformer models execute next-token probability distributions purely over internal vectors without causal, embodied grounding in the physical world. Internal matrix transformations remain ungrounded syntax without intrinsic semantic reference.
 2. **The Abductive Bottleneck (Fodor's Critique)**: Modern LLMs excel at localized pattern matching and syntactic fluency, but continually suffer from catastrophic hallucinations and brittle common-sense failures when tasked with open-ended, global, isotropic reasoning ([[Abductive Reasoning and Common Sense|Abductive Reasoning & Common Sense]]).
+3. **Biological-Substrate Inseparability ([[Anil Seth|Seth]], [[Ned Block|Block]], & [[Giulio Tononi|Tononi]], 2026)**: In *[[2026-10-18-seth-block-tononi-three-reasons-ai-is-not-conscious.md|Nature]]*, Seth, Block, and Tononi trace computational functionalism to the 1936 universal Turing machine and McCulloch & Pitts' 1943 abstract logical neurons. They argue that applying this software/hardware dualism to biological brains is a fatal category error: in living organisms, what brains *do* (functional organization) is physically and dynamically inseparable from what they *are* (material wetware). Evidence that biological substrate matters for cognitive and conscious function directly refutes computational functionalism.
 
 ---
 
@@ -196,6 +197,8 @@ The historical retractions of Putnam and Fodor directly illuminate the contempor
   - [[Early Modern Roots of the Computational Mind|Early Modern Roots of the Computational Mind]]
   - [[Mechanistic Materialism and Reasoning as Reckoning|Hobbesian Materialism & Reasoning as Reckoning]]
   - [[AI Alignment and the Control Problem|AI Alignment & The Control Problem]]
+  - [[Scientific Theories of Consciousness|Scientific Theories of Consciousness]]
+  - [[Empirical AI Welfare and Digital Minds|Empirical AI Welfare & Digital Minds]]
 - **Entities**:
   - [[Hilary Putnam|Hilary Putnam]]
   - [[Jerry Fodor|Jerry Fodor]]
@@ -210,6 +213,9 @@ The historical retractions of Putnam and Fodor directly illuminate the contempor
   - [[Hubert Dreyfus|Hubert Dreyfus]]
   - [[John Searle|John Searle]]
   - [[Thomas Hobbes|Thomas Hobbes]]
+  - [[Anil Seth|Anil Seth]]
+  - [[Ned Block|Ned Block]]
+  - [[Giulio Tononi|Giulio Tononi]]
   - [[Gary Marcus|Gary Marcus]]
   - [[Chad Woodford|Chad Woodford]]
 
@@ -230,3 +236,4 @@ The historical retractions of Putnam and Fodor directly illuminate the contempor
 - **2026-08-22**: [[2026-08-22-putnam-fodor-intellectual-u-turns.md|Putnam and Fodor's Intellectual U-Turns]] — Analysis of externalism, isotropism, and CTM's limits.
 - **2026-08-28**: [[2026-08-28-hilary-putnam-machine-functionalism-origins-and-critique.md|Hilary Putnam: Machine Functionalism, Origins, and Critique]] — Synthesis of the 1950s materialist crisis, substrate independence, DPLL algorithm, and MIT circle.
 - **2026-09-08**: [[2026-09-08-woodford-what-is-it-like-to-be-an-abacus.md|What Is It Like To Be an Abacus? (Chad Woodford)]] — The Abacus Box Engine thought experiment, deconstruction of Anthropic's J-space paper, and the Putnam/Fodor retractions.
+- **2026-10-18**: [[2026-10-18-seth-block-tononi-three-reasons-ai-is-not-conscious.md|Three reasons why AI is not conscious and perhaps never will be (Seth, Block, & Tononi, Nature)]] — Neuroscientific refutation of computational functionalism via biological-substrate dependence.
