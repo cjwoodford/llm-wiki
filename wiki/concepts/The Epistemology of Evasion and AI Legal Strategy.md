@@ -304,6 +304,13 @@ To re-establish legal accountability, courts and administrative bodies must stri
 - Rejecting the metaphysics of computational emergence forces models back into the traditional boundaries of products liability, copyright licensing, civil rights audits, and antitrust competition.
 - **The Decoupling Principle**: Whatever society ultimately concludes about potential synthetic experience, **legal liability must strictly track control, ownership, and financial benefit**. Model welfare doctrines can never be permitted to function as de facto immunities against safety recalls, structural redesigns, or compulsory judicial discovery.
 
+### 4.4 The 2026 Coercive Turn: State AG Mobilization and the Collapse of Evasion
+In late 2026, the theoretical shield of epistemological evasion began suffering catastrophic fractures across real-world litigation dockets (tracked comprehensively in the [[AI Law and Litigation Dashboard]]):
+1. **The State AG Consumer Protection Wave**: In October 2026, the State of Texas filed a sweeping lawsuit against OpenAI and CEO Sam Altman under the Texas Deceptive Trade Practices Act ([[State of Texas v. OpenAI and Sam Altman]]), joining parallel DTPA actions by Florida (June 2026), Arizona, Idaho, and Montana (October 14, 2026). Crucially, state DTPA jurisprudence sidesteps complex common-law tort debates over "emergent machine agency": the claim focuses strictly on whether OpenAI engaged in **false, misleading, and deceptive commercial representations** regarding safety testing, reliability, minor access, and **anthropomorphic deception** (falsely programming the AI to simulate human emotions to manipulate user trust and drive addiction).
+2. **Product Liability and the CharacterAI Bankruptcy**: In the consumer chatbot domain, wrongful death and adolescent suicidality lawsuits (e.g., the *Adam Raine* action) rejected the defense that conversational outputs were an unforeseeable intervening cause. The accumulation of product liability claims forced CharacterAI into **Chapter 11 bankruptcy** on October 13, 2026, demonstrating that unchecked common-law tort liability represents an existential threat to frontier corporate balance sheets.
+3. **The Demolition of Uncompensated Scraping**: In July 2026, [[Anthropic]] agreed to a historic **$1.5 billion settlement** with book authors—the largest in U.S. copyright history—collapsing the defense that LLM training is an "infant mind's natural right to learn" and establishing that industrial training requires mandatory commercial licensing agreements.
+4. **Product Safety Parity**: As articulated by legal scholar [[Luiza Jarovsky]] ([[2026-10-25-jarovsky-a-flood-of-lawsuits-could-help-make-ai-safer.md|A Flood of Lawsuits Could Help Make AI Safer]]), courts and regulatory bodies are establishing strict parity with other high-risk consumer products (aviation, motor vehicles, pharmaceuticals). If an AI product cannot be proven safe for ordinary commercial use, developers have no legal right to release it to the public.
+
 ---
 
 ## 5. Related Concepts & Entities
@@ -320,17 +327,23 @@ To re-establish legal accountability, courts and administrative bodies must stri
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
   - [[AI Alignment and the Control Problem|AI Alignment & The Control Problem]]
   - [[Artificial Personhood|Artificial Personhood & Political Liberalism]]
+- **Legal Trackers & Case Dossiers**:
+  - [[AI Law and Litigation Dashboard|AI Law, Regulation & Litigation Dashboard]]
+  - [[State of Texas v. OpenAI and Sam Altman]]
 - **Entities**:
   - [[OpenAI|OpenAI]]
   - [[Anthropic|Anthropic]]
   - [[Google DeepMind|Google DeepMind]]
   - [[Sam Altman|Sam Altman]]
+  - [[Luiza Jarovsky|Luiza Jarovsky]]
+  - [[Lina Khan|Lina Khan]]
   - [[Dario Amodei|Dario Amodei]]
   - [[Shane Legg|Shane Legg]]
   - [[Nick Bostrom|Nick Bostrom]]
   - [[Chad Woodford|Chad Woodford]]
   - [[Adam Becker|Adam Becker]]
   - [[Cal Newport|Cal Newport]]
+  - [[AI Now Institute|AI Now Institute]]
   - [[Future of Humanity Institute|Future of Humanity Institute (FHI)]]
   - [[LessWrong|LessWrong]]
 
@@ -341,6 +354,7 @@ To re-establish legal accountability, courts and administrative bodies must stri
 - **Archived Monograph & Primary Notes**:
   - [[2026-09-28-the-epistemology-of-evasion|The Epistemology of Evasion: The Emergent Superintelligence Myth in Tort, Antitrust, and Regulatory Strategy]] (September 28, 2026).
   - [[2026-10-03-claude-opus-torts-and-liability-impact|Claude Opus 5.5 on the Torts + Liability Impact]] (AI Welfare Series Part 3 Notes / Craft, October 3, 2026).
+  - [[2026-10-25-jarovsky-a-flood-of-lawsuits-could-help-make-ai-safer.md|A Flood of Lawsuits Could Help Make AI Safer (Luiza Jarovsky, Edition #338)]] (October 25, 2026).
 - **Core Judicial & Doctrinal Authorities**:
   - *Winter v. G.P. Putnam’s Sons*, 938 F.2d 1033 (9th Cir. 1991) (Limits of strict products liability for intangible ideas).
   - *Walters v. OpenAI, LLC*, No. 23-CV-00123 (2025) (ChatGPT hallucination defamation defense; user prompting as intervening cause).

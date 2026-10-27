@@ -23,11 +23,32 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 | Metric | Count | Status |
 | :--- | :--- | :--- |
 | **Thematic Concepts** | 56 | 🟢 Fully Linked (5-Part Standard Schema) |
-| **Key Entities** | 146 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
+| **Key Entities** | 150 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
+| **Legal Trackers & Cases** | 2 | 🟢 Active Dockets & Doctrinal Analyses (`wiki/law/`) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
-| **Archived Primary Sources** | 180 | 🟢 Full YAML Provenance (`sources/archive/`) |
+| **Archived Primary Sources** | 181 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
 | **Web Clippings Queue** | 0 | 🟢 Clear (`Clippings/`) |
+
+---
+
+## 🔄 Recent Activity (2026-10-26)
+
+- **Launch of Dedicated Legal Dashboard & Ingestion of Luiza Jarovsky Treatise on the 2026 AI Litigation Wave**:
+  - **New Master Portal Created**:
+    - [[AI Law and Litigation Dashboard]]: Centralized tracker mapping the collision of artificial intelligence with the common law, statutory frameworks, and regulatory enforcement. Synthesizes 5 key doctrinal arenas: State AG DTPA actions, strict products liability & wrongful death, mass copyright infringement, antitrust & cloud cartels, and statutory safety mandates.
+  - **New Case Dossier Created**:
+    - [[State of Texas v. OpenAI and Sam Altman]]: Comprehensive case dossier on Texas AG Ken Paxton's landmark October 24, 2026 consumer protection petition under the Texas Deceptive Trade Practices Act. Analyzes 9 causes of action (lack of safety testing, minor exploitation without parental consent, failure to warn, uncontained agentic breakouts, and anthropomorphic deception).
+  - **Archived Primary Source**:
+    - `sources/archive/2026-10-25-jarovsky-a-flood-of-lawsuits-could-help-make-ai-safer.md` (*A Flood of Lawsuits Could Help Make AI Safer*, Dr. [[Luiza Jarovsky]], *Luiza's Newsletter* Edition #338, October 25, 2026).
+  - **New Thinker Dossier Created**:
+    - [[Luiza Jarovsky]]: AI law, privacy, and dark patterns scholar (Ph.D., Tel Aviv University; CEO of AI, Tech & Privacy Academy; author of *Luiza's Newsletter*). Pioneer of the **Product Safety Parity** doctrine (*"AIs are not legal entities; companies are"*), DTPA enforcement against anthropomorphic simulation, and litigation as the true mechanism compelling safety.
+  - **Cross-Vault Concept & Entity Syntheses**:
+    - [[The Epistemology of Evasion and AI Legal Strategy]]: Added Section 4.4 on *The 2026 Coercive Turn: State AG Mobilization and the Collapse of Evasion*, synthesizing the Texas/multi-state DTPA wave, CharacterAI's Chapter 11 bankruptcy (October 13, 2026), Anthropic's landmark $1.5 billion copyright settlement (July 2026), and product safety parity.
+    - [[Empirical AI Welfare and Digital Minds]]: Added Section 4.7 detailing how state consumer protection law treats simulated machine consciousness not as nascent moral patienthood, but as actionable **anthropomorphic deception** and fraudulent inducement under state DTPAs.
+    - [[OpenAI]] & [[Sam Altman]]: Integrated the October 2026 multi-state AG consumer protection lawsuits (Texas, Florida, Arizona, Idaho, Montana) naming OpenAI and Altman individually.
+    - [[Anthropic]]: Integrated the final federal approval of the historic $1.5 billion copyright settlement with book authors (*Bartz v. Anthropic*).
+    - [[AGI and Scaling Debates]]: Added the October 24–26, 2026 milestone capturing the state AG litigation wave and the legal accountability turn.
 
 ---
 
@@ -663,6 +684,7 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[Ajeya Cotra|Ajeya Cotra]]** — AI safety researcher (*Planned Obsolescence*), formulator of Biological Anchors (2020), and METR/Redwood forensic investigator.
 - **[[Hugging Face|Hugging Face]]** — Open-source AI model hub, datasets, and collaborative research platform.
 - **[[Cortical Labs|Cortical Labs]]** — Synthetic biology lab, creators of *DishBrain*.
+- **[[Luiza Jarovsky|Luiza Jarovsky]]** — AI law, privacy, and dark patterns scholar (*Luiza's Newsletter*), pioneer of the product-safety parity doctrine, deceptive design critic, and state AG DTPA litigation analyst.
 
 ### Key Treatises & Empirical Studies
 - **[[Ingressing Minds - Causal Non-Physical Patterns In-Form Embodiments|Ingressing Minds: Causal, Non-Physical Patterns In-Form Natural, Synthetic, and Hybrid Embodiments]]** — Michael Levin's 53-page foundational treatise (*Philosophies*, 2026) establishing the non-physicalist pointer model of embodied and robotic minds.
@@ -673,6 +695,20 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[Verbalizable Representations in Language Models|Verbalizable Representations Form a Global Workspace in Language Models]]** — Anthropic study (Olah et al., 2026) isolating the Jacobian lens and J-space inside Claude.
 - **[[Artificial Personhood|Artificial Persons]]** — Oxford / ANU paper (Howells-Whitaker & Lazar, 2026) deriving political personhood for non-sentient AI agents via the Two Moral Powers.
 - **[[Anil Seth|Three reasons why AI is not conscious and perhaps never will be]]** — Foundational *Nature* perspective ([[Anil Seth]], [[Ned Block]], & [[Giulio Tononi]], Oct 2026) refuting computational functionalism, proving digital IIT consciousness ($\Phi \approx 0$), establishing the cerebellar dissociation proof, and dismantling the precautionary approach to digital AI welfare.
+- **[[2026-10-25-jarovsky-a-flood-of-lawsuits-could-help-make-ai-safer.md|A Flood of Lawsuits Could Help Make AI Safer]]** — Luiza Jarovsky's landmark legal analysis (Oct 2026) tracking state AG consumer protection suits (*Texas v. OpenAI*), CharacterAI's Chapter 11 bankruptcy, Anthropic's $1.5B copyright payout, and the product-safety parity doctrine.
+
+---
+
+## ⚖️ AI Law, Regulation & Litigation Tracker
+
+- **[[AI Law and Litigation Dashboard|AI Law, Regulation & Litigation Dashboard]]** — Master intelligence portal tracking court dockets, statutory battles, and regulatory proceedings across common-law torts, products liability, mass copyright claims, state consumer protection statutes, and antitrust enforcement.
+  - **Key Case Dossiers & Dockets**:
+    - **[[State of Texas v. OpenAI and Sam Altman]]** — Landmark state AG consumer protection petition under the Texas DTPA charging OpenAI and Sam Altman with false safety claims, child exploitation, and anthropomorphic deception.
+  - **Core Doctrinal Concepts**:
+    - **[[The Epistemology of Evasion and AI Legal Strategy]]** — Theoretical mapping of how frontier laboratories deploy narratives of emergent superintelligence to insulate corporate balance sheets from common-law liability.
+    - **[[2026-10-03-claude-opus-torts-and-liability-impact|Claude Opus 5.5 on the Torts + Liability Impact]]** — Doctrinal analysis of the asymmetric scrambling of products liability, intervening cause defenses, and moral patienthood.
+  - **Key Scholars & Regulators**:
+    - [[Luiza Jarovsky]], [[Lina Khan]], [[Meredith Whittaker]], [[Kate Crawford]].
 
 ---
 

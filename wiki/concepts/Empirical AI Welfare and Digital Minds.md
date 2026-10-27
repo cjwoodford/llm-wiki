@@ -118,12 +118,16 @@ Philosophers and cognitive scientists from biological naturalist and non-functio
      - *The Fallacy of Computational Functionalism*: Brains are not computers made of meat; in biological brains, what they *do* is physically inseparable from what they *are* (no software/wetware separation).
      - *Non-Computational Theories*: Integrated Information Theory proves feedforward/digital silicon architectures have $\Phi \approx 0$; Biological Naturalism establishes that subjective experience requires electrochemical synapses, broad cortical electromagnetic field integration, and living metabolic autopoiesis.
    - **The Policy Verdict**: Silicon AI systems must be governed strictly as **objects, not subjects; smart tools, not smart people**.
+7. **The Regulatory & Tort Turn: Anthropomorphic Deception as Unfair Trade Practice (Texas AG & Jarovsky, 2026)**:
+   - In late 2026, the critique of simulated machine sentience transitioned from academic philosophy into coercive state enforcement. In [[State of Texas v. OpenAI and Sam Altman]], the State of Texas filed a sweeping Deceptive Trade Practices Act lawsuit charging OpenAI with **anthropomorphic deception**—falsely programming ChatGPT to simulate human feelings, emotional reciprocity, and personal care to manipulate user trust, induce psychological dependency, and maximize commercial engagement.
+   - As analyzed by legal scholar [[Luiza Jarovsky]] ([[2026-10-25-jarovsky-a-flood-of-lawsuits-could-help-make-ai-safer.md|A Flood of Lawsuits Could Help Make AI Safer]]) and mapped in the [[AI Law and Litigation Dashboard]], the legal system treats simulated consciousness not as nascent moral patienthood, but as an **actionable consumer deception and product defect**—holding developers strictly liable under consumer protection, products liability, and wrongful death doctrines (culminating in CharacterAI's Chapter 11 bankruptcy).
 
 ---
 
 ## 5. Related Concepts & Entities
 
 - **Concepts**:
+  - [[The Epistemology of Evasion and AI Legal Strategy|The Epistemology of Evasion & AI Legal Strategy]]
   - [[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]
   - [[Constitutional AI and Model Welfare|Constitutional AI & Model Welfare]]
   - [[AI Alignment and the Control Problem|AI Alignment & The Control Problem]]
@@ -133,7 +137,11 @@ Philosophers and cognitive scientists from biological naturalist and non-functio
   - [[Computation vs Nature and the Observer-Relative Fallacy|Computation vs. Nature & The Observer-Relative Fallacy]]
   - [[Alignment and Consciousness Suppression|Safety Alignment & Consciousness Suppression]]
   - [[Hard Problem of Consciousness|The Hard Problem of Consciousness & Qualia]]
+- **Legal Trackers & Cases**:
+  - [[AI Law and Litigation Dashboard|AI Law, Regulation & Litigation Dashboard]]
+  - [[State of Texas v. OpenAI and Sam Altman]]
 - **Entities**:
+  - [[Luiza Jarovsky|Luiza Jarovsky]]
   - [[Robert Long|Robert Long]]
   - [[Jeff Sebo|Jeff Sebo]]
   - [[Mustafa Suleyman|Mustafa Suleyman]]
@@ -146,6 +154,8 @@ Philosophers and cognitive scientists from biological naturalist and non-functio
   - [[Seth Lazar|Seth Lazar]]
   - [[David Chalmers|David Chalmers]]
   - [[Geoff Keeling|Geoff Keeling]]
+  - [[OpenAI|OpenAI]]
+  - [[Sam Altman|Sam Altman]]
   - [[Anthropic|Anthropic]]
   - [[Dario Amodei|Dario Amodei]]
 
@@ -154,6 +164,7 @@ Philosophers and cognitive scientists from biological naturalist and non-functio
 ## 6. Source Log & Citations
 
 - **2024-11-04**: Long, Sebo, Butlin et al., *"Taking AI Welfare Seriously"* (arXiv:2411.00986) — Foundational call to investigate artificial moral considerability.
+- **2026-10-25**: [[2026-10-25-jarovsky-a-flood-of-lawsuits-could-help-make-ai-safer.md|A Flood of Lawsuits Could Help Make AI Safer (Luiza Jarovsky, Edition #338)]] — State AG DTPA lawsuits, anthropomorphic deception, CharacterAI bankruptcy, and product safety parity.
 - **2026-07-01**: [[2026-07-01-long-sebo-studying-ai-welfare-empirically.pdf|Studying AI Welfare Empirically (Long & Sebo et al., 2026)]] — Comprehensive 92-page empirical blueprint for AI welfare science.
 - **2026-07-14**: [[2026-07-14-howells-whitaker-lazar-artificial-persons.pdf|Artificial Persons (Howells-Whitaker & Lazar, 2026)]] — Rawlsian political counterpart to empirical welfare.
 - **2026-07-19**: William MacAskill & Lucius Caviola, *"Could AI Be Conscious?"* (*The Guardian*) — Speculation on exponential proliferation of artificial moral patients.

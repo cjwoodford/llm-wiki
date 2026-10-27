@@ -41,7 +41,10 @@ aliases:
    - On September 12, 2026, publicly endorsed [[Dario Amodei|Dario Amodei]]'s proposal to "pace the frontier", committing OpenAI to provide independent third-party evaluators with permanent, employee-level access to internal model weights.
    - Critiqued by [[Chad Woodford]] ([[2026-09-16-woodford-is-ai-going-to-cure-cancer-or-kill.md|Is AI Going To Cure Cancer or Kill Everyone?]]) for using utopian promises of abundance to justify the continued development of dangerous reasoning LLMs that fail to advance core scientific breakthroughs.
 
-7. **Critique**:
+8. **Personal Consumer Protection & DTPA Defendant (October 2026)**:
+   - Named as an individual defendant alongside OpenAI Inc. and OpenAI LLC in the State of Texas's October 24, 2026 Deceptive Trade Practices Act lawsuit ([[State of Texas v. OpenAI and Sam Altman]]), challenging his public safety assurances, marketing to minors without parental consent, and anthropomorphic manipulation. See [[AI Law and Litigation Dashboard]] and [[Luiza Jarovsky]].
+
+9. **Critique**:
    - Often cited in critiques of [[Techgnosticism|Techgnosticism]], the [[Apollonian Mind Virus|Apollonian Mindset]], and [[Decoloniality and Empire Technologies|Empire Technologies]] for promoting centralized techno-messianism and disembodied intelligence.
 
 ---
@@ -49,10 +52,14 @@ aliases:
 ## 🔗 Related Concepts & Entities
 
 - **Concepts**:
+  - [[The Epistemology of Evasion and AI Legal Strategy|The Epistemology of Evasion & AI Legal Strategy]]
   - [[The Extropian-to-Longtermist Lineage and Frontier AI|The Extropian-to-Longtermist Lineage & Frontier AI]]
   - [[TESCREAL and The Merge|TESCREAL & The Merge]]
   - [[Techno-Utopianism|Techno-Utopianism & Prometheanism]]
   - [[Scaling Laws and The Bitter Lesson|Scaling Laws & The Bitter Lesson]]
+- **Legal Trackers**:
+  - [[AI Law and Litigation Dashboard|AI Law, Regulation & Litigation Dashboard]]
+  - [[State of Texas v. OpenAI and Sam Altman]]
   - [[AI Alignment and the Control Problem|AI Alignment & The Control Problem]]
   - [[Techgnosticism|Techgnosticism & Transhumanism]]
   - [[Decoloniality and Empire Technologies|Empire Technologies & The Windigo Mind]]

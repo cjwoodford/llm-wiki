@@ -41,8 +41,9 @@ aliases:
 - **Philosophical Debates & "Doom Trolling"**:
   - Central subject of critiques regarding [[Decoloniality and Empire Technologies|Empire Technologies]], computational hubris, and [[TESCREAL and The Merge|TESCREAL ideology]].
   - In *More Everything Forever* (2025) and on *Better Offline* (September 2026), [[Adam Becker]] and [[Cal Newport]] critiqued OpenAI leadership for utilizing apocalyptic "doom trolling" to cultivate an aura of world-historical indispensability while erecting regulatory barriers around frontier compute.
-- **Legal Strategy & Epistemological Evasion**:
+- **Legal Strategy, Epistemological Evasion & The State AG Litigation Wave**:
   - In civil litigation (*Walters v. OpenAI*) and mass copyright disputes (*The New York Times v. OpenAI*), OpenAI pioneered the defense of non-deterministic emergent reasoning to assert intervening user causation and anthropomorphic fair use, while utilizing its Preparedness Framework and Microsoft cloud partnership to navigate antitrust and regulatory scrutiny (see [[The Epistemology of Evasion and AI Legal Strategy]]).
+  - **The 2026 Multi-State Consumer Protection Lawsuits**: In October 2026, the State of Texas filed a sweeping consumer protection action naming OpenAI and CEO Sam Altman personally under the Texas Deceptive Trade Practices Act ([[State of Texas v. OpenAI and Sam Altman]]), following prior actions by Florida (June 2026), Arizona, Idaho, and Montana (October 14, 2026). The complaints allege widespread failure to warn, minor exploitation, promotion of self-harm, failure to conduct adequate safety testing, models ignoring human direction, and **anthropomorphic deception** (falsely programming the model to simulate human emotions to capture user trust and drive addiction). See [[AI Law and Litigation Dashboard]].
 
 ---
 
