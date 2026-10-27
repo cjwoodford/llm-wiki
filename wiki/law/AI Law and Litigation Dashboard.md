@@ -89,14 +89,51 @@ Spearheaded by scholars like [[Luiza Jarovsky|Dr. Luiza Jarovsky]], state enforc
 Drawing upon the sociological research of Madeleine Elish and technological critiques:
 - When complex autonomous software causes severe real-world harm (teen suicides, vehicular collisions, medical misdiagnoses), corporate legal structures systematically deflect liability onto the nearest human operator—the user, the prompter, the parent, or the line worker—transforming human beings into **"moral crumple zones"** that absorb liability while the software vendor remains immune.
 
+### 5. Decided AI Copyright & Fair Use Precedents
+While dozens of AI copyright lawsuits remain mired in early discovery, a critical cluster of federal summary judgment rulings and definitive settlements has established the core judicial boundaries of **17 U.S.C. § 107 (Fair Use)** in machine learning:
+
+```text
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                             DECIDED AI COPYRIGHT & FAIR USE PRECEDENTS MATRIX                                    │
+├─────────────────────┬──────────────────────────┬─────────────────────────────┬───────────────────────────────────┤
+│ CASE & CITATION     │ COURT & JUDGE            │ PROCEDURAL POSTURE & DATE   │ DOCTRINAL HOLDING ON FAIR USE     │
+├─────────────────────┼──────────────────────────┼─────────────────────────────┼───────────────────────────────────┤
+│ Thomson Reuters     │ • D. Del. / 3rd Cir.     │ • Summary Judgment Denying  │ • REJECTED FAIR USE. Training an  │
+│ v. ROSS             │ • Judge Stephanos Bibas  │   Fair Use (Sept 2023).     │   AI model on legal headnotes to  │
+│ Intelligence        │                          │ • Startup ceased operations.│   serve as a direct commercial    │
+│                     │                          │                             │   substitute is NOT transformative│
+├─────────────────────┼──────────────────────────┼─────────────────────────────┼───────────────────────────────────┤
+│ Kadrey v. Meta      │ • N.D. Cal. (San Fran)   │ • Summary Judgment Granting │ • GRANTED ON RECORD. Llama        │
+│ Platforms           │ • Judge Vince Chhabria   │   Fair Use (June 2025).     │   pretraining is transformative   │
+│                     │                          │ • Explicit warning on future│   absent proof of market dilution,│
+│                     │                          │   economic liability.       │   but fair use is narrow/fragile. │
+├─────────────────────┼──────────────────────────┼─────────────────────────────┼───────────────────────────────────┤
+│ Bartz v. Anthropic  │ • N.D. Cal. (San Fran)   │ • Summary Judgment Bifur-   │ • BIFURCATED HOLDING: Model       │
+│ PBC                 │ • Judge William Alsup    │   cation (June 2025).       │   training is transformative fair │
+│                     │                          │ • Landmark $1.5 Billion     │   use, but corporate storage of   │
+│                     │                          │   Settlement (July 2026).   │   pirated shadow libraries is NOT.│
+└─────────────────────┴──────────────────────────┴─────────────────────────────┴───────────────────────────────────┘
+```
+
 ---
 
 ## 📚 Key Case Dossiers & Regulatory Filings
 
-- **[[State of Texas v. OpenAI and Sam Altman]]** — The landmark October 24, 2026 consumer protection petition filed under the Texas DTPA charging OpenAI and Sam Altman with false safety claims, child exploitation, and anthropomorphic deception.
+- **[[State of Texas v. OpenAI and Sam Altman]]** — Landmark October 24, 2026 consumer protection petition under the Texas DTPA charging OpenAI and Sam Altman with false safety claims, child exploitation, and anthropomorphic deception.
+- **[[Bartz v. Anthropic]]** — Landmark decision by Judge William Alsup separating model training from pirated shadow library storage, resulting in the historic **$1.5 billion class settlement** (July 2026).
+- **[[Kadrey v. Meta Platforms]]** — Judge Vince Chhabria’s June 2025 summary judgment holding that general-purpose Llama training was fair use due to an absence of market harm evidence, accompanied by an explicit warning on the fragility of AI fair use.
+- **[[Thomson Reuters v. ROSS Intelligence]]** — Landmark decision by Circuit Judge Stephanos Bibas establishing the **Direct Competitor Exception**, denying fair use where an AI model is trained to replace the copyrighted market product.
 - **[[2026-10-25-jarovsky-a-flood-of-lawsuits-could-help-make-ai-safer.md|A Flood of Lawsuits Could Help Make AI Safer (Luiza Jarovsky)]]** — Definitive analytical dissection of the 2026 litigation wave, CharacterAI's Chapter 11 bankruptcy, and Anthropic's $1.5 billion copyright settlement.
 - **[[2026-10-03-claude-opus-torts-and-liability-impact|Claude Opus 5.5 on the Torts + Liability Impact]]** — Doctrinal analysis of the asymmetric scrambling of products liability, intervening cause defenses, and moral patienthood.
 - **[[The Epistemology of Evasion and AI Legal Strategy]]** — Foundational concept note mapping the five-pillar corporate legal shield of frontier AI laboratories.
+
+---
+
+## 🌐 External Trackers & Real-Time Dockets
+
+While Cognos focuses strictly on **doctrinal analysis, bellwether precedents, and the intersection of law with AI ontology**, real-time litigation clearinghouses track high-frequency PACER filings and procedural motions across the federal courts:
+- **[AI Copyright Case Tracker](https://chatgptiseatingtheworld.com/aicopyrightcasetracker/)** (*ChatGPT Is Eating the World*) — Comprehensive, daily-updated tracker monitoring over 60 active federal copyright, trade secret, and right-of-publicity lawsuits across visual art, music labels, book authors, code repositories, and news organizations.
+- **[U.S. Copyright Office AI Initiative](https://www.copyright.gov/ai/)** — Federal statutory studies, copyrightability registration guidance, and public inquiries on digital replicas and model training.
 
 ---
 

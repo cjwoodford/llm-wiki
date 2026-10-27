@@ -23,8 +23,8 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 | Metric | Count | Status |
 | :--- | :--- | :--- |
 | **Thematic Concepts** | 56 | 🟢 Fully Linked (5-Part Standard Schema) |
-| **Key Entities** | 150 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
-| **Legal Trackers & Cases** | 2 | 🟢 Active Dockets & Doctrinal Analyses (`wiki/law/`) |
+| **Key Entities** | 151 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
+| **Legal Trackers & Cases** | 5 | 🟢 Active Dockets & Doctrinal Analyses (`wiki/law/`) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
 | **Archived Primary Sources** | 181 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
@@ -659,6 +659,7 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[OpenAI|OpenAI]]** — ChatGPT, GPT-4, GPT-5.6 Sol, HPIM, and autonomous agent safety research.
 - **[[Anthropic|Anthropic]]** — Constitutional AI, Claude models, J-lens global workspace, and model welfare.
 - **[[Google DeepMind|Google DeepMind]]** — AlphaFold, Gemini, RL agent architectures, and specification gaming research.
+- **[[Meta|Meta]]** — Llama open-weights foundation models, FAIR, Yann LeCun, commoditizing complements, and shadow-library fair use litigation.
 - **[[Demis Hassabis|Demis Hassabis]]** — CEO of Google DeepMind, 2024 Nobel Laureate in Chemistry, architect of AlphaFold, GraphCast, GNoME, and AlphaProof.
 - **[[Shane Legg|Shane Legg]]** — Co-founder and Chief AGI Scientist at Google DeepMind, FHI alumnus, and pioneer of universal mathematical intelligence tests.
 - **[[Stuart Russell|Stuart Russell]]** — UC Berkeley computer scientist, author of *Human Compatible*, AIMA co-author, pioneer of Assistance Games / CIRL, and anti-autonomous weapons leader.
@@ -704,6 +705,9 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[AI Law and Litigation Dashboard|AI Law, Regulation & Litigation Dashboard]]** — Master intelligence portal tracking court dockets, statutory battles, and regulatory proceedings across common-law torts, products liability, mass copyright claims, state consumer protection statutes, and antitrust enforcement.
   - **Key Case Dossiers & Dockets**:
     - **[[State of Texas v. OpenAI and Sam Altman]]** — Landmark state AG consumer protection petition under the Texas DTPA charging OpenAI and Sam Altman with false safety claims, child exploitation, and anthropomorphic deception.
+    - **[[Bartz v. Anthropic]]** — Summary judgment by Judge William Alsup separating model training from pirated shadow library storage, resulting in the historic $1.5 billion settlement.
+    - **[[Kadrey v. Meta Platforms]]** — Judge Vince Chhabria's summary judgment holding general-purpose Llama training fair use absent market harm proof, with warnings on future liability.
+    - **[[Thomson Reuters v. ROSS Intelligence]]** — Circuit Judge Stephanos Bibas establishing the Direct Competitor Exception, denying fair use for AI training that replaces the copyrighted product.
   - **Core Doctrinal Concepts**:
     - **[[The Epistemology of Evasion and AI Legal Strategy]]** — Theoretical mapping of how frontier laboratories deploy narratives of emergent superintelligence to insulate corporate balance sheets from common-law liability.
     - **[[2026-10-03-claude-opus-torts-and-liability-impact|Claude Opus 5.5 on the Torts + Liability Impact]]** — Doctrinal analysis of the asymmetric scrambling of products liability, intervening cause defenses, and moral patienthood.
