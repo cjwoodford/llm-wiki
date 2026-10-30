@@ -22,13 +22,31 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 
 | Metric | Count | Status |
 | :--- | :--- | :--- |
-| **Thematic Concepts** | 56 | 🟢 Fully Linked (5-Part Standard Schema) |
-| **Key Entities** | 151 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
+| **Thematic Concepts** | 57 | 🟢 Fully Linked (5-Part Standard Schema) |
+| **Key Entities** | 152 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Legal Trackers & Cases** | 5 | 🟢 Active Dockets & Doctrinal Analyses (`wiki/law/`) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
 | **Archived Primary Sources** | 181 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
 | **Web Clippings Queue** | 0 | 🟢 Clear (`Clippings/`) |
+
+---
+
+## 🔄 Recent Activity (2026-10-30)
+
+- **Philosophical Disambiguation & Synthesis: Functionalism (Philosophy of Mind)**:
+  - **New Master Thematic Concept Created**:
+    - [[Functionalism|Functionalism (Philosophy of Mind)]]: Exhaustive master dossier formalizing functionalism as an autonomous metaphysical doctrine distinct from narrow computationalism/CTM:
+      - *The Historical Trilemma*: Overcoming the dual failures of Logical Behaviorism (Ryle, Skinner) and Mind-Brain Type Identity Theory (Place, Smart, Armstrong); establishing the **Multiple Realizability Thesis** (Putnam, 1967) and token physicalism without biological chauvinism.
+      - *Taxonomy of the Five Major Varieties*: Machine State Functionalism (Putnam/Fodor), Analytic/Common-Sense Functionalism ([[David Lewis]]), Psychofunctionalism ([[Ned Block]]), Teleological Functionalism (Millikan, Dretske), and Homuncular Functionalism (Lycan, Dennett).
+      - *Role vs. Realizer Functionalism*: Metaphysical distinction between higher-order role properties vs. first-order physical realizers (Lewis's resolution of "Mad Pain and Martian Pain").
+      - *Classical Counter-Arguments & Refutations*: Absent Qualia and the China Brain ([[Ned Block]]), Inverted Spectrum, Searle's Chinese Room, Jaegwon Kim's Causal Exclusion Problem & epiphenomenalist collapse, and biological naturalism / substrate inseparability (Seth, Block, Tononi, 2026).
+      - *Metaphysical Engine of Frontier AI*: Analyzes how unexamined functionalism operates as the implicit theology of Silicon Valley, powering the [[The Sincerity Trap and the Sanctified Bottom Line|Sincerity Trap]] and the reification of Large Language Models.
+  - **New Thinker Entity Dossier Created**:
+    - [[David Lewis]]: Architect of Analytic / Common-Sense Functionalism, the Carnap-Lewis-Ramsey sentence method for defining theoretical/mental terms, Realizer Functionalism (*"Mad Pain and Martian Pain"*), counterpart theory, and modal realism.
+  - **Cross-Vault Concept & Entity Expansions**:
+    - [[Ned Block]]: Enriched with his seminal 1978 paper *"Troubles with Functionalism"*, the Chinese Nation / China Brain thought experiment, and the Liberalism vs. Chauvinism dilemma.
+    - [[Machine Functionalism and Language of Thought]]: Added categorical disambiguation callout distinguishing machine functionalism / CTM as a specific computational subset of general functionalism.
 
 ---
 
@@ -505,6 +523,7 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[Enlightenment Conflation of Mind with Reason|The Enlightenment Conflation of Mind with Reason]]** — Historic collapse of *nous* into *dianoia* / computational calculation.
 
 ### II. Consciousness, Sentience & Philosophy of Mind
+- **[[Functionalism|Functionalism (Philosophy of Mind)]]** — The metaphysics of mind as causal-functional role, multiple realizability, the 5 varieties (machine state, analytic, psychofunctional, teleological, homuncular), role vs. realizer, and refutations from absent qualia (China Brain) to causal exclusion.
 - **[[Is Consciousness Necessary for True Intelligence|Is Consciousness Necessary for True Intelligence?]]** — The cross-disciplinary counter-tradition (affective neuroscience, enactive biology, phenomenology, biological naturalism) proving genuine adaptive intelligence requires felt valence, skin in the game, and relevance realization.
 - **[[Basal Cognition and Diverse Intelligence|Basal Cognition & Diverse Intelligence]]** — Michael Levin's TAME framework, scale-free problem solving, bioelectric target morphology, Xenobots/Anthrobots, and non-physicalist pattern ingression ($\text{Mind}:\text{Body} :: \text{Math}:\text{Physics}$).
 - **[[Quantum Integrated Information Theory and Collapse|Quantum Integrated Information Theory & Collapse]]** — Chalmers & McQueen's QIIT model, Continuous Spontaneous Localization (CSL), resolving the Quantum Zeno effect, and optomechanical tests of consciousness-induced collapse.
@@ -613,6 +632,7 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[Daniel Dennett|Daniel Dennett]]** — American philosopher, functionalist, formulator of the Robot's Dilemma (*Cognitive Wheels*), the Intentional Stance, and the Multiple Drafts Model.
 - **[[John Searle|John Searle]]** — Chinese Room argument, observer-relative fallacy, and biological naturalism.
 - **[[Hilary Putnam|Hilary Putnam]]** — Machine Functionalism pioneer and author of later anti-functionalist retractions.
+- **[[David Lewis|David Lewis]]** — Princeton philosopher, architect of Analytic/Common-Sense Functionalism, the Carnap-Lewis-Ramsey method, Realizer Functionalism (*"Mad Pain and Martian Pain"*), and modal realism.
 - **[[Jerry Fodor|Jerry Fodor]]** — Language of Thought (LOT) hypothesis and modularity ceiling.
 - **[[Steven Horst|Steven Horst]]** — Philosopher of mind, author of the SEP entry on CTM, and originator of the semantic equivocity critique.
 - **[[Bernardo Kastrup|Bernardo Kastrup]]** — Analytic Idealism, cosmic mind, and dissociation.

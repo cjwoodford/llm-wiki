@@ -34,6 +34,9 @@ Together, they argue that:
 1. **Multiple Realizability & Functional States**: Mental states (beliefs, desires, intentions) are functional machine states defined by their causal relations to sensory inputs, behavioral outputs, and other internal states, rather than by their biological physical-chemical composition. Mental states can thus be realized identically in meat, silicon, or any physical medium.
 2. **The Syntactic Engine Driving Semantics**: Cognitive processes are computational operations executed over an internal mental syntax (**Mentalese**)—a physical language of thought endowed with combinatorial syntax and compositional semantics. Thought is truth-preserving formal symbol manipulation governed purely by syntactic rules.
 
+> [!NOTE] Categorical Disambiguation: Machine Functionalism vs. General Functionalism
+> **Machine Functionalism** is a *specific computational subset* of the broader metaphysical doctrine of **[[Functionalism|Functionalism (Philosophy of Mind)]]**. While general functionalism defines mental states by their abstract causal-functional roles across an organism's behavioral economy (encompassing [[David Lewis|Lewis's]] analytic/common-sense functionalism, psychofunctionalism, teleofunctionalism, and homuncular functionalism), Machine Functionalism specifically identifies these roles with the formal, discrete syntactic transition tables of a Turing machine or digital computer. See the master concept dossier: [[Functionalism]].
+
 ---
 
 ## 2. Historical Genesis: The 1950s Materialist Crisis & The Software Solution
@@ -188,6 +191,7 @@ The historical retractions of Putnam and Fodor directly illuminate the contempor
 ## 8. Related Concepts & Entities
 
 - **Concepts**:
+  - [[Functionalism|Functionalism (Philosophy of Mind)]]
   - [[The 1956 Foundations of AI and Cognitive Science|The 1956 Foundations of AI and Cognitive Science]]
   - [[Neuroscience|Neuroscience: Origins, Evolution & Developmental Milestones]]
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]
@@ -202,6 +206,7 @@ The historical retractions of Putnam and Fodor directly illuminate the contempor
 - **Entities**:
   - [[Hilary Putnam|Hilary Putnam]]
   - [[Jerry Fodor|Jerry Fodor]]
+  - [[David Lewis|David Lewis]]
   - [[Alan Turing|Alan Turing]]
   - [[Alfred P. Sloan Foundation|Alfred P. Sloan Foundation]]
   - [[Allen Newell|Allen Newell]]
