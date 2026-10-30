@@ -25,11 +25,12 @@ aliases:
 2. **"Physics Has No Syntax" (1992)**:
    - Formulated the argument that computation is an **observer-relative** property, not an intrinsic physical feature of nature ([[Computation vs Nature and the Observer-Relative Fallacy|Computation vs. Nature & The Observer-Relative Fallacy]]).
    - Electrical state changes in a transistor only become "computation" when interpreted by a conscious observer.
-3. **Biological Naturalism**:
-   - Argues that consciousness is a biological phenomenon caused by neurobiological processes in living brains, which cannot be duplicated by abstract silicon simulation.
+3. **Biological Naturalism vs. Functionalism**:
+   - Formulated **Biological Naturalism** (*The Rediscovery of the Mind*, 1992) explicitly to dismantle functionalism. Searle argued that functionalism commits a modern form of Cartesian dualism by detaching mind (software) from physical substrate (hardware).
+   - Consciousness is a biological phenomenon causally produced by the specific micro-level neurobiological and cellular processes of living brains (analogous to how liquid water exhibits liquidity or the liver secretes bile).
+   - *Classical Anti-Functionalism vs. Modern Biological Functionalism*: For Searle, functional organization is fundamentally insufficient; the actual biochemical substrate is mandatory. In contrast, modern neuroscientists like [[Anil Seth]] adapt Searle's biological naturalism into **[[Functionalism|Biological Functionalism]]**—agreeing that digital computation cannot instantiate mind, but arguing that biological functions (allostatic regulation, autopoiesis, interoceptive predictive loops) provide the empirical explanatory bridge to qualia.
 
 ---
-
 
 4. **Critique of Information Theory & Integrated Information Theory (IIT, 2013)**:
    - In *Can Information Theory Explain Consciousness?* (2013), dismantled the claim by Giulio Tononi and Christof Koch that information processing generates consciousness.
@@ -45,6 +46,7 @@ aliases:
 ## 🔗 Related Concepts & Entities
 
 - **Concepts**:
+  - [[Functionalism|Functionalism (Philosophy of Mind)]]
   - [[Is Consciousness Necessary for True Intelligence|Is Consciousness Necessary for True Intelligence?]]
   - [[Computation vs Nature and the Observer-Relative Fallacy|Computation vs. Nature & The Observer-Relative Fallacy]]
   - [[Machine Metaphor|The Machine Metaphor & Computationalism]]

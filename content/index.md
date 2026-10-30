@@ -23,7 +23,7 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 | Metric | Count | Status |
 | :--- | :--- | :--- |
 | **Thematic Concepts** | 57 | 🟢 Fully Linked (5-Part Standard Schema) |
-| **Key Entities** | 152 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
+| **Key Entities** | 154 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Legal Trackers & Cases** | 5 | 🟢 Active Dockets & Doctrinal Analyses (`wiki/law/`) |
 | **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
 | **Archived Primary Sources** | 181 | 🟢 Full YAML Provenance (`sources/archive/`) |
@@ -41,6 +41,13 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
       - *Taxonomy of the Six Major Varieties*: Machine State Functionalism (Putnam/Fodor), Analytic/Common-Sense Functionalism ([[David Lewis]]), Psychofunctionalism ([[Ned Block]]), Teleological Functionalism (Millikan, Dretske), Homuncular Functionalism (Lycan, Dennett), and **Biological Functionalism** ([[Anil Seth]]).
       - *Biological Functionalism & The Beast Machine*: Details Seth's biologically grounded functionalism where mental states are constituted by homeostatic autopoiesis and interoceptive inference, explicitly rejecting computational substrate independence.
       - *Role vs. Realizer Functionalism*: Metaphysical distinction between higher-order role properties vs. first-order physical realizers (Lewis's resolution of "Mad Pain and Martian Pain").
+      - *The Four Alternatives to Computational Functionalism & The Compatibility Matrix*:
+        - *Crucial Distinction*: Narrow / Computational Functionalism (substrate-independent software) vs. Broad / Biological Functionalism (metabolic, living autopoiesis).
+        - *1. Biological Naturalism*: Classical Searle (strongly anti-functionalist biological secretion) vs. Modern Sethian Biological Functionalism (metabolic functions).
+        - *2. 4E Cognitive Science (Internal Schism)*: Extended Mind ([[Andy Clark]], Chalmers) as strongly functionalist (**Extended Functionalism** via Parity Principle) vs. Autopoietic Enactivism ([[Francisco Varela]], [[Evan Thompson]]) as anti-functionalist (**Life-Mind Continuity**).
+        - *3. Phenomenological Critique*: [[Hubert Dreyfus]], [[Maurice Merleau-Ponty]], Heidegger; fundamentally incompatible due to the non-formalizable background of Being-in-the-World (*Dasein*) and skillful bodily coping.
+        - *4. Organicism & Process Traditions*: [[Hans Jonas]] (metabolism as an ontological condition of inwardness/*Sorge*, not a functional program) and [[Alfred North Whitehead]] (reality as actual occasions, prehensions, and panexperientialism; functionalism as the fallacy of misplaced concreteness).
+        - *Why Anil Seth Annoys Both Camps*: Alienates AI computational functionalists by invalidating machine sentience, while alienating phenomenologists/idealists by reducing lived experience to Bayesian error minimization.
       - *Classical Counter-Arguments & Refutations*: Absent Qualia and the China Brain ([[Ned Block]]), Inverted Spectrum, Searle's Chinese Room, Jaegwon Kim's Causal Exclusion Problem & epiphenomenalist collapse, and biological naturalism / substrate inseparability (Seth, Block, Tononi, 2026).
       - *Metaphysical Engine of Frontier AI*: Analyzes how unexamined functionalism operates as the implicit theology of Silicon Valley, powering the [[The Sincerity Trap and the Sanctified Bottom Line|Sincerity Trap]] and the reification of Large Language Models.
   - **Deepening of Anil Seth & The "Real Problem" of Consciousness**:
@@ -48,11 +55,17 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
       - *The "Real Problem" of Consciousness* (*Being You*, 2021): Pragmatic dissolution of Chalmers' Hard Problem through explaining, predicting, and controlling phenomenological properties (levels, contents, embodied selfhood).
       - *The Vitalism Analogy*: How biology dissolved the 19th-century "hard problem of life" without needing an *élan vital*, predicting an identical trajectory for consciousness.
       - *Biological Functionalism & The Beast Machine*: Inverting Descartes; consciousness grounded in autopoietic survival, continuous thermodynamics, and interoceptive inference; demonstrating wetware-software generative entrenchment.
+      - *Seth's Contested Middle Ground*: Synthesizing why his Beast Machine provokes friction with both computationalists and phenomenologists.
     - [[Hard Problem of Consciousness]]: Integrated the Tripartite Problem Space (Easy vs. Hard vs. Real) and Seth's vitalism analogy.
     - [[Scientific Theories of Consciousness]]: Synthesized Seth's biological functionalist defense against the "Optimization Gap" in Predictive Processing.
     - [[AI Consciousness and Sentience]]: Grounded the rejection of machine sentience in the absence of metabolic autopoiesis and interoceptive vulnerability.
-  - **New Thinker Entity Dossier Created**:
+    - [[Phenomenology and Embodied Cognition]]: Integrated the 4E internal schism (Extended Functionalism vs. Autopoietic Enactivism), Jonas's metabolic ontology, and the friction with Seth's predictive reductionism.
+    - [[Hans Jonas]]: Enriched with the ontological breach against functionalism (metabolism as an ontological condition of inwardness vs. observer-relative program).
+    - [[John Searle]]: Contrasted classical biological naturalism with Sethian biological functionalism.
+  - **3 New Thinker Entity Dossiers Created**:
     - [[David Lewis]]: Architect of Analytic / Common-Sense Functionalism, the Carnap-Lewis-Ramsey sentence method for defining theoretical/mental terms, Realizer Functionalism (*"Mad Pain and Martian Pain"*), counterpart theory, and modal realism.
+    - [[Alfred North Whitehead]]: Pioneer of process metaphysics and the philosophy of organism (*Process and Reality*, 1929), actual occasions, prehension, panexperientialism, and the critique of the fallacy of misplaced concreteness.
+    - [[Andy Clark]]: Foremost theorist of 4E cognitive science, Extended Functionalism, the Parity Principle (*"The Extended Mind"*, 1998 with Chalmers), *Natural-Born Cyborgs*, and predictive processing (*Surfing Uncertainty*).
   - **Cross-Vault Concept & Entity Expansions**:
     - [[Ned Block]]: Enriched with his seminal 1978 paper *"Troubles with Functionalism"*, the Chinese Nation / China Brain thought experiment, and the Liberalism vs. Chauvinism dilemma.
     - [[Machine Functionalism and Language of Thought]]: Added categorical disambiguation callout distinguishing machine functionalism / CTM as a specific computational subset of general functionalism.
