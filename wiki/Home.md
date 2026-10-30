@@ -38,10 +38,19 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
   - **New Master Thematic Concept Created**:
     - [[Functionalism|Functionalism (Philosophy of Mind)]]: Exhaustive master dossier formalizing functionalism as an autonomous metaphysical doctrine distinct from narrow computationalism/CTM:
       - *The Historical Trilemma*: Overcoming the dual failures of Logical Behaviorism (Ryle, Skinner) and Mind-Brain Type Identity Theory (Place, Smart, Armstrong); establishing the **Multiple Realizability Thesis** (Putnam, 1967) and token physicalism without biological chauvinism.
-      - *Taxonomy of the Five Major Varieties*: Machine State Functionalism (Putnam/Fodor), Analytic/Common-Sense Functionalism ([[David Lewis]]), Psychofunctionalism ([[Ned Block]]), Teleological Functionalism (Millikan, Dretske), and Homuncular Functionalism (Lycan, Dennett).
+      - *Taxonomy of the Six Major Varieties*: Machine State Functionalism (Putnam/Fodor), Analytic/Common-Sense Functionalism ([[David Lewis]]), Psychofunctionalism ([[Ned Block]]), Teleological Functionalism (Millikan, Dretske), Homuncular Functionalism (Lycan, Dennett), and **Biological Functionalism** ([[Anil Seth]]).
+      - *Biological Functionalism & The Beast Machine*: Details Seth's biologically grounded functionalism where mental states are constituted by homeostatic autopoiesis and interoceptive inference, explicitly rejecting computational substrate independence.
       - *Role vs. Realizer Functionalism*: Metaphysical distinction between higher-order role properties vs. first-order physical realizers (Lewis's resolution of "Mad Pain and Martian Pain").
       - *Classical Counter-Arguments & Refutations*: Absent Qualia and the China Brain ([[Ned Block]]), Inverted Spectrum, Searle's Chinese Room, Jaegwon Kim's Causal Exclusion Problem & epiphenomenalist collapse, and biological naturalism / substrate inseparability (Seth, Block, Tononi, 2026).
       - *Metaphysical Engine of Frontier AI*: Analyzes how unexamined functionalism operates as the implicit theology of Silicon Valley, powering the [[The Sincerity Trap and the Sanctified Bottom Line|Sincerity Trap]] and the reification of Large Language Models.
+  - **Deepening of Anil Seth & The "Real Problem" of Consciousness**:
+    - [[Anil Seth]]: Enriched thinker dossier with comprehensive sections on:
+      - *The "Real Problem" of Consciousness* (*Being You*, 2021): Pragmatic dissolution of Chalmers' Hard Problem through explaining, predicting, and controlling phenomenological properties (levels, contents, embodied selfhood).
+      - *The Vitalism Analogy*: How biology dissolved the 19th-century "hard problem of life" without needing an *élan vital*, predicting an identical trajectory for consciousness.
+      - *Biological Functionalism & The Beast Machine*: Inverting Descartes; consciousness grounded in autopoietic survival, continuous thermodynamics, and interoceptive inference; demonstrating wetware-software generative entrenchment.
+    - [[Hard Problem of Consciousness]]: Integrated the Tripartite Problem Space (Easy vs. Hard vs. Real) and Seth's vitalism analogy.
+    - [[Scientific Theories of Consciousness]]: Synthesized Seth's biological functionalist defense against the "Optimization Gap" in Predictive Processing.
+    - [[AI Consciousness and Sentience]]: Grounded the rejection of machine sentience in the absence of metabolic autopoiesis and interoceptive vulnerability.
   - **New Thinker Entity Dossier Created**:
     - [[David Lewis]]: Architect of Analytic / Common-Sense Functionalism, the Carnap-Lewis-Ramsey sentence method for defining theoretical/mental terms, Realizer Functionalism (*"Mad Pain and Martian Pain"*), counterpart theory, and modal realism.
   - **Cross-Vault Concept & Entity Expansions**:

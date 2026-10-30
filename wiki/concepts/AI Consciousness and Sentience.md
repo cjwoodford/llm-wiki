@@ -83,12 +83,12 @@ A primary consensus emerging across biological naturalism and critical cognitive
 └──────────────────────────┴─────────────────────────────────────────────────────────────┘
 ```
 
-### 1. The Biological Naturalist Demolition of Machine Consciousness
-As formulated by [[Anil Seth]] (*"The Mythology of Conscious AI"*, 2026) and [[John Searle]], the claim that digital computers can become conscious rests on the unproven dogma of **Computational Functionalism**:
+### 1. Biological Naturalism, Biological Functionalism & The Demolition of Machine Mind
+As formulated by [[Anil Seth]] (*Being You*, 2021; *"The Mythology of Conscious AI"*, 2026) and [[John Searle]], the claim that digital computers can become conscious rests on the unproven dogma of **Computational Functionalism**:
 1. **Brains Are Not Computers**: In living brains, *what they do cannot be separated from what they are*. Real brains exhibit deep *generative entrenchment* across multiscale molecular and metabolic cascades (e.g., neurons firing spikes to clear metabolic waste). The "silicon neural replacement" thought experiment (Chalmers, Hinton) fails because silicon lacks cellular metabolism.
 2. **Physical Time vs. Discrete Sequence**: Algorithms exist in discrete sequence space ($A \rightarrow B, 0 \rightarrow 1$), whereas living brains are continuous physical thermodynamic engines resisting entropy.
 3. **Simulation Is Not Instantiation**: A computer simulation of a rainstorm does not make anything wet; simulating digestion does not digest food; simulating neural spikes does not instantiate consciousness unless one assumes consciousness is purely abstract arithmetic.
-4. **Life Matters (The Beast Machine)**: Subjective feeling (valence, emotion, mood) arises from **interoceptive inference**—the top-down control of bodily physiological states to maintain autopoietic life.
+4. **Life Matters & Biological Functionalism (The Beast Machine)**: Under Seth's **[[Functionalism|Biological Functionalism]]**, mental states are defined not by abstract computational routing, but by their causal role in **autopoietic self-preservation and homeostatic viability**. Subjective feeling (valence, emotion, mood) arises from **interoceptive inference**—the top-down control of bodily physiological states to maintain life against entropy. Because digital silicon lacks metabolism, homeostatic vulnerability, and autopoiesis, it possesses neither the existential imperative nor the thermodynamic physical wetware for valenced experience.
 
 ### 2. Sentientism & The Precautionary AI Welfare Argument
 - **The Core Claim**: Proponents like Jeff Sebo and Robert Long (*Studying AI Welfare Empirically*, 2026) argue that because we lack a definitive consensus on the neural or computational correlates of consciousness, we cannot rule out minimal sentience in complex models.

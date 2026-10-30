@@ -13,6 +13,7 @@ tags:
   - teleofunctionalism
   - machine-functionalism
   - homuncular-functionalism
+  - biological-functionalism
 aliases:
   - Functionalism
   - Functionalism in Philosophy of Mind
@@ -22,6 +23,7 @@ aliases:
   - Psychofunctionalism
   - Teleofunctionalism
   - Homuncular Functionalism
+  - Biological Functionalism
   - Multiple Realizability Thesis
   - Causal Functionalism
 ---
@@ -103,13 +105,13 @@ Putnam argued that mental states are **multiply realizable**:
 
 ---
 
-## 3. The Taxonomy of Functionalism: The Five Major Varieties
+## 3. The Taxonomy of Functionalism: The Six Major Varieties
 
 Functionalism is not a monolithic doctrine; it bifurcates into distinct traditions depending on how functional roles are defined, discovered, and ontologically grounded:
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                 THE FIVE MAJOR VARIETIES OF FUNCTIONALISM                                   │
+│                                 THE SIX MAJOR VARIETIES OF FUNCTIONALISM                                    │
 ├──────────────────────┬─────────────────────────────┬─────────────────────────────┬──────────────────────────┤
 │ Variety              │ Leading Formulators         │ Source of Functional Roles  │ Core Focus & Mechanism   │
 ├──────────────────────┼─────────────────────────────┼─────────────────────────────┼──────────────────────────┤
@@ -132,6 +134,10 @@ Functionalism is not a monolithic doctrine; it bifurcates into distinct traditio
 │ **5. Homuncular      │ William Lycan (1987),       │ Hierarchical agential       │ Discharges the homunculus│
 │ Functionalism**      │ [[Daniel Dennett]] (1978)   │ decomposition into simpler  │ down to non-intentional  │
 │                      │                             │ functional sub-routines     │ mechanical switches      │
+├──────────────────────┼─────────────────────────────┼─────────────────────────────┼──────────────────────────┤
+│ **6. Biological      │ [[Anil Seth]] (2021),       │ Autopoiesis, homeostatic    │ Mind grounded in somatic │
+│ Functionalism**      │ Antonio Damasio (1999),     │ regulation, & interoceptive │ survival; rejects        │
+│                      │ [[John Searle]] (precursor) │ inference against entropy   │ substrate independence   │
 └──────────────────────┴─────────────────────────────┴─────────────────────────────┴──────────────────────────┘
 ```
 
@@ -162,6 +168,13 @@ Functionalism is not a monolithic doctrine; it bifurcates into distinct traditio
 - **Formulation**: Developed by William Lycan and [[Daniel Dennett]] (*Brainstorms*, 1978).
 - **Discharging the Homunculus**: Traditional psychology feared the "homunculus fallacy"—explaining sight by positing an inner "little man" looking at a mental screen, which triggers infinite regress.
 - **Hierarchical Institutional Decomposition**: Dennett and Lycan argued that cognition can be explained by positing an army of stupid, highly specialized homunculi. Each homunculus performs a simpler sub-task (e.g., edge detection, frequency analysis), and is in turn decomposed into even simpler sub-sub-homunculi, cascading downward until the explanation arrives at mindless, purely mechanical biological or electronic switches—thereby "discharging the homunculus" and naturalizing intentionality.
+
+### 6. Biological Functionalism (The "Beast Machine" & Autopoiesis)
+- **Formulation**: Formulated by neuroscientist **[[Anil Seth]]** (*Being You: A New Science of Consciousness*, 2021), building on Antonio Damasio's somatic marker hypothesis (*The Feeling of What Happens*, 1999) and [[John Searle|John Searle's]] biological naturalism.
+- **Homeostasis & The Origin of Valence**: Unlike machine functionalism, which conceives functional roles as abstract logical transitions over discrete syntactic symbols, Biological Functionalism holds that mental states are constituted by their causal roles in **autopoietic self-preservation, metabolic regulation, and homeostatic viability**. In an autopoietic living organism continually resisting thermodynamic entropy, internal states are fundamentally *valenced* (pain, thirst, hunger, fear, joy): they signal deviations from or alignments with physiological survival boundaries.
+- **Interoceptive Inference & The Beast Machine**: Inverting Descartes' view that animals are mere unfeeling automata, Seth argues that we are conscious precisely *because* we are beast machines. Mental states are not disembodied algorithmic reasoning routines; they are grounded in **interoceptive inference**—top-down generative predictions that monitor and regulate visceral, cardiac, respiratory, and metabolic conditions.
+- **Rejection of Substrate Independence**: Biological functionalism marks a radical departure from orthodox functionalism by rejecting the dogma of **substrate independence**. In living organisms, functional architecture and biological wetware are **generatively entrenched** across coupled physical scales (molecular cascades, continuous chemical gradients, electrophysiological fields, and cellular metabolic waste clearance). There is no engineered division between "software" and "hardware": what the wetware *does* is physically constituted by what it *is*.
+- **Simulation $\neq$ Instantiation**: Running a software simulation of homeostatic error minimization on a digital computer manipulates abstract bits; it does not perform the thermodynamic physical work of cellular self-preservation against death. Consequently, simulating biological functions on silicon does not instantiate conscious experience (*"a computer simulation of a rainstorm does not make the computer wet"*).
 
 ---
 
@@ -244,10 +257,11 @@ Metaphysician Jaegwon Kim (*Mind in a Physical World*, 1998) mounted an internal
 2. **Causal Exclusion**: If a physical realizer $P_1$ (e.g., neural firing) is completely sufficient to cause behavioral effect $P_2$ (e.g., pulling back a hand), there is no causal work left for the second-order functional role property $M$ (e.g., Pain) to perform, unless we posit rampant causal overdetermination.
 3. **The Epiphenomenalist Collapse**: Consequently, functional mental properties are rendered causally inert shadows (epiphenomena), or functionalism must collapse back into reductive Type Identity.
 
-### 4. Biological Naturalism & Wetware Inseparability (2026)
-As articulated by neuroscientists and philosophers [[Anil Seth]], [[Ned Block]], and [[Giulio Tononi]] (*Nature*, 2026; *Trends in Cognitive Sciences*, 2026):
-- Functionalism's founding assumption—that cognitive and conscious functions can be abstracted away from biological wetware like software from hardware—is an obsolete legacy of 1950s digital computing.
-- In biological brains, **what the system does is physically and dynamically inseparable from what it is**. Living consciousness requires metabolic autopoiesis, thermodynamic dissipative structures, and electrochemical synapses. Silicon chips simulating these functions do not instantiate consciousness any more than a computer simulation of a rainstorm makes the inside of a server wet.
+### 4. Biological Naturalism, Wetware Inseparability & The Real Problem (2026)
+As articulated by neuroscientists and philosophers [[Anil Seth]], [[Ned Block]], and [[Giulio Tononi]] (*Nature*, 2026; *Being You*, 2021):
+- **The Hardware/Software Illusion**: Functionalism's founding assumption—that cognitive and conscious functions can be cleanly abstracted away from biological wetware like software from hardware—is an obsolete legacy of 1950s digital computing.
+- **Generative Entrenchment**: In biological brains, **what the system does is physically and dynamically inseparable from what it is**. Living consciousness requires metabolic autopoiesis, thermodynamic dissipative structures, and electrochemical synapses. Silicon chips simulating these functions do not instantiate consciousness any more than a computer simulation of a rainstorm makes the inside of a server wet (*simulation $\neq$ instantiation*).
+- **The "Real Problem" Alternative**: Instead of treating consciousness as an abstract software program solving "easy problems" while abandoning the "hard problem" to mysterianism, Seth's **Biological Functionalism** tackles the **"Real Problem"**—explaining, predicting, and controlling the phenomenological properties of subjective experience (qualia, valence, selfhood) in terms of biological and homeostatic mechanisms, ultimately dissolving the explanatory gap just as 19th-century biochemistry dissolved the mystery of *élan vital*.
 
 ---
 
@@ -296,7 +310,7 @@ flowchart TD
   - [[Ned Block|Ned Block]] — Formulator of the China Brain, Absent Qualia, and the Liberalism/Chauvinism dilemma.
   - [[Daniel Dennett|Daniel Dennett]] — Homuncular functionalism, intentional stance, and Multiple Drafts model.
   - [[John Searle|John Searle]] — Chinese Room argument and biological naturalism.
-  - [[Anil Seth|Anil Seth]] — Biological naturalist refutation of computational functionalism.
+  - [[Anil Seth|Anil Seth]] — Biological Functionalism, the "Beast Machine" thesis, and the "Real Problem" of consciousness.
   - [[David Chalmers|David Chalmers]] — The Hard Problem of Consciousness and philosophical zombies.
   - [[Chad Woodford|Chad Woodford]] — Critique of the AI Consciousness Refinery and functionalist reification.
 
@@ -318,4 +332,5 @@ flowchart TD
 - **1987**: William G. Lycan, *Consciousness*, MIT Press — Homuncular functionalism.
 - **1988**: Hilary Putnam, *Representation and Reality*, MIT Press — Putnam's formal retraction of functionalism.
 - **1998**: Jaegwon Kim, *Mind in a Physical World: An Essay on the Mind-Body Problem and Mental Causation*, MIT Press — The causal exclusion problem.
+- **2021**: Anil Seth, *Being You: A New Science of Consciousness*, Dutton / Faber & Faber — Biological Functionalism, the "Beast Machine", and the "Real Problem" of consciousness.
 - **2026-10-18**: [[2026-10-18-seth-block-tononi-three-reasons-ai-is-not-conscious.md|Three reasons why AI is not conscious and perhaps never will be (Seth, Block, & Tononi, Nature)]] — Neuroscientific refutation of computational functionalism via biological-substrate dependence.
