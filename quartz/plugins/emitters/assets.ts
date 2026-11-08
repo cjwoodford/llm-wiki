@@ -14,7 +14,8 @@ const filesToCopy = async (argv: Argv, cfg: QuartzConfig) => {
 const copyFile = async (argv: Argv, fp: FilePath) => {
   const src = joinSegments(argv.directory, fp) as FilePath
 
-  const name = slugifyFilePath(fp)
+  const ext = path.extname(fp)
+  const name = (slugifyFilePath(fp) + (ext === ".html" ? ".html" : "")) as FilePath
   const dest = joinSegments(argv.output, name) as FilePath
 
   // ensure dir exists
@@ -22,6 +23,13 @@ const copyFile = async (argv: Argv, fp: FilePath) => {
   await fs.promises.mkdir(dir, { recursive: true })
 
   await fs.promises.copyFile(src, dest)
+
+  const bareName = slugifyFilePath(fp) as FilePath
+  if (bareName !== name) {
+    const bareDest = joinSegments(argv.output, bareName) as FilePath
+    await fs.promises.copyFile(src, bareDest)
+  }
+
   return dest
 }
 
@@ -42,9 +50,15 @@ export const Assets: QuartzEmitterPlugin = () => {
         if (changeEvent.type === "add" || changeEvent.type === "change") {
           yield copyFile(ctx.argv, changeEvent.path)
         } else if (changeEvent.type === "delete") {
-          const name = slugifyFilePath(changeEvent.path)
+          const ext = path.extname(changeEvent.path)
+          const name = (slugifyFilePath(changeEvent.path) + (ext === ".html" ? ".html" : "")) as FilePath
           const dest = joinSegments(ctx.argv.output, name) as FilePath
           await fs.promises.unlink(dest)
+          const bareName = slugifyFilePath(changeEvent.path) as FilePath
+          if (bareName !== name) {
+            const bareDest = joinSegments(ctx.argv.output, bareName) as FilePath
+            await fs.promises.unlink(bareDest).catch(() => {})
+          }
         }
       }
     },

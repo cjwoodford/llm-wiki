@@ -25,10 +25,24 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 | **Thematic Concepts** | 57 | 🟢 Fully Linked (5-Part Standard Schema) |
 | **Key Entities** | 154 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Legal Trackers & Cases** | 5 | 🟢 Active Dockets & Doctrinal Analyses (`wiki/law/`) |
-| **Master Timelines** | 1 | 🟢 Spanning 1623 (Galileo) to 2026 (AGI Debates) |
+| **Master Timelines** | 2 | 🟢 Spanning Antiquity (c. 350 BCE) to Frontier AI (2026) |
 | **Archived Primary Sources** | 181 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
 | **Web Clippings Queue** | 0 | 🟢 Clear (`Clippings/`) |
+
+---
+
+## 🔄 Recent Activity (2026-11-08)
+
+- **Launch of Master Timeline: Western Concepts of Consciousness (c. 350 BCE – 2025 CE)**:
+  - **New Master Timeline Created**:
+    - [[Western Concepts of Consciousness]]: Comprehensive 2,400-year historical trajectory and interactive craft card synthesizing the evolution of Western consciousness models across four ontological paradigms:
+      - *1. Classical Hylomorphism & Interiority*: Aristotle's biological hylomorphism and reflexive perception (*De Anima* 3.2); Plotinus's *synaisthesis* and Augustine's radical psychological interiority (*mens*).
+      - *2. Early Modern Reflexivity, Mechanism & The Explanatory Gap*: Descartes' *conscii* and substance dualism; Ralph Cudworth's 1678 coinage of *"consciousness"* and teleological *plastic nature*; Locke's psychological continuity and "thinking matter"; Leibniz's Mill (§17) proving syntax cannot bridge the explanatory gap; Kant's transcendental unity of apperception and the irreducibility of qualitative sensation.
+      - *3. Phenomenology, Neutral Monism & Quantum Measurement*: Brentano's intentionality; William James's neutral monism (*"pure experience"*); Husserl's transcendental phenomenology; Pauli-Jung dual-aspect monism; Eugene Wigner's observer-induced wave function collapse (*Remarks on the Mind-Body Question*).
+      - *4. Analytic Taxonomy & Adversarial Cognitive Neuroscience*: Ned Block's phenomenal ($P$) vs. access ($A$) consciousness; David Chalmers' Hard Problem; the June 2025 *Nature* COGITATE Consortium adversarial collaboration testing Integrated Information Theory (IIT posterior hot zone) against Global Neuronal Workspace Theory (GNWT prefrontal ignition).
+    - **Interactive Visualization Integration**:
+      - Embedded standalone interactive card (`wiki/assets/western-concepts-of-consciousness-timeline.html`) with dynamic light/dark theming and 1-click high-resolution PNG export.
 
 ---
 
@@ -761,3 +775,4 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 ## 📈 Timelines
 
 - **[[AGI and Scaling Debates|Timeline of the AGI & Scaling Debates (1623–2026)]]** — Master chronological map from Galileo's qualia purging to contemporary frontier AI benchmarks.
+- **[[Western Concepts of Consciousness|Timeline of Western Concepts of Consciousness (c. 350 BCE – 2025 CE)]]** — 2,400-year theoretical lineage tracing reflexive perception, interiority, the mechanical explanatory gap, and modern adversarial cognitive neuroscience (with embedded interactive card).

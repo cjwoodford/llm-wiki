@@ -1,0 +1,609 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Evolution of Western Consciousness Models Spans Over Two Millennia</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- html2canvas for 1-click clean PNG export -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+
+    <style>
+        @font-face {
+            font-family: "Google Sans";
+            src: url("https://fonts.gstatic.com/s/googlesans/v58/4UaRrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iq2vgCI.woff2") format("woff2");
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: "Google Sans";
+            src: url("https://fonts.gstatic.com/s/googlesans/v58/4UaGrENHsxJlGDuGo1OIlL3Owp4eCD3qkx5Yo_Iq2vgCI.woff2") format("woff2");
+            font-weight: 500;
+            font-style: normal;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: "Google Sans";
+            src: url("https://fonts.gstatic.com/s/googlesans/v58/4UaErENHsxJlGDuGo1OIlL3N-qk7CQ3qkx5Yo_Iq2vgCI.woff2") format("woff2");
+            font-weight: 700;
+            font-style: normal;
+            font-display: swap;
+        }
+
+        :root,
+        html[data-theme="light"] {
+            --surface-color: #FFFFFF;
+            --surface-card: #F9FAFB;
+            --on-surface: #1B1C1D;
+            --on-surface-variant: #575B5F;
+            --on-surface-low: #727676;
+
+            --outline: #747775;
+            --outline-variant: #E2E4E6;
+
+            --google-blue: #1A73E8;
+            --cyan: #12B5CB;
+            --tangerine: #FA903E;
+            --lavender: #9955E8;
+
+            --badge-tangerine-bg: rgba(250, 144, 62, 0.12);
+            --badge-tangerine-text: #B45309;
+            --badge-tangerine-border: rgba(250, 144, 62, 0.35);
+
+            --badge-blue-bg: rgba(26, 115, 232, 0.1);
+            --badge-blue-text: #1557B0;
+            --badge-blue-border: rgba(26, 115, 232, 0.35);
+
+            --badge-lavender-bg: rgba(153, 85, 232, 0.12);
+            --badge-lavender-text: #7025C2;
+            --badge-lavender-border: rgba(153, 85, 232, 0.35);
+
+            --badge-cyan-bg: rgba(18, 181, 203, 0.12);
+            --badge-cyan-text: #0E7490;
+            --badge-cyan-border: rgba(18, 181, 203, 0.35);
+        }
+
+        html[data-theme="dark"] {
+            --surface-color: #141414;
+            --surface-card: #1F2022;
+            --on-surface: #FFFFFF;
+            --on-surface-variant: #A2A9B0;
+            --on-surface-low: #9A9B9C;
+
+            --outline: #9A9B9C;
+            --outline-variant: #34383A;
+
+            --google-blue: #8AB4F8;
+            --cyan: #56D4E4;
+            --tangerine: #FFAB66;
+            --lavender: #C58AF9;
+
+            --badge-tangerine-bg: rgba(255, 171, 102, 0.18);
+            --badge-tangerine-text: #FFBE85;
+            --badge-tangerine-border: rgba(255, 171, 102, 0.4);
+
+            --badge-blue-bg: rgba(138, 180, 248, 0.18);
+            --badge-blue-text: #AECBFA;
+            --badge-blue-border: rgba(138, 180, 248, 0.4);
+
+            --badge-lavender-bg: rgba(197, 138, 249, 0.18);
+            --badge-lavender-text: #D7AEFB;
+            --badge-lavender-border: rgba(197, 138, 249, 0.4);
+
+            --badge-cyan-bg: rgba(86, 212, 228, 0.18);
+            --badge-cyan-text: #8BE3EF;
+            --badge-cyan-border: rgba(86, 212, 228, 0.4);
+        }
+
+        .badge-tangerine {
+            background-color: var(--badge-tangerine-bg);
+            color: var(--badge-tangerine-text);
+            border: 1px solid var(--badge-tangerine-border);
+        }
+
+        .badge-blue {
+            background-color: var(--badge-blue-bg);
+            color: var(--badge-blue-text);
+            border: 1px solid var(--badge-blue-border);
+        }
+
+        .badge-lavender {
+            background-color: var(--badge-lavender-bg);
+            color: var(--badge-lavender-text);
+            border: 1px solid var(--badge-lavender-border);
+        }
+
+        .badge-cyan {
+            background-color: var(--badge-cyan-bg);
+            color: var(--badge-cyan-text);
+            border: 1px solid var(--badge-cyan-border);
+        }
+    </style>
+
+    <script>
+        tailwind.config = {
+            darkMode: ['class', '[data-theme="dark"]'],
+            theme: {
+                extend: {
+                    fontFamily: { sans: ['"Google Sans"', '"Open Sans"', 'sans-serif'] },
+                    colors: {
+                        surface: 'var(--surface-color)',
+                        'surface-card': 'var(--surface-card)',
+                        'on-surface': 'var(--on-surface)',
+                        'on-surface-variant': 'var(--on-surface-variant)',
+                        'on-surface-low': 'var(--on-surface-low)',
+                        outline: 'var(--outline)',
+                        'outline-variant': 'var(--outline-variant)',
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+
+<body class="font-sans bg-surface text-on-surface m-0 p-4 md:p-8 flex flex-col items-center w-full">
+
+    <!-- Export & Theme Toolbar (Excluded from PNG capture) -->
+    <div id="export-toolbar"
+        class="w-full max-w-[800px] mb-4 flex flex-wrap items-center justify-between gap-2 pb-3 border-b border-outline-variant">
+        <span class="text-xs font-medium text-on-surface-variant">
+            Standalone Craft Card • Ready for Export
+        </span>
+        <div class="flex items-center gap-2">
+            <button onclick="toggleTheme()"
+                class="px-3 py-1.5 rounded-lg text-xs font-medium border border-outline-variant bg-surface-card text-on-surface hover:opacity-80 transition">
+                Toggle Light / Dark
+            </button>
+            <button id="download-btn" onclick="exportToPNG()"
+                class="px-3.5 py-1.5 rounded-lg text-xs font-semibold text-white transition"
+                style="background-color: #1A73E8;">
+                Download High-Res PNG
+            </button>
+        </div>
+    </div>
+
+    <!-- Main Timeline Card -->
+    <figure id="timeline-card" class="w-full max-w-[800px] p-6 sm:p-8 rounded-2xl bg-surface flex flex-col gap-6">
+
+        <!-- Visualization Header -->
+        <div class="mb-0 flex flex-col gap-2">
+            <h3 class="text-2xl sm:text-3xl font-normal text-on-surface leading-tight tracking-tight">
+                The Evolution of Western Consciousness Models Spans Over Two Millennia
+            </h3>
+            <p class="text-sm sm:text-base text-on-surface-variant leading-relaxed">
+                A continuous 2,400-year theoretical lineage: tracing how problems of reflexive perception, unity of
+                experience, and mechanical explanatory gaps evolved from Greek antiquity into 21st-century adversarial
+                neuroscience.
+            </p>
+        </div>
+
+        <!-- Visualization Container -->
+        <div id="viz-container" class="relative w-full flex flex-col gap-6">
+
+            <!-- Ontological Frameworks Legend -->
+            <div class="w-full p-4 rounded-xl border border-outline-variant bg-surface-card flex flex-col gap-2.5">
+                <div class="text-xs font-semibold uppercase tracking-wider text-on-surface-low">
+                    Ontological Paradigms &amp; Explanatory Frameworks
+                </div>
+                <div class="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs">
+                    <div class="flex items-center gap-2">
+                        <span class="w-3 h-3 rounded-full flex-shrink-0"
+                            style="background-color: var(--tangerine)"></span>
+                        <span class="text-on-surface font-medium">Classical Hylomorphism &amp; Interiority</span>
+                    </div>
+                    <div class="flex items-center gap-2">
+                        <span class="w-3 h-3 rounded-full flex-shrink-0"
+                            style="background-color: var(--google-blue)"></span>
+                        <span class="text-on-surface font-medium">Early Modern Reflexivity &amp; Dualism</span>
+                    </div>
+                    <div class="flex items-center gap-2">
+                        <span class="w-3 h-3 rounded-full flex-shrink-0"
+                            style="background-color: var(--lavender)"></span>
+                        <span class="text-on-surface font-medium">Phenomenology, Neutral Monism &amp; Quantum
+                            Theory</span>
+                    </div>
+                    <div class="flex items-center gap-2">
+                        <span class="w-3 h-3 rounded-full flex-shrink-0" style="background-color: var(--cyan)"></span>
+                        <span class="text-on-surface font-medium">Contemporary Analytic &amp; Adversarial
+                            Neuroscience</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Vertical Spine Timeline -->
+            <div class="relative pl-6 sm:pl-8 border-l-2 border-outline-variant flex flex-col gap-8 my-2">
+
+                <!-- 1. Aristotle -->
+                <div class="relative group">
+                    <span
+                        class="absolute -left-[31px] sm:-left-[39px] top-1.5 w-3.5 h-3.5 rounded-full ring-4 ring-surface flex-shrink-0"
+                        style="background-color: var(--tangerine)"></span>
+                    <div class="flex flex-col gap-1.5">
+                        <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs">
+                            <span class="font-bold text-on-surface">c. 350 BCE</span>
+                            <span class="text-on-surface-low">•</span>
+                            <span class="font-semibold text-on-surface">Aristotle</span>
+                            <span class="text-on-surface-low">•</span>
+                            <span class="italic text-on-surface-variant">De Anima (Books II &amp; III)</span>
+                        </div>
+                        <div class="p-4 rounded-xl border border-outline-variant bg-surface-card flex flex-col gap-2">
+                            <div class="flex flex-wrap items-center gap-2">
+                                <span class="px-2.5 py-0.5 rounded-full text-xs font-semibold badge-tangerine">Psyche
+                                    &amp; Reflexive Perception</span>
+                                <span
+                                    class="text-[11px] text-on-surface-low uppercase tracking-wider font-medium">Biological
+                                    Hylomorphism</span>
+                            </div>
+                            <p class="text-xs sm:text-sm text-on-surface-variant leading-relaxed m-0">
+                                Defines the soul (<i class="text-on-surface">psyche</i>) as the form or essence of a
+                                natural living body, rejecting substance dualism. In <i class="text-on-surface">De
+                                    Anima</i> 3.2, formulates consciousness as reflexive perception—<b>"perceiving that
+                                    we perceive"</b>—reconciling intrinsic experiential quality with higher-order
+                                perceptual monitoring.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2. Plotinus & Augustine -->
+                <div class="relative group">
+                    <span
+                        class="absolute -left-[31px] sm:-left-[39px] top-1.5 w-3.5 h-3.5 rounded-full ring-4 ring-surface flex-shrink-0"
+                        style="background-color: var(--tangerine)"></span>
+                    <div class="flex flex-col gap-1.5">
+                        <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs">
+                            <span class="font-bold text-on-surface">c. 250–430 CE</span>
+                            <span class="text-on-surface-low">•</span>
+                            <span class="font-semibold text-on-surface">Plotinus &amp; Augustine</span>
+                            <span class="text-on-surface-low">•</span>
+                            <span class="italic text-on-surface-variant">Enneads (III.8.4) &amp; De Trinitate</span>
+                        </div>
+                        <div class="p-4 rounded-xl border border-outline-variant bg-surface-card flex flex-col gap-2">
+                            <div class="flex flex-wrap items-center gap-2">
+                                <span
+                                    class="px-2.5 py-0.5 rounded-full text-xs font-semibold badge-tangerine">Synaisthesis
+                                    &amp; Mens / Interiority</span>
+                                <span
+                                    class="text-[11px] text-on-surface-low uppercase tracking-wider font-medium">Neoplatonic
+                                    Reflexive Metaphysics</span>
+                            </div>
+                            <p class="text-xs sm:text-sm text-on-surface-variant leading-relaxed m-0">
+                                Plotinus introduces <i class="text-on-surface">synaisthesis</i> (joint-sensation or
+                                reflexive self-awareness), distinguishing deliberate, unified mental contemplation from
+                                mechanical organic response. Augustine develops radical psychological interiority (<i
+                                    class="text-on-surface">mens</i>), establishing that the mind's immediate inward
+                                presence to itself precedes doubt.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 3. René Descartes -->
+                <div class="relative group">
+                    <span
+                        class="absolute -left-[31px] sm:-left-[39px] top-1.5 w-3.5 h-3.5 rounded-full ring-4 ring-surface flex-shrink-0"
+                        style="background-color: var(--google-blue)"></span>
+                    <div class="flex flex-col gap-1.5">
+                        <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs">
+                            <span class="font-bold text-on-surface">1640–1641</span>
+                            <span class="text-on-surface-low">•</span>
+                            <span class="font-semibold text-on-surface">René Descartes</span>
+                            <span class="text-on-surface-low">•</span>
+                            <span class="italic text-on-surface-variant">Meditations on First Philosophy (Geometric
+                                Exposition)</span>
+                        </div>
+                        <div class="p-4 rounded-xl border border-outline-variant bg-surface-card flex flex-col gap-2">
+                            <div class="flex flex-wrap items-center gap-2">
+                                <span class="px-2.5 py-0.5 rounded-full text-xs font-semibold badge-blue">Conscii &amp;
+                                    Res Cogitans</span>
+                                <span
+                                    class="text-[11px] text-on-surface-low uppercase tracking-wider font-medium">Cartesian
+                                    Substance Dualism</span>
+                            </div>
+                            <p class="text-xs sm:text-sm text-on-surface-variant leading-relaxed m-0">
+                                Introduces <i class="text-on-surface">conscius</i> into philosophy to define thought (<i
+                                    class="text-on-surface">pensée</i>): <i>"everything that is within us in such a way
+                                    that we are immediately aware [conscii] of it."</i> Splits nature into unthinking
+                                extended matter (<i class="text-on-surface">res extensa</i>) and purely self-transparent
+                                thinking substance (<i class="text-on-surface">res cogitans</i>).
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 4. Ralph Cudworth -->
+                <div class="relative group">
+                    <span
+                        class="absolute -left-[31px] sm:-left-[39px] top-1.5 w-3.5 h-3.5 rounded-full ring-4 ring-surface flex-shrink-0"
+                        style="background-color: var(--google-blue)"></span>
+                    <div class="flex flex-col gap-1.5">
+                        <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs">
+                            <span class="font-bold text-on-surface">1678</span>
+                            <span class="text-on-surface-low">•</span>
+                            <span class="font-semibold text-on-surface">Ralph Cudworth</span>
+                            <span class="text-on-surface-low">•</span>
+                            <span class="italic text-on-surface-variant">The True Intellectual System of the
+                                Universe</span>
+                        </div>
+                        <div class="p-4 rounded-xl border border-outline-variant bg-surface-card flex flex-col gap-2">
+                            <div class="flex flex-wrap items-center gap-2">
+                                <span class="px-2.5 py-0.5 rounded-full text-xs font-semibold badge-blue">Coinage of
+                                    "Consciousness" &amp; Plastic Nature</span>
+                                <span
+                                    class="text-[11px] text-on-surface-low uppercase tracking-wider font-medium">Cambridge
+                                    Platonism &amp; Vitalism</span>
+                            </div>
+                            <p class="text-xs sm:text-sm text-on-surface-variant leading-relaxed m-0">
+                                Translates Plotinus's <i class="text-on-surface">synaisthesis</i> into English as
+                                <b>"consciousness"</b> (self-referring awareness of one's own states). Counters strict
+                                Cartesian mechanism by identifying <i>plastic nature</i>—vital, unconscious agency
+                                capable of teleological action without explicit subjective awareness.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 5. John Locke -->
+                <div class="relative group">
+                    <span
+                        class="absolute -left-[31px] sm:-left-[39px] top-1.5 w-3.5 h-3.5 rounded-full ring-4 ring-surface flex-shrink-0"
+                        style="background-color: var(--google-blue)"></span>
+                    <div class="flex flex-col gap-1.5">
+                        <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs">
+                            <span class="font-bold text-on-surface">1690</span>
+                            <span class="text-on-surface-low">•</span>
+                            <span class="font-semibold text-on-surface">John Locke</span>
+                            <span class="text-on-surface-low">•</span>
+                            <span class="italic text-on-surface-variant">An Essay Concerning Human Understanding (Book
+                                II, Ch. 27)</span>
+                        </div>
+                        <div class="p-4 rounded-xl border border-outline-variant bg-surface-card flex flex-col gap-2">
+                            <div class="flex flex-wrap items-center gap-2">
+                                <span class="px-2.5 py-0.5 rounded-full text-xs font-semibold badge-blue">Psychological
+                                    Continuity &amp; Inner Perception</span>
+                                <span
+                                    class="text-[11px] text-on-surface-low uppercase tracking-wider font-medium">British
+                                    Empiricism</span>
+                            </div>
+                            <p class="text-xs sm:text-sm text-on-surface-variant leading-relaxed m-0">
+                                Formulates the first modern definition of consciousness as <i>"the perception of what
+                                    passes in a Man's own Mind."</i> Disentangles personal identity from immaterial
+                                soul-substance, anchoring personal selfhood entirely in the reflective, psychological
+                                continuity of conscious experience over time.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 6. Gottfried Wilhelm Leibniz -->
+                <div class="relative group">
+                    <span
+                        class="absolute -left-[31px] sm:-left-[39px] top-1.5 w-3.5 h-3.5 rounded-full ring-4 ring-surface flex-shrink-0"
+                        style="background-color: var(--google-blue)"></span>
+                    <div class="flex flex-col gap-1.5">
+                        <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs">
+                            <span class="font-bold text-on-surface">1714</span>
+                            <span class="text-on-surface-low">•</span>
+                            <span class="font-semibold text-on-surface">Gottfried Wilhelm Leibniz</span>
+                            <span class="text-on-surface-low">•</span>
+                            <span class="italic text-on-surface-variant">Monadology (§17)</span>
+                        </div>
+                        <div class="p-4 rounded-xl border border-outline-variant bg-surface-card flex flex-col gap-2">
+                            <div class="flex flex-wrap items-center gap-2">
+                                <span class="px-2.5 py-0.5 rounded-full text-xs font-semibold badge-blue">Apperception
+                                    &amp; The Mill Argument</span>
+                                <span
+                                    class="text-[11px] text-on-surface-low uppercase tracking-wider font-medium">Rationalist
+                                    Monadology</span>
+                            </div>
+                            <p class="text-xs sm:text-sm text-on-surface-variant leading-relaxed m-0">
+                                Distinguishes unconscious representation (<i class="text-on-surface">perception</i>)
+                                from reflective self-awareness (<i class="text-on-surface">apperception</i>). Formulates
+                                the <b>"Mill Argument"</b>: inspecting the gears of an enlarged machine reveals pushing
+                                mechanical components but never a unified perception, showing mechanism cannot explain
+                                conscious unity.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 7. Immanuel Kant -->
+                <div class="relative group">
+                    <span
+                        class="absolute -left-[31px] sm:-left-[39px] top-1.5 w-3.5 h-3.5 rounded-full ring-4 ring-surface flex-shrink-0"
+                        style="background-color: var(--google-blue)"></span>
+                    <div class="flex flex-col gap-1.5">
+                        <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs">
+                            <span class="font-bold text-on-surface">1780s</span>
+                            <span class="text-on-surface-low">•</span>
+                            <span class="font-semibold text-on-surface">Immanuel Kant</span>
+                            <span class="text-on-surface-low">•</span>
+                            <span class="italic text-on-surface-variant">Critique of Pure Reason (A107 / B132)</span>
+                        </div>
+                        <div class="p-4 rounded-xl border border-outline-variant bg-surface-card flex flex-col gap-2">
+                            <div class="flex flex-wrap items-center gap-2">
+                                <span class="px-2.5 py-0.5 rounded-full text-xs font-semibold badge-blue">Transcendental
+                                    Apperception &amp; Quality</span>
+                                <span
+                                    class="text-[11px] text-on-surface-low uppercase tracking-wider font-medium">Transcendental
+                                    Idealism</span>
+                            </div>
+                            <p class="text-xs sm:text-sm text-on-surface-variant leading-relaxed m-0">
+                                Establishes the <i>Transcendental Unity of Apperception</i>: the "I think" that must
+                                accompany all representations to construct unified experience. Identifies the structural
+                                category of <i>quality</i> (the foundation of modern raw feels / qualia) as inherently
+                                irreducible to mechanical spatial configurations.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 8. Brentano, James & Phenomenology -->
+                <div class="relative group">
+                    <span
+                        class="absolute -left-[31px] sm:-left-[39px] top-1.5 w-3.5 h-3.5 rounded-full ring-4 ring-surface flex-shrink-0"
+                        style="background-color: var(--lavender)"></span>
+                    <div class="flex flex-col gap-1.5">
+                        <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs">
+                            <span class="font-bold text-on-surface">1874–1905</span>
+                            <span class="text-on-surface-low">•</span>
+                            <span class="font-semibold text-on-surface">Brentano, James &amp; Husserl</span>
+                            <span class="text-on-surface-low">•</span>
+                            <span class="italic text-on-surface-variant">Psychology from an Empirical Standpoint &amp;
+                                Radical Empiricism</span>
+                        </div>
+                        <div class="p-4 rounded-xl border border-outline-variant bg-surface-card flex flex-col gap-2">
+                            <div class="flex flex-wrap items-center gap-2">
+                                <span
+                                    class="px-2.5 py-0.5 rounded-full text-xs font-semibold badge-lavender">Intentionality
+                                    &amp; Pure Experience</span>
+                                <span
+                                    class="text-[11px] text-on-surface-low uppercase tracking-wider font-medium">Phenomenology
+                                    &amp; Neutral Monism</span>
+                            </div>
+                            <p class="text-xs sm:text-sm text-on-surface-variant leading-relaxed m-0">
+                                Brentano revives <b>intentionality</b> (every mental act is directed toward an object
+                                and reflexively toward itself as secondary object). William James rejects consciousness
+                                as an immaterial substance in <i>"Does 'Consciousness' Exist?"</i>, proposing neutral
+                                monism where undivided <b>"pure experience"</b> is functionally sorted into subject and
+                                object.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 9. Quantum Theory & Wigner -->
+                <div class="relative group">
+                    <span
+                        class="absolute -left-[31px] sm:-left-[39px] top-1.5 w-3.5 h-3.5 rounded-full ring-4 ring-surface flex-shrink-0"
+                        style="background-color: var(--lavender)"></span>
+                    <div class="flex flex-col gap-1.5">
+                        <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs">
+                            <span class="font-bold text-on-surface">1920s–1961</span>
+                            <span class="text-on-surface-low">•</span>
+                            <span class="font-semibold text-on-surface">Pauli, Jung &amp; Eugene Wigner</span>
+                            <span class="text-on-surface-low">•</span>
+                            <span class="italic text-on-surface-variant">Remarks on the Mind-Body Question (1961)</span>
+                        </div>
+                        <div class="p-4 rounded-xl border border-outline-variant bg-surface-card flex flex-col gap-2">
+                            <div class="flex flex-wrap items-center gap-2">
+                                <span class="px-2.5 py-0.5 rounded-full text-xs font-semibold badge-lavender">Observer
+                                    Collapse &amp; Dual-Aspect Physics</span>
+                                <span
+                                    class="text-[11px] text-on-surface-low uppercase tracking-wider font-medium">Quantum
+                                    Measurement &amp; Psychophysical Monism</span>
+                            </div>
+                            <p class="text-xs sm:text-sm text-on-surface-variant leading-relaxed m-0">
+                                Quantum mechanics upends classical determinism. Eugene Wigner formally hypothesizes that
+                                conscious observation is required to collapse the quantum wave packet (<i
+                                    class="text-on-surface">consciousness causes collapse</i>), forcing physics to
+                                explicitly address the epistemological role of the subjective observer.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 10. Modern Analytic Taxonomy & COGITATE Consortium -->
+                <div class="relative group">
+                    <span
+                        class="absolute -left-[31px] sm:-left-[39px] top-1.5 w-3.5 h-3.5 rounded-full ring-4 ring-surface flex-shrink-0"
+                        style="background-color: var(--cyan)"></span>
+                    <div class="flex flex-col gap-1.5">
+                        <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs">
+                            <span class="font-bold text-on-surface">1995–2025</span>
+                            <span class="text-on-surface-low">•</span>
+                            <span class="font-semibold text-on-surface">Block, Chalmers &amp; COGITATE Consortium</span>
+                            <span class="text-on-surface-low">•</span>
+                            <span class="italic text-on-surface-variant">Nature (June 2025 Open-Science Adversarial
+                                Collaboration)</span>
+                        </div>
+                        <div class="p-4 rounded-xl border border-outline-variant bg-surface-card flex flex-col gap-2">
+                            <div class="flex flex-wrap items-center gap-2">
+                                <span class="px-2.5 py-0.5 rounded-full text-xs font-semibold badge-cyan">P- vs
+                                    A-Consciousness &amp; Adversarial Testing</span>
+                                <span
+                                    class="text-[11px] text-on-surface-low uppercase tracking-wider font-medium">Empirical
+                                    Cognitive Neuroscience</span>
+                            </div>
+                            <p class="text-xs sm:text-sm text-on-surface-variant leading-relaxed m-0">
+                                Ned Block formalizes the split between <b>Phenomenal</b> (raw qualitative feels) and
+                                <b>Access</b> consciousness (global reporting), while Chalmers formulates the Hard
+                                Problem. By 2025, the multi-lab COGITATE Consortium conducts preregistered adversarial
+                                empirical testing directly pitting <b>Integrated Information Theory (IIT)</b> (posterior
+                                cortical hot zone) against <b>Global Neuronal Workspace Theory (GNWT)</b> (prefrontal
+                                cortex ignition).
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- Caption & Data Sources -->
+        <figcaption class="flex flex-col gap-3 pt-4 border-t border-outline-variant">
+            <span id="caption-text" class="text-sm text-on-surface-variant leading-relaxed">
+                Chronological progression of Western frameworks of mind and consciousness from Greek antiquity to
+                contemporary adversarial neuroscience. Far from emerging in the late twentieth century, the foundational
+                problems of reflexive awareness, mental unity, and the explanatory gap were systematically formulated
+                across classical hylomorphism, seventeenth-century mechanical philosophy, and nineteenth-century
+                phenomenology.
+            </span>
+            <div class="text-xs text-on-surface-variant">
+                Data sources: Oxford Mind (Caston: Aristotle on Consciousness), Cambridge University Press (Plotinus'
+                Legacy), Stanford Encyclopedia of Philosophy (17th Century Consciousness &amp; Brentano), Closer to
+                Truth (William James), Nature (COGITATE Consortium Adversarial Collaboration, 2025).
+            </div>
+        </figcaption>
+    </figure>
+
+    <script>
+        function toggleTheme() {
+            const html = document.documentElement;
+            const current = html.getAttribute("data-theme") || "light";
+            html.setAttribute("data-theme", current === "light" ? "dark" : "light");
+        }
+
+        async function exportToPNG() {
+            const btn = document.getElementById("download-btn");
+            const originalText = btn.innerText;
+            btn.innerText = "Rendering PNG...";
+            btn.disabled = true;
+
+            const card = document.getElementById("timeline-card");
+            const bgColor = getComputedStyle(document.documentElement).getPropertyValue("--surface-color").trim();
+
+            try {
+                await document.fonts.ready;
+                const canvas = await html2canvas(card, {
+                    scale: 2,
+                    useCORS: true,
+                    backgroundColor: bgColor,
+                    logging: false
+                });
+                const link = document.createElement("a");
+                link.download = "western-consciousness-timeline.png";
+                link.href = canvas.toDataURL("image/png");
+                link.click();
+            } catch (err) {
+                alert("Export failed: " + err.message);
+            } finally {
+                btn.innerText = originalText;
+                btn.disabled = false;
+            }
+        }
+    </script>
+</body>
+
+</html>
