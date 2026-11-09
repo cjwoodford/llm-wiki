@@ -22,10 +22,11 @@ This timeline chronicles the continuous 2,400-year theoretical lineage of Wester
 
 ---
 
-> [!TIP] Interactive Craft Card & Visual Export
-> Below is the embedded interactive craft card. You can toggle between light and dark themes, inspect ontological categories, and export a high-resolution PNG for presentations. You can also [open the standalone visualization full-screen](../assets/western-concepts-of-consciousness-timeline.html).
+> [!TIP] High-Resolution Craft Card & Interactive Explorer
+> - **Interactive Version**: [Open Standalone Interactive Card in Browser](../assets/western-concepts-of-consciousness-timeline.html) (with live Light/Dark theme switching and 1-click export).
+> - **High-Resolution Graphic**: Rendered directly below.
 
-<iframe src="../assets/western-concepts-of-consciousness-timeline.html" width="100%" height="860px" style="border: 1px solid var(--outline-variant, #e2e4e6); border-radius: 12px; margin-bottom: 2rem; background: var(--surface-color, #ffffff);" title="Interactive Western Consciousness Timeline"></iframe>
+![Western Concepts of Consciousness Timeline](../assets/western-concepts-of-consciousness-timeline.png)
 
 ---
 
