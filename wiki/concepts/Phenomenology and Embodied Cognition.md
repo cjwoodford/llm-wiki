@@ -130,6 +130,12 @@ Neuroscientist **[[Anil Seth]]** (*Being You*, 2021) draws heavily upon phenomen
 - **From Lebenswelt to Bayesian Optimization**: While Seth agrees that disembodied computers cannot be conscious, he turns around and uses functional, mathematical predictive processing (active inference, Bayesian error minimization) to explain lived experience.
 - **The Mechanistic Reduction of Intentionality**: For pure phenomenologists (Husserl, Heidegger, Merleau-Ponty), lived intentionality, first-person subjective presence, and the historical *Lebenswelt* are the primary, irreducible foundations of all reality and science. Seth's "Beast Machine" functionalism inverts this, treating first-person lived presence as an evolved biological hallucination whose sole reality is homeostatic survival and free-energy reduction.
 
+### 5. Contemporary Phenomenological Philosophy of Mind: Pre-Reflective Self-Awareness ([[Dan Zahavi]], [[Shaun Gallagher]], [[Thomas Metzinger]])
+In the 21st century, **[[Dan Zahavi|Dan Zahavi]]** and **[[Shaun Gallagher|Shaun Gallagher]]** (*The Phenomenological Mind*, 2008/2020) have spearheaded the integration of classical phenomenology with experimental cognitive neuroscience:
+- **Pre-Reflective Self-Awareness & The Minimal Self**: Zahavi and Gallagher demonstrate that cognitive neuroscience frequently misunderstands consciousness because it neglects the structures of first-person lived experience mapped by [[Edmund Husserl|Husserl]] and [[Maurice Merleau-Ponty|Merleau-Ponty]]. Every conscious experience is inherently accompanied by an implicit, non-objectifying **pre-reflective self-awareness** (*for-me-ness* or *mineness*) prior to any higher-order cognitive reflection or introspection.
+- **Body Schema & Sense of Agency (Gallagher)**: Clarifies the distinction between conscious **Body Image** and pre-reflective sensorimotor **Body Schema**, and disambiguates the **Sense of Ownership** from the **Sense of Agency** (*How the Body Shapes the Mind*, 2005), utilizing **front-loaded phenomenology** to design neuroimaging experiments around lived subjectivity.
+- **Debate with [[Thomas Metzinger|Thomas Metzinger's]] Self-Model Theory**: In *Being No One* (2003), Metzinger argued that no substantial selves exist—only transparent **Phenomenal Self-Models (PSMs)** running on biological hardware. While Metzinger's transparent self-modeling heavily informs [[Anil Seth|Anil Seth's]] predictive account of selfhood and neuro-phenomenology, Zahavi counters that a representational "self-model" presupposes rather than eliminates the minimal first-personal subjectivity (*for-me-ness*) to whom experience appears.
+
 ---
 
 ## 4. Related Concepts & Entities
@@ -151,6 +157,9 @@ Neuroscientist **[[Anil Seth]]** (*Being You*, 2021) draws heavily upon phenomen
   - [[Martin Heidegger|Martin Heidegger]]
   - [[Maurice Merleau-Ponty|Maurice Merleau-Ponty]]
   - [[Edmund Husserl|Edmund Husserl]]
+  - [[Dan Zahavi|Dan Zahavi]]
+  - [[Shaun Gallagher|Shaun Gallagher]]
+  - [[Thomas Metzinger|Thomas Metzinger]]
   - [[Hubert Dreyfus|Hubert Dreyfus]]
   - [[John Vervaeke|John Vervaeke]]
   - [[Walter J. Freeman|Walter J. Freeman]]
@@ -181,7 +190,11 @@ Neuroscientist **[[Anil Seth]]** (*Being You*, 2021) draws heavily upon phenomen
 - **1927**: Martin Heidegger, *Being and Time* (Niemeyer) — Dasein, Being-in-the-World, and Zuhandenheit.
 - **1945**: Maurice Merleau-Ponty, *Phenomenology of Perception* (Gallimard) — Lived body, motor intentionality, and maximum grip.
 - **1972**: Hubert Dreyfus, *What Computers Can't Do* (Harper & Row) — Phenomenological critique of AI.
+- **2003**: Thomas Metzinger, *Being No One: The Self-Model Theory of Subjectivity* (MIT Press) — Transparent Phenomenal Self-Models.
+- **2005**: Shaun Gallagher, *How the Body Shapes the Mind* (Oxford University Press) — Body schema vs. body image and pre-reflective agency.
 - **2005**: Michael Wheeler, *Reconstructing the Cognitive World: The Next Step* (MIT Press) — Heideggerian AI and dynamical cognition.
+- **2007**: Evan Thompson, *Mind in Life: Biology, Phenomenology, and the Sciences of Mind* (Harvard University Press) — Life-mind continuity and enactivism.
 - **2007**: Hubert Dreyfus, *"Why Heideggerian AI Failed and How Fixing It Would Require Making It More Heideggerian"*, *Philosophical Psychology*.
+- **2008 / 2020**: Shaun Gallagher & Dan Zahavi, *The Phenomenological Mind* (Routledge) — Pre-reflective self-awareness and phenomenological philosophy of mind.
 - **2008-07-28**: [[2008-07-28-sep-phenomenology-smith.md|Phenomenology (David Woodruff Smith, Stanford Encyclopedia of Philosophy)]] — Comprehensive taxonomy of the discipline, intentionality, and philosophy of mind.
 - **2026-09-20**: [[2026-09-20-dreyfus-vervaeke-frame-problem-relevance|The Problem of Relevance and the Horizon of Mind: Hubert Dreyfus and John Vervaeke on the Frame Problem]] — Comprehensive synthesis of phenomenological coping and relevance realization.

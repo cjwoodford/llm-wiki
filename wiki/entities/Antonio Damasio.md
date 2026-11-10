@@ -36,11 +36,14 @@ aliases:
   - His practical life collapsed completely: he spent hours agonizing over trivial choices (such as which restaurant to visit or which color pen to write with), unable to arbitrate between equally valid options because nothing *felt* preferable.
   - Proved that **pure reason without emotion does not produce superintelligence—it produces total behavioral paralysis**.
 
-### 3. Evolutionary Hierarchy of Mind & Consciousness
-- In *The Feeling of What Happens* (1999) and *Self Comes to Mind* (2010), Damasio traced the emergence of consciousness to the biological requirements of **homeostasis**:
-  1. **The Proto-Self**: Neural representations of the organism's internal milieu and body state (brainstem, hypothalamus, insular cortex).
-  2. **Core Consciousness & The Core Self**: The transient, non-verbal sense of self generated whenever an object modifies the proto-self (the feeling of knowing).
-  3. **Extended Consciousness & The Autobiographical Self**: Grounded in language, autobiographical memory, future projection, and high-level social cognition.
+### 3. Affective Homeostasis & Brainstem Origins of Consciousness
+- In *The Feeling of What Happens* (1999), *Self Comes to Mind* (2010), *The Strange Order of Things* (2018), and *Feeling & Knowing* (2021), Damasio posited that **consciousness did not evolve from cold sensory mapping or abstract cognition, but from feeling and interoceptive self-regulation (affective homeostasis)**:
+  - **Brainstem & Subcortical Roots**: Challenging cortex-centric models (such as [[Stanislas Dehaene|GNWT]] and Higher-Order theories), Damasio traces the primal origins of phenomenal awareness to ancient **brainstem** nuclei (e.g., periaqueductal gray, parabrachial nucleus) and emotional/interoceptive processing systems rather than solely to the neo-cortex—converging closely with [[Jaak Panksepp|Jaak Panksepp]] and [[Mark Solms|Mark Solms]].
+  - **Three-Tiered Architecture of Selfhood**:
+    1. **The Proto-Self**: Neural representations of the organism's internal milieu and visceral body state (brainstem, hypothalamus, insular cortex).
+    2. **Core Consciousness & The Core Self**: The transient, non-verbal felt awareness generated whenever an external or internal object modifies the proto-self (*the feeling of knowing*).
+    3. **Extended Consciousness & The Autobiographical Self**: Grounded in neocortical language, autobiographical memory, future projection, and social cognition.
+  - **Biocentrism vs. Computational Functionalism**: Because feeling is grounded in living metabolic homeostasis and interoceptive vulnerability, Damasio stands alongside [[Anil Seth|Anil Seth]] and [[John Searle|John Searle]] in the **Biocentrist / Biological Naturalist** camp—maintaining that consciousness is an embodied, homeostatic property of living organisms rather than disembodied software executing on silicon.
 
 ---
 
@@ -57,9 +60,14 @@ aliases:
   - [[Jaak Panksepp|Jaak Panksepp]]
   - [[Mark Solms|Mark Solms]]
   - [[Anil Seth|Anil Seth]]
+  - [[Karl Friston|Karl Friston]]
   - [[John Searle|John Searle]]
   - [[Evan Thompson|Evan Thompson]]
   - [[Francisco Varela|Francisco Varela]]
+  - [[Stanislas Dehaene|Stanislas Dehaene]]
+  - [[Giulio Tononi|Giulio Tononi]]
+  - [[Ned Block|Ned Block]]
+  - [[David Chalmers|David Chalmers]]
   - [[Iain McGilchrist|Iain McGilchrist]]
 
 ---

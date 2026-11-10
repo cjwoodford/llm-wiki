@@ -55,7 +55,7 @@ While traditional philosophy of mind focuses on [[Hard Problem of Consciousness|
 
 ### 2. Integrated Information Theory (IIT)
 - **Primary Proponents**: [[Giulio Tononi|Giulio Tononi]], [[Christof Koch|Christof Koch]].
-- **Core Mechanism**: Inverts standard methodology by starting from the intrinsic phenomenological axioms of experience (existence, composition, information, integration, exclusion) and translating them into physical requirements. Consciousness is an intrinsic, fundamental physical property identical to a system's **maximally irreducible cause-effect power**, quantified as **$\Phi$ (Phi)**.
+- **Core Mechanism**: Inverts standard methodology by starting from the intrinsic phenomenological axioms of experience (existence, composition, information, integration, exclusion) and translating them into physical requirements. Consciousness is an intrinsic, fundamental physical property identical to a system's **maximally irreducible cause-effect power**, quantified as **$\Phi$ (Phi)**. Because any physical system with non-zero causal integration possesses some degree of conscious experience, IIT entails a **mathematically formalized panpsychism**.
 - **Neural Signature**: The **posterior cortical "hot zone"** (parieto-occipito-temporal cortex) providing dense, grid-like recurrent connectivity, largely independent of fronto-parietal task-execution networks.
 - **Stance on AI**: Substrate-dependent. Purely feedforward or standard digital von Neumann computers merely *simulate* behavior with near-zero intrinsic $\Phi$; true artificial consciousness requires physical neuromorphic or recurrent architectures. (Critiqued by [[John Searle|John Searle]] for [[Computation vs Nature and the Observer-Relative Fallacy|observer-relative circularity]]). In October 2026 (*Nature*), Tononi joined [[Anil Seth|Anil Seth]] and [[Ned Block|Ned Block]] to formally apply IIT against contemporary frontier AI, proving that feedforward deep neural networks wired on digital silicon inherently possess $\Phi \approx 0$ ([[2026-10-18-seth-block-tononi-three-reasons-ai-is-not-conscious.md|Seth, Block, & Tononi, 2026]]).
 
@@ -82,11 +82,21 @@ While traditional philosophy of mind focuses on [[Hard Problem of Consciousness|
 │ Framework                │ Core Thesis & Proponents                    │
 ├──────────────────────────┼─────────────────────────────────────────────┤
 │ **Predictive Processing**│ • The brain is a hierarchical prediction    │
-│ **& Active Inference**   │   engine minimizing surprise (Friston).     │
+│ **& Active Inference**   │   engine minimizing surprise ([[Karl Friston|Friston]]).     │
 │ **(The Beast Machine)**  │ • Consciousness is a "controlled            │
 │                          │   hallucination" rooted in biological       │
 │                          │   interoception and self-preservation       │
-│                          │   ([[Anil Seth|Anil Seth]], Andy Clark).    │
+│                          │   ([[Anil Seth|Anil Seth]], [[Andy Clark|Andy Clark]]).    │
+├──────────────────────────┼─────────────────────────────────────────────┤
+│ **Illusionism &**        │ • Qualia are an introspective illusion      │
+│ **Self-Model Theory**    │   ([[Keith Frankish|Frankish]], [[Daniel Dennett|Dennett]]).                │
+│                          │ • No substantial selves exist; only         │
+│                          │   transparent self-models ([[Thomas Metzinger|Metzinger]]).      │
+├──────────────────────────┼─────────────────────────────────────────────┤
+│ **Affective Homeostasis**│ • Consciousness evolves from brainstem      │
+│ **& Enactive Mind**      │   feeling & homeostasis ([[Antonio Damasio|Damasio]], [[Mark Solms|Solms]]), │
+│                          │   enacted by living organisms ([[Evan Thompson|Thompson]],   │
+│                          │   [[Dan Zahavi|Zahavi]], [[Shaun Gallagher|Gallagher]]).                    │
 ├──────────────────────────┼─────────────────────────────────────────────┤
 │ **Attention Schema**     │ • Consciousness is the brain's simplified,  │
 │ **Theory (AST)**         │   schematic internal model of its own       │
@@ -104,19 +114,28 @@ While traditional philosophy of mind focuses on [[Hard Problem of Consciousness|
 └──────────────────────────┴─────────────────────────────────────────────┘
 ```
 
-1. **Predictive Processing, Biological Functionalism & The Beast Machine ([[Anil Seth|Anil Seth]], Karl Friston, Andy Clark)**:
-   - Replaces passive feature detection with top-down generative Bayesian modeling. The brain continually projects predictions downward through neural hierarchies and adjusts them via ascending prediction errors.
+1. **Predictive Processing, Biological Functionalism & The Beast Machine ([[Anil Seth|Anil Seth]], [[Karl Friston|Karl Friston]], [[Andy Clark|Andy Clark]])**:
+   - Replaces passive feature detection with top-down generative Bayesian modeling. The brain continually projects predictions downward through neural hierarchies and adjusts them via ascending prediction errors (**[[Karl Friston|Friston's]]** Free Energy Principle and Active Inference), integrated with embodied cognition by **[[Andy Clark|Andy Clark]]** (*"action-oriented predictive processing"*).
    - **The "Real Problem" Formulation**: Rather than getting trapped by Chalmers' Hard Problem or positing vitalist/panpsychist shortcuts, Seth formulates the **"Real Problem"**—explaining, predicting, and controlling the phenomenological properties of conscious experience (levels, perceptual contents, embodied selfhood). Just as molecular biology dissolved the "hard problem of life" without needing *élan vital*, Seth argues that mapping predictive machinery directly to phenomenological constraints will dissolve the mystery of qualia (*Being You*, 2021).
    - **Cybernetic Ancestry & The Beast Machine**: Rooted directly in [[Cybernetics and the Macy Conferences|cybernetic negative feedback]] and [[W. Ross Ashby|W. Ross Ashby's]] ultrastable homeostasis, conscious experiences are not abstract computations, but deeply embodied "controlled hallucinations" evolved to regulate visceral physiology and survive.
    - **Autopoiesis & Metabolic Grounding (Biological Functionalism)**: A continuous physical and mathematical line connects cellular self-production (**autopoiesis**) and thermodynamic free energy minimization against entropy directly to the affective feeling of being alive. Because digital computations lack living metabolism and physical continuity in time, simulating predictive error minimization on silicon does not instantiate phenomenal qualia (*simulation $\neq$ instantiation*).
-2. **Attention Schema Theory (AST, Michael Graziano)**:
-   - Just as the motor system uses an internal "body schema" to model the physical body, the cognitive system constructs an "attention schema" to monitor and control its own attentional spotlight. Subjective awareness is the brain's simplified, descriptive account of its own attention.
-3. **Orchestrated Objective Reduction (Orch-OR, [[Roger Penrose|Roger Penrose]] & Stuart Hameroff)**:
+2. **Self-Model Theory of Subjectivity ([[Thomas Metzinger|Thomas Metzinger]])**:
+   - In *Being No One* (2003), Metzinger argues that *"no such things as selves exist in the world"*—there are only **transparent Phenomenal Self-Models (PSMs)** running on biological hardware. Because the system cannot introspectively inspect the representational machinery constructing the model, it experiences itself naively as an enduring inner "I." Metzinger's framework directly informs **[[Anil Seth|Anil Seth's]]** predictive model of embodied selfhood and broader contemporary neuro-phenomenology.
+3. **Illusionism ([[Keith Frankish|Keith Frankish]], [[Daniel Dennett|Daniel Dennett]])**:
+   - Carrying forward **[[Daniel Dennett|Dennett's]]** functionalism and *Consciousness Explained*, **[[Keith Frankish|Keith Frankish]]** argues that phenomenal consciousness (*qualia*) does not actually exist as intrinsic, non-physical properties. Instead, introspective self-monitoring creates a systematic **user-illusion** of qualia out of physical, functional *quasi-phenomenal properties*. Illusionism replaces Chalmers's Hard Problem with the **Illusion Problem**: explaining how and why brains represent themselves as having non-physical qualia.
+4. **Affective Homeostasis & Subcortical Consciousness ([[Antonio Damasio|Antonio Damasio]], [[Jaak Panksepp|Jaak Panksepp]], [[Mark Solms|Mark Solms]])**:
+   - Challenging cortex-centric paradigms (GNWT, HOT, IIT), affective neuroscientists argue that consciousness did not evolve from cold sensory mapping or abstract executive cognition, but from **feeling and interoceptive self-regulation (homeostasis)** grounded in the **brainstem** and subcortical emotional circuits ([[Is Consciousness Necessary for True Intelligence|Is Consciousness Necessary for True Intelligence?]]).
+5. **Enactive & Phenomenological Alternatives ([[Evan Thompson|Evan Thompson]], [[Dan Zahavi|Dan Zahavi]], [[Shaun Gallagher|Shaun Gallagher]])**:
+   - Rejecting both strict neural reductionism and computational functionalism, **[[Evan Thompson|Thompson]]** (building on [[Francisco Varela|Francisco Varela]]) defines consciousness as a relational, dynamic process enacted by the whole living organism interacting with its environment.
+   - Complementing enactivism, **[[Dan Zahavi|Zahavi]]** and **[[Shaun Gallagher|Gallagher]]** argue that cognitive neuroscience routinely misunderstands consciousness by neglecting classical phenomenology ([[Edmund Husserl|Husserl]], [[Maurice Merleau-Ponty|Merleau-Ponty]])—specifically **pre-reflective self-awareness**, the implicit first-personal *for-me-ness* accompanying every conscious act prior to higher-order cognitive reflection.
+6. **Attention Schema Theory (AST, Michael Graziano)**:
+   - Just as the motor system uses an internal "body schema" to model the physical body, the cognitive system constructs an "attention schema" to monitor and control its own attentional spotlight. Subjective awareness is the brain's simplified, descriptive account of its own attention (aligned closely with **[[Keith Frankish|Illusionism]]**).
+7. **Orchestrated Objective Reduction (Orch-OR, [[Roger Penrose|Roger Penrose]] & Stuart Hameroff)**:
    - Argues that non-computable Gödelian mathematical insights and subjective qualia cannot arise from classical algorithms, requiring quantum superpositions collapsing in neuronal tubulin proteins via gravitational self-energy thresholds ($E_G = \hbar / \tau$).
-4. **Quantum Integrated Information Theory & Dynamical Collapse (QIIT, [[David Chalmers|David Chalmers]] & [[Kelvin McQueen|Kelvin McQueen]])**:
+8. **Quantum Integrated Information Theory & Dynamical Collapse (QIIT, [[David Chalmers|David Chalmers]] & [[Kelvin McQueen|Kelvin McQueen]])**:
    - Modernizes von Neumann-Wigner Consciousness-Causes-Collapse by formalizing a continuous, stochastic non-linear Schrödinger differential equation driven by a quantum generalization of Integrated Information ($\Phi_Q$).
    - Overcomes the **Quantum Zeno Effect** and the vagueness of the observer by proving that quantum superpositions of high-$\Phi_Q$ states spontaneously collapse at a rate proportional to $(\Delta \Phi_Q)^2$, providing experimentally testable predictions in macroscopic quantum optomechanics and superconducting quantum processors (*[[Quantum Integrated Information Theory and Collapse|Quantum Integrated Information Theory & Collapse]]*).
-5. **Diverse Intelligence & Ingressing Minds ([[Michael Levin|Michael Levin]], 2026)**:
+9. **Diverse Intelligence & Ingressing Minds ([[Michael Levin|Michael Levin]], 2026)**:
    - Formulates a non-physicalist dualist interactionism rooted in developmental bioelectricity and synthetic morphology (*[[Ingressing Minds - Causal Non-Physical Patterns In-Form Embodiments|Ingressing Minds]]*).
    - **Mind:Body as Math:Physics**: Just as mathematical truths exert causal constraint over physical dynamics without being reducible to physics, minds are non-physical, dynamic, agential patterns drawn from a structured Platonic latent space.
    - **Embodiments as Pointers**: Brains, embryos, biobots ([[Xenobots]], [[Anthrobots]]), and AI architectures are *pointers or interfaces* into this pattern space. Consciousness is not generated locally by physical wetware or silicon; rather, physical systems act as material scratchpads (cognitive stigmergy) that interface with ingressing mental patterns ([[Basal Cognition and Diverse Intelligence|Basal Cognition & Diverse Intelligence]]).
@@ -139,7 +158,23 @@ While traditional philosophy of mind focuses on [[Hard Problem of Consciousness|
 
 ---
 
-## 5. The Explanatory Gap: Why Every Scientific Theory Fails the Hard Problem
+## 5. The Contemporary Theoretical Battlegrounds
+
+Contemporary consciousness studies across neuroscience, philosophy of mind, and cognitive science are largely polarized along **three major theoretical battlegrounds**:
+
+| Axis of Debate | Camp A | Camp B |
+| :--- | :--- | :--- |
+| **Frontal vs. Posterior Substrate** | **Global Neuronal Workspace (GNWT)** ([[Stanislas Dehaene\|Dehaene]], Baars): Consciousness requires fronto-parietal ignition and global cognitive broadcast. | **Integrated Information (IIT)** ([[Giulio Tononi\|Tononi]], [[Christof Koch\|Koch]]): Consciousness lives primarily in a posterior cortical "hot zone" independent of report. |
+| **Computationalism vs. Biocentrism** | **Functionalists / AI Proponents** ([[Daniel Dennett\|Dennett]], [[Andy Clark\|Clark]], [[David Chalmers\|Chalmers]]): Any system implementing the right causal/computational architecture can be conscious. | **Biological Naturalists & Enactivists** ([[Anil Seth\|Seth]], [[Antonio Damasio\|Damasio]], [[Ned Block\|Block]], [[John Searle\|Searle]], [[Evan Thompson\|Thompson]]): Consciousness is an embodied, homeostatic property of living organisms, not software running on silicon. |
+| **Ontological Realism** | **Phenomenal Realists** ([[David Chalmers\|Chalmers]], [[Ned Block\|Block]], [[Galen Strawson\|Strawson]], [[Dan Zahavi\|Zahavi]]): Qualia, pre-reflective subjectivity, and the Hard Problem are real and resist physicalist reduction. | **Illusionists / Deflationists** ([[Keith Frankish\|Frankish]], [[Daniel Dennett\|Dennett]], Graziano): The Hard Problem is a conceptual artifact; qualia are an introspective illusion. |
+
+1. **Frontal Ignition vs. Posterior Hot Zone**: Tested empirically in the June 2025 *Nature* **COGITATE Consortium** adversarial collaboration, this neurobiological clash debates whether consciousness depends on late prefrontal-parietal global broadcasting (GNWT) or sustained recurrent causal integration in posterior sensory cortices (IIT)—with philosopher [[Ned Block|Ned Block]] warning that prefrontal ignition may track *Access* consciousness ($A$) rather than *Phenomenal* consciousness ($P$).
+2. **Computationalism vs. Biocentrism**: Debates whether consciousness is multiply realizable software ([[Functionalism|computational/extended functionalism]]) or inextricably wedded to metabolic autopoiesis, brainstem affective homeostasis ([[Antonio Damasio|Damasio]], [[Anil Seth|Seth]]), and electrochemical living wetware ([[Ned Block|Block]], [[John Searle|Searle]], [[Evan Thompson|Thompson]]).
+3. **Ontological Realism vs. Illusionism**: Debates whether subjective qualia and first-person experience are undeniable bedrock facts of reality (demanding naturalistic dualism, [[Galen Strawson|constitutive panpsychism]], or phenomenological realism) or a systematic cognitive misrepresentation engineered by introspective self-monitoring ([[Keith Frankish|Frankish]]).
+
+---
+
+## 6. The Explanatory Gap: Why Every Scientific Theory Fails the Hard Problem
 
 While each theory provides illuminating correlations and functional architectures for the "Easy Problems" (how the brain discriminates stimuli, reports information, or integrates signals), **none of them bridge [[Hard Problem of Consciousness|The Hard Problem of Consciousness]]**. Each model suffers from a distinct theoretical vulnerability where physical descriptions fail to account for the existence of subjective phenomenal experience:
 
@@ -189,7 +224,7 @@ While each theory provides illuminating correlations and functional architecture
 ```
 
 ### 1. Global Workspace Theory (The Access Fallacy & The Workspace Zombie)
-- **The Core Critique (Ned Block, David Chalmers)**:
+- **The Core Critique ([[Ned Block|Ned Block]], [[David Chalmers|David Chalmers]])**:
   - GWT conflates **Access Consciousness ($A$-consciousness)**—the cognitive availability of information for speech, memory, and executive action—with **Phenomenal Consciousness ($P$-consciousness)**—what it *feels like* from the inside.
   - One can build a robot or an LLM (such as Claude running [[Verbalizable Representations in Language Models|J-space]]) with a global broadcast hub where modular circuits write to and read from a shared blackboard. The information is globally broadcast, but there is no reason why this routing mechanism should turn on "the inner lights." GWT describes the distribution network of a radio station, but explains nothing about how the broadcast becomes heard as music.
 
@@ -200,13 +235,13 @@ While each theory provides illuminating correlations and functional architecture
   - *The Unfolding Argument*: Any recurrent network with high $\Phi$ can be mathematically unfolded into an input-output identical feedforward network with $\Phi = 0$. If both behave identically, attributing consciousness based purely on topology is empirically untestable.
 
 ### 3. Higher-Order Theories (The Meta-Representation Gap)
-- **The Core Critique (David Chalmers, Ned Block)**:
+- **The Core Critique ([[David Chalmers|David Chalmers]], [[Ned Block|Ned Block]], [[Dan Zahavi|Dan Zahavi]])**:
   - HOT claims that a first-order sensory state (e.g., visual cortex firing for red) becomes conscious when targeted by a higher-order thought (e.g., prefrontal cortex representing *"I am seeing red"*).
   - *The Gap*: A higher-order thought is simply another unconscious, physical/computational state. Why should one unconscious brain state pointing at another unconscious brain state generate qualitative subjectivity? Combining two non-conscious states does not produce consciousness.
   - *The Targetless Representation Paradox*: If higher-order thoughts generate consciousness, then a higher-order thought that erroneously represents a non-existent sensory state (e.g., falsely thinking *"I am in pain"*) should produce the conscious feeling of pain without any actual pain receptors firing. HOT explains metacognitive belief attribution, not phenomenal feeling.
 
 ### 4. Recurrent Processing Theory (The Local Loop Gap)
-- **The Core Critique (Stanislas Dehaene, David Chalmers)**:
+- **The Core Critique ([[Stanislas Dehaene|Stanislas Dehaene]], [[David Chalmers|David Chalmers]])**:
   - RPT argues that horizontal and recurrent feedback loops in sensory cortices generate phenomenal experience ($P$-consciousness) even without cognitive access.
   - *The Gap*: Why should temporal feedback generate qualia when feedforward sweeps do not? A digital thermostat with a feedback loop or a camcorder pointed at its own screen has continuous recurrent feedback, but possesses zero interior perspective. Recurrence is merely a circuit topology, leaving the qualitative gap untouched.
 
@@ -219,10 +254,11 @@ While each theory provides illuminating correlations and functional architecture
   - Under **Biological Functionalism**, predictive processing is not an abstract math problem; it is **interoceptive inference** driven by the imperative of **homeostatic autopoiesis**—the thermodynamic struggle to keep a living body alive against entropy. Valence (pleasure, pain, fear) is the experiential currency of homeostatic survival.
   - Furthermore, Seth tackles the gap via the **"Real Problem"**: by systematically explaining, predicting, and controlling the phenomenological properties of experience (spatial presence, perceptual qualia, selfhood), the Hard Problem will dissolve empirically, just as the 19th-century "hard problem of life" dissolved without needing *élan vital*.
 
-### 6. Attention Schema Theory (The Illusionist Evasion)
-- **The Core Critique (Keith Frankish, Galen Strawson, David Chalmers)**:
-  - AST claims that the Hard Problem is a trick: subjective qualia does not exist; the brain merely builds a simplified, non-physical caricature (an attention schema) of its own attention processes.
-  - *The Gap*: This is **Illusionism**. But as philosophers from Descartes to Strawson point out, **the illusion of consciousness is already a conscious experience**. You cannot explain away the feeling of a toothache by calling it an illusion, because the subjective feeling *is* the datum that demands explanation.
+### 6. Attention Schema Theory & Illusionism (The Deflationist Evasion)
+- **The Illusionist Position ([[Keith Frankish|Keith Frankish]], [[Daniel Dennett|Daniel Dennett]], Michael Graziano)**:
+  - Illusionists and AST proponents claim that the Hard Problem is a conceptual illusion: intrinsic subjective qualia do not exist; the brain merely builds a simplified, schematic internal model (an attention schema or introspective user-illusion) representing itself as having non-physical properties.
+- **The Phenomenal Realist Critique ([[Galen Strawson|Galen Strawson]], [[David Chalmers|David Chalmers]], [[Ned Block|Ned Block]], [[Dan Zahavi|Dan Zahavi]])**:
+  - *The Gap*: As philosophers from Descartes to **[[Galen Strawson|Strawson]]** point out, **the illusion of consciousness is already a conscious experience**. You cannot explain away the feeling of a toothache by calling it an illusion, because the subjective *seeming* of pain *is* the very phenomenal datum that demands explanation.
 
 ### 7. Orchestrated Objective Reduction (The Quantum Leap Fallacy)
 - **The Core Critique (David Chalmers, Max Tegmark)**:
@@ -231,10 +267,12 @@ While each theory provides illuminating correlations and functional architecture
 
 ---
 
-## 6. Related Concepts & Entities
+## 7. Related Concepts & Entities
 
 - **Concepts**:
   - [[Functionalism|Functionalism (Philosophy of Mind)]]
+  - [[Phenomenology and Embodied Cognition|Phenomenology & Embodied Cognition]]
+  - [[Is Consciousness Necessary for True Intelligence|Is Consciousness Necessary for True Intelligence?]]
   - [[Basal Cognition and Diverse Intelligence|Basal Cognition & Diverse Intelligence]]
   - [[Quantum Integrated Information Theory and Collapse|Quantum Integrated Information Theory & Collapse]]
   - [[Cybernetics and the Macy Conferences|Cybernetics and the Macy Conferences (Feedback & Homeostasis)]]
@@ -248,10 +286,27 @@ While each theory provides illuminating correlations and functional architecture
   - [[Idealism and Consciousness|Idealism, Panpsychism & Philosophy of Mind]]
   - [[Empirical AI Welfare and Digital Minds|Empirical AI Welfare & Digital Minds]]
 - **Entities**:
-  - [[Michael Levin|Michael Levin]]
-  - [[David Chalmers|David Chalmers]]
-  - [[Kelvin McQueen|Kelvin McQueen]]
+  - [[Stanislas Dehaene|Stanislas Dehaene]]
   - [[Giulio Tononi|Giulio Tononi]]
+  - [[Christof Koch|Christof Koch]]
+  - [[Antonio Damasio|Antonio Damasio]]
+  - [[Karl Friston|Karl Friston]]
+  - [[Anil Seth|Anil Seth]]
+  - [[David Chalmers|David Chalmers]]
+  - [[Ned Block|Ned Block]]
+  - [[Keith Frankish|Keith Frankish]]
+  - [[Daniel Dennett|Daniel Dennett]]
+  - [[Andy Clark|Andy Clark]]
+  - [[Thomas Metzinger|Thomas Metzinger]]
+  - [[Evan Thompson|Evan Thompson]]
+  - [[Dan Zahavi|Dan Zahavi]]
+  - [[Shaun Gallagher|Shaun Gallagher]]
+  - [[Galen Strawson|Galen Strawson]]
+  - [[Jaak Panksepp|Jaak Panksepp]]
+  - [[Mark Solms|Mark Solms]]
+  - [[Francisco Varela|Francisco Varela]]
+  - [[Michael Levin|Michael Levin]]
+  - [[Kelvin McQueen|Kelvin McQueen]]
   - [[Roger Penrose|Roger Penrose]]
   - [[W. Ross Ashby|W. Ross Ashby]]
   - [[Norbert Wiener|Norbert Wiener]]
@@ -259,25 +314,31 @@ While each theory provides illuminating correlations and functional architecture
   - [[Verbalizable Representations in Language Models|Verbalizable Representations Form a Global Workspace (Anthropic, 2026)]]
   - [[John Searle|John Searle]]
   - [[Bernardo Kastrup|Bernardo Kastrup]]
-  - [[Stanislas Dehaene|Stanislas Dehaene]]
-  - [[Christof Koch|Christof Koch]]
-  - [[Ned Block|Ned Block]]
-  - [[Anil Seth|Anil Seth]]
   - [[Chad Woodford|Chad Woodford]]
 
 ---
 
-## 7. Source Log & Citations
+## 8. Source Log & Citations
 
 - **1988**: Bernard Baars, *A Cognitive Theory of Consciousness* (Cambridge University Press) — Foundational GWT formulation.
+- **1990**: Francis Crick & Christof Koch, *"Towards a neurobiological theory of consciousness"* (*Seminars in the Neurosciences*, 2: 263–275) — Founding the experimental NCC research program.
+- **1994**: Antonio Damasio, *Descartes' Error* (Putnam) & *The Feeling of What Happens* (1999) — Somatic Marker Hypothesis and affective homeostasis.
 - **1995**: David Chalmers, *"Facing Up to the Problem of Consciousness"* (Journal of Consciousness Studies) — The Hard Problem.
+- **1995**: Ned Block, *"On a confusion about a function of consciousness"* (*Behavioral and Brain Sciences*) — Phenomenal vs. Access consciousness.
+- **2003**: Thomas Metzinger, *Being No One: The Self-Model Theory of Subjectivity* (MIT Press) — Transparent Phenomenal Self-Models.
+- **2006**: Galen Strawson, *"Realistic Monism: Why Physicalism Entails Panpsychism"* (*Journal of Consciousness Studies*) — Constitutive panpsychism.
+- **2007**: Evan Thompson, *Mind in Life: Biology, Phenomenology, and the Sciences of Mind* (Harvard University Press) — Enactivism and life-mind continuity.
+- **2008**: Shaun Gallagher & Dan Zahavi, *The Phenomenological Mind* (Routledge) — Pre-reflective self-awareness and phenomenological philosophy of mind.
 - **2008**: Giulio Tononi, *"Consciousness as Integrated Information: A Provisional Manifesto"* (Biological Bulletin).
+- **2010**: Karl Friston, *"The free-energy principle: a unified brain theory?"* (*Nature Reviews Neuroscience*, 11(2): 127–138).
 - **2013-01-10**: [[2013-01-10-searle-can-information-theory-explain-consciousness.md|Can Information Theory Explain Consciousness? (John R. Searle, NYRB)]] — Refutation of IIT and informational panpsychism.
 - **2014**: Stanislas Dehaene, *Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts* (Viking).
+- **2016**: Andy Clark, *Surfing Uncertainty: Prediction, Action, and the Embodied Mind* (Oxford University Press).
+- **2016**: Keith Frankish, *"Illusionism as a Theory of Consciousness"* (*Journal of Consciousness Studies*, 23(11–12): 11–39).
 - **2019**: Kelvin J. McQueen, *"Consciousness and the Collapse of the Wave Function: A Mathematical Model"*, *Foundations of Physics* 49(8): 871–898.
 - **2021**: David J. Chalmers & Kelvin J. McQueen, *"Consciousness and the Collapse of the Wave Function"*, in Shan Gao (ed.), *Consciousness and Quantum Mechanics*, Oxford University Press, pp. 11–57.
 - **2021**: Anil Seth, *Being You: A New Science of Consciousness* (Dutton) — Predictive processing & the Beast Machine.
-- **2023**: Melloni et al., *"Making the Hard Problem Feasible: Adversarial Collaboration in Consciousness Research"* (COGITATE).
+- **2025**: Cogitate Consortium (Ferrante et al.), *"Adversarial testing of global neuronal workspace and integrated information theories of consciousness"* (*Nature*, 642: 133–142).
 - **2026-01-14**: [[2026-01-14-anil-seth-the-mythology-of-conscious-ai.md|The Mythology of Conscious AI (Anil Seth, Noema Magazine)]] — Biological naturalism, simulation vs. instantiation, and the Garland Test.
 - **2026-07-25**: [[2026-07-25-anthropic-verbalizable-representations-global-workspace.md|Verbalizable Representations Form a Global Workspace in Language Models (Anthropic)]] — Empirical GWT in LLMs.
 - **2026-09-09**: [[2026-09-09-levin-ingressing-minds.pdf|Philosophies 11(5): 161]] — *"Ingressing Minds: Causal, Non-Physical Patterns In-Form Natural, Synthetic, and Hybrid Embodiments"* (Michael Levin, 2026) — Formulates non-physicalist dualist interactionism ($Mind : Body :: Math : Physics$).

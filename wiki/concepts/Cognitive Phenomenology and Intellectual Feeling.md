@@ -23,7 +23,7 @@ aliases:
 
 ## 1. Thesis & Definition
 
-**Cognitive Phenomenology** is the contemporary philosophical thesis (advanced by Galen Strawson, Terence Horgan, John Tienson, Christopher Peacocke, and David Pitt) that conscious thought possesses a distinctive, proprietary **first-person phenomenal character** that cannot be reduced to sensory qualia, bodily sensations, or auditory/visual mental imagery:
+**Cognitive Phenomenology** is the contemporary philosophical thesis (advanced by [[Galen Strawson|Galen Strawson]], Terence Horgan, John Tienson, Christopher Peacocke, and David Pitt) that conscious thought possesses a distinctive, proprietary **first-person phenomenal character** that cannot be reduced to sensory qualia, bodily sensations, or auditory/visual mental imagery:
 
 1. **Proprietary Phenomenal Character**:
    - There is something it is distinctly **"what it is like"** to consciously grasp a proposition, comprehend a sentence, recognize a logical fallacy, or experience a conceptual insight. This phenomenal quality is non-sensory and non-reducible.
@@ -51,7 +51,7 @@ aliases:
 
 ## 2. Classic Thought Experiments & Theoretical Proofs
 
-### 1. The Hearing-as-Meaning Argument (Galen Strawson / Christopher Peacocke)
+### 1. The Hearing-as-Meaning Argument ([[Galen Strawson|Galen Strawson]] / Christopher Peacocke)
 - Imagine two individuals listening to a radio broadcast in Russian:
   - **Subject A** is a native Russian speaker who understands the political argument fluently.
   - **Subject B** has never studied Russian and hears only continuous streams of unfamiliar acoustic noise.
@@ -104,6 +104,7 @@ aliases:
   - [[The Divided Brain and Hemispheric Lateralization|The Divided Brain & Hemispheric Lateralization]]
   - [[The Meaning Crisis and Cultural Disenchantment|The Meaning Crisis & Cultural Disenchantment]]
 - **Entities**:
+  - [[Galen Strawson|Galen Strawson]]
   - [[Henri Bergson|Henri Bergson]]
   - [[Edmund Husserl|Edmund Husserl]]
   - [[Maurice Merleau-Ponty|Maurice Merleau-Ponty]]

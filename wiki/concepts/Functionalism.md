@@ -394,9 +394,15 @@ flowchart TD
   - [[Jerry Fodor|Jerry Fodor]] — Champion of Psychofunctionalism and Language of Thought.
   - [[Ned Block|Ned Block]] — Formulator of the China Brain, Absent Qualia, and the Liberalism/Chauvinism dilemma.
   - [[Daniel Dennett|Daniel Dennett]] — Homuncular functionalism, intentional stance, and Multiple Drafts model.
+  - [[Keith Frankish|Keith Frankish]] — Illusionism; carrying forward Dennett's deflationary functionalism.
+  - [[Galen Strawson|Galen Strawson]] — Constitutive panpsychism and fierce phenomenal realist critique of illusionism.
   - [[John Searle|John Searle]] — Chinese Room argument and biological naturalism.
   - [[Anil Seth|Anil Seth]] — Biological Functionalism, the "Beast Machine" thesis, and the "Real Problem" of consciousness.
+  - [[Antonio Damasio|Antonio Damasio]] — Somatic marker hypothesis and affective homeostasis.
+  - [[Karl Friston|Karl Friston]] — Free Energy Principle and Active Inference.
   - [[Hubert Dreyfus|Hubert Dreyfus]] — Phenomenological critique of functionalist decomposition and the frame problem.
+  - [[Dan Zahavi|Dan Zahavi]] & [[Shaun Gallagher|Shaun Gallagher]] — Phenomenological philosophy of mind and pre-reflective self-awareness.
+  - [[Thomas Metzinger|Thomas Metzinger]] — Self-Model Theory of Subjectivity.
   - [[Hans Jonas|Hans Jonas]] — Philosophical biology; metabolism as an ontological condition of inwardness.
   - [[Alfred North Whitehead|Alfred North Whitehead]] — Process philosophy and panexperientialism; reality as dynamic occasions.
   - [[Andy Clark|Andy Clark]] — Extended functionalism, the parity principle, and supersizing the mind.

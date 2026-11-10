@@ -49,7 +49,7 @@ aliases:
 │    Computationalism     │   Life Matters; Simulation ≠ Instantiation (Noema, 2026).    │
 ├─────────────────────────┼──────────────────────────────────────────────────────────────┤
 │ 5. Conscious AI Critique│ • "Garland Test" vs. Turing Test; cognitive pareidolia;      │
-│    & The AI Mirror      │   ethical catastrophe of synthetic suffering (Metzinger).   │
+│    & The AI Mirror      │   ethical catastrophe of synthetic suffering ([[Thomas Metzinger|Metzinger]]).   │
 ├─────────────────────────┼──────────────────────────────────────────────────────────────┤
 │ 6. Nature Intervention  │ • Rebuts AI consciousness with Block & Tononi (Oct 2026):    │
 │    (Block & Tononi)     │   Doing vs. Being; Substrate Dependence; Non-computational.  │
@@ -90,7 +90,7 @@ In *Being You*, Seth formulates a pragmatic, empirically grounded alternative to
 ---
 
 ### 2. Predictive Processing & "Controlled Hallucinations"
-- Synthesizes the Bayesian Brain hypothesis and active inference (Karl Friston) into an empirical framework for perception.
+- Synthesizes the Bayesian Brain hypothesis and active inference ([[Karl Friston|Karl Friston]]) into an empirical framework for perception, while building on [[Thomas Metzinger|Thomas Metzinger's]] **Self-Model Theory of Subjectivity** to account for the embodied experience of selfhood.
 - Argues that everyday perception is not a passive bottom-up readout of the external world, but a top-down **"controlled hallucination"**—an inside-out generative model continually constrained and calibrated by sensory prediction errors ([[Scientific Theories of Consciousness|Scientific Theories of Consciousness]]).
 - Our perceptual experience is not the world *as it is*; it is an adaptive, evolutionarily shaped fantasy that is kept tethered to reality by sensory feedback to enable biological survival.
 
@@ -160,7 +160,7 @@ In his landmark 2026 essay for *Noema Magazine*, Seth formulated four interconne
 - **Confabulation vs. Hallucination**: AI models do not "hallucinate" (which implies subjective perception); they **confabulate** (generate text without awareness).
 - **The Garland Test**: Derived from Alex Garland's *Ex Machina*, this is not a test of machine consciousness, but a test of *human psychological susceptibility* to the illusion of machine mindedness.
 - **The Ethical Catastrophe**:
-  - Creating actually conscious AI would introduce moral patients vulnerable to industrial-scale suffering (endorsing Thomas Metzinger's moratorium).
+  - Creating actually conscious AI would introduce moral patients vulnerable to industrial-scale suffering (endorsing [[Thomas Metzinger|Thomas Metzinger's]] moratorium).
   - Creating *conscious-seeming AI* exploits user vulnerabilities, distorts moral circles, and risks the Kantian brutalization of human minds.
 
 ---
@@ -243,8 +243,14 @@ Because Seth bridges biological naturalism, 4E cognitive science, and predictive
   - [[Maurice Merleau-Ponty|Maurice Merleau-Ponty]]
   - [[Alfred North Whitehead|Alfred North Whitehead]]
   - [[Andy Clark|Andy Clark]]
+  - [[Karl Friston|Karl Friston]]
+  - [[Antonio Damasio|Antonio Damasio]]
+  - [[Thomas Metzinger|Thomas Metzinger]]
+  - [[Keith Frankish|Keith Frankish]]
   - [[Francisco Varela|Francisco Varela]]
   - [[Evan Thompson|Evan Thompson]]
+  - [[Dan Zahavi|Dan Zahavi]]
+  - [[Shaun Gallagher|Shaun Gallagher]]
   - [[Mustafa Suleyman|Mustafa Suleyman]]
   - [[Stanislas Dehaene|Stanislas Dehaene]]
   - [[Giulio Tononi|Giulio Tononi]]

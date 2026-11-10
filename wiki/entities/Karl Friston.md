@@ -28,13 +28,14 @@ aliases:
   - Any living system that maintains its structural integrity against thermodynamic decay must minimize **variational free energy** (an information-theoretic upper bound on surprise / prediction error).
   - An organism survives by keeping its physiological states within an evolutionarily viable homeostatic envelope, avoiding surprising, life-threatening phase transitions.
 
-### 2. Active Inference & The Markov Blanket
-- Replaced the passive "stimulus-response" model of brain function with **Active Inference**:
-  - The brain is an active prediction machine that generates top-down hypotheses about the causes of sensory inputs.
+### 2. Active Inference, Markov Blankets & The Architecture of Predictive Processing
+- Replaced the passive "stimulus-response" model of brain function with **Active Inference** and the **Predictive Brain**:
+  - The brain is a **hierarchical predictive engine** minimizing variational free energy (prediction error) by continuously generating top-down hypotheses about the causes of sensory inputs.
   - An organism has two complementary methods to minimize prediction error:
     1. **Perceptual Inference**: Update internal beliefs and generative models to match incoming sensory observations.
     2. **Active Inference**: Act upon the physical environment to make sensations conform to internal predictions (e.g., foraging for food when blood glucose drops).
 - **The Markov Blanket**: The statistical boundary (sensory and active states) that separates an autonomous internal system from the external environment, formalizing the boundary of the self from single cells to conscious organisms.
+- **Foundation for Predictive Processing Theories of Mind**: Friston's mathematical framework forms the direct formal architecture underpinning contemporary predictive processing theories of consciousness and cognition—most notably **[[Anil Seth|Anil Seth's]]** biological *Beast Machine* (interoceptive inference) and **[[Andy Clark|Andy Clark's]]** action-oriented predictive processing (*Surfing Uncertainty*), while sparking critical dialogue with enactivists such as **[[Shaun Gallagher|Shaun Gallagher]]** and **[[Evan Thompson|Evan Thompson]]** over whether generative models remain overly skull-bound or fully embodied.
 
 ### 3. Collaboration with Mark Solms & Affective Neuroscience
 - Collaborated with **[[Mark Solms|Mark Solms]]** (*"How and why consciousness arises"*, 2018) to connect the Free Energy Principle with subcortical affect:
@@ -54,6 +55,11 @@ aliases:
 - **Entities**:
   - [[Mark Solms|Mark Solms]]
   - [[Anil Seth|Anil Seth]]
+  - [[Andy Clark|Andy Clark]]
+  - [[Antonio Damasio|Antonio Damasio]]
+  - [[Shaun Gallagher|Shaun Gallagher]]
+  - [[Evan Thompson|Evan Thompson]]
+  - [[Thomas Metzinger|Thomas Metzinger]]
   - [[Jaak Panksepp|Jaak Panksepp]]
   - [[Michael Levin|Michael Levin]]
   - [[Norbert Wiener|Norbert Wiener]]

@@ -31,14 +31,16 @@ aliases:
   - **The "Hard" Problem**: Explaining *why* and *how* any physical, electro-chemical, or computational processing is accompanied by subjective, phenomenal inner experience (**qualia**)—"what it is like" to feel, see, or be.
 - Argues that reductive physicalism and functionalism fail because one can specify every physical and computational fact about an organism without explaining why experience arises.
 
-### 2. The Philosophical Zombie Argument & Naturalistic Dualism (1996)
+### 2. The Philosophical Zombie Argument, Naturalistic Dualism & Dual-Aspect Monism (1996)
 - In *The Conscious Mind: In Search of a Fundamental Theory* (1996), Chalmers introduced the **Philosophical Zombie** (*p-zombie*) thought experiment:
   - A creature physically and behaviorally identical to a normal human being in every detail, but completely devoid of conscious experience (all "dark inside").
-  - Because zombies are logically conceivable, physical facts alone do not necessitate phenomenal facts, proving that physicalism is false.
-- Proposes **Naturalistic Dualism / Property Dualism**: Consciousness is a fundamental, irreducible feature of the universe (akin to mass, charge, or spacetime) governed by basic psychophysical bridging laws.
+  - Because zombies are logically conceivable, physical facts alone do not necessitate phenomenal facts, proving that reductive physicalism is false.
+- **Naturalistic Dualism / Dual-Aspect Monism & Panpsychism**: Chalmers proposes that physicalism cannot explain phenomenal experience without either **fundamental psychophysical bridging laws** (**Naturalistic / Property Dualism**) or **Dual-Aspect Monism / Russellian Panpsychism**:
+  - Under his **Double-Aspect Principle of Information**, fundamental information states have both an external physical aspect and an internal phenomenal (or proto-phenomenal) aspect—bridging naturalistic dualism toward constitutive panpsychism (engaging [[Galen Strawson|Galen Strawson]]).
+- **The Meta-Problem of Consciousness (2018)**: In response to **[[Keith Frankish|Keith Frankish's]]** and **[[Daniel Dennett|Daniel Dennett's]]** Illusionism, Chalmers formulated the *Meta-Problem* (explaining why physical systems *believe* and *report* that consciousness is hard to explain), defending **Phenomenal Realism** against deflationary illusionism.
 
 ### 3. The Extended Mind Thesis (1998)
-- Co-authored with Andy Clark the landmark paper *The Extended Mind* (1998).
+- Co-authored with [[Andy Clark|Andy Clark]] the landmark paper *The Extended Mind* (1998).
 - Formulates **Active Externalism**: cognitive processes are not bounded by skin and skull; external tools (notebooks, calculators, smartphones, and AI systems) can form a coupled system that literally constitutes part of an agent's cognitive mind.
 
 ### 4. Virtual Realism (*Reality+*, 2022)
@@ -72,11 +74,19 @@ aliases:
   - [[Computation vs Nature and the Observer-Relative Fallacy|Computation vs. Nature and the Observer-Relative Fallacy]]
 - **Entities**:
   - [[Kelvin McQueen|Kelvin McQueen]]
+  - [[Andy Clark|Andy Clark]]
+  - [[Ned Block|Ned Block]]
+  - [[Galen Strawson|Galen Strawson]]
+  - [[Keith Frankish|Keith Frankish]]
+  - [[Daniel Dennett|Daniel Dennett]]
+  - [[Thomas Metzinger|Thomas Metzinger]]
+  - [[Stanislas Dehaene|Stanislas Dehaene]]
   - [[Giulio Tononi|Giulio Tononi]]
   - [[Roger Penrose|Roger Penrose]]
   - [[John Searle|John Searle]]
   - [[Anil Seth|Anil Seth]]
   - [[Christof Koch|Christof Koch]]
+  - [[Antonio Damasio|Antonio Damasio]]
   - [[Eleos AI Research|Eleos AI Research]]
   - [[Jeff Sebo|Jeff Sebo]]
   - [[Steven Levy|Steven Levy]]

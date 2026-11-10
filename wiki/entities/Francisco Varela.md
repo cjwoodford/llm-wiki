@@ -57,6 +57,9 @@ aliases:
 - **Entities**:
   - [[Humberto Maturana|Humberto Maturana]]
   - [[Evan Thompson|Evan Thompson]]
+  - [[Dan Zahavi|Dan Zahavi]]
+  - [[Shaun Gallagher|Shaun Gallagher]]
+  - [[Thomas Metzinger|Thomas Metzinger]]
   - [[Hans Jonas|Hans Jonas]]
   - [[Maurice Merleau-Ponty|Maurice Merleau-Ponty]]
   - [[Hubert Dreyfus|Hubert Dreyfus]]

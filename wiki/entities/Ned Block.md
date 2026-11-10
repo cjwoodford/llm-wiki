@@ -21,11 +21,11 @@ aliases:
 
 ## 💡 Key Philosophical Contributions
 
-1. **Phenomenal vs. Access Consciousness (1995)**:
-   - Formulated the seminal distinction between:
+1. **Phenomenal vs. Access Consciousness (1995, 2007)**:
+   - Formulated the seminal conceptual distinction between:
      - **Phenomenal Consciousness ($P$-consciousness)**: What it is like to undergo an experience (raw qualia, subjective experiential feel).
-     - **Access Consciousness ($A$-consciousness)**: Information availability for reasoning, speech, and executive control.
-   - Argued that functionalist and computational theories often account only for Access Consciousness while leaving Phenomenal Consciousness entirely unexplained.
+     - **Access Consciousness ($A$-consciousness)**: Information availability for reasoning, verbal report, and executive control.
+   - **Cautioning Cognitive Scientists Against Conflating Access with Qualia**: Block's framework directly warns empirical consciousness researchers against assuming that mapping functional cognitive access—exemplified by **[[Stanislas Dehaene|Stanislas Dehaene's]] Global Neuronal Workspace Theory (GNWT)**—explains raw phenomenal experience. In *"Consciousness, accessibility, and the mesh between psychology and neuroscience"* (*Behavioral and Brain Sciences*, 2007), Block argued that sensory **phenomenology overflows cognitive access**: we consciously experience richer sensory detail in posterior visual cortices than can be broadcast into fronto-parietal working memory for report, placing Block firmly alongside **Phenomenal Realists** ([[David Chalmers|Chalmers]], [[Galen Strawson|Strawson]]) against [[Keith Frankish|Illusionism]].
 
 2. **The Critique of Functionalism & The "China Brain" (1978)**:
    - In his seminal paper *"Troubles with Functionalism"*, Block mounted the definitive assault on functionalist theories of mind:
@@ -63,6 +63,9 @@ aliases:
   - [[Jerry Fodor|Jerry Fodor]]
   - [[David Lewis|David Lewis]]
   - [[Daniel Dennett|Daniel Dennett]]
+  - [[Keith Frankish|Keith Frankish]]
+  - [[Galen Strawson|Galen Strawson]]
+  - [[Stanislas Dehaene|Stanislas Dehaene]]
   - [[John Searle|John Searle]]
   - [[Anil Seth|Anil Seth]]
   - [[Giulio Tononi|Giulio Tononi]]

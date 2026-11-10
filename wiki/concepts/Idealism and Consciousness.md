@@ -36,9 +36,13 @@ Where **Physicalism** encounters the insurmountable [[Hard Problem of Consciousn
 └────────────────────────────┘      └────────────────────────────┘      └────────────────────────────┘
 ```
 
-- **Analytic Idealism ([[Bernardo Kastrup|Bernardo Kastrup]])**: The universe is a single, interconnected mind (Mind-at-Large). Living organisms are dissociative processes ("alters") within this cosmic mind, bounded by a metabolic boundary.
+- **Analytic Idealism ([[Bernardo Kastrup|Bernardo Kastrup]])**: The universe is a single, interconnected mind (Mind-at-Large). Living organisms are dissociative processes ("alters") within this cosmic mind, bounded by a metabolic boundary—bypassing the panpsychist "combination problem."
+- **Constitutive Panpsychism / Realistic Monism ([[Galen Strawson|Galen Strawson]])**: Argues that genuine physicalism logically entails panpsychism. Because phenomenal experience is undeniably real and cannot emerge from wholly non-experiential brute matter without a miracle ("brute emergence"), the fundamental intrinsic fabric of the physical universe must itself be experiential.
+- **Dual-Aspect Monism & Panprotopsychism ([[David Chalmers|David Chalmers]])**: Proposes that physicalism fails without fundamental psychophysical bridging laws or Russellian dual-aspect assumptions—where fundamental physical/informational states carry both external structural-causal aspects and intrinsic phenomenal or proto-phenomenal aspects.
+- **Formalized Informational Panpsychism ([[Giulio Tononi|Giulio Tononi]], [[Christof Koch|Christof Koch]])**: Under Integrated Information Theory (IIT), consciousness literally *is* integrated information ($\Phi$); any physical system with non-zero causal integration possesses some degree of conscious experience.
+- **Process Panexperientialism ([[Alfred North Whitehead|Alfred North Whitehead]])**: Rejects inert substance materialism; reality consists of dynamic "actual occasions" of experience that prehend their environment.
 - **Conscious Realism (Donald Hoffman)**: Space-time is merely a species-specific user interface (UI) evolved to hide the complex network of interacting conscious agents.
-- **Physicalist Functionalism**: Maintains that consciousness will spontaneously emerge once computational systems reach sufficient complexity and recursive feedback.
+- **Physicalist Functionalism & Illusionism ([[Daniel Dennett|Daniel Dennett]], [[Keith Frankish|Keith Frankish]])**: Maintains either that consciousness emerges from sufficient computational complexity or that qualia are an introspective illusion.
 
 ---
 
@@ -61,12 +65,20 @@ Where **Physicalism** encounters the insurmountable [[Hard Problem of Consciousn
   - [[Wisdom and the Meaning Crisis|Wisdom, Mortality & The Meaning Crisis]]
 - **Entities**:
   - [[Bernardo Kastrup|Bernardo Kastrup]]
+  - [[Galen Strawson|Galen Strawson]]
+  - [[David Chalmers|David Chalmers]]
+  - [[Giulio Tononi|Giulio Tononi]]
+  - [[Christof Koch|Christof Koch]]
+  - [[Alfred North Whitehead|Alfred North Whitehead]]
+  - [[Keith Frankish|Keith Frankish]]
   - [[Chad Woodford|Chad Woodford]]
 
 ---
 
 ## 5. Source Log & Citations
 
+- **1929**: Alfred North Whitehead, *Process and Reality* (Macmillan) — Process philosophy and panexperientialism.
+- **2006**: Galen Strawson, *"Realistic Monism: Why Physicalism Entails Panpsychism"* (*Journal of Consciousness Studies*, 13(10–11): 3–31) — Constitutive panpsychism.
 - **2024-09-02**: [[2024-09-02-the-techgnostics-the-idealists-and.md|TechGnostics, Idealists, and the Future of Humanity]] — Contrasts Techgnostic escapism with Analytic Idealism.
 - **2025-05-14**: [[2025-05-14-your-ficus-is-more-conscious-than.md|Your Ficus Is More Conscious Than ChatGPT]] — Proposes why biological life is conscious and silicon LLMs are not.
 - **2025-06-05**: [[2025-06-05-how-do-we-know-other-beings-are-conscious.md|How Do We Know Other Beings Are Conscious?]] — Explores the epistemology of other minds and animal sentience.

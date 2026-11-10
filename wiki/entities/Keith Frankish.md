@@ -1,0 +1,99 @@
+---
+title: "Keith Frankish"
+type: "entity"
+category: "thinker"
+tags:
+  - philosopher
+  - philosophy-of-mind
+  - illusionism
+  - consciousness
+  - functionalism
+  - qualia
+  - cognitive-science
+aliases:
+  - Keith Frankish
+  - Frankish
+  - Illusionism
+---
+
+# Keith Frankish
+
+**Keith Frankish** (born 1962) is a British philosopher of mind and cognitive scientist, Honorary Professor in the Department of Philosophy at the **University of Sheffield** and Visiting Research Fellow at the Open University. Carrying the philosophical mantle of **[[Daniel Dennett|Daniel Dennett's]]** functionalism and consciousness deflationism, Frankish is the foremost contemporary champion of **Illusionism**: the view that phenomenal consciousness (*qualia*)—conceived as intrinsic, private, non-physical experiential properties—does not actually exist, and that the brain instead generates a systematic introspective illusion that it possesses such properties.
+
+```text
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│                          KEITH FRANKISH: PHILOSOPHER DOSSIER                           │
+├──────────────────────┬─────────────────────────────────────────────────────────────────┤
+│ Institutional Base   │ University of Sheffield (Honorary Professor); Open University   │
+├──────────────────────┼─────────────────────────────────────────────────────────────────┤
+│ Intellectual Lineage │ Direct philosophical heir to [[Daniel Dennett]]'s functionalism │
+├──────────────────────┼─────────────────────────────────────────────────────────────────┤
+│ Core Framework       │ **Illusionism** & **Quasi-Phenomenal Properties**               │
+├──────────────────────┼─────────────────────────────────────────────────────────────────┤
+│ Landmark Works       │ • *Consciousness* (2005)                                        │
+│                      │ • *"Illusionism as a Theory of Consciousness"* (JCS, 2016)      │
+│                      │ • *Illusionism as a Theory of Consciousness* (ed., 2017)        │
+├──────────────────────┼─────────────────────────────────────────────────────────────────┤
+│ Key Battleground     │ **Ontological Realism**: Illusionists / Deflationists           │
+│                      │ (Frankish, Dennett) vs. Phenomenal Realists                     │
+│                      │ ([[David Chalmers]], [[Ned Block]], [[Galen Strawson]])         │
+└──────────────────────┴─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 💡 Key Contributions & Ideas
+
+### 1. Illusionism & The Denial of Phenomenal Qualia (2016)
+In his landmark target article *"Illusionism as a Theory of Consciousness"* (*Journal of Consciousness Studies*, 2016), Frankish codified **Illusionism** as an explicit, coherent alternative to both [[David Chalmers|David Chalmers's]] property dualism/panpsychism and standard reductive physicalism:
+- **The Core Thesis**: Phenomenal consciousness—understood in the realist sense as raw, intrinsic, ineffable, non-functional "feels" (*qualia*)—**does not exist**.
+- **Introspective Misrepresentation**: When we introspect our own perceptual and emotional states, internal self-monitoring mechanisms produce coarse-grained, distorted representations of complex subpersonal neural processes. Rather than registering biological electrochemistry directly, introspection generates a compelling **user-illusion** that our experiences possess spooky, non-physical qualitative properties.
+- **Quasi-Phenomenal Properties**: What physically exists in the brain are **quasi-phenomenal properties**—perfectly physical, functional, dispositional properties of sensory and affective states (such as tracking spectral reflectance, triggering avoidance reflexes, or shifting attentional salience) that systematically cause introspective mechanisms to *misrepresent* them as phenomenal qualia.
+
+### 2. Strong Illusionism vs. Weak Illusionism
+Frankish distinguishes two forms of illusionism to clarify the debate against classical realism:
+- **Weak Illusionism**: Concedes that phenomenal properties exist in a deflated sense, but argues that introspection systematically *mischaracterizes* them as simple, intrinsic, or non-physical (roughly compatible with reductive physicalist accounts that strip qualia of mystery).
+- **Strong Illusionism** (Frankish's signature position): Denies that phenomenal properties (in the sense invoked by the Hard Problem) exist at all. Just as a skilled conjurer's trick creates the compelling appearance of magic without any actual magic occurring, the brain's introspective architecture creates the compelling appearance of irreducible qualia without any actual qualia existing.
+
+### 3. Replacing the "Hard Problem" with the "Illusion Problem"
+- **Dissolving Chalmers's Hard Problem**: Frankish argues that **[[Hard Problem of Consciousness|The Hard Problem of Consciousness]]** is a conceptual artifact generated by taking introspective illusions literally as ontological data. Asking *"How does physical matter produce non-physical qualia?"* is like asking *"How does a stage magician violate the laws of physics?"*
+- **The Illusion Problem**: Cognitive science should replace the Hard Problem with the **Illusion Problem**—explaining the purely physical, functional, and evolutionary mechanisms by which a brain comes to *believe* and *report* that it possesses non-physical subjective experience.
+- **Convergence with the Meta-Problem & AST**: Frankish's Illusion Problem converges closely with [[David Chalmers|David Chalmers's]] **"Meta-Problem of Consciousness"** (explaining why we make judgments about consciousness) and provides the philosophical backbone for Michael Graziano's **Attention Schema Theory (AST)** ([[Scientific Theories of Consciousness|Scientific Theories of Consciousness]]).
+
+### 4. The Dialectic with Phenomenal Realists & Biocentrism
+Frankish stands on the deflationist pole of the **Ontological Realism Battleground** in contemporary consciousness studies:
+- **Phenomenal Realist Assault ([[Galen Strawson]], [[David Chalmers]], [[Ned Block]])**: Phenomenal realists argue that illusionism is incoherent and self-refuting. As [[Galen Strawson|Strawson]] famously objected, calling consciousness an illusion fails because *any illusion of pain or color is already a real conscious experience*—the appearance *is* the reality. Frankish counters that this objection begs the question by assuming that *seeming* to have phenomenal feel requires *actually instantiating* phenomenal feel rather than merely undergoing a functional cognitive representation/judgment of seeming.
+- **Contrast with [[Thomas Metzinger]] & [[Anil Seth]]**: While [[Thomas Metzinger|Metzinger]] (Self-Model Theory) argues that the *self* is an illusory model while remaining realist about phenomenal experience (*qualia*), and [[Anil Seth|Seth]] views perception as a biological "controlled hallucination," Frankish goes further by treating *phenomenal qualia themselves* as an introspective illusion.
+- **Implication for AI Consciousness**: Because Frankish identifies consciousness with functional/representational architectures rather than irreducible qualia or living autopoiesis, his framework leaves open the possibility that appropriately structured artificial architectures implementing global access and self-monitoring schemas could satisfy all non-illusory criteria for consciousness.
+
+---
+
+## 🔗 Related Concepts & Entities
+
+- **Concepts**:
+  - [[Scientific Theories of Consciousness|Scientific Theories of Consciousness: GWT, IIT, HOT & Predictive Processing]]
+  - [[Hard Problem of Consciousness|The Hard Problem of Consciousness & Qualia]]
+  - [[Functionalism|Functionalism (Philosophy of Mind)]]
+  - [[AI Consciousness and Sentience|AI Consciousness, Sentience & The Consciousness Refinery]]
+  - [[Machine Functionalism and Language of Thought|Machine Functionalism & Language of Thought]]
+- **Entities**:
+  - [[Daniel Dennett|Daniel Dennett]]
+  - [[Galen Strawson|Galen Strawson]]
+  - [[David Chalmers|David Chalmers]]
+  - [[Ned Block|Ned Block]]
+  - [[Thomas Metzinger|Thomas Metzinger]]
+  - [[Anil Seth|Anil Seth]]
+  - [[Dan Zahavi|Dan Zahavi]]
+  - [[Stanislas Dehaene|Stanislas Dehaene]]
+  - [[Bernardo Kastrup|Bernardo Kastrup]]
+
+---
+
+## 📚 Primary Works & References
+
+- **2004**: Frankish, K. *Mind and Supermind*. Cambridge University Press.
+- **2005**: Frankish, K. *Consciousness*. Open University Press.
+- **2012**: Frankish, K. & Ramsey, W. M. (eds.) *The Cambridge Handbook of Cognitive Science*. Cambridge University Press.
+- **2016**: Frankish, K. *"Illusionism as a Theory of Consciousness"*, *Journal of Consciousness Studies*, 23(11–12): 11–39.
+- **2017**: Frankish, K. (ed.) *Illusionism as a Theory of Consciousness*. Imprint Academic.
+- **2019**: Frankish, K. *"The Meta-Problem is the Problem of Consciousness"*, *Journal of Consciousness Studies*, 26(9–10): 83–94.

@@ -31,7 +31,7 @@ aliases:
 - Formulated the principle of **Maximum Grip**: an embodied agent intuitively and dynamically adjusts its posture, distance, and action to achieve an optimal phenomenological clarity and balance with its environment without calculating formal algorithms ([[Phenomenology and Embodied Cognition|Phenomenology & Embodied Cognition]]).
 
 ### 3. Foundational Influence on Anti-Computationalism
-- Merleau-Ponty's work provided the primary philosophical ammunition for [[Hubert Dreyfus|Hubert Dreyfus's]] critique of AI and inspired modern **enactive cognitive science** (Francisco Varela, Evan Thompson).
+- Merleau-Ponty's work provided the primary philosophical ammunition for [[Hubert Dreyfus|Hubert Dreyfus's]] critique of AI and inspired modern **enactive cognitive science** ([[Francisco Varela|Francisco Varela]], [[Evan Thompson|Evan Thompson]]) and **phenomenological philosophy of mind** ([[Dan Zahavi|Dan Zahavi]], [[Shaun Gallagher|Shaun Gallagher]]).
 
 ---
 
@@ -46,6 +46,10 @@ aliases:
 - **Entities**:
   - [[Hubert Dreyfus|Hubert Dreyfus]]
   - [[Edmund Husserl|Edmund Husserl]]
+  - [[Dan Zahavi|Dan Zahavi]]
+  - [[Shaun Gallagher|Shaun Gallagher]]
+  - [[Evan Thompson|Evan Thompson]]
+  - [[Francisco Varela|Francisco Varela]]
   - [[Richard Tarnas|Richard Tarnas]]
   - [[John Searle|John Searle]]
   - [[Chad Woodford|Chad Woodford]]

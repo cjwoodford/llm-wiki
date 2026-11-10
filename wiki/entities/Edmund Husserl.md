@@ -44,6 +44,9 @@ aliases:
   - [[Comparative Idealism - Western and Indian Traditions|Comparative Idealism: Analytic, Western & Indian Traditions]]
 - **Entities**:
   - [[Maurice Merleau-Ponty|Maurice Merleau-Ponty]]
+  - [[Dan Zahavi|Dan Zahavi]]
+  - [[Shaun Gallagher|Shaun Gallagher]]
+  - [[Evan Thompson|Evan Thompson]]
   - [[Hubert Dreyfus|Hubert Dreyfus]]
   - [[Richard Tarnas|Richard Tarnas]]
   - [[Gottfried Wilhelm Leibniz|Gottfried Wilhelm Leibniz]]

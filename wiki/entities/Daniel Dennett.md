@@ -39,9 +39,10 @@ aliases:
   - **The Intentional Stance**: Predicting behavior by treating the system as a rational agent with beliefs, desires, goals, and strategies (e.g., predicting a chess computer's moves by assuming it desires to win and believes its pieces are positioned according to rules).
 - Dennett argued that beliefs and intentionality are "real patterns" visible from the intentional stance, rather than mysterious metaphysical substances.
 
-### 3. Multiple Drafts Model & Critique of the "Cartesian Theater"
-- In *Consciousness Explained* (1991), Dennett launched a devastating critique of the **"Cartesian Theater"**—the lingering dualist intuition that there is a single, privileged place in the brain where sensory inputs arrive, conscious experience "happens," and an inner homunculus observes the show.
-- Proposed the **Multiple Drafts Model**: the brain is a parallel, distributed information-processing machine where multiple narrative streams, probe responses, and editorial drafts are continuously produced, revised, and overwritten. What emerges as "conscious experience" is merely the probe or output that wins temporary narrative salience.
+### 3. Multiple Drafts Model, "Quining Qualia" & Legacy in Illusionism
+- In *Consciousness Explained* (1991) and *"Quining Qualia"* (1988), Dennett launched a devastating critique of the **"Cartesian Theater"**—the lingering dualist intuition that there is a single, privileged place in the brain where sensory inputs arrive, conscious experience "happens," and an inner homunculus observes the show.
+- Proposed the **Multiple Drafts Model**: the brain is a parallel, distributed information-processing machine where multiple narrative streams, probe responses, and editorial drafts are continuously produced, revised, and overwritten. What emerges as "conscious experience" is merely the probe or output that wins temporary narrative salience ("fame in the brain"—converging closely with [[Stanislas Dehaene|Stanislas Dehaene's]] Global Neuronal Workspace Theory).
+- **Direct Line to Illusionism**: Dennett's deflationary dismissal of intrinsic, ineffable qualia as a cognitive "user-illusion" directly founded contemporary **Illusionism**, whose mantle is today carried by **[[Keith Frankish|Keith Frankish]]** against phenomenal realists like [[Galen Strawson|Galen Strawson]], [[David Chalmers|David Chalmers]], and [[Ned Block|Ned Block]].
 
 ### 4. Algorithmic Mind vs. Phenomenological Coping
 - Dennett championed an algorithmic, computational conception of mind rooted in **Universal Darwinism**: cognitive competence without prior comprehension, built bottom-up through blind evolutionary algorithms.
@@ -64,6 +65,11 @@ aliases:
   - [[Computation vs Nature and the Observer-Relative Fallacy|Computation vs. Nature & The Observer-Relative Fallacy]]
 - **Entities**:
   - [[Hubert Dreyfus|Hubert Dreyfus]]
+  - [[Keith Frankish|Keith Frankish]]
+  - [[Galen Strawson|Galen Strawson]]
+  - [[David Chalmers|David Chalmers]]
+  - [[Ned Block|Ned Block]]
+  - [[Stanislas Dehaene|Stanislas Dehaene]]
   - [[John Vervaeke|John Vervaeke]]
   - [[Jerry Fodor|Jerry Fodor]]
   - [[John Searle|John Searle]]

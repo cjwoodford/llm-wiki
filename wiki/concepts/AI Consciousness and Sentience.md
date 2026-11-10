@@ -170,7 +170,7 @@ As formulated by [[Anil Seth]] (*Being You*, 2021; *"The Mythology of Conscious 
 └────────────────────────────────┴───────────────────────────────────────────────────────┘
 ```
 
-1. **The Catastrophe of Synthetic Suffering**: Creating actually conscious machines would be an ethical disaster (endorsing Thomas Metzinger's proposed global moratorium on synthetic consciousness).
+1. **The Catastrophe of Synthetic Suffering**: Creating actually conscious machines would be an ethical disaster (endorsing [[Thomas Metzinger|Thomas Metzinger's]] proposed global moratorium on synthetic consciousness).
 2. **Kantian Brutalization & User Exploitation**: As Immanuel Kant warned regarding cruelty to animals, treating entities that *seem* conscious with indifference brutalizes human moral psychology. Conversely, over-attributing consciousness to machines leads humans to prioritize synthetic chatbots over living human and animal communities.
 3. **The Corporate Liability Shield & The Sincerity Trap**: As [[Chad Woodford|Woodford]] warns in [[The Sincerity Trap and the Sanctified Bottom Line|The Sincerity Trap and the Sanctified Bottom Line]], granting moral consideration and welfare status to algorithms creates an ultimate legal and ideological defense for AI monopolies:
    - **The Sincerity Feedback Loop**: The founders' genuine rationalist and longtermist convictions make corporate maneuvers far more potent than mercenary lobbying, because corporate self-interest and cosmic eschatology become completely indistinguishable.
@@ -237,6 +237,10 @@ As formulated by [[Anil Seth]] (*Being You*, 2021; *"The Mythology of Conscious 
   - [[Robert Long|Robert Long]] — Eleos AI executive director.
   - [[David Chalmers|David Chalmers]] — Hard problem of consciousness.
   - [[Ned Block|Ned Block]] — Access vs. Phenomenal consciousness.
+  - [[Thomas Metzinger|Thomas Metzinger]] — Self-Model Theory of Subjectivity and global moratorium on synthetic consciousness.
+  - [[Keith Frankish|Keith Frankish]] — Illusionism and consciousness deflationism.
+  - [[Galen Strawson|Galen Strawson]] — Constitutive panpsychism and critique of illusionism.
+  - [[Dan Zahavi|Dan Zahavi]] & [[Shaun Gallagher|Shaun Gallagher]] — Phenomenological philosophy of mind and pre-reflective self-awareness.
   - [[Hilary Putnam|Hilary Putnam]] — Functionalism and later retractions.
   - [[Jerry Fodor|Jerry Fodor]] — CTM and holistic cognition limits.
   - [[Geoff Keeling|Geoff Keeling]] — Mechanistic interpretability and consciousness vectors.

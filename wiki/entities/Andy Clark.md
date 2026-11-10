@@ -55,11 +55,11 @@ aliases:
 - In *Natural-Born Cyborgs: Why Minds and Technologies Are Made to Merge* (2003), Clark argues that human beings are unique among species because our evolved brains are fundamentally plastic, open-ended "plasticity engines."
 - We do not become cyborgs merely through surgical implants or neural chips; humanity has always been cyborgian. From the invention of writing and Arabic numerals to wristwatches, maps, and generative AI models, human intelligence naturally offloads cognitive burdens and incorporates tools into its bodily schema and problem-solving loops.
 
-### 4. Predictive Processing: The Predictive Brain (*Surfing Uncertainty*, 2016)
-- Alongside Karl Friston and [[Anil Seth|Anil Seth]], Clark synthesized computational neuroscience and Bayesian active inference into an accessible paradigm for cognitive science:
-  - **The Predictive Brain**: The brain is not a passive sensory receiver assembling bottom-up data. Instead, it is a hierarchical **prediction machine** that continually projects top-down generative models of the world downward, using bottom-up sensory signals only to register **prediction errors**.
-  - **Action-Oriented Perception**: Perception and action are not separate stages; an agent acts to fulfill its own predictions (active inference).
-  - **The Dialectic with Anil Seth**: While Clark and Seth both embrace predictive processing, Seth anchors predictive models in **biological functionalism, interoception, and visceral homeostasis** (the "Beast Machine"), while Clark emphasizes the exteroceptive, tool-extended, and technologically coupled dimensions of the predictive engine.
+### 4. Action-Oriented Predictive Processing (*Surfing Uncertainty*, 2016)
+- Alongside **[[Karl Friston|Karl Friston]]** and [[Anil Seth|Anil Seth]], Clark is one of the leading philosophical expositors of the predictive brain, formulating **"action-oriented predictive processing"** by integrating Friston's formal variational free-energy models directly with embodied and extended cognition:
+  - **The Predictive Brain**: The brain is not a passive sensory receiver assembling bottom-up data. Instead, it is a hierarchical **prediction engine** that continually projects top-down generative models of the world downward, using bottom-up sensory signals only to register **prediction errors**.
+  - **Action-Oriented Perception**: Perception and action are not separate stages; an embodied agent moves and acts upon physical affordances to fulfill its own predictions (**active inference**).
+  - **The Dialectic with Anil Seth & Enactivists**: While Clark and Seth both embrace predictive processing, Seth anchors predictive models in **biological functionalism, interoception, and visceral homeostasis** (the "Beast Machine"), whereas Clark emphasizes the exteroceptive, tool-extended, and technologically coupled dimensions of the predictive engine—sparking debate with [[Evan Thompson|Evan Thompson]] and [[Shaun Gallagher|Shaun Gallagher]] over whether predictive brains remain internally representational.
 
 ---
 
@@ -76,7 +76,10 @@ aliases:
   - [[Hard Problem of Consciousness|The Hard Problem of Consciousness & Qualia]]
 - **Entities**:
   - [[David Chalmers|David Chalmers]]
+  - [[Karl Friston|Karl Friston]]
   - [[Anil Seth|Anil Seth]]
+  - [[Shaun Gallagher|Shaun Gallagher]]
+  - [[Dan Zahavi|Dan Zahavi]]
   - [[Francisco Varela|Francisco Varela]]
   - [[Evan Thompson|Evan Thompson]]
   - [[Hubert Dreyfus|Hubert Dreyfus]]

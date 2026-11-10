@@ -33,10 +33,9 @@ aliases:
   - Traced the continuous dialectic from single-celled **autopoiesis** to adaptive sense-making, motor intentionality, and reflective human consciousness.
   - Refuted computational functionalism by showing that mental states require dynamic self-organizing autonomy, metabolic thermodynamics, and lived bodily subjectivity (*Leib*).
 
-### 3. Neurophenomenology & The Self (*Waking, Dreaming, Being*, 2014)
-- Investigated consciousness across diverse states of awareness (waking, dreaming, dreamless sleep, meditation, dying):
-  - Demonstrated that the "self" is not an immutable substance (Cartesian ego) nor a sheer computational fiction, but a continuous, dynamic, embodied **process of selfing**.
-  - Argued against neuro-reductionism ("you are your brain"), establishing that conscious experience is enacted by the integrated organism-environment relational field.
+### 3. Neurophenomenology, Anti-Reductionism & The Self (*Waking, Dreaming, Being*, 2014)
+- Rejecting **both strict neural reductionism** (*"you are not your brain"*) **and computational functionalism**, Thompson—alongside phenomenologists like [[Dan Zahavi|Dan Zahavi]] and [[Shaun Gallagher|Shaun Gallagher]]—argues that consciousness is not an internal representation generated inside the skull, but a **relational, dynamic process enacted by the entire organism living in and interacting with its environment**:
+  - Investigated consciousness across diverse states of awareness (waking, dreaming, dreamless sleep, meditation, dying) through **neurophenomenology**, demonstrating that the "self" is neither an immutable Cartesian substance nor a purely computational illusion (engaging [[Thomas Metzinger|Thomas Metzinger]]), but a continuous, embodied **process of selfing**.
 
 ---
 
@@ -52,12 +51,17 @@ aliases:
 - **Entities**:
   - [[Francisco Varela|Francisco Varela]]
   - [[Humberto Maturana|Humberto Maturana]]
+  - [[Dan Zahavi|Dan Zahavi]]
+  - [[Shaun Gallagher|Shaun Gallagher]]
+  - [[Thomas Metzinger|Thomas Metzinger]]
   - [[Hans Jonas|Hans Jonas]]
   - [[Maurice Merleau-Ponty|Maurice Merleau-Ponty]]
   - [[Hubert Dreyfus|Hubert Dreyfus]]
+  - [[Andy Clark|Andy Clark]]
   - [[Antonio Damasio|Antonio Damasio]]
   - [[John Vervaeke|John Vervaeke]]
   - [[Anil Seth|Anil Seth]]
+  - [[David Chalmers|David Chalmers]]
 
 ---
 

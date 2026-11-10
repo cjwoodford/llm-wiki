@@ -23,12 +23,38 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 | Metric | Count | Status |
 | :--- | :--- | :--- |
 | **Thematic Concepts** | 57 | 🟢 Fully Linked (5-Part Standard Schema) |
-| **Key Entities** | 154 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
+| **Key Entities** | 159 | 🟢 Comprehensive Dossiers (Thinkers, Labs, Works) |
 | **Legal Trackers & Cases** | 5 | 🟢 Active Dockets & Doctrinal Analyses (`wiki/law/`) |
 | **Master Timelines** | 2 | 🟢 Spanning Antiquity (c. 350 BCE) to Frontier AI (2026) |
 | **Archived Primary Sources** | 181 | 🟢 Full YAML Provenance (`sources/archive/`) |
 | **Unread Ingestion Queue** | 0 | 🟢 Clear (`sources/unread/`) |
 | **Web Clippings Queue** | 0 | 🟢 Clear (`Clippings/`) |
+
+---
+
+## 🔄 Recent Activity (2026-11-10)
+
+- **Comprehensive Synthesis of the Contemporary Consciousness Studies Landscape & Theoretical Battlegrounds**:
+  - **5 New Thinker Entity Dossiers Created**:
+    - [[Keith Frankish|Keith Frankish]] (University of Sheffield): Primary contemporary champion of **Illusionism**, carrying forward Daniel Dennett's functionalism; argues phenomenal qualia do not exist and are instead an introspective user-illusion (*quasi-phenomenal properties* & *the Illusion Problem*).
+    - [[Thomas Metzinger|Thomas Metzinger]] (Johannes Gutenberg University Mainz): Architect of **Self-Model Theory of Subjectivity (SMT)** (*Being No One*, 2003); argues no substantial selves exist—only transparent **Phenomenal Self-Models (PSMs)** running on biological hardware, directly informing Anil Seth's view of selfhood, neuro-phenomenology, and the global moratorium on synthetic consciousness (*Artificial Suffering*, 2021).
+    - [[Dan Zahavi|Dan Zahavi]] (University of Copenhagen): Leading proponent of **Phenomenological Philosophy of Mind**; champions classical phenomenology (Husserl, Merleau-Ponty), **pre-reflective self-awareness** (*for-me-ness*), minimal vs. narrative self, direct social perception, and critiques Higher-Order Thought theories and Metzinger's no-self anti-realism.
+    - [[Shaun Gallagher|Shaun Gallagher]] (University of Memphis): Pioneer of **Phenomenological Philosophy of Mind**, **4E / Enactive Cognitive Science**, and **Front-Loaded Phenomenology**; formulated **Body Image vs. Body Schema**, **Sense of Ownership vs. Sense of Agency**, and Interaction Theory (*How the Body Shapes the Mind*, *The Phenomenological Mind* with Zahavi).
+    - [[Galen Strawson|Galen Strawson]] (University of Texas at Austin): Foremost champion of **Constitutive Panpsychism ("Realistic Monism")**, **Phenomenal Realism**, and **Cognitive Phenomenology**; demonstrates that genuine physicalism logically entails panpsychism (no "brute emergence" from non-experiential matter) and mounts the primary assault on Illusionism.
+  - **9 Existing Thinker Dossiers Enriched & Cross-Linked**:
+    - [[Stanislas Dehaene|Stanislas Dehaene]]: Expanded with Collège de France GNWT architecture (local modular processing $\rightarrow$ fronto-parietal ignition & broadcast to speech, memory, and motor planning), empirical backing for Bernard Baars's cognitive workspace model, COGITATE (2025), and Ned Block's access vs. phenomenal critique.
+    - [[Christof Koch|Christof Koch]]: Expanded with Francis Crick collaboration transitioning consciousness into concrete experimental neurobiology (NCCs), empirical advocacy of IIT and the posterior cortical hot zone, formalized panpsychism, the 25-year bet with David Chalmers, and COGITATE.
+    - [[Giulio Tononi|Giulio Tononi]]: Sharpened IIT's methodological inversion (phenomenal experience as primary $\rightarrow$ physical postulates), formalized mathematical panpsychism ($\Phi > 0$), and COGITATE adversarial collaboration.
+    - [[Antonio Damasio|Antonio Damasio]]: Highlighted affective homeostasis, interoceptive self-regulation, and **brainstem** origins of phenomenal awareness (over purely neocortical/sensory accounts) alongside biocentrism.
+    - [[Karl Friston|Karl Friston]]: Explicitly linked Free Energy Principle & Active Inference as the formal mathematical architecture underpinning predictive processing models ([[Anil Seth]] and [[Andy Clark]]).
+    - [[David Chalmers|David Chalmers]]: Integrated Dual-Aspect Monism / Double-Aspect Principle of Information, bridging laws, panpsychism, and the Meta-Problem debate with illusionists.
+    - [[Ned Block|Ned Block]]: Integrated direct caution against conflating functional access ([[Stanislas Dehaene|Dehaene's GNWT]]) with raw phenomenal qualia ($P$ vs. $A$ consciousness & phenomenal overflow).
+    - [[Andy Clark|Andy Clark]]: Highlighted action-oriented predictive processing integrating Friston's models with embodied cognition and the Extended Mind.
+    - [[Evan Thompson|Evan Thompson]]: Highlighted simultaneous rejection of strict neural reductionism and computational functionalism in favor of relational organism-environment enaction.
+    - [[Daniel Dennett|Daniel Dennett]]: Connected Multiple Drafts & "Quining Qualia" directly to Keith Frankish's Illusionism and Stanislas Dehaene's workspace model.
+  - **Cross-Vault Concept & Timeline Syntheses**:
+    - [[Scientific Theories of Consciousness]]: Formalized Section 5 (**The Contemporary Theoretical Battlegrounds**: Frontal vs. Posterior Substrate, Computationalism vs. Biocentrism, and Ontological Realism vs. Illusionism), expanded Illusionism, Self-Model Theory, Affective Homeostasis, and Enactive/Phenomenological frameworks, and corrected AST/Illusionism attribution.
+    - [[Hard Problem of Consciousness]], [[Idealism and Consciousness]], [[Phenomenology and Embodied Cognition]], [[Cognitive Phenomenology and Intellectual Feeling]], [[AI Consciousness and Sentience]], [[Functionalism]], and [[Western Concepts of Consciousness]]: Deepened and reciprocally cross-linked across all 14 contemporary consciousness thinkers.
 
 ---
 
@@ -639,6 +665,8 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[Henri Bergson|Henri Bergson]]** — Nobel laureate, pure duration (*la durée*), *Matter and Memory*, *élan vital*, and the cinematographic illusion.
 - **[[Edmund Husserl|Edmund Husserl]]** — Founder of Phenomenology, *Epoché*, noetic-noematic correlation, and the *Lebenswelt*.
 - **[[Maurice Merleau-Ponty|Maurice Merleau-Ponty]]** — Lived body (*corps propre*), motor intentionality, and *maximum grip*.
+- **[[Dan Zahavi|Dan Zahavi]]** — University of Copenhagen philosopher, *The Phenomenological Mind* (with Gallagher), pre-reflective self-awareness (*for-me-ness*), minimal self, and critique of HOT and no-self models.
+- **[[Shaun Gallagher|Shaun Gallagher]]** — University of Memphis philosopher, 4E enactivism, front-loaded phenomenology, Body Schema vs. Body Image, and pre-reflective agency vs. ownership.
 - **[[Charles Taylor|Charles Taylor]]** — Canadian philosopher, *Sources of the Self*, *A Secular Age*, the Buffered Self, the Immanent Frame, and expressivist language theory.
 - **[[Henri Corbin|Henri Corbin]]** — Pioneer of the *Mundus Imaginalis* (*'Ālam al-Mithāl*), Active Imagination, and Islamic illuminationist theosophy.
 - **[[David Abram|David Abram]]** — Cultural ecologist, eco-phenomenology, author of *The Spell of the Sensuous*, and coiner of "the more-than-human world."
@@ -648,16 +676,20 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[Meghan O'Gieblyn|Meghan O'Gieblyn]]** — Essayist, author of *God, Human, Animal, Machine* (2021), secular sublimation of religious longings, the 5 psychological dimensions of silicon soulhood, and the Dehumanizing Boomerang.
 
 ### Cognitive Scientists, Neuroscientists, Mathematicians & Philosophers of Mind
-- **[[Antonio Damasio|Antonio Damasio]]** — Neuroscientist, Somatic Marker Hypothesis (*Descartes' Error*), the Elliot case, and homeostatic foundation of feelings and rationality.
+- **[[Antonio Damasio|Antonio Damasio]]** — USC neuroscientist, Somatic Marker Hypothesis (*Descartes' Error*), affective homeostasis, and brainstem origins of phenomenal awareness.
 - **[[Jaak Panksepp|Jaak Panksepp]]** — Father of Affective Neuroscience, 7 primal subcortical emotional systems, subcortical consciousness, and mammalian sentience.
 - **[[Mark Solms|Mark Solms]]** — Neuropsychoanalyst, *The Hidden Spring*, cortical fallacy, consciousness as felt homeostatic error, and free energy minimization.
-- **[[Karl Friston|Karl Friston]]** — Theoretical neurobiologist, creator of the Free Energy Principle, active inference, and Markov blankets.
+- **[[Karl Friston|Karl Friston]]** — UCL theoretical neurobiologist, Free Energy Principle, Active Inference, Markov blankets, and formal architecture of predictive processing.
 - **[[Francisco Varela|Francisco Varela]]** — Biologist and philosopher, co-originator of autopoiesis, enactivism (*The Embodied Mind*), and neurophenomenology.
 - **[[Humberto Maturana|Humberto Maturana]]** — Biologist and cyberneticist, co-originator of autopoiesis, structural coupling, operational closure, and biology of cognition.
-- **[[Evan Thompson|Evan Thompson]]** — Enactive philosopher, *Mind in Life*, Life-Mind Continuity Thesis, and radical embodied cognitive science.
+- **[[Evan Thompson|Evan Thompson]]** — UBC enactive philosopher, *Mind in Life*, Life-Mind Continuity Thesis, and rejection of both neural reductionism and computational functionalism.
 - **[[Walter J. Freeman|Walter J. Freeman]]** — UC Berkeley neurophysiologist, pioneer of non-linear chaotic neurodynamics, olfactory attractor landscapes, non-representational intentionality, and biological foundation of Dreyfus's intentional arc.
 - **[[Michael Levin|Michael Levin]]** — Vannevar Bush Professor of Biology at Tufts, Director of the Allen Discovery Center, pioneer of developmental bioelectricity, basal cognition, synthetic morphology (Xenobots, Anthrobots), and the *Ingressing Minds* hypothesis.
-- **[[David Chalmers|David Chalmers]]** — NYU Professor of Philosophy, formulator of the Hard Problem of Consciousness, philosophical zombies, naturalistic dualism, QIIT, and virtual realism.
+- **[[David Chalmers|David Chalmers]]** — NYU Professor of Philosophy, Hard Problem of Consciousness, philosophical zombies, naturalistic dualism / dual-aspect monism, extended mind, QIIT, and virtual realism.
+- **[[Andy Clark|Andy Clark]]** — University of Sussex cognitive philosopher, Extended Mind & Parity Principle (with Chalmers), *Natural-Born Cyborgs*, and action-oriented predictive processing (*Surfing Uncertainty*).
+- **[[Thomas Metzinger|Thomas Metzinger]]** — University of Mainz philosopher, Self-Model Theory of Subjectivity (*Being No One*), transparent Phenomenal Self-Models, and global moratorium on synthetic consciousness.
+- **[[Galen Strawson|Galen Strawson]]** — UT Austin philosopher, Constitutive Panpsychism (*Realistic Monism*), Phenomenal Realism, Cognitive Phenomenology, and anti-illusionism.
+- **[[Keith Frankish|Keith Frankish]]** — University of Sheffield philosopher, foremost contemporary champion of **Illusionism** (*qualia* as introspective user-illusion) carrying Dennett's functionalist mantle.
 - **[[Kelvin McQueen|Kelvin McQueen]]** — Chapman University philosopher of physics, co-creator with Chalmers of QIIT and dynamical collapse models of consciousness.
 - **[[Terence Tao|Terence Tao]]** — UCLA mathematician, Fields Medalist, formal proof verification (Lean), and critique of LLM pattern-matching vs. semantic comprehension in mathematics.
 - **[[Melanie Mitchell|Melanie Mitchell]]** — Santa Fe Institute Professor of Complexity, *Artificial Intelligence: A Guide for Thinking Humans*, analogy, critique of anthropomorphic metaphors, and RL reward hacking.
@@ -665,18 +697,18 @@ Welcome to **Cognos**, a centralized knowledge graph synthesizing the philosophy
 - **[[Francis O. Schmitt|Francis O. Schmitt]]** — MIT biophysicist, founder of the Neurosciences Research Program (NRP, 1962), and coiner of "Neuroscience".
 - **[[Iain McGilchrist|Iain McGilchrist]]** — Psychiatrist, philosopher, author of *The Master and His Emissary* and *The Matter with Things*.
 - **[[John Vervaeke|John Vervaeke]]** — Cognitive scientist, creator of *Awakening from the Meaning Crisis* (4P/3V knowing).
-- **[[Daniel Dennett|Daniel Dennett]]** — American philosopher, functionalist, formulator of the Robot's Dilemma (*Cognitive Wheels*), the Intentional Stance, and the Multiple Drafts Model.
+- **[[Daniel Dennett|Daniel Dennett]]** — American philosopher, functionalist, formulator of the Robot's Dilemma (*Cognitive Wheels*), the Intentional Stance, Multiple Drafts Model, and precursor to Illusionism.
 - **[[John Searle|John Searle]]** — Chinese Room argument, observer-relative fallacy, and biological naturalism.
 - **[[Hilary Putnam|Hilary Putnam]]** — Machine Functionalism pioneer and author of later anti-functionalist retractions.
 - **[[David Lewis|David Lewis]]** — Princeton philosopher, architect of Analytic/Common-Sense Functionalism, the Carnap-Lewis-Ramsey method, Realizer Functionalism (*"Mad Pain and Martian Pain"*), and modal realism.
 - **[[Jerry Fodor|Jerry Fodor]]** — Language of Thought (LOT) hypothesis and modularity ceiling.
 - **[[Steven Horst|Steven Horst]]** — Philosopher of mind, author of the SEP entry on CTM, and originator of the semantic equivocity critique.
 - **[[Bernardo Kastrup|Bernardo Kastrup]]** — Analytic Idealism, cosmic mind, and dissociation.
-- **[[Stanislas Dehaene|Stanislas Dehaene]]** — Global Neuronal Workspace Theory (GNWT).
-- **[[Giulio Tononi|Giulio Tononi]]** — Integrated Information Theory (IIT, $\Phi$).
-- **[[Christof Koch|Christof Koch]]** — Neural correlates of consciousness (NCC) and IIT panpsychism.
-- **[[Anil Seth|Anil Seth]]** — Predictive processing, controlled hallucination, and the Beast Machine.
-- **[[Ned Block|Ned Block]]** — NYU Silver Professor of Philosophy, Phenomenal vs. Access Consciousness ($P$/$A$), Blockhead, and AI welfare advisor.
+- **[[Stanislas Dehaene|Stanislas Dehaene]]** — Collège de France cognitive neuroscientist, Global Neuronal Workspace Theory (GNWT), fronto-parietal ignition, and empirical realization of Baars's workspace.
+- **[[Giulio Tononi|Giulio Tononi]]** — UW–Madison neuroscientist and psychiatrist, Integrated Information Theory (IIT, $\Phi$), posterior hot zone, and formalized mathematical panpsychism.
+- **[[Christof Koch|Christof Koch]]** — Allen Institute neuroscientist, Neural Correlates of Consciousness (NCC, with Francis Crick), and empirical advocate of IIT.
+- **[[Anil Seth|Anil Seth]]** — Sussex neuroscientist, predictive processing, controlled hallucination, the "Real Problem," and Biological Functionalism (*Beast Machine*).
+- **[[Ned Block|Ned Block]]** — NYU Silver Professor of Philosophy, Phenomenal vs. Access Consciousness ($P$/$A$), Blockhead, China Brain, and critique of conflating workspace access with qualia.
 - **[[Steven Pinker|Steven Pinker]]** — Harvard cognitive psychologist, evolutionary psychology, and computationalism defender.
 
 ### Critical Theory, Decoloniality & Political Economy
